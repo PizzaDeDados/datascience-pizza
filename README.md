@@ -13,6 +13,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 ## Vídeos relevantes para a carreira:
   - [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
+  - [How to become a Data Scientist in 6 months a hacker’s approach...](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ## Vídeos relevantes para os estudos:
 
