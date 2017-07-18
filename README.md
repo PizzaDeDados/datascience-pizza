@@ -18,7 +18,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 ## Vídeos relevantes para os estudos:
 
 ## Livros Relevantes para iniciantes: 
-
+  - [Data Science do Zero. Primeiras Regras com o Python](https://books.google.com.br/books/about/DATA_SCIENCE_DO_ZERO.html?id=EWJCvgAACAAJ&redir_esc=y) 
 
 ## Cursos:
 
