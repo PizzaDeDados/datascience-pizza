@@ -17,6 +17,9 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 ## Vídeos relevantes para os estudos:
 
+## Livros Relevantes para iniciantes: 
+
+
 ## Cursos:
 
 
