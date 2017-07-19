@@ -21,30 +21,31 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - Computação distribuída com AWS e Google Cloud
 
 ## Vídeos 
-### Relevantes para a carreira:
+### Carreira
   - [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
   - [How to become a Data Scientist in 6 months a hacker’s approach...](https://www.youtube.com/watch?v=rIofV14c0tc)
   - [As novas profissões do mundo de dados](https://www.youtube.com/watch?v=DYSYHiNh9LE)
   - [Desafios de Big Data no Brasil](https://www.youtube.com/watch?v=oPgvUllQFPc)
 
-### Relevantes para os estudos
+### Estudos
   - [Canal Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
   - [Aulas do Andrew NG na Stanford University, matéria de Machine Learning](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLJ_CMbwA6bT-n1W0mgOlYwccZ-j6gBXqE)
 
 ## Livros 
-### Relevantes para iniciantes
+### Iniciantes
   - [Data Science do Zero. Primeiras Regras com o Python](https://books.google.com.br/books/about/DATA_SCIENCE_DO_ZERO.html?id=EWJCvgAACAAJ&redir_esc=y) 
   - [Bad Data Handbook](https://books.google.com.br/books?id=J6jTaDSg3sYC&printsec=frontcover&dq=Bad+Data&hl=pt-BR&sa=X&ved=0ahUKEwjqgfX0-5PVAhUBF5AKHd0vDDMQ6AEIJjAA#v=onepage&q=Bad%20Data&f=false) 
   - [Julia for Data Science](https://books.google.com.br/books?id=Bn9cDgAAQBAJ&printsec=frontcover&dq=Julia+for+data+science&hl=pt-BR&sa=X&ved=0ahUKEwjVybvF_ZPVAhUKOZAKHQd_BIkQ6AEIJjAA#v=onepage&q=Julia%20for%20data%20science&f=false)
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
+
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false) 
 
-### Livros recomendados
+### Recomendados
   - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
   - The Elements of Statistical Learning - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
   - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
   
-## Cursos:
+## Cursos
   -  [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 ### Udemy
@@ -91,3 +92,6 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
+
+## Blogs/Journals
+- [https://machinelearning.apple.com/](https://machinelearning.apple.com/)
