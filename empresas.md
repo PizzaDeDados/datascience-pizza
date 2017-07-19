@@ -14,7 +14,7 @@
 |---|---|---|---|---|---|---|
 |   | Itaú |   | São Paulo-SP | Bancos |   |   |
 |   | GeekHunter Brasil |   | São Paulo-SP | Tecnologia da informação e serviços, Software e Internet |   |   |
-|   | QuintilesIMS | São Paulo | Indústria farmacêutica |   |   |   |
+|   | QuintilesIMS |  | São Paulo | Indústria farmacêutica |   |   |
 |   | Keyrus |   | São Paulo-SP | Tecnologia da informação e serviços |   |   |
 |   | Management Solutions |   | São Paulo-SP | Consultoria de gerenciamento |   |   |
 |   | McKinsey & Company |   | São Paulo-SP | Consultoria |   |   |
