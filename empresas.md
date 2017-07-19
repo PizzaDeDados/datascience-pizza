@@ -30,8 +30,7 @@
 | ![logo](http://www.dzigual.com.br/wp-content/uploads/2015/12/neo_way_01_t.jpg) | Neoway  | [www.neoway.net](http://www.neoway.net/)  | Florianópolis-SC  | Dados  |   |   |
 | ![logo](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fresultadosdigitais.com.br%2Fwp-content%2Fuploads%2F2014%2F07%2FLogoResultadosDigitais_V2.png&f=1)  | Resultados Digitais  | [www.resultadosdigitais.com.br](https://resultadosdigitais.com.br/)  | Florianópolis-SC  | Marketing Digital  |   | [jobs.lever.co/resultadosdigitais](https://jobs.lever.co/resultadosdigitais/?lever-source=github_datascience) |
 | ![logo](https://d1zx4fn8ox8446.cloudfront.net/filemanager.rboxfile/812ff4bc67b84c56aad8ad92006f3edd/LogoLNC_RecruiterBox.png)  | Chaordic  | [www.chaordic.com.br](http://chaordic.com.br/)  | Florianópolis-SC  | Inteligência para ecommerce  |   | http://chaordic.com.br/vagas |
-| ![logo](https://scontent.fbnu1-1.fna.fbcdn.net/v/t1.0-1/p160x160/18519475_318128981950029_1032375590677144786_n.jpg?oh=1301ce39566a49a0cc2db10a19f40537&oe=59EF225E)  | Bravi  | [www.bravi.com.br](http://www.bravi.com.br/)  | Florianópolis-SC  |   |   |   |
-|   |   |   |   |   |   | http://www.bravi.com.br/#jobs |
+| ![logo](https://scontent.fbnu1-1.fna.fbcdn.net/v/t1.0-1/p160x160/18519475_318128981950029_1032375590677144786_n.jpg?oh=1301ce39566a49a0cc2db10a19f40537&oe=59EF225E)  | Bravi  | [www.bravi.com.br](http://www.bravi.com.br/)  | Florianópolis-SC  |   |   | http://www.bravi.com.br/#jobs |
 
 ## Nordeste
 | Logo  | Empresa  |  Site  | Cidade  |  Setor | Contato | Vagas |
