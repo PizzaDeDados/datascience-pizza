@@ -24,7 +24,7 @@
 
 ## Sul 
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | [Globo.com](http://www.globo.com/) | Porto Alegre-RS   | Jornalismo  |   |   |
 | ![logo](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finaitec.com.br%2Fwp-content%2Fuploads%2F2015%2F02%2Flogo-softplan.png&f=1) | [Softplan](https://www.softplan.com.br/) | Florianópolis-SC  | Justiça/Gestão Pública/Indústria Civil  |   | https://www.softplan.com.br/carreira/  |
 | ![logo](http://www.dzigual.com.br/wp-content/uploads/2015/12/neo_way_01_t.jpg) | [Neoway](http://www.neoway.net/)  | Florianópolis-SC  | Dados  |   |   |
