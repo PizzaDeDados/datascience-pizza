@@ -4,14 +4,14 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 ## Recomendação Mínima
   - Python ou R
-  - SQL 
+  - SQL
   - Jupyter Notebook
   - Estatística Descritiva
   - Cálculo
   - Álgebra linear
 
 ## Recomendações gerais para grandes projetos
-  - NoSQL 
+  - NoSQL
   - Scala
   - Spark
   - Estatística Bayesiana
@@ -20,7 +20,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - Julia
   - Computação distribuída com AWS e Google Cloud
 
-## Vídeos 
+## Vídeos
 ### Carreira
   - [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
   - [How to become a Data Scientist in 6 months a hacker’s approach...](https://www.youtube.com/watch?v=rIofV14c0tc)
@@ -31,22 +31,30 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Canal Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
   - [Aulas do Andrew NG na Stanford University, matéria de Machine Learning](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLJ_CMbwA6bT-n1W0mgOlYwccZ-j6gBXqE)
 
-## Livros 
+## Livros
 ### Iniciantes
-  - [Data Science do Zero. Primeiras Regras com o Python](https://books.google.com.br/books/about/DATA_SCIENCE_DO_ZERO.html?id=EWJCvgAACAAJ&redir_esc=y) 
-  - [Bad Data Handbook](https://books.google.com.br/books?id=J6jTaDSg3sYC&printsec=frontcover&dq=Bad+Data&hl=pt-BR&sa=X&ved=0ahUKEwjqgfX0-5PVAhUBF5AKHd0vDDMQ6AEIJjAA#v=onepage&q=Bad%20Data&f=false) 
+  - [Data Science do Zero. Primeiras Regras com o Python](https://books.google.com.br/books/about/DATA_SCIENCE_DO_ZERO.html?id=EWJCvgAACAAJ&redir_esc=y)
+  - [Bad Data Handbook](https://books.google.com.br/books?id=J6jTaDSg3sYC&printsec=frontcover&dq=Bad+Data&hl=pt-BR&sa=X&ved=0ahUKEwjqgfX0-5PVAhUBF5AKHd0vDDMQ6AEIJjAA#v=onepage&q=Bad%20Data&f=false)
   - [Julia for Data Science](https://books.google.com.br/books?id=Bn9cDgAAQBAJ&printsec=frontcover&dq=Julia+for+data+science&hl=pt-BR&sa=X&ved=0ahUKEwjVybvF_ZPVAhUKOZAKHQd_BIkQ6AEIJjAA#v=onepage&q=Julia%20for%20data%20science&f=false)
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
 
-  - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false) 
+  - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
 
 ### Recomendados
   - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
   - The Elements of Statistical Learning - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
   - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
-  
+
 ## Cursos
   -  [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+
+### DataScience Academy
+  - [Introdução á Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
+  - [Big Data Fundamentos](https://www.datascienceacademy.com.br/public-course?courseid=big-data-fundamentos)
+  - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/public-course?courseid=python-fundamentos)
+  - [R Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/public-course?courseid=r---fundamentos-para-anlise-de-dados)
+  - [Machine Learning](https://www.datascienceacademy.com.br/public-course?courseid=machine-learning-engineer)
+  - [Mais ...](https://www.datascienceacademy.com.br/)
 
 ### Udemy
   - [Data Science and Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
@@ -65,10 +73,10 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Fundamentos da Programação com Python](https://br.udacity.com/course/programming-foundations-with-python--ud036/)
   - [Introdução à Ciência de Dados](https://br.udacity.com/course/intro-to-data-science--ud359/)
   - [Intro to Relational Databases](https://br.udacity.com/course/intro-to-relational-databases--ud197/)
-  
+
 ### Cousera
   -  [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
-  
+
 ### DataCamp
   - [Data Scientist with Python - Track](https://www.datacamp.com/tracks/data-scientist-with-python)
   - [Data Analyst with Python - Track](https://www.datacamp.com/tracks/data-analyst-with-python)
@@ -80,7 +88,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Data Scientist - Path](https://www.dataquest.io/path/data-scientist)
   - [Data Analyst - Path](https://www.dataquest.io/path/data-analyst)
   - [Data Engineer - Path](https://www.dataquest.io/path/data-engineer)
-  
+
 ## Datasets
  - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
