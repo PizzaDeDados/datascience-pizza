@@ -13,6 +13,8 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - Estatística Bayesiana
   - Cálculo
   - Álgebra linear
+  - Pesquisa Operacional
+  - Algoritmos Classificadores
 
 ## Vídeos relevantes para a carreira:
   - [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
