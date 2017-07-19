@@ -59,3 +59,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 ## Matérias que valem a pena:
 
 - [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
+
+## Datasets
+ - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
+ - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
