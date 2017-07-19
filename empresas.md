@@ -20,15 +20,18 @@
 |   | Stefanini IT Solutions |   | São Paulo-SP | Tecnologia da informação e serviços |   |   |
 |  ![logo](http://i.imgur.com/Zzz9TXf.png) | Nubank.com.br |   | São Paulo-SP   | Financeira  |   |  https://nubank.workable.com/ |
 |  ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | Globo.com |   | Rio de Janeiro-RJ  | Jornalismo  |   |   |
+|   | TFG |   | São Paulo-SP   | Games  |   |  https://www.tfgco.com/ |
 
 ## Sul 
 | Logo  | Empresa  |  Site  | Cidade  |  Setor | Contato | Vagas |
 |---|---|---|---|---|---|---|
-|  ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | Globo.com |   | Porto Alegre-RS   | Jornalismo  |   |   |
-|  ![logo](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finaitec.com.br%2Fwp-content%2Fuploads%2F2015%2F02%2Flogo-softplan.png&f=1) | Softplan  |  [www.softplan.com.br](https://www.softplan.com.br/) | Florianópolis-SC  | Justiça/Gestão Pública/Indústria Civil  |   | https://www.softplan.com.br/carreira/  |
-|  ![logo](http://www.dzigual.com.br/wp-content/uploads/2015/12/neo_way_01_t.jpg) | Neoway  | [www.neoway.net](http://www.neoway.net/)  | Florianópolis-SC  | Dados  |   |   |
-| ![logo](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fresultadosdigitais.com.br%2Fwp-content%2Fuploads%2F2014%2F07%2FLogoResultadosDigitais_V2.png&f=1)  | Resultados Digitais  | [www.resultadosdigitais.com.br](https://resultadosdigitais.com.br/)  | Florianópolis-SC  | Marketing Digital  |   |   |
-
+| ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | Globo.com |   | Porto Alegre-RS   | Jornalismo  |   |   |
+| ![logo](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finaitec.com.br%2Fwp-content%2Fuploads%2F2015%2F02%2Flogo-softplan.png&f=1) | Softplan  |  [www.softplan.com.br](https://www.softplan.com.br/) | Florianópolis-SC  | Justiça/Gestão Pública/Indústria Civil  |   | https://www.softplan.com.br/carreira/  |
+| ![logo](http://www.dzigual.com.br/wp-content/uploads/2015/12/neo_way_01_t.jpg) | Neoway  | [www.neoway.net](http://www.neoway.net/)  | Florianópolis-SC  | Dados  |   |   |
+| ![logo](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fresultadosdigitais.com.br%2Fwp-content%2Fuploads%2F2014%2F07%2FLogoResultadosDigitais_V2.png&f=1)  | Resultados Digitais  | [www.resultadosdigitais.com.br](https://resultadosdigitais.com.br/)  | Florianópolis-SC  | Marketing Digital  |   | [jobs.lever.co/resultadosdigitais](https://jobs.lever.co/resultadosdigitais/?lever-source=github_datascience) |
+| ![logo](https://d1zx4fn8ox8446.cloudfront.net/filemanager.rboxfile/812ff4bc67b84c56aad8ad92006f3edd/LogoLNC_RecruiterBox.png)  | Chaordic  | [www.chaordic.com.br](http://chaordic.com.br/)  | Florianópolis-SC  | Inteligência para ecommerce  |   | http://chaordic.com.br/vagas |
+| ![logo](https://scontent.fbnu1-1.fna.fbcdn.net/v/t1.0-1/p160x160/18519475_318128981950029_1032375590677144786_n.jpg?oh=1301ce39566a49a0cc2db10a19f40537&oe=59EF225E)  | Bravi  | [www.bravi.com.br](http://www.bravi.com.br/)  | Florianópolis-SC  |   |   |   |
+|   |   |   |   |   |   | http://www.bravi.com.br/#jobs |
 
 ## Nordeste
 | Logo  | Empresa  |  Site  | Cidade  |  Setor | Contato | Vagas |
