@@ -18,7 +18,7 @@
 |   | LexisNexis Risk Solutions | São Paulo-SP | Bancos, Software, Tecnologia da informação e serviços |   |   |
 |   | Moip Pagamentos | São Paulo-SP | Tecnologia da informação e serviços, Software e Internet |   |   |
 |   | Stefanini IT Solutions | São Paulo-SP | Tecnologia da informação e serviços |   |   |
-|  ![logo](http://i.imgur.com/Zzz9TXf.png) | Nubank | São Paulo-SP   | Financeira  |   |  https://nubank.workable.com/ |
+|  ![logo](http://i.imgur.com/Zzz9TXf.png) | [Nubank](https://www.nubank.com.br/) | São Paulo-SP   | Financeira  |   |  https://nubank.workable.com/ |
 |  ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | [Globo.com](www.globo.com) | Rio de Janeiro-RJ  | Jornalismo  |   |   |
 |   | [TFG](https://www.tfgco.com/) | São Paulo-SP   | Games  |   |  |
 
