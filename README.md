@@ -25,7 +25,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 ## Cursos:
 
-#Udemy
+# Udemy
   - [Data Science and Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
   - [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/datascience/)
   - [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/python-coding/)
@@ -38,6 +38,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 
 #Udacity
+---
   - [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/)
   - [Introdução à Análise de Dados](https://br.udacity.com/course/intro-to-data-analysis--ud170/)
   - [Fundamentos da Programação com Python](https://br.udacity.com/course/programming-foundations-with-python--ud036/)
