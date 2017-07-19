@@ -1,5 +1,6 @@
-Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
+# Guia do Cientista de Dados da Galáxia
 
+Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 ## Recomendação Mínima:
   - Python ou R
@@ -25,7 +26,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 ## Cursos:
 
-# Udemy
+### Udemy
   - [Data Science and Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
   - [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/datascience/)
   - [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/python-coding/)
@@ -36,27 +37,24 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas/)
   - [O curso completo de Banco de Dados e SQL, sem mistérios](https://www.udemy.com/bancos-de-dados-relacionais-basico-avancado/)
 
-
-#Udacity
----
+### Udacity
   - [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/)
   - [Introdução à Análise de Dados](https://br.udacity.com/course/intro-to-data-analysis--ud170/)
   - [Fundamentos da Programação com Python](https://br.udacity.com/course/programming-foundations-with-python--ud036/)
   - [Introdução à Ciência de Dados](https://br.udacity.com/course/intro-to-data-science--ud359/)
   - [Intro to Relational Databases](https://br.udacity.com/course/intro-to-relational-databases--ud197/)
 
-#DataCamp
+### DataCamp
   - [Data Scientist with Python - Track](https://www.datacamp.com/tracks/data-scientist-with-python)
   - [Data Analyst with Python - Track](https://www.datacamp.com/tracks/data-analyst-with-python)
   - [Data Scientist with R - Track](https://www.datacamp.com/tracks/data-scientist-with-r)
   - [Data Analyst with R - Track](https://www.datacamp.com/tracks/data-analyst-with-r)
   - [Quantitative Analyst with R - Track](https://www.datacamp.com/tracks/quantitative-analyst-with-r)
 
-#Dataquest.io
+### Dataquest.io
   - [Data Scientist - Path](https://www.dataquest.io/path/data-scientist)
   - [Data Analyst - Path](https://www.dataquest.io/path/data-analyst)
   - [Data Engineer - Path](https://www.dataquest.io/path/data-engineer)  
-
 
 ## Matérias que valem a pena:
 
