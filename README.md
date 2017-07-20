@@ -61,7 +61,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 ## Cursos
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
-  - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/): vídeos curtos e conteúdo amplo
+  - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/)
 
 ### DataScience Academy
   - [Introdução á Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
