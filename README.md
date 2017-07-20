@@ -1,25 +1,27 @@
-# Guia do Cientista de Dados da Galáxia
+# Guia do Cientista de Dados das Galáxias
 
 Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
-## Recomendação - iniciante
+## Recomendações
+
+### Iniciante
   - Python (lib Pandas) ou R
   - SQL
   - Jupyter Notebook
   - Estatística Descritiva
 
-## Recomendação - intermediário
+### Intermediário
   - Machine Learning
   - Cálculo
   - Álgebra Linear
 
-## Recomendação - grandes projetos (big data)
+### Grandes projetos (big data)
   - NoSQL
   - Scala
   - Spark
   - Estatística Bayesiana
   - Hive
-  - Hadoop (O Spark está tomando o espaço do Hadoop)
+  - Hadoop (Spark está tomando o espaço do Hadoop)
   - Julia
   - Computação distribuída com AWS e Google Cloud
 
