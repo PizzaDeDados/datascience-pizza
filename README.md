@@ -35,6 +35,10 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 ### Estudos
   - [Canal Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
   - [Aulas do Andrew NG na Stanford University, matéria de Machine Learning](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLJ_CMbwA6bT-n1W0mgOlYwccZ-j6gBXqE)
+  - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
+
+### Webcasts & Webinars
+  - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
 ## Livros
 ### Iniciantes
@@ -97,6 +101,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 ## Datasets
  - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
+ - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
 
 ## Matérias interessantes
 - [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
