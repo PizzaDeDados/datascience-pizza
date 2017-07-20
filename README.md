@@ -36,7 +36,6 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Artificial Intelligence Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): canal do Siraj Raval - bem humorado e teatral
   - [Machine Learning Lectures](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLJ_CMbwA6bT-n1W0mgOlYwccZ-j6gBXqE): aulas do Andrew NG na Stanford University
   - [Machine Learning com Python e scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A): curso da Data School com vários códigos de exemplo, disponíveis em Jupyter Notebook
-  - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/): vídeos curtos e conteúdo amplo
   - [Curso de Artificial Intelligence do MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi): aulas longas e profundas com professor pouco empolgado
   - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ): vídeos muito bem diagramados e curtos
   - [Intro to Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3): playlist do Siraj Raval - bem humorada e teatral
@@ -60,8 +59,9 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
 
 ## Cursos
-  -  [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-  -  [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
+  - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+  - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
+  - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/): vídeos curtos e conteúdo amplo
 
 ### DataScience Academy
   - [Introdução á Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
