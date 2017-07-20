@@ -109,6 +109,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 
 ## Blogs/Journals
+- [KDnuggets](http://www.kdnuggets.com/)
 - [Apple](https://machinelearning.apple.com/)
 - [Google](http://www.unofficialgoogledatascience.com)
 - [Facebook](https://research.fb.com/category/data-science)
