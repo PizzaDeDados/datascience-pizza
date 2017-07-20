@@ -2,15 +2,18 @@
 
 Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
-## Recomendação Mínima
-  - Python ou R
+## Recomendação - iniciante
+  - Python (lib Pandas) ou R
   - SQL
   - Jupyter Notebook
   - Estatística Descritiva
-  - Cálculo
-  - Álgebra linear
 
-## Recomendações gerais para grandes projetos
+## Recomendação - intermediário
+  - Machine Learning
+  - Cálculo
+  - Álgebra Linear
+
+## Recomendações gerais para grandes projetos (big data)
   - NoSQL
   - Scala
   - Spark
