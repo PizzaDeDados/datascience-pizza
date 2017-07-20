@@ -126,6 +126,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [ŷhat](http://blog.yhat.com)
 - [DataCamp](https://www.datacamp.com/community/blog)
 - [Dataquest](https://www.dataquest.io/blog)
+- [OpenAI](https://blog.openai.com/)
 - [Big Data Business](http://www.bigdatabusiness.com.br) (pt)
 - [Hekima](http://developers.hekima.com) (pt)
 
