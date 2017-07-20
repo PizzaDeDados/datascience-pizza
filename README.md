@@ -95,6 +95,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 ## Matérias interessantes
 - [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
+- [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/) - [en](http://www.lerrua.com/blog/2016/03/17/getting-started-with-data-science/)
 
 ## Grupos
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
