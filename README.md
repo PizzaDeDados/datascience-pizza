@@ -13,7 +13,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - Cálculo
   - Álgebra Linear
 
-## Recomendações gerais para grandes projetos (big data)
+## Recomendação - grandes projetos (big data)
   - NoSQL
   - Scala
   - Spark
