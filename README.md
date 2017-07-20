@@ -133,3 +133,6 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [Top 10 blogs for data scientists](https://blog.coursera.org/top-10-blogs-data-scientists/) by Coursera
 - [90+ Active Blogs on Analytics, Big Data, Data Mining, Data Science, Machine Learning](http://www.kdnuggets.com/2015/10/best-blogs-analytics-big-data-science-machine-learning.html) by KDnuggets
 - [50 of the Best Data Science Blogs](https://www.springboard.com/blog/data-science-blogs/) by Springboard
+
+## Metodologias ágeis
+- [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
