@@ -64,7 +64,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/)
 
 ### DataScience Academy
-  - [Introdução á Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
+  - [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
   - [Big Data Fundamentos](https://www.datascienceacademy.com.br/public-course?courseid=big-data-fundamentos)
   - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/public-course?courseid=python-fundamentos)
   - [R Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/public-course?courseid=r---fundamentos-para-anlise-de-dados)
