@@ -100,6 +100,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
+- [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 
 ## Blogs/Journals
 - [https://machinelearning.apple.com/](https://machinelearning.apple.com/)
