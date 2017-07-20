@@ -33,8 +33,14 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Desafios de Big Data no Brasil](https://www.youtube.com/watch?v=oPgvUllQFPc)
 
 ### Estudos
-  - [Canal Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-  - [Aulas do Andrew NG na Stanford University, matéria de Machine Learning](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLJ_CMbwA6bT-n1W0mgOlYwccZ-j6gBXqE)
+  - [Artificial Intelligence Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): canal do Siraj Raval - bem humorado e teatral
+  - [Machine Learning Lectures](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLJ_CMbwA6bT-n1W0mgOlYwccZ-j6gBXqE): aulas do Andrew NG na Stanford University
+  - [Machine Learning com Python e scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A): curso da Data School com vários códigos de exemplo, disponíveis em Jupyter Notebook
+  - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/): vídeos curtos e conteúdo amplo
+  - [Curso de Artificial Intelligence do MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi): aulas longas e profundas com professor pouco empolgado
+  - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ): vídeos muito bem diagramados e curtos
+  - [Intro to Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3): playlist do Siraj Raval - bem humorada e teatral
+  - [Machine Learning](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw) - playlist do Alexander Ihler: mais profundo, mas didática boa
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
 
 ### Webcasts & Webinars
