@@ -136,6 +136,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [OpenAI](https://blog.openai.com/)
 - [Big Data Business](http://www.bigdatabusiness.com.br) (pt)
 - [Hekima](http://developers.hekima.com) (pt)
+- [DeepGraph](http://deepgraph.io/blog/)
 
 ### Posts com listas de melhores blogs
 - [Top 10 blogs for data scientists](https://blog.coursera.org/top-10-blogs-data-scientists/) by Coursera
