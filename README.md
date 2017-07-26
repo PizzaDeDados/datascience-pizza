@@ -122,7 +122,8 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 ## Blogs/Journals
 - [KDnuggets](http://www.kdnuggets.com/)
 - [Apple](https://machinelearning.apple.com/)
-- [Google](http://www.unofficialgoogledatascience.com)
+- [Google](https://research.googleblog.com/)
+- [Google - unofficial](http://www.unofficialgoogledatascience.com)
 - [Facebook](https://research.fb.com/category/data-science)
 - [Uber](https://eng.uber.com/category/uberdata)
 - [Kaggle](http://blog.kaggle.com)
