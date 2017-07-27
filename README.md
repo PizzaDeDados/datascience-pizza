@@ -129,6 +129,8 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [Uber](https://eng.uber.com/category/uberdata)
 - [Kaggle](http://blog.kaggle.com)
 - [Airbnb](https://medium.com/airbnb-engineering/data/home)
+- [Netflix](https://medium.com/netflix-techblog/tagged/data-science)
+- [Spotify](https://insights.spotify.com/us/category/inside-music/)
 - [Stack Overflow](https://stackoverflow.blog/tags/data)
 - [Moz](https://moz.com/devblog/category/data-science)
 - [ŷhat](http://blog.yhat.com)
