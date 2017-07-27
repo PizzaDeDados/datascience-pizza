@@ -39,7 +39,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Curso de Artificial Intelligence do MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi): aulas longas e profundas com professor pouco empolgado
   - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ): vídeos muito bem diagramados e curtos
   - [Intro to Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3): playlist do Siraj Raval - bem humorada e teatral
-  - [Machine Learning](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw) - playlist do Alexander Ihler: mais profundo, mas didática boa
+  - [Machine Learning](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw): playlist do Alexander Ihler: mais profundo, mas didática boa
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
 
 ### Webcasts & Webinars
@@ -52,6 +52,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Julia for Data Science](https://books.google.com.br/books?id=Bn9cDgAAQBAJ&printsec=frontcover&dq=Julia+for+data+science&hl=pt-BR&sa=X&ved=0ahUKEwjVybvF_ZPVAhUKOZAKHQd_BIkQ6AEIJjAA#v=onepage&q=Julia%20for%20data%20science&f=false)
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
+  - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): disponível em Jupyter notebooks
 
 ### Recomendados
   - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
@@ -128,6 +129,8 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [Uber](https://eng.uber.com/category/uberdata)
 - [Kaggle](http://blog.kaggle.com)
 - [Airbnb](https://medium.com/airbnb-engineering/data/home)
+- [Netflix](https://medium.com/netflix-techblog/tagged/data-science)
+- [Spotify](https://insights.spotify.com/us/category/inside-music/)
 - [Stack Overflow](https://stackoverflow.blog/tags/data)
 - [Moz](https://moz.com/devblog/category/data-science)
 - [ŷhat](http://blog.yhat.com)
@@ -136,6 +139,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [OpenAI](https://blog.openai.com/)
 - [Big Data Business](http://www.bigdatabusiness.com.br) (pt)
 - [Hekima](http://developers.hekima.com) (pt)
+- [DeepGraph](http://deepgraph.io/blog/)
 
 ### Posts com listas de melhores blogs
 - [Top 10 blogs for data scientists](https://blog.coursera.org/top-10-blogs-data-scientists/) by Coursera
