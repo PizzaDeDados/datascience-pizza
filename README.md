@@ -39,7 +39,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Curso de Artificial Intelligence do MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi): aulas longas e profundas com professor pouco empolgado
   - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ): vídeos muito bem diagramados e curtos
   - [Intro to Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3): playlist do Siraj Raval - bem humorada e teatral
-  - [Machine Learning](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw) - playlist do Alexander Ihler: mais profundo, mas didática boa
+  - [Machine Learning](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw): playlist do Alexander Ihler: mais profundo, mas didática boa
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
 
 ### Webcasts & Webinars
@@ -52,6 +52,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Julia for Data Science](https://books.google.com.br/books?id=Bn9cDgAAQBAJ&printsec=frontcover&dq=Julia+for+data+science&hl=pt-BR&sa=X&ved=0ahUKEwjVybvF_ZPVAhUKOZAKHQd_BIkQ6AEIJjAA#v=onepage&q=Julia%20for%20data%20science&f=false)
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
+  - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): disponível em Jupyter notebooks
 
 ### Recomendados
   - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
