@@ -33,6 +33,8 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 ## Cursos:
   -  [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   -  [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
+  - [Machine Learning e Data Science com Python]
+    https://www.udemy.com/machine-learning-e-data-science-com-python
 
 ## Livros recomendados
   - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
