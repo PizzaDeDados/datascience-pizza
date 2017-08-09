@@ -6,7 +6,7 @@
 
 # C
 
-**Clustering**: é a classificação não supervisionada de padres (observações, itens de dados ou features ) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais simiilares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
+**Clustering**: é a classificação não supervisionada de padrões (observações, itens de dados ou classes) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais simiilares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
 
 # D
 
