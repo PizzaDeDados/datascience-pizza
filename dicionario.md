@@ -4,6 +4,8 @@
 
 # C
 
+Clustering: é a classificação não supervisionada de padres (observações, itens de dados ou features ) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais simiilares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
+
 # D
 
 # E
@@ -49,3 +51,8 @@
 # Y
 
 # Z
+
+
+# Referências
+
+Jain, A.K.; Murty, M.N.; Flynn, P.J.; Data Clustering: A review. ACM Computing Surveys, Vol. 31, No. 3, 1999.
