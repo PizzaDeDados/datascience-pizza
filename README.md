@@ -53,6 +53,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): disponível em Jupyter notebooks
+  - [Deep Learning Book - MIT](http://www.deeplearningbook.org/)
 
 ### Recomendados
   - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
