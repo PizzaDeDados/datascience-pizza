@@ -21,7 +21,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - Spark
   - Estatística Bayesiana
   - Hive
-  - Hadoop (Spark está tomando o espaço do Hadoop)
+  - Hadoop 
   - Julia
   - Computação distribuída com AWS e Google Cloud
 
