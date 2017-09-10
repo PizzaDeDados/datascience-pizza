@@ -2,8 +2,16 @@
 
 Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
-* [Recomendações](## Recomendações)
-
+* Recomendações
+* Vídeos
+* Livros
+* Cursos
+* Datasets
+* Matérias Interessantes
+* Grupos
+* Blogs/Journals
+* Posts com listas de melhores blogs
+* Meteodologias Ágeis
 
 
 ## Recomendações
