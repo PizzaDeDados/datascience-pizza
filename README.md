@@ -2,6 +2,10 @@
 
 Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
+* [Recomendações][## Recomendações]
+
+
+
 ## Recomendações
 
 ### Iniciante
