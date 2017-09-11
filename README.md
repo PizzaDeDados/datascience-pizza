@@ -2,19 +2,20 @@
 
 Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
-* Recomendações
-* Vídeos
-* Livros
-* Cursos
-* Datasets
-* Matérias Interessantes
-* Grupos
-* Blogs/Journals
-* Posts com listas de melhores blogs
-* Meteodologias Ágeis
+* 1. Recomendações
+* 2. Vídeos
+* 3. Livros
+* 4. Cursos
+* 5. Datasets
+* 6. Matérias Interessantes
+* 7. Grupos
+* 8. Blogs/Journals
+* 9. Meteodologias Ágeis
 
 
-## Recomendações
+--------------------------------------------------
+
+## 1. Recomendações
 
 ### Iniciante
   - Python (lib Pandas) ou R
@@ -37,7 +38,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - Julia
   - Computação distribuída com AWS e Google Cloud
 
-## Vídeos
+## 2. Vídeos
 ### Carreira
   - [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
   - [How to become a Data Scientist in 6 months a hacker’s approach...](https://www.youtube.com/watch?v=rIofV14c0tc)
@@ -57,7 +58,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
-## Livros
+## 3. Livros
 ### Iniciantes
   - [Data Science do Zero. Primeiras Regras com o Python](https://books.google.com.br/books/about/DATA_SCIENCE_DO_ZERO.html?id=EWJCvgAACAAJ&redir_esc=y)
   - [Bad Data Handbook](https://books.google.com.br/books?id=J6jTaDSg3sYC&printsec=frontcover&dq=Bad+Data&hl=pt-BR&sa=X&ved=0ahUKEwjqgfX0-5PVAhUBF5AKHd0vDDMQ6AEIJjAA#v=onepage&q=Bad%20Data&f=false)
@@ -72,7 +73,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - The Elements of Statistical Learning - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
   - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
 
-## Cursos
+## 4. Cursos
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
 
@@ -118,7 +119,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Data Analyst - Path](https://www.dataquest.io/path/data-analyst)
   - [Data Engineer - Path](https://www.dataquest.io/path/data-engineer)
 
-## Datasets
+## 5. Datasets
  - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
@@ -127,13 +128,13 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
 - [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/) - [en](http://www.lerrua.com/blog/2016/03/17/getting-started-with-data-science/)
 
-## Grupos
+## 6. Grupos
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 
-## Blogs/Journals
+## 7. Blogs/Journals
 - [KDnuggets](http://www.kdnuggets.com/)
 - [Apple](https://machinelearning.apple.com/)
 - [Google](https://research.googleblog.com/)
@@ -159,5 +160,5 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [90+ Active Blogs on Analytics, Big Data, Data Mining, Data Science, Machine Learning](http://www.kdnuggets.com/2015/10/best-blogs-analytics-big-data-science-machine-learning.html) by KDnuggets
 - [50 of the Best Data Science Blogs](https://www.springboard.com/blog/data-science-blogs/) by Springboard
 
-## Metodologias ágeis
+## 8. Metodologias ágeis
 - [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
