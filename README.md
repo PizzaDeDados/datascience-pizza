@@ -124,17 +124,17 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
 
-## Matérias interessantes
+## 6. Matérias interessantes
 - [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
 - [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/) - [en](http://www.lerrua.com/blog/2016/03/17/getting-started-with-data-science/)
 
-## 6. Grupos
+## 7. Grupos
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 
-## 7. Blogs/Journals
+## 8. Blogs/Journals
 - [KDnuggets](http://www.kdnuggets.com/)
 - [Apple](https://machinelearning.apple.com/)
 - [Google](https://research.googleblog.com/)
@@ -160,5 +160,5 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 - [90+ Active Blogs on Analytics, Big Data, Data Mining, Data Science, Machine Learning](http://www.kdnuggets.com/2015/10/best-blogs-analytics-big-data-science-machine-learning.html) by KDnuggets
 - [50 of the Best Data Science Blogs](https://www.springboard.com/blog/data-science-blogs/) by Springboard
 
-## 8. Metodologias ágeis
+## 9. Metodologias ágeis
 - [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
