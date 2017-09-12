@@ -13,6 +13,10 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 9. Meteodologias Ágeis
 10. Links relevantes
 
+Por tópicos:
+
+[Aprendizado de Máquina/Machine Learning](https://github.com/leportella/data-science-roadmap/blob/master/machine-learning.md)
+
 
 --------------------------------------------------
 
