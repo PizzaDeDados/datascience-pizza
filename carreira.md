@@ -10,3 +10,4 @@
   
 ## Matérias
   - [Data Scientist - The Sexiest job of the 21st century]https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
+  - [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/) - [en](http://www.lerrua.com/blog/2016/03/17/getting-started-with-data-science/)
