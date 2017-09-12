@@ -52,8 +52,6 @@ Por tópicos:
 
 ### Estudos
   - [Artificial Intelligence Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): canal do Siraj Raval - bem humorado e teatral
-  - [Machine Learning Lectures](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLJ_CMbwA6bT-n1W0mgOlYwccZ-j6gBXqE): aulas do Andrew NG na Stanford University
-  - [Machine Learning com Python e scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A): curso da Data School com vários códigos de exemplo, disponíveis em Jupyter Notebook
   - [Curso de Artificial Intelligence do MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi): aulas longas e profundas com professor pouco empolgado
   - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ): vídeos muito bem diagramados e curtos
   - [Intro to Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3): playlist do Siraj Raval - bem humorada e teatral
@@ -91,14 +89,11 @@ Por tópicos:
   - [Mais ...](https://www.datascienceacademy.com.br/)
 
 ### Udemy
-  - [Data Science and Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
   - [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/datascience/)
   - [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/python-coding/)
   - [Statistics for Business Analytics A-Z™](https://www.udemy.com/data-statistics/)
   - [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/r-programming/)
-  - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
-  - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/)
-  - [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas/)
+ - [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas/)
   - [O curso completo de Banco de Dados e SQL, sem mistérios](https://www.udemy.com/bancos-de-dados-relacionais-basico-avancado/)
 
 ### Udacity
@@ -107,10 +102,6 @@ Por tópicos:
   - [Fundamentos da Programação com Python](https://br.udacity.com/course/programming-foundations-with-python--ud036/)
   - [Introdução à Ciência de Dados](https://br.udacity.com/course/intro-to-data-science--ud359/)
   - [Intro to Relational Databases](https://br.udacity.com/course/intro-to-relational-databases--ud197/)
-  - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/)
-
-### Cousera
-  -  [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
 
 ### DataCamp
   - [Data Scientist with Python - Track](https://www.datacamp.com/tracks/data-scientist-with-python)
