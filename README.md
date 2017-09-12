@@ -46,11 +46,6 @@ Por tópicos:
   - Computação distribuída com AWS e Google Cloud
 
 ## 2. Vídeos
-### Carreira
-  - [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
-  - [How to become a Data Scientist in 6 months a hacker’s approach...](https://www.youtube.com/watch?v=rIofV14c0tc)
-  - [As novas profissões do mundo de dados](https://www.youtube.com/watch?v=DYSYHiNh9LE)
-  - [Desafios de Big Data no Brasil](https://www.youtube.com/watch?v=oPgvUllQFPc)
 
 ### Estudos
   - [Artificial Intelligence Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): canal do Siraj Raval - bem humorado e teatral
@@ -124,7 +119,7 @@ Por tópicos:
 
 ## 6. Matérias interessantes
 - [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
-- [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/) - [en](http://www.lerrua.com/blog/2016/03/17/getting-started-with-data-science/)
+
 
 ## 7. Grupos
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
@@ -164,5 +159,4 @@ Por tópicos:
 ## 10. Links relevantes
 - [Algoritmos e modelos utilizados pelo governo americano](http://algorithmtips.org/)
 - [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.4lsldtI)
-- [Data Scientist - The Sexiest job of the 21st century]https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
 - [15 Insane Things That Correlate With Each Other](http://www.tylervigen.com/spurious-correlations)
