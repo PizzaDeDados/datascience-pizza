@@ -2,15 +2,16 @@
 
 Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
-* 1. Recomendações
-* 2. Vídeos
-* 3. Livros
-* 4. Cursos
-* 5. Datasets
-* 6. Matérias Interessantes
-* 7. Grupos
-* 8. Blogs/Journals
-* 9. Meteodologias Ágeis
+1. Recomendações
+2. Vídeos
+3. Livros
+4. Cursos
+5. Datasets
+6. Matérias Interessantes
+7. Grupos
+8. Blogs/Journals
+9. Meteodologias Ágeis
+10. Links relevantes
 
 
 --------------------------------------------------
@@ -162,3 +163,9 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 ## 9. Metodologias ágeis
 - [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
+
+## 10. Links relevantes
+- [Algoritmos e modelos utilizados pelo governo americano](http://algorithmtips.org/)
+- [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.4lsldtI)
+- [Data Scientist - The Sexiest job of the 21st century]https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
+- [15 Insane Things That Correlate With Each Other](http://www.tylervigen.com/spurious-correlations)
