@@ -18,8 +18,8 @@ Por tópicos:
 - [Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
 - [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/data-science-roadmap/blob/master/machine-learning.md)
 - [Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
-- [Dicionário de Termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
-
+- [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
+- [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
 --------------------------------------------------
 
 ## 1. Recomendações
@@ -50,9 +50,6 @@ Por tópicos:
 ### Estudos
   - [Artificial Intelligence Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): canal do Siraj Raval - bem humorado e teatral
   - [Curso de Artificial Intelligence do MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi): aulas longas e profundas com professor pouco empolgado
-  - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ): vídeos muito bem diagramados e curtos
-  - [Intro to Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3): playlist do Siraj Raval - bem humorada e teatral
-  - [Machine Learning](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw): playlist do Alexander Ihler: mais profundo, mas didática boa
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
 
 ### Webcasts & Webinars
@@ -66,7 +63,7 @@ Por tópicos:
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): disponível em Jupyter notebooks
-  - [Deep Learning Book - MIT](http://www.deeplearningbook.org/)
+
 
 ### Recomendados
   - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
