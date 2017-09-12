@@ -15,8 +15,10 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 Por tópicos:
 
+[Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
 [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/data-science-roadmap/blob/master/machine-learning.md)
-
+[Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
+[Dicionário de Termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
 
 --------------------------------------------------
 
