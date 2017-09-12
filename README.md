@@ -1,5 +1,7 @@
 # Guia do Cientista de Dados das Galáxias
 
+**DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opinies divergentes sobre o que básico e o que é avançado. Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
+
 Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 1. Recomendações
