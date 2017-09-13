@@ -21,6 +21,7 @@
 |  ![logo](http://i.imgur.com/Zzz9TXf.png) | [Nubank](https://www.nubank.com.br/) | São Paulo-SP   | Financeira  |   |  https://nubank.workable.com/ |
 |  ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | [Globo.com](www.globo.com) | Rio de Janeiro-RJ  | Jornalismo  |   |   |
 |   | [TFG](https://www.tfgco.com/) | São Paulo-SP   | Games  |   |  |
+|   | Cetax | São Paulo - SP | Consultoria de BI | contato@cetax.com.br | https://cetaxconsultoria.compleo.com.br/ |
 
 ## Sul 
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
