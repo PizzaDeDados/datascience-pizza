@@ -20,6 +20,7 @@
   * [Blogs/Journals](#blogsjournals)
   * [Podcasts](#podcasts)
   * [Meteodologias Ágeis](#metodologiasageis)
+  * [Dados em Imagens](#imagens)
 <!-- toc stop -->
 
 ---
@@ -184,3 +185,6 @@ Por tópicos:
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
 - [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
+
+<h2 id="imagens">Dados em Imagens</h2>
+<a href="https://www.domo.com/blog/data-never-sleeps-2-0/"><img src="https://web-assets.domo.com/blog/wp-content/uploads/2014/04/DataNeverSleeps_sm2.png" alt="infographic" /></a>
