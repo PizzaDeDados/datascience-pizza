@@ -22,3 +22,7 @@
 ## Grupos
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
+
+
+## Artigos 
+ - [Ten Things Everyone Should Know About Machine Learning](https://www.forbes.com/sites/quora/2017/09/06/ten-things-everyone-should-know-about-machine-learning/#1f1ae48a4e9e)
