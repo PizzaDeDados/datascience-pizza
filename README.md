@@ -4,16 +4,32 @@
 
 Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
-1. Recomendações
-2. Vídeos
-3. Livros
-4. Cursos
-5. Datasets
-6. Matérias Interessantes
-7. Grupos
-8. Blogs/Journals
-9. Meteodologias Ágeis
-10. Links relevantes
+---
+
+## Table of Contents
+> Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
+
+<!-- toc -->
+
+
+  * [Recomendações](#recomendacoes)
+      * [Iniciante](#iniciante)
+      * [Intermediário](#intermediario)
+      * [Grandes projetos (big data)](#grandesprojetos)
+  * [Vídeos](#videos)
+  * [Livros](#livros)
+  * [Cursos](#cursos)
+  * [Datasets](#datasets)
+  * [Matérias Interessantes](#materiasinteressantes)
+  * [Grupos](#grupos)
+  * [Blogs/Journals](#blogsjournals)
+  * [Podcasts](#podcasts)
+  * [Meteodologias Ágeis](#metodologiasageis)
+  * [Links relevantes](#linksrelevantes)
+
+<!-- toc stop -->
+
+---
 
 Por tópicos:
 
@@ -24,20 +40,23 @@ Por tópicos:
 - [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
 --------------------------------------------------
 
-## 1. Recomendações
+<h2 id="recomendacoes">Recomendações</h2>
 
-### Iniciante
+<h3 id="recomendacoes">Iniciante</h3>
+
   - Python (lib Pandas) ou R
   - SQL
   - Jupyter Notebook
   - Estatística Descritiva
 
-### Intermediário
+<h3 id="intermediario">Intermediário</h3>
+
   - Machine Learning
   - Cálculo
   - Álgebra Linear
 
-### Grandes projetos (big data)
+<h3 id="grandesprojetos">Grandes projetos (big data)</h3>
+
   - NoSQL
   - Scala
   - Spark
@@ -46,8 +65,8 @@ Por tópicos:
   - Hadoop 
   - Julia
   - Computação distribuída com AWS e Google Cloud
-
-## 2. Vídeos
+  
+<h2 id="videos">Vídeos</h2>
 
 ### Estudos
   - [Artificial Intelligence Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): canal do Siraj Raval - bem humorado e teatral
@@ -57,7 +76,8 @@ Por tópicos:
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
-## 3. Livros
+<h2 id="livros">Livros</h2>
+
 ### Iniciantes
   - [Data Science do Zero. Primeiras Regras com o Python](https://books.google.com.br/books/about/DATA_SCIENCE_DO_ZERO.html?id=EWJCvgAACAAJ&redir_esc=y)
   - [Bad Data Handbook](https://books.google.com.br/books?id=J6jTaDSg3sYC&printsec=frontcover&dq=Bad+Data&hl=pt-BR&sa=X&ved=0ahUKEwjqgfX0-5PVAhUBF5AKHd0vDDMQ6AEIJjAA#v=onepage&q=Bad%20Data&f=false)
@@ -72,7 +92,8 @@ Por tópicos:
   - The Elements of Statistical Learning - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
   - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
 
-## 4. Cursos
+<h2 id="cursos">Cursos</h2>
+
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
 
@@ -111,22 +132,25 @@ Por tópicos:
   - [Data Analyst - Path](https://www.dataquest.io/path/data-analyst)
   - [Data Engineer - Path](https://www.dataquest.io/path/data-engineer)
 
-## 5. Datasets
+<h2 id="datasets">Datasets</h2>
+
  - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
 
-## 6. Matérias interessantes
+<h2 id="materiasinteressantes">Matérias interessantes</h2>
+
 - [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
 
+<h2 id="grupos">Grupos</h2>
 
-## 7. Grupos
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 
-## 8. Blogs/Journals
+<h2 id="blogsjournals">Blogs/ Journals</h2>
+
 - [KDnuggets](http://www.kdnuggets.com/)
 - [Apple](https://machinelearning.apple.com/)
 - [Google](https://research.googleblog.com/)
@@ -152,10 +176,27 @@ Por tópicos:
 - [90+ Active Blogs on Analytics, Big Data, Data Mining, Data Science, Machine Learning](http://www.kdnuggets.com/2015/10/best-blogs-analytics-big-data-science-machine-learning.html) by KDnuggets
 - [50 of the Best Data Science Blogs](https://www.springboard.com/blog/data-science-blogs/) by Springboard
 
-## 9. Metodologias ágeis
+<h2 id="podcasts">Podcasts</h2>
+
+| Number | Name | Platform  | Author | 
+| :---: | :--- | :---: | :---: |
+|01|[DatabaseCast  2: Mineração de dados](http://databasecast.com.br/wp/databasecast-2-mineracao-de-dados/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Ary Bressane` |
+|02|[DatabaseCast 53: Cientista de dados](http://databasecast.com.br/wp/databasecast-53-cientista-de-dados/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Marcelo Glauco` |
+|03|[DatabaseCast 67: Data science na prática](http://databasecast.com.br/wp/databasecast-67-data-science-na-pratica/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Diego Nogare, Tantravahi Aditya` |
+|04|[DatabaseCast 72: Ecossistema Hadoop](http://databasecast.com.br/wp/databasecast-72-ecossistema-hadoop/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Felipe Gasparini` |
+|05|[DatabaseCast 74: Estatísticas](http://databasecast.com.br/wp/databasecast-74-estatisticas/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Ricardo Rezende, Fabiano Amorim` |
+|06|[Dev na estrada #56 - Data Science](http://devnaestrada.com.br/2016/06/03/data-science.html)| [DNE](http://devnaestrada.com.br/) |`Fellipe Azambuja, Igor Leroy, Ramon Sanches, Raony Guimaraes` |
+|07|[Dragões de Garagem #43 Estatística](http://dragoesdegaragem.com/podcast/dragoes-de-garagem-43-estatistica/)| [Dragões de Garagem](http://dragoesdegaragem.com/sobre/) | `Luciano Queiroz, Lucas Camargos, Bruno Spacek, Rafael Calsaverini` |
+|08|[Dragões de Garagem #92 Inteligência artificial](http://dragoesdegaragem.com/podcast/dragoes-de-garagem-92-inteligencia-artificial/)| [Dragões de Garagem](http://dragoesdegaragem.com/sobre/) | `Lucas Camargos, Victor Caparica, Camila Laranjeira, Kherian Gracher, Antonio Nazaré, Igor Bastos` |
+|09|[Nerd Tech #5 - Machine Learning](https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/)| [NerdTech](https://jovemnerd.com.br/playlist/nerdtech/) | `Caio Gomes, Guilherme Silveira, Paulo Silveira` |
+|10|[PODEntender #019 Sobre Deep Learning](http://dragoesdegaragem.com/podentender/019-sobre-deep-learning)| [PODEntender](http://dragoesdegaragem.com/podentender) | `Antonio Marinho(Tonho), Carol Lacerda, Fábio Neves(Dalton), Dave Canton` |
+
+<h2 id="metodologiasageis">Metodologias ágeis</h2>
+
 - [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
 
-## 10. Links relevantes
+<h2 id="linksrelevantes">Links relevantes</h2>
+
 - [Algoritmos e modelos utilizados pelo governo americano](http://algorithmtips.org/)
 - [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.4lsldtI)
 - [15 Insane Things That Correlate With Each Other](http://www.tylervigen.com/spurious-correlations)
