@@ -2,16 +2,12 @@
 
 **DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que básico e o que é avançado entre outros temas. Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui. Se possuir material interessante, por favor compartilhe com a comunidade. Estamos aqui para crescermos juntos.*
 
-Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
-
 ---
 
 ## Table of Contents
 > Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 <!-- toc -->
-
-
   * [Recomendações](#recomendacoes)
       * [Iniciante](#iniciante)
       * [Intermediário](#intermediario)
@@ -20,13 +16,10 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   * [Livros](#livros)
   * [Cursos](#cursos)
   * [Datasets](#datasets)
-  * [Matérias Interessantes](#materiasinteressantes)
   * [Grupos](#grupos)
   * [Blogs/Journals](#blogsjournals)
   * [Podcasts](#podcasts)
   * [Meteodologias Ágeis](#metodologiasageis)
-  * [Links relevantes](#linksrelevantes)
-
 <!-- toc stop -->
 
 ---
@@ -38,6 +31,7 @@ Por tópicos:
 - [Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
 - [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
 - [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
+- [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
 --------------------------------------------------
 
 <h2 id="recomendacoes">Recomendações</h2>
@@ -138,10 +132,6 @@ Por tópicos:
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
 
-<h2 id="materiasinteressantes">Matérias interessantes</h2>
-
-- [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
-
 <h2 id="grupos">Grupos</h2>
 
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
@@ -194,9 +184,3 @@ Por tópicos:
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
 - [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
-
-<h2 id="linksrelevantes">Links relevantes</h2>
-
-- [Algoritmos e modelos utilizados pelo governo americano](http://algorithmtips.org/)
-- [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.4lsldtI)
-- [15 Insane Things That Correlate With Each Other](http://www.tylervigen.com/spurious-correlations)
