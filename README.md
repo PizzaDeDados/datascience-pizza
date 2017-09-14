@@ -181,6 +181,7 @@ Por tópicos:
 |08|[Dragões de Garagem #92 Inteligência artificial](http://dragoesdegaragem.com/podcast/dragoes-de-garagem-92-inteligencia-artificial/)| [Dragões de Garagem](http://dragoesdegaragem.com/sobre/) | `Lucas Camargos, Victor Caparica, Camila Laranjeira, Kherian Gracher, Antonio Nazaré, Igor Bastos` |
 |09|[Nerd Tech #5 - Machine Learning](https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/)| [NerdTech](https://jovemnerd.com.br/playlist/nerdtech/) | `Caio Gomes, Guilherme Silveira, Paulo Silveira` |
 |10|[PODEntender #019 Sobre Deep Learning](http://dragoesdegaragem.com/podentender/019-sobre-deep-learning)| [PODEntender](http://dragoesdegaragem.com/podentender) | `Antonio Marinho(Tonho), Carol Lacerda, Fábio Neves(Dalton), Dave Canton` |
+|11|[Data Skeptic - Mini-episódios e entrevistas com profissionais sobre tópicos de ML, DS, Estatística e IA ](https://dataskeptic.com/)| [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg/) | `Kyle Polich` |
 
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
