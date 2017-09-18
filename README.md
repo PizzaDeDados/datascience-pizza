@@ -4,6 +4,9 @@
 
 ---
 
+![neil](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
+
+
 ## Table of Contents
 > Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
