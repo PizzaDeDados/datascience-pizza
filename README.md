@@ -25,7 +25,7 @@
   * [Meteodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
   * Tópicos Relevantes:
-  * [Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
+      * [Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
       * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/data-science-roadmap/blob/master/machine-learning.md)
       * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
       * [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
