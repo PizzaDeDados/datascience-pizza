@@ -7,7 +7,7 @@
 ![neil](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
 
 
-## Table of Contents
+## Sumário
 > Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 <!-- toc -->
@@ -24,20 +24,15 @@
   * [Podcasts](#podcasts)
   * [Meteodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
-<!-- toc stop -->
-
----
-
-Por tópicos:
-
-- [Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
-- [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/data-science-roadmap/blob/master/machine-learning.md)
-- [Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
-- [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
-- [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
-- [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
-- [Geociências](https://github.com/leportella/data-science-roadmap/blob/master/geosciences.md)
-- [Big Data](https://github.com/leportella/data-science-roadmap/blob/master/big-data.md)
+  * Tópicos Relevantes:
+  * [Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
+      * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/data-science-roadmap/blob/master/machine-learning.md)
+      * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
+      * [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
+      * [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
+      * [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
+      * [Geociências](https://github.com/leportella/data-science-roadmap/blob/master/geosciences.md)
+      * [Big Data](https://github.com/leportella/data-science-roadmap/blob/master/big-data.md)
 --------------------------------------------------
 
 <h2 id="recomendacoes">Recomendações</h2>
