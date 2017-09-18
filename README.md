@@ -33,7 +33,7 @@ Por tópicos:
 - [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
 - [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
 - [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
-- [Geociências]
+- [Geociências](https://github.com/leportella/data-science-roadmap/blob/master/geosciences.md)
 --------------------------------------------------
 
 <h2 id="recomendacoes">Recomendações</h2>
