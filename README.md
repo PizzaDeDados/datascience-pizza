@@ -34,6 +34,7 @@ Por tópicos:
 - [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
 - [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
 - [Geociências](https://github.com/leportella/data-science-roadmap/blob/master/geosciences.md)
+- [Big Data](https://github.com/leportella/data-science-roadmap/blob/master/big-data.md)
 --------------------------------------------------
 
 <h2 id="recomendacoes">Recomendações</h2>
