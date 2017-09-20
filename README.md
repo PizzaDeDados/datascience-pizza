@@ -25,14 +25,18 @@
   * [Meteodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
   * Tópicos Relevantes:
-      * [Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
+
       * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/data-science-roadmap/blob/master/machine-learning.md)
-      * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
-      * [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
-      * [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
-      * [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
-      * [Geociências](https://github.com/leportella/data-science-roadmap/blob/master/geosciences.md)
       * [Big Data](https://github.com/leportella/data-science-roadmap/blob/master/big-data.md)
+      * [Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
+      * [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
+      * [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
+      * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
+      * [Geociências](https://github.com/leportella/data-science-roadmap/blob/master/geosciences.md)
+      * [Inteligncia Artificial](https://github.com/leportella/data-science-roadmap/blob/master/inteligencia-artificial.md)
+      * [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
+      
+ 
 --------------------------------------------------
 
 <h2 id="recomendacoes">Recomendações</h2>
@@ -64,8 +68,7 @@
 <h2 id="videos">Vídeos</h2>
 
 ### Estudos
-  - [Artificial Intelligence Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): canal do Siraj Raval - bem humorado e teatral
-  - [Curso de Artificial Intelligence do MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi): aulas longas e profundas com professor pouco empolgado
+ 
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
 
 ### Webcasts & Webinars
