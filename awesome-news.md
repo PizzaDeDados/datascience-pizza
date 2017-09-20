@@ -2,7 +2,7 @@
 
 <h2 id="algoritmos">Algoritmos</h2>
 
- * [Algoritmos e modelos utilizados pelo governo americano](http://algorithmtips.org/)
+ * **PT-BR** [Algoritmos e modelos utilizados pelo governo americano](http://algorithmtips.org/)
 
 <h2 id="conceitos">Conceitos</h2>
 
@@ -12,6 +12,7 @@
 
  * [15 Insane Things That Correlate With Each Other](http://www.tylervigen.com/spurious-correlations)
  * [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
+ * **PT-BR** [Inteligência Artificial pos a prova psicografia de Chico Xavier](https://super.abril.com.br/historia/inteligencia-artificial-pos-a-prova-psicografia-de-chico-xavier/)
 
 <h2 id="dados-na-vida-real">Dados na vida real</h2>
  
