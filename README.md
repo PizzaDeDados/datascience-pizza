@@ -35,6 +35,7 @@
       * [Geociências](https://github.com/leportella/data-science-roadmap/blob/master/geosciences.md)
       * [Inteligncia Artificial](https://github.com/leportella/data-science-roadmap/blob/master/inteligencia-artificial.md)
       * [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
+      * [Visualização de dados](https://github.com/leportella/data-science-roadmap/blob/master/visualizacao-de-dados.md)
       
  
 --------------------------------------------------
@@ -142,6 +143,7 @@
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
+- [Dados Abertos - Telegram](https://t.me/dadosabertos)
 
 <h2 id="blogsjournals">Blogs/ Journals</h2>
 
