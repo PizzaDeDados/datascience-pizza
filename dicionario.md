@@ -42,6 +42,8 @@
 
 # U
 
+**Underfitting**: é um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias.
+
 # V
 
 **Variáveis Categóricas**: variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a varivel é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
