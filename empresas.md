@@ -19,14 +19,14 @@
 |   | Moip Pagamentos | São Paulo-SP | Tecnologia da informação e serviços, Software e Internet |   |   |
 |   | Stefanini IT Solutions | São Paulo-SP | Tecnologia da informação e serviços |   |   |
 |  ![logo](http://i.imgur.com/Zzz9TXf.png) | [Nubank](https://www.nubank.com.br/) | São Paulo-SP   | Financeira  |   |  https://nubank.workable.com/ |
-|  ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | [Globo.com](www.globo.com) | Rio de Janeiro-RJ  | Jornalismo  |   |   |
+|  ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | [Globo.com](www.globo.com) | Rio de Janeiro-RJ  | Jornalismo  |   | https://talentos.globo.com/#/oportunidades |
 |   | [TFG](https://www.tfgco.com/) | São Paulo-SP   | Games  |   |  |
 |   | Cetax | São Paulo - SP | Consultoria de BI | contato@cetax.com.br | https://cetaxconsultoria.compleo.com.br/ |
 
 ## Sul 
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
 |---|---|---|---|---|---|
-| ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | [Globo.com](http://www.globo.com/) | Porto Alegre-RS   | Jornalismo  |   |   |
+| ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | [Globo.com](http://www.globo.com/) | Porto Alegre-RS   | Jornalismo  |   | https://talentos.globo.com/#/oportunidades |
 | ![logo](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finaitec.com.br%2Fwp-content%2Fuploads%2F2015%2F02%2Flogo-softplan.png&f=1) | [Softplan](https://www.softplan.com.br/) | Florianópolis-SC  | Justiça/Gestão Pública/Indústria Civil  |   | https://www.softplan.com.br/carreira/  |
 | ![logo](http://www.dzigual.com.br/wp-content/uploads/2015/12/neo_way_01_t.jpg) | [Neoway](http://www.neoway.net/)  | Florianópolis-SC  | Dados  |   |   |
 | ![logo](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fresultadosdigitais.com.br%2Fwp-content%2Fuploads%2F2014%2F07%2FLogoResultadosDigitais_V2.png&f=1)  | [Resultados Digitais](https://resultadosdigitais.com.br/)  | Florianópolis-SC  | Marketing Digital  |   | [jobs.lever.co/resultadosdigitais](https://jobs.lever.co/resultadosdigitais/?lever-source=github_datascience) |
