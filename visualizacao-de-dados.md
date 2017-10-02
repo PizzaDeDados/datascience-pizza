@@ -1,7 +1,7 @@
 # Visualização de dados
 
 ## Livros
-  - [Storytelling with Data](http://www.storytellingwithdata.com/) Livro: EN [Amazon US](https://www.amazon.com/gp/product/1119002257) PT-BR [Amazon BR](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/)
+  - [Storytelling with Data](http://www.storytellingwithdata.com/) EN [Amazon US](https://www.amazon.com/gp/product/1119002257) PT-BR [Amazon BR](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/)
   - [Data + Design](https://infoactive.co/data-design)
   
 ## Cursos
