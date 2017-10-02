@@ -3,9 +3,12 @@
 ## Livros
   - [Storytelling with Data](http://www.storytellingwithdata.com/) EN [Amazon US](https://www.amazon.com/gp/product/1119002257) PT-BR [Amazon BR](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/)
   - [Data + Design](https://infoactive.co/data-design)
+  - [Data Visualization for Social Science](http://socviz.co/)
+  - 
   
 ## Cursos
   - [Introduction to Data Visualization](http://paldhous.github.io/ucb/2016/dataviz/)
+  - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 
 ## Tutoriais
   - PT-BR [Desafios e tendências da visualização de dados – DataViz Basics: 1 de 4](http://www.dp6.com.br/desafios-da-visualizacao-de-dados-dataviz-basics-1-de-4/)
