@@ -26,3 +26,7 @@
 
 ## Artigos 
  - [Ten Things Everyone Should Know About Machine Learning](https://www.forbes.com/sites/quora/2017/09/06/ten-things-everyone-should-know-about-machine-learning/#1f1ae48a4e9e)
+ 
+## Tutoriais
+  - [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
+  - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
