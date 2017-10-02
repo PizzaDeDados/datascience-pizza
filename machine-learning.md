@@ -14,6 +14,7 @@
 - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/)
 - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/)
 - [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
+- [A Course in Machine Learning](http://ciml.info/)
 
 ## Datasets
 
@@ -26,7 +27,11 @@
 
 ## Artigos 
  - [Ten Things Everyone Should Know About Machine Learning](https://www.forbes.com/sites/quora/2017/09/06/ten-things-everyone-should-know-about-machine-learning/#1f1ae48a4e9e)
- 
+
+## Livros
+ - [Understanding Machine Learning From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+
+
 ## Tutoriais
   - [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
   - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
