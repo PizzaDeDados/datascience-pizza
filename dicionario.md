@@ -31,8 +31,10 @@
 # N
 
 # O
-**Overfitting**: é um evento que ocorre quando o modelo se encaixa bem nos dados de treinamento, mas não se generaliza para dados não vistos ou testados. Isto é, não produz boas predições para dados desconhecidos. [Chaoji et. al. 2016](http://www.vldb.org/pvldb/vol9/p1597-chaoji.pdf)
 
+**Outlier**: É uma instância em uma base de dados que pode ser apenas um ruído que se deseja eliminar em uma etapa de pré-processamento, ou ainda uma instância que possui um padrão nunca analisado antes, a qual possa representar um comportamento extraordinário e, portanto, passível de estudo e atenção especial. [Campos 2015](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-04082015-084412/pt-br.php)
+
+**Overfitting**: é um evento que ocorre quando o modelo se encaixa bem nos dados de treinamento, mas não se generaliza para dados não vistos ou testados. Isto é, não produz boas predições para dados desconhecidos. [Chaoji et. al. 2016](http://www.vldb.org/pvldb/vol9/p1597-chaoji.pdf)
 
 # P
 
@@ -62,6 +64,8 @@
 # Referências
 
 Behrens, J. T.. Principles and procedures of Exploratory Data Analysis. American Psychological Association Inc. 1997. Vol.2, No.2, 131-160
+
+CAMPOS, Guilherme Oliveira. Estudo, avaliação e comparação de técnicas de detecção não supervisionada de outliers. 2015. Dissertação (Mestrado em Ciências de Computação e Matemática Computacional) - Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo, São Carlos, 2015. doi:10.11606/D.55.2015.tde-04082015-084412. Acesso em: 2017-10-03.
 
 Jain, A.K.; Murty, M.N.; Flynn, P.J.; Data Clustering: A review. ACM Computing Surveys, Vol. 31, No. 3, 1999.
 
