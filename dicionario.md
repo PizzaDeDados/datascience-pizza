@@ -42,7 +42,9 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # P
 
-# R 
+# R
+**Regressão Linear**: conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a a função linear resultante e os dados. [Referência](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
+
 
 # S
 
