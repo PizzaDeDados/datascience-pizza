@@ -2,9 +2,9 @@
 
 **Análise Exploratria de Dados** é uma tradição estatística que provê ferramentas conceituais e computacionais para descobrir padres para o desenvolvimento e refinamento de hipteses (Behrens, 1997)
 
-**Análise não-supervisionada** é a capacidade do sistema em aprender padrões com dados de entrada, mesmo não sendo fornecido um retorno evidente. Tem como tarefa mais recorrente, o reconhecimento de grupos com os dados de entrada potencialmente úteis. (Russel e Norvig, 2013).
+**Análise Não-Supervisionada:** é a capacidade do sistema em aprender padrões com dados de entrada, mesmo não sendo fornecido um retorno evidente. Tem como tarefa mais recorrente, o reconhecimento de grupos com os dados de entrada potencialmente úteis. (Russel e Norvig, 2013).
 
-**Análise supervisionada** o objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares (Alpaydin, 2010).
+**Análise Supervisionada:** o objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares (Alpaydin, 2010).
 
 # B
 
