@@ -137,6 +137,7 @@
  - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
+ - [Datasets | Kaggle](https://www.kaggle.com/datasets)
 
 <h2 id="grupos">Grupos</h2>
 
