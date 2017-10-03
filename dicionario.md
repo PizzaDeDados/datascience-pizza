@@ -31,7 +31,7 @@
 # N
 
 # O
-**Overfitting**: é um evento ocorre quando o modelo se encaixa bem nos dados de treinamento, mas não se generaliza para dados não vistos ou testados. Isto é, não produz boas predições para dados desconhecidos. [Referência](http://www.vldb.org/pvldb/vol9/p1597-chaoji.pdf)
+**Overfitting**: é um evento que ocorre quando o modelo se encaixa bem nos dados de treinamento, mas não se generaliza para dados não vistos ou testados. Isto é, não produz boas predições para dados desconhecidos. [Referência](http://www.vldb.org/pvldb/vol9/p1597-chaoji.pdf)
 
 
 # P
