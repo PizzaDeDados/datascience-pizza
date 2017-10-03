@@ -1,5 +1,7 @@
 # A
 
+**Algoritmos** são conjuntos de passos finitos e organizados que, quando executados, realizam uma tarefa. Mais detalhes em [1](https://www.youtube.com/watch?v=8mei6uVttho), [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms).
+
 **Análise Exploratria de Dados** é uma tradição estatística que provê ferramentas conceituais e computacionais para descobrir padres para o desenvolvimento e refinamento de hipteses (Behrens, 1997)
 
 # B
