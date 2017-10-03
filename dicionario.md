@@ -31,6 +31,8 @@
 # N
 
 # O
+**Overfitting**: é um evento ocorre quando o modelo se encaixa bem nos dados de treinamento, mas não se generaliza para dados não vistos ou testados. Isto é, não produz boas predições para dados desconhecidos. [Referência](http://www.vldb.org/pvldb/vol9/p1597-chaoji.pdf)
+
 
 # P
 
@@ -62,3 +64,5 @@
 Behrens, J. T.. Principles and procedures of Exploratory Data Analysis. American Psychological Association Inc. 1997. Vol.2, No.2, 131-160
 
 Jain, A.K.; Murty, M.N.; Flynn, P.J.; Data Clustering: A review. ACM Computing Surveys, Vol. 31, No. 3, 1999.
+
+Vineet Chaoji, Rajeev Rastogi, and Gourav Roy. 2016. Machine learning in the real world. Proc. VLDB Endow. 9, 13 (September 2016), 1597-1600. DOI: http://dx.doi.org/10.14778/3007263.3007318
