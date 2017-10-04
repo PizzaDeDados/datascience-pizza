@@ -20,6 +20,8 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # D
 
+**Desvio padrão**: É definido como a raiz quadrada positiva da variância (Bussab et al, 2010). Em probabilidade, o desvio padrão ou desvio padrão populacional é uma medida de dispersão em torno da média populacional de uma variável aleatória. Em estatística, desvio padrão amostral indica uma medida de dispersão dos dados em torno de média amostral [Wikipédia](https://pt.wikipedia.org/wiki/Desvio_padr%C3%A3o). 
+
 # E
 
 # F
@@ -92,3 +94,5 @@ Vineet Chaoji, Rajeev Rastogi, and Gourav Roy. 2016. Machine learning in the rea
 Alpaydin, Ethem. Introduction to Machine Learning. 2.ed. Massachusetts: MIT Press, 2010.
 
 Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeiro: Elsevier, 2013.
+
+Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
