@@ -35,7 +35,7 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # M
 
-**Mediana**: A mediana de um grupo de itens é o valor do item central quando todos os itens do grupo estão ordenados de forma crescente ou decrescente. Para um grupo com 3 valores, a mediana é o valor de posição 2, quando os valores estão ordenados. Exemplo: No grupo [5, 10, 15], a mediana é o 10. Já em grupos que a quantidade de valores é par, a mediana é a média dos valores centrais. Exemplo: No grupo [5, 10, 15, 20], a mediana é a média entre 10 e 15 (os valores centrais), no caso, 12,5 [Kazmier, Leonard. 2007. Estatística aplicada à administração e economia]
+**Mediana**: A mediana de um grupo de itens é o valor do item central quando todos os itens do grupo estão ordenados de forma crescente ou decrescente. Para um grupo com 3 valores, a mediana é o valor de posição 2, quando os valores estão ordenados. Exemplo: No grupo [5, 10, 15], a mediana é o 10. Já em grupos que a quantidade de valores é par, a mediana é a média dos valores centrais. Exemplo: No grupo [5, 10, 15, 20], a mediana é a média entre 10 e 15 (os valores centrais), no caso, 12,5 (Kazmier, Leonard. 2007. Estatística aplicada à administração e economia).
 
 # N
 
