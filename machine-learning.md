@@ -30,7 +30,7 @@
 
 ## Livros
  - [Understanding Machine Learning From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-
+ - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 
 ## Tutoriais
   - [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
