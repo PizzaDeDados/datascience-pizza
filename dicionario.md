@@ -72,6 +72,8 @@ quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 **Variáveis Categóricas**: variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a varivel é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
 
+**Variância *(deviance)***: é a medida de dispersão de uma métrica qualquer. Expressa o desvio de valores de um conjunto de sua média.
+
 # X
 
 # W
