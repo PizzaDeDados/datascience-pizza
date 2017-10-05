@@ -20,7 +20,7 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # D
 
-**Desvio padrão**: É definido como a raiz quadrada positiva da variância (Bussab et al, 2010). Em probabilidade, o desvio padrão ou desvio padrão populacional é uma medida de dispersão em torno da média populacional de uma variável aleatória. Em estatística, desvio padrão amostral indica uma medida de dispersão dos dados em torno de média amostral [Wikipédia](https://pt.wikipedia.org/wiki/Desvio_padr%C3%A3o). 
+**Desvio padrão**: É definido como a raiz quadrada positiva da variância (Bussab et al, 2010). Em probabilidade, o desvio padrão ou desvio padrão populacional é uma medida de dispersão em torno da média populacional de uma variável aleatória. Em estatística, desvio padrão amostral indica uma medida de dispersão dos dados em torno de média amostral [Wikipédia](https://pt.wikipedia.org/wiki/Desvio_padr%C3%A3o).
 
 # E
 
@@ -37,7 +37,7 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 # K
 **K-means clustering**: É um algoritmo de agrupamento (clustering) que utiliza distância euclidiana para dividir/organizar/separar os N valores de uma amostra em K subconjuntos. K é definido previamente e o algoritmo faz o trabalho de calcular a distribuição da amostra nos subconjuntos mais próximos. Os pontos de onde mede-se a distância euclidiana, que são os centros dos subconjuntos (K0,K1,K2,Kn) são definidos aleatoriamente na primeira iteração e a cada iteração posterior são movimentados afim de distribuir a amostra em subconjuntos de tamanhos iguais.
 ![k-means](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
- 
+
 
 # L
 
@@ -57,7 +57,14 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # R
 
+
 **Regressão Linear**: conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a a função linear resultante e os dados. [Referência](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
+
+
+**Random Forest**: método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algorítimos conhecidos
+(logistic regression, linear regression,etc). Esse modelo é obtido pela construção de árvores de decisão, que conforme vão sendo construídas, decidem
+quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
+>>>>>>> b9c0964e5a6deefae575831ccebad11f764c38ac
 
 # S
 
@@ -70,6 +77,8 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 # V
 
 **Variáveis Categóricas**: variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a varivel é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
+
+**Vetor**: Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo.[1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure)
 
 # X
 
@@ -100,3 +109,7 @@ Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeir
 Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
 
 Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap. 3.4, pág. 52.
+
+Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistical Learning (2nd ed.). Springer. ISBN 0-387-95284-5, 2008.
+
+Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
