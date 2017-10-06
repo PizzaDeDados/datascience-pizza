@@ -49,6 +49,23 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 # M
 
+**Matriz**: Dados dois números naturais m e n não-nulos, de­nomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simboliza­do por a.., em que i indica a linha e j a coluna a que pertence o elemento.
+
+Numa matriz quadrada destacam-se
+	•   diagonal principal: au e a22.
+	•   diagonal secundária: a12 e a21.
+
+Nesta matriz quadrada de ordem 3, tem-se
+	•    diagonal principal: an, a22 e a33;
+	•    diagonal secundária: a,3, a22 e a31.
+
+Matrizes especiais
+Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (especial).
+	•    Matriz nula é toda matriz que tem todos os ele­mentos iguais a zero. Representa-se por Om x n.
+	•    Matriz identidade de ordem n ou matriz uni­dade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a l e os demais, nulos.
+	•    Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
+[https://www.resumoescolar.com.br/matematica/matriz-quadrada/]
+
 # N
 
 # O
@@ -116,3 +133,4 @@ https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-r
 
 http://leg.ufpr.br/~silvia/CE055/node8.html
 
+https://www.resumoescolar.com.br/matematica/matriz-quadrada/
