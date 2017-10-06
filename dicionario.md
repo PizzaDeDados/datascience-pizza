@@ -30,6 +30,9 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # H
 
+**Hipótese**: Trata-se de supostas respostas para um problema em questão. É importante que a proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
+[Referência](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
+
 # I
 
 # J
