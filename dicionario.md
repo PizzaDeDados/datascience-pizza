@@ -24,6 +24,8 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # E
 
+**Ensemble Learning**: Método de aprendizado que consiste em utilizar a predição de vários algoritmos de Aprendizado de Máquina e combinar seus resultados de modo à obter uma predição melhorada. Um exemplo conhecido é o Random Forest, que utiliza diversas Decision Trees para fazer sua predição. [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning)
+
 # F
 
 # G
