@@ -30,6 +30,11 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # H
 
+** Hipótese nula**: Hipótese inicial a ser testada, normalmente baseada em análises anteriores ou conhecimentos especialiados.
+[Referências]
+[1](https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/null-and-alternative-hypotheses/)
+[2](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul)
+
 # I
 
 # J
