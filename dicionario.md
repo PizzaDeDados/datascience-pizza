@@ -30,6 +30,10 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # H
 
+**Histograma**: Um gráfico composto por retângulos justapostos em que a base de cada um deles corresponde ao intervalo de classe e a sua área à respectiva frequência. Um histograma é utilizado para representar a distribuição de frequências de variáveis *contínuas*. Os valores observáveis da variável são divididos em classes (faixas de valores) e, então, conta-se a frequência de ocorrência dos valores em cada classe. O histograma é o gráfico que relaciona as classes no eixo X e valores proporcionais à frequência no eixo Y.
+
+![histograma](https://upload.wikimedia.org/wikipedia/commons/d/dd/Histograma_wiki1.png "Histograma da coleta de HDL de um grupo de 18 pacientes. Seis classes definidas em intervalos de 5 mg/dL.")
+
 # I
 
 # J
