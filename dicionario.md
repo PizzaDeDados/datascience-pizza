@@ -80,6 +80,8 @@ quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 **Vetor**: Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo.[1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure)
 
+**Variáveis Discretas**: variável que possui valor quantitativo, ou seja, que pode ser contado. Em outras palavras, são variáveis com características mensuráveis que podem assumir apenas um número finito ou infinito contável de valores e, assim, somente fazem sentido valores inteiros. Geralmente são o resultado de contagens. Exemplos: número de filhos, número de bactérias por litro de leite. [http://leg.ufpr.br/~silvia/CE055/node8.html]
+
 # X
 
 # W
@@ -109,3 +111,8 @@ Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeir
 Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistical Learning (2nd ed.). Springer. ISBN 0-387-95284-5, 2008.
 
 Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
+
+https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246
+
+http://leg.ufpr.br/~silvia/CE055/node8.html
+
