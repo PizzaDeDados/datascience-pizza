@@ -10,4 +10,7 @@
 
 ## Grupos
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
+
+## Cursos
+- [Deep Learning Specialization - Coursera by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
   
