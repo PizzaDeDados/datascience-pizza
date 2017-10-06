@@ -1,4 +1,4 @@
-# A
+﻿# A
 
 **Algoritmos** são conjuntos de passos finitos e organizados que, quando executados, realizam uma tarefa. Mais detalhes em [1](https://www.youtube.com/watch?v=8mei6uVttho), [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms).
 
@@ -12,6 +12,12 @@
 
 **Bancos não-relacionais**: Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e [Gessert et. al. 2016](
 https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
+
+**Bancos de Dados Relacional**: O conceito de bancos de dados relacionais está na forma em que eles são implementados, que estabelece uma relação lógica entre os dados, para que a repetição de dados (redundância) seja a menor possível, economizando espaço em disco e aumentando a velocidade de consulta dos dados. 
+
+Um banco de dados relacional possui como entidade central tabelas, onde as colunas armazenam os tipos de dados e as linhas um caso específico de dados, sendo chamada de tupla ou registro. Também é importante o conceito de chave, que identifica unicamente um registro.
+O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado Edgar Frank Codd publicou um artigo onde foi definido formalmente o modelo relacional. Em 1985 o mesmo matemático publicou um artigo com as 13 regras que caracterizam um modelo de dados relacional.
+[https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246]
 
 
 # C
