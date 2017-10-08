@@ -13,12 +13,6 @@
 **Bancos não-relacionais**: Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e [Gessert et. al. 2016](
 https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
-**Banco de Dados Relacional**: O conceito de bancos de dados relacionais está na forma em que eles são implementados, que estabelece uma relação lógica entre os dados, para que a repetição de dados (redundância) seja a menor possível, economizando espaço em disco e aumentando a velocidade de consulta dos dados. 
-
-Um banco de dados relacional possui como entidade central tabelas, onde as colunas armazenam os tipos de dados e as linhas um caso específico de dados, sendo chamada de tupla ou registro. Também é importante o conceito de chave, que identifica unicamente um registro.
-O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado Edgar Frank Codd publicou um artigo onde foi definido formalmente o modelo relacional. Em 1985 o mesmo matemático publicou um artigo com as 13 regras que caracterizam um modelo de dados relacional.
-[Portal da Educação - Bancos de Dados Relacionais]
-(https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246)
 
 # C
 
@@ -92,6 +86,9 @@ quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 **Variáveis Categóricas**: variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a varivel é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
 
+**Variáveis Discretas**: variável que possui valor quantitativo, ou seja, que pode ser contado. Em outras palavras, são variáveis com características mensuráveis que podem assumir apenas um número finito ou infinito contável de valores e, assim, somente fazem sentido valores inteiros. Geralmente são o resultado de contagens. Exemplos: número de filhos, número de bactérias por litro de leite. [Tipos de Variáveis] (http://leg.ufpr.br/~silvia/CE055/node8.html)
+
+
 **Vetor**: Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo.[1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure)
 
 # X
@@ -128,4 +125,4 @@ Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistica
 
 Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
 
-https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246
+http://leg.ufpr.br/~silvia/CE055/node8.html
