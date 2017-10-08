@@ -17,7 +17,8 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 Um banco de dados relacional possui como entidade central tabelas, onde as colunas armazenam os tipos de dados e as linhas um caso específico de dados, sendo chamada de tupla ou registro. Também é importante o conceito de chave, que identifica unicamente um registro.
 O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado Edgar Frank Codd publicou um artigo onde foi definido formalmente o modelo relacional. Em 1985 o mesmo matemático publicou um artigo com as 13 regras que caracterizam um modelo de dados relacional.
-[https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246]
+[Portal da Educação - Bancos de Dados Relacionais]
+(https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246)
 
 
 # C
