@@ -55,6 +55,24 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 # M
 
+**Matriz**: Dados dois números naturais m e n não-nulos, de-nomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simboliza¬do por a.., em que i indica a linha e j a coluna a que pertence o elemento.
+
+Numa matriz quadrada destacam-se
+	•   diagonal principal: au e a22.
+	•   diagonal secundária: a12 e a21.
+
+Nesta matriz quadrada de ordem 3, tem-se
+	•    diagonal principal: an, a22 e a33;
+	•    diagonal secundária: a,3, a22 e a31.
+
+Matrizes especiais
+Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (especial).
+	•    Matriz nula é toda matriz que tem todos os ele¬mentos iguais a zero. Representa-se por Om x n.
+  •    Matriz identidade de ordem n ou matriz uni¬dade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a l e os demais, nulos.
+	•    Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
+[Resumo escolar - Matrizes] (https://www.resumoescolar.com.br/matematica/matriz-quadrada/)
+
+
 **Mediana**: A mediana de um grupo de itens é o valor do item central quando todos os itens do grupo estão ordenados de forma crescente ou decrescente. Para um grupo com 3 valores, a mediana é o valor de posição 2, quando os valores estão ordenados. Exemplo: No grupo [5, 10, 15], a mediana é o 10. Já em grupos que a quantidade de valores é par, a mediana é a média dos valores centrais. Exemplo: No grupo [5, 10, 15, 20], a mediana é a média entre 10 e 15 (os valores centrais), no caso, 12,5 (Kazmier, Leonard. 2007).
 
 # N
@@ -129,3 +147,5 @@ Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistica
 Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
 
 https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246
+
+https://www.resumoescolar.com.br/matematica/matriz-quadrada/
