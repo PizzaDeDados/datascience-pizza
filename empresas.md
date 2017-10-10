@@ -5,6 +5,7 @@
 |---|---|---|---|---|---|
 |   | Itaú | São Paulo-SP | Bancos |   |   |
 |   | GeekHunter Brasil | São Paulo-SP | Tecnologia da informação e serviços, Software e Internet |   |   |
+| ![logo](http://hekima.com/wp-content/uploads/2015/03/Hekima-Logo_Principal_Preto.png) | Hekima | Belo Horizonte e São Paulo-SP | Big Data e Inteligência Artificial | contato@hekima.com  | https://hekima.recruiterbox.com/ |
 |   | QuintilesIMS | São Paulo | Indústria farmacêutica |   |   |
 |   | Keyrus | São Paulo-SP | Tecnologia da informação e serviços |   |   |
 |   | Management Solutions | São Paulo-SP | Consultoria de gerenciamento |   |   |
