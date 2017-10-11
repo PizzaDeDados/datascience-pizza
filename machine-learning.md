@@ -27,6 +27,7 @@
 
 ## Artigos 
  - [Ten Things Everyone Should Know About Machine Learning](https://www.forbes.com/sites/quora/2017/09/06/ten-things-everyone-should-know-about-machine-learning/#1f1ae48a4e9e)
+ - [Introdução Visual ao aprendizado de máquina](http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/) [**pt-br**]
 
 ## Livros
  - [Understanding Machine Learning From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
