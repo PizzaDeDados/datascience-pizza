@@ -32,9 +32,13 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # H
 
+**Hipótese**: Trata-se de supostas respostas para um problema em questão. É importante que a proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
+[Referência](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
+
 **Histograma**: Um gráfico composto por retângulos justapostos em que a base de cada um deles corresponde ao intervalo de classe e a sua área à respectiva frequência. Um histograma é utilizado para representar a distribuição de frequências de variáveis *contínuas*. Os valores observáveis da variável são divididos em classes (faixas de valores) e, então, conta-se a frequência de ocorrência dos valores em cada classe. O histograma é o gráfico que relaciona as classes no eixo X e valores proporcionais à frequência no eixo Y.
 
 ![histograma](https://upload.wikimedia.org/wikipedia/commons/d/dd/Histograma_wiki1.png "Histograma da coleta de HDL de um grupo de 18 pacientes. Seis classes definidas em intervalos de 5 mg/dL.")
+
 
 # I
 
@@ -53,6 +57,8 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 **Modelatem Preditiva**: é a prática de extrair informações de uma massa de dados, afim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão. [Referência](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html)
 
+**Matriz**: Matriz é uma estrutura de dados utilizada para armazenar dados em mais de uma dimensão. Por exemplo, com duas dimensões, temos linhas e colunas acessadas com dois índices. 
+É possível criar matrizes de n dimensões, que serão acessadas com n índices. [Referência](https://en.wikipedia.org/wiki/Matrix_representation)
 # N
 
 # O
@@ -63,10 +69,6 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # P
 
-# Q
-
-**Quartil**: São valores que dividem um conjunto de elementos ordenados em quatro partes iguais, ou seja, cada parte contém 25% desses elementos. O primeiro quartil, Q1, é o número que deixa 25% das observações abaixo e 75% acima, enquanto que o terceiro quartil, Q3, deixa 75% das observações abaixo e 25% acima. Já Q2 é a mediana, deixa 50% das observações abaixo e 50% das observações acima.[Referência](https://sapientia.ualg.pt/bitstream/10400.1/2963/1/SFernandes_MMPinto_quartis_no_ensino.pdf).
-
 # R
 
 
@@ -76,7 +78,6 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 **Random Forest**: método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algorítimos conhecidos
 (logistic regression, linear regression,etc). Esse modelo é obtido pela construção de árvores de decisão, que conforme vão sendo construídas, decidem
 quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
->>>>>>> b9c0964e5a6deefae575831ccebad11f764c38ac
 
 # S
 

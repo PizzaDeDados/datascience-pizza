@@ -88,8 +88,8 @@
 
 
 ### Recomendados
-  - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
-  - The Elements of Statistical Learning - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
+  - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) - [Robert Tibshirani, Trevor Hastie]
+  - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
   - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
 
 <h2 id="cursos">Cursos</h2>
