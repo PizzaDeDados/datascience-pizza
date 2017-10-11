@@ -63,7 +63,7 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 # Q
 
-**Quartil**: São valores que dividem um conjunto de elementos ordenados em quatro partes iguais, ou seja, cada parte contém 25% desses elementos. O primeiro quartil, Q1, é o número que deixa 25% das observações abaixo e 75% acima, enquanto que o terceiro quartil, Q3, deixa 75% das observações abaixo e 25% acima. Já Q2 é a mediana, deixa 50% das observações abaixo e 50% das observações acima. [Referência](https://sapientia.ualg.pt/bitstream/10400.1/2963/1/SFernandes_MMPinto_quartis_no_ensino.pdf).
+**Quartil**: São valores que dividem um conjunto de elementos ordenados em quatro partes iguais, ou seja, cada parte contém 25% desses elementos. O primeiro quartil, Q1, é o número que deixa 25% das observações abaixo e 75% acima, enquanto que o terceiro quartil, Q3, deixa 75% das observações abaixo e 25% acima. Já Q2 é a mediana, deixa 50% das observações abaixo e 50% das observações acima.[Referência](https://sapientia.ualg.pt/bitstream/10400.1/2963/1/SFernandes_MMPinto_quartis_no_ensino.pdf).
 
 # R
 
