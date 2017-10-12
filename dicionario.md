@@ -35,6 +35,8 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 **Hipótese**: Trata-se de supostas respostas para um problema em questão. É importante que a proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
 [Referência](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
 
+**Hipótese Nula**:hipótese que é colocada a prova em teste de hipótese. Em geral indica uma igualdade a ser contestada.[Referência](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul)
+
 **Histograma**: Um gráfico composto por retângulos justapostos em que a base de cada um deles corresponde ao intervalo de classe e a sua área à respectiva frequência. Um histograma é utilizado para representar a distribuição de frequências de variáveis *contínuas*. Os valores observáveis da variável são divididos em classes (faixas de valores) e, então, conta-se a frequência de ocorrência dos valores em cada classe. O histograma é o gráfico que relaciona as classes no eixo X e valores proporcionais à frequência no eixo Y.
 
 ![histograma](https://upload.wikimedia.org/wikipedia/commons/d/dd/Histograma_wiki1.png "Histograma da coleta de HDL de um grupo de 18 pacientes. Seis classes definidas em intervalos de 5 mg/dL.")
@@ -55,7 +57,7 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 **Mediana**: A mediana de um grupo de itens é o valor do item central quando todos os itens do grupo estão ordenados de forma crescente ou decrescente. Para um grupo com 3 valores, a mediana é o valor de posição 2, quando os valores estão ordenados. Exemplo: No grupo [5, 10, 15], a mediana é o 10. Já em grupos que a quantidade de valores é par, a mediana é a média dos valores centrais. Exemplo: No grupo [5, 10, 15, 20], a mediana é a média entre 10 e 15 (os valores centrais), no caso, 12,5 (Kazmier, Leonard. 2007).
 
-**Matriz**: Matriz é uma estrutura de dados utilizada para armazenar dados em mais de uma dimensão. Por exemplo, com duas dimensões, temos linhas e colunas acessadas com dois índices. 
+**Matriz**: Matriz é uma estrutura de dados utilizada para armazenar dados em mais de uma dimensão. Por exemplo, com duas dimensões, temos linhas e colunas acessadas com dois índices.
 É possível criar matrizes de n dimensões, que serão acessadas com n índices. [Referência](https://en.wikipedia.org/wiki/Matrix_representation)
 # N
 
