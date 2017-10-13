@@ -138,6 +138,7 @@
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
  - [Datasets | Kaggle](https://www.kaggle.com/datasets)
+ - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 
 <h2 id="grupos">Grupos</h2>
 
