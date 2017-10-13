@@ -50,7 +50,7 @@ isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado p
 
 
 # I
-
+**Intervalo de Confiança**: Diferentes amostras podem ser retiradas de uma mesma população, e amostras diferentes podem resultar em estimativas diferentes. Isto é, um estimador é uma variável aleatória, podendo assumir valores diferentes para cada amostra. Então, ao invés de estimar o parâmetro de interesse por um único valor, é muito mais informativo estimá-lo por um intervalo de valores que considere a variação presente na amostra e que contenha o seu verdadeiro valor com determinada confiança.[Referência](http://leg.ufpr.br/~silvia/CE055/node56.html)
 # J
 
 # K
