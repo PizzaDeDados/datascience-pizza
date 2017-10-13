@@ -26,3 +26,4 @@
   - [Visualising Data](http://www.visualisingdata.com/)
   - PT-BR [We Viz](http://www.weviz.com/)
   - [WTF Visualizations](http://viz.wtf/)
+  - [The Python Graph Gallery](https://python-graph-gallery.com/)

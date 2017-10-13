@@ -88,8 +88,8 @@
 
 
 ### Recomendados
-  - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
-  - The Elements of Statistical Learning - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
+  - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) - [Robert Tibshirani, Trevor Hastie]
+  - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
   - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
 
 <h2 id="cursos">Cursos</h2>
@@ -138,6 +138,7 @@
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
  - [Datasets | Kaggle](https://www.kaggle.com/datasets)
+ - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 
 <h2 id="grupos">Grupos</h2>
 
@@ -189,6 +190,7 @@
 |09|[Nerd Tech #5 - Machine Learning](https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/)| [NerdTech](https://jovemnerd.com.br/playlist/nerdtech/) | `Caio Gomes, Guilherme Silveira, Paulo Silveira` |
 |10|[PODEntender #019 Sobre Deep Learning](http://dragoesdegaragem.com/podentender/019-sobre-deep-learning)| [PODEntender](http://dragoesdegaragem.com/podentender) | `Antonio Marinho(Tonho), Carol Lacerda, Fábio Neves(Dalton), Dave Canton` |
 |11|[Data Skeptic - Mini-episódios e entrevistas com profissionais sobre tópicos de ML, DS, Estatística e IA ](https://dataskeptic.com/)| [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg/) | `Kyle Polich` |
+|12|[Data Science e Política na Operação Serenata de Amor – Hipsters #62 ](https://hipsters.tech/data-science-e-politica-na-operacao-serenata-de-amor-hipsters-62/)| [Hipsters Tech](https://hipsters.tech/) | `Paulo Silveira, Mauricio Linhares, Irio Musskopf, Eduardo Cuducos` |
 
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
