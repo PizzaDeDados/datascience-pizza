@@ -97,6 +97,18 @@
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
 
+### edx.org
+Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
+
+- [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)(UC San Diego)
+- [Programming for Data Science](https://www.edx.org/course/programming-data-science-adelaidex-programx)(The University of Adelaide)
+- [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)(Microsoft)
+- [Introduction to R for Data Science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-6)(Microsoft)
+- [Machine Learning for Data Science](https://www.edx.org/course/machine-learning-data-science-uc-san-diegox-ds220x)(UC San Diego)
+- [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x-1)(Columbia University)
+- [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1)(Columbia University)
+- [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics-harvardx-ph125-1x)(Harvard University)
+
 ### DataScience Academy
   - [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
   - [Big Data Fundamentos](https://www.datascienceacademy.com.br/public-course?courseid=big-data-fundamentos)
@@ -176,6 +188,10 @@
 - [50 of the Best Data Science Blogs](https://www.springboard.com/blog/data-science-blogs/) by Springboard
 
 <h2 id="podcasts">Podcasts</h2>
+
+- Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)) - em inglês
+
+- Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch)) - em inglês
 
 | Number | Name | Platform  | Author | 
 | :---: | :--- | :---: | :---: |
