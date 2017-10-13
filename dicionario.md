@@ -46,6 +46,11 @@ isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado p
 
 # H
 
+**Hipótese nula**: Hipótese inicial a ser testada, normalmente baseada em análises anteriores ou conhecimentos especialiados.
+[Referências]
+[1](https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/null-and-alternative-hypotheses/)
+[2](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul)
+
 **Hipótese**: Trata-se de supostas respostas para um problema em questão. É importante que a proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
 [Referência](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
 
