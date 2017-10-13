@@ -189,6 +189,8 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 
 <h2 id="podcasts">Podcasts</h2>
 
+- Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)) - em inglês
+
 | Number | Name | Platform  | Author | 
 | :---: | :--- | :---: | :---: |
 |01|[DatabaseCast  2: Mineração de dados](http://databasecast.com.br/wp/databasecast-2-mineracao-de-dados/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Ary Bressane` |
