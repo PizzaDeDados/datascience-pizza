@@ -85,6 +85,14 @@
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): disponível em Jupyter notebooks
+  - [Building Machine Learning Systems with Python](https://books.google.com.br/books/about/Building_Machine_Learning_Systems_with_P.html?id=C-yglCEcK0sC&redir_esc=y) - Willi Richert ([source code](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython))
+  - [Data Science from Scratch](https://books.google.com.br/books/about/Data_Science_from_Scratch.html?id=24kdCAAAQBAJ&redir_esc=y) - Joel Grus
+  - [Machine Learning](https://books.google.com.br/books?id=xOGAngEACAAJ&dq=machine+learning&hl=pt-BR&sa=X&redir_esc=y) - Tom Mitchell
+
+### Intermediários
+  - [The Elements of Statistical Learning](https://books.google.com.br/books?id=yPfZBwAAQBAJ&printsec=frontcover&dq=the+elements+of+statistical+learning&hl=pt-BR&sa=X&redir_esc=y#v=onepage&q=the%20elements%20of%20statistical%20learning&f=false) - Trevor Hastie, Robert Tibshirani e Jerome Friedman
+  - [Pattern Recognition and Machine Learning](https://books.google.com.br/books?id=kTNoQgAACAAJ&dq=pattern+recognition+and+machine+learning&hl=pt-BR&sa=X&ved=0ahUKEwiF3JbyhO7WAhVCgJAKHR4BD9YQ6AEIJzAA) - Christopher M. Bishop
+
 
 
 ### Recomendados
