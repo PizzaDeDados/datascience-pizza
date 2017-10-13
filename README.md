@@ -93,12 +93,13 @@
   - [The Elements of Statistical Learning](https://books.google.com.br/books?id=yPfZBwAAQBAJ&printsec=frontcover&dq=the+elements+of+statistical+learning&hl=pt-BR&sa=X&redir_esc=y#v=onepage&q=the%20elements%20of%20statistical%20learning&f=false) - Trevor Hastie, Robert Tibshirani e Jerome Friedman
   - [Pattern Recognition and Machine Learning](https://books.google.com.br/books?id=kTNoQgAACAAJ&dq=pattern+recognition+and+machine+learning&hl=pt-BR&sa=X&ved=0ahUKEwiF3JbyhO7WAhVCgJAKHR4BD9YQ6AEIJzAA) - Christopher M. Bishop
 
-
-
 ### Recomendados
   - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) - [Robert Tibshirani, Trevor Hastie]
   - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
   - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
+
+<h2 id="mindmaps">Mindmaps / Cheatsheets</h2>
+  - [Mindmap resumindo vários conceitos de Machine Learning e Data Science](https://github.com/dformoso/machine-learning-mindmap) - [Cheatsheets de Python para Data Science e Machine Learning](https://github.com/kailashahirwar/cheatsheets-ai)
 
 <h2 id="cursos">Cursos</h2>
 
