@@ -37,8 +37,8 @@
       * [Inteligência Artificial](https://github.com/leportella/data-science-roadmap/blob/master/inteligencia-artificial.md)
       * [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
       * [Visualização de dados](https://github.com/leportella/data-science-roadmap/blob/master/visualizacao-de-dados.md)
-      
- 
+
+
 --------------------------------------------------
 
 <h2 id="recomendacoes">Recomendações</h2>
@@ -63,14 +63,14 @@
   - Spark
   - Estatística Bayesiana
   - Hive
-  - Hadoop 
+  - Hadoop
   - Julia
   - Computação distribuída com AWS e Google Cloud
-  
+
 <h2 id="videos">Vídeos</h2>
 
 ### Estudos
- 
+
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
 
 ### Webcasts & Webinars
@@ -189,11 +189,11 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 
 <h2 id="podcasts">Podcasts</h2>
 
-- Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)) - em inglês
+- Lista de podcasts de Data Science oferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)) - em inglês
 
 - Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch)) - em inglês
 
-| Number | Name | Platform  | Author | 
+| Number | Name | Platform  | Author |
 | :---: | :--- | :---: | :---: |
 |01|[DatabaseCast  2: Mineração de dados](http://databasecast.com.br/wp/databasecast-2-mineracao-de-dados/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Ary Bressane` |
 |02|[DatabaseCast 53: Cientista de dados](http://databasecast.com.br/wp/databasecast-53-cientista-de-dados/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Marcelo Glauco` |
