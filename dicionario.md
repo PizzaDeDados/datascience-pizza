@@ -23,6 +23,8 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 **Desvio padrão**: É definido como a raiz quadrada positiva da variância (Bussab et al, 2010). Em probabilidade, o desvio padrão ou desvio padrão populacional é uma medida de dispersão em torno da média populacional de uma variável aleatória. Em estatística, desvio padrão amostral indica uma medida de dispersão dos dados em torno de média amostral [Wikipédia](https://pt.wikipedia.org/wiki/Desvio_padr%C3%A3o).
 
+**Distribuição Normal**: A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[Referência](http://leg.ufpr.br/~silvia/CE055/node44.html)
+
 # E
 
 **Ensemble Learning**: Método de aprendizado que consiste em utilizar a predição de vários algoritmos de Aprendizado de Máquina e combinar seus resultados de modo à obter uma predição melhorada. Um exemplo conhecido é o Random Forest, que utiliza diversas Decision Trees para fazer sua predição. [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning)
