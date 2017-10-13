@@ -114,6 +114,8 @@ Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (
 
 # Q
 
+**Quartil (*Quartile*)**: Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.*  um conjunto que contem os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8.  [Wiki](https://en.wikipedia.org/wiki/Quartile)
+
 # R
 
 **Regressão Linear**: Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a a função linear resultante e os dados. [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
