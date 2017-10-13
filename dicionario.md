@@ -88,6 +88,7 @@ isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado p
 
 **Regressão Linear**: conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a a função linear resultante e os dados. [Referência](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
 
+**Redes Neurais**: são sistemas físicos que podem adquirir, armazenar e utilizar conhecimentos experimentais, que podem alcançar uma boa performance, devido à sua densa interconexão entre os nós da rede.(Lippmann, 1997 apud. Fernandes, 2003)
 
 **Random Forest**: método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algorítimos conhecidos
 (logistic regression, linear regression,etc). Esse modelo é obtido pela construção de árvores de decisão, que conforme vão sendo construídas, decidem
@@ -142,3 +143,5 @@ Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap
 Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistical Learning (2nd ed.). Springer. ISBN 0-387-95284-5, 2008.
 
 Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
+
+FERNANDES, Anita Maria da Rocha. Inteligência Artificial: noções gerais. 1.ed. Florianópolis: Visual Books, 2003.
