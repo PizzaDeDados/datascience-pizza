@@ -13,6 +13,7 @@
 **Bancos não-relacionais**: Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e [Gessert et. al. 2016](
 https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
+**Bias**: é uma característica de uma técnica estatística ou de seus resultados, pelo que o valor esperado dos resultados difere do parâmetro quantitativo subjacente verdadeiro sendo estimado.[Referência](https://en.wikipedia.org/wiki/Bias_(statistics))
 
 # C
 
@@ -22,9 +23,15 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 **Desvio padrão**: É definido como a raiz quadrada positiva da variância (Bussab et al, 2010). Em probabilidade, o desvio padrão ou desvio padrão populacional é uma medida de dispersão em torno da média populacional de uma variável aleatória. Em estatística, desvio padrão amostral indica uma medida de dispersão dos dados em torno de média amostral [Wikipédia](https://pt.wikipedia.org/wiki/Desvio_padr%C3%A3o).
 
+**Distribuição Normal**: A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[Referência](http://leg.ufpr.br/~silvia/CE055/node44.html)
+
 # E
 
 **Ensemble Learning**: Método de aprendizado que consiste em utilizar a predição de vários algoritmos de Aprendizado de Máquina e combinar seus resultados de modo à obter uma predição melhorada. Um exemplo conhecido é o Random Forest, que utiliza diversas Decision Trees para fazer sua predição. [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning)
+
+**Erro quadrático médio**: O erro quadrático médio ou desvio quadrático médio é uma medida do erro cometido ao estimar um observável [MSE](https://en.wikipedia.org/wiki/Mean_squared_error). Sejam ![eq1](http://www.sciweavers.org/tex2img.php?eq=%28x_i%2C%20%5Chat%7Bx%7D_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) o i-ésimo valor observardo e o i-ésimo valor estimado, respectivamente, em um conjunto de N observações, 
+isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado por ![eq2](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20%28%5Chat%7Bx%7D_i%20-%20x_i%29%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
+
 
 # F
 
@@ -35,12 +42,16 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 **Hipótese**: Trata-se de supostas respostas para um problema em questão. É importante que a proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
 [Referência](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
 
+
+**Hipótese Nula**:hipótese que é colocada a prova em teste de hipótese. Em geral indica uma igualdade a ser contestada.[Referência](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul)
+
 **Histograma**: Um gráfico composto por retângulos justapostos em que a base de cada um deles corresponde ao intervalo de classe e a sua área à respectiva frequência. Um histograma é utilizado para representar a distribuição de frequências de variáveis *contínuas*. Os valores observáveis da variável são divididos em classes (faixas de valores) e, então, conta-se a frequência de ocorrência dos valores em cada classe. O histograma é o gráfico que relaciona as classes no eixo X e valores proporcionais à frequência no eixo Y.
 
 ![histograma](https://upload.wikimedia.org/wikipedia/commons/d/dd/Histograma_wiki1.png "Histograma da coleta de HDL de um grupo de 18 pacientes. Seis classes definidas em intervalos de 5 mg/dL.")
 
-
 # I
+
+**Intervalo de Confiança**: Diferentes amostras podem ser retiradas de uma mesma população, e amostras diferentes podem resultar em estimativas diferentes. Isto é, um estimador é uma variável aleatória, podendo assumir valores diferentes para cada amostra. Então, ao invés de estimar o parâmetro de interesse por um único valor, é muito mais informativo estimá-lo por um intervalo de valores que considere a variação presente na amostra e que contenha o seu verdadeiro valor com determinada confiança.[Referência](http://leg.ufpr.br/~silvia/CE055/node56.html)
 
 # J
 
@@ -59,6 +70,9 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 **Matriz**: Matriz é uma estrutura de dados utilizada para armazenar dados em mais de uma dimensão. Por exemplo, com duas dimensões, temos linhas e colunas acessadas com dois índices. 
 É possível criar matrizes de n dimensões, que serão acessadas com n índices. [Referência](https://en.wikipedia.org/wiki/Matrix_representation)
+
+**Média Móvel**: é uma técnica utilizada para analisar dados que cria várias médias de vários intervalos de dados dentro do dataset. A média móvel é calculada da seguinte maneira: dado um tamanho k de subset, o primeiro ponto da média móvel é obtido a partir da média dos k primeiros elementos. Depois, essa "janela" é movida para frente, excluindo o primeiro valor e calculando a média com o pŕoximo dado. Essa é uma técnica amplamente usada para suavizar curvas e descobrir tendências dentro dos dados, muito usada no setor financeiro. [Referência](https://en.wikipedia.org/wiki/Moving_average)
+
 # N
 
 # O
