@@ -1,4 +1,4 @@
-# A
+﻿# A
 
 **Algoritmos**: são conjuntos de passos finitos e organizados que, quando executados, realizam uma tarefa. Mais detalhes em [1](https://www.youtube.com/watch?v=8mei6uVttho), [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms).
 
@@ -25,13 +25,13 @@ https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 **Distribuição Normal**: A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[Referência](http://leg.ufpr.br/~silvia/CE055/node44.html)
 
+
 # E
 
 **Ensemble Learning**: Método de aprendizado que consiste em utilizar a predição de vários algoritmos de Aprendizado de Máquina e combinar seus resultados de modo à obter uma predição melhorada. Um exemplo conhecido é o Random Forest, que utiliza diversas Decision Trees para fazer sua predição. [Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning)
 
 **Erro quadrático médio**: O erro quadrático médio ou desvio quadrático médio é uma medida do erro cometido ao estimar um observável [MSE](https://en.wikipedia.org/wiki/Mean_squared_error). Sejam ![eq1](http://www.sciweavers.org/tex2img.php?eq=%28x_i%2C%20%5Chat%7Bx%7D_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) o i-ésimo valor observardo e o i-ésimo valor estimado, respectivamente, em um conjunto de N observações, 
 isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado por ![eq2](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20%28%5Chat%7Bx%7D_i%20-%20x_i%29%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
-
 
 # F
 
@@ -108,6 +108,8 @@ quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 **Variáveis Categóricas**: variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a varivel é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
 
+**Variáveis Discretas**: variável que possui valor quantitativo, ou seja, que pode ser contado. Em outras palavras, são variáveis com características mensuráveis que podem assumir apenas um número finito ou infinito contável de valores e, assim, somente fazem sentido valores inteiros. Geralmente são o resultado de contagens. Exemplos: número de filhos, número de bactérias por litro de leite. [Tipos de Variáveis] (http://leg.ufpr.br/~silvia/CE055/node8.html)
+
 **Vetor**: Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo.[1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure)
 
 # X
@@ -143,5 +145,7 @@ Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap
 Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistical Learning (2nd ed.). Springer. ISBN 0-387-95284-5, 2008.
 
 Bussab, Wilton de O., and Pedro A. Morettin. Estatística básica. 8.ed. Página 41. Saraiva, 2010.
+
+http://leg.ufpr.br/~silvia/CE055/node8.html
 
 FERNANDES, Anita Maria da Rocha. Inteligência Artificial: noções gerais. 1.ed. Florianópolis: Visual Books, 2003.
