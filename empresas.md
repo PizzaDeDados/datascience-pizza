@@ -23,7 +23,7 @@
 |  ![logo](http://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png) | [Globo.com](www.globo.com) | Rio de Janeiro-RJ  | Jornalismo  |   | https://talentos.globo.com/#/oportunidades |
 |   | [TFG](https://www.tfgco.com/) | São Paulo-SP   | Games  |   |  |
 |   | Cetax | São Paulo - SP | Consultoria de BI | contato@cetax.com.br | https://cetaxconsultoria.compleo.com.br/ |
-|  ![logo](https://imgur.com/a/Me8IW) | [99](https://www.99taxis.com/) | São Paulo-SP   | Ride-hailing  |   |  https://jobs.kenoby.com/99 |
+|  ![logo](https://i.imgur.com/JJF0M1u.png) | [99](https://www.99taxis.com/) | São Paulo-SP   | Ride-hailing  |   |  https://jobs.kenoby.com/99 |
 
 ## Sul 
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
