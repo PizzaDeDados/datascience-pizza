@@ -97,6 +97,18 @@
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
 
+### edx.org
+Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
+
+- [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)(UC San Diego)
+- [Programming for Data Science](https://www.edx.org/course/programming-data-science-adelaidex-programx)(The University of Adelaide)
+- [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)(Microsoft)
+- [Introduction to R for Data Science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-6)(Microsoft)
+- [Machine Learning for Data Science](https://www.edx.org/course/machine-learning-data-science-uc-san-diegox-ds220x)(UC San Diego)
+- [Statistical Thinking for Data Science and Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x-1)(Columbia University)
+- [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1)(Columbia University)
+- [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics-harvardx-ph125-1x)(Harvard University)
+
 ### DataScience Academy
   - [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
   - [Big Data Fundamentos](https://www.datascienceacademy.com.br/public-course?courseid=big-data-fundamentos)
@@ -138,6 +150,7 @@
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
  - [Datasets | Kaggle](https://www.kaggle.com/datasets)
+ - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 
 <h2 id="grupos">Grupos</h2>
 
@@ -176,6 +189,10 @@
 
 <h2 id="podcasts">Podcasts</h2>
 
+- Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)) - em inglês
+
+- Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch)) - em inglês
+
 | Number | Name | Platform  | Author | 
 | :---: | :--- | :---: | :---: |
 |01|[DatabaseCast  2: Mineração de dados](http://databasecast.com.br/wp/databasecast-2-mineracao-de-dados/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Ary Bressane` |
@@ -189,6 +206,7 @@
 |09|[Nerd Tech #5 - Machine Learning](https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/)| [NerdTech](https://jovemnerd.com.br/playlist/nerdtech/) | `Caio Gomes, Guilherme Silveira, Paulo Silveira` |
 |10|[PODEntender #019 Sobre Deep Learning](http://dragoesdegaragem.com/podentender/019-sobre-deep-learning)| [PODEntender](http://dragoesdegaragem.com/podentender) | `Antonio Marinho(Tonho), Carol Lacerda, Fábio Neves(Dalton), Dave Canton` |
 |11|[Data Skeptic - Mini-episódios e entrevistas com profissionais sobre tópicos de ML, DS, Estatística e IA ](https://dataskeptic.com/)| [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg/) | `Kyle Polich` |
+|12|[Data Science e Política na Operação Serenata de Amor – Hipsters #62 ](https://hipsters.tech/data-science-e-politica-na-operacao-serenata-de-amor-hipsters-62/)| [Hipsters Tech](https://hipsters.tech/) | `Paulo Silveira, Mauricio Linhares, Irio Musskopf, Eduardo Cuducos` |
 
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
