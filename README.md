@@ -26,17 +26,17 @@
   * [Dados em Imagens](#imagens)
   * Tópicos Relevantes:
 
-      * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/data-science-roadmap/blob/master/machine-learning.md)
-      * [Banco de dados](https://github.com/leportella/data-science-roadmap/blob/master/banco-de-dados.md)
-      * [Big Data](https://github.com/leportella/data-science-roadmap/blob/master/big-data.md)
-      * [Carreira](https://github.com/leportella/data-science-roadmap/blob/master/carreira.md)
-      * [Deep Learning](https://github.com/leportella/data-science-roadmap/blob/master/deep-learning.md)
-      * [Dicionário de termos em português](https://github.com/leportella/data-science-roadmap/blob/master/dicionario.md)
-      * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/data-science-roadmap/blob/master/empresas.md)
-      * [Geociências](https://github.com/leportella/data-science-roadmap/blob/master/geosciences.md)
-      * [Inteligência Artificial](https://github.com/leportella/data-science-roadmap/blob/master/inteligencia-artificial.md)
-      * [Repostagens relevantes](https://github.com/leportella/data-science-roadmap/blob/master/awesome-news.md)
-      * [Visualização de dados](https://github.com/leportella/data-science-roadmap/blob/master/visualizacao-de-dados.md)
+      * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/machine-learning.md)
+      * [Banco de dados](https://github.com/leportella/datascience-pizza/blob/master/banco-de-dados.md)
+      * [Big Data](https://github.com/leportella/datascience-pizza/blob/master/big-data.md)
+      * [Carreira](https://github.com/leportella/datascience-pizza/blob/master/carreira.md)
+      * [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/deep-learning.md)
+      * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
+      * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/datascience-pizza/blob/master/empresas.md)
+      * [Geociências](https://github.com/leportella/datascience-pizza/blob/master/geosciences.md)
+      * [Inteligência Artificial](https://github.com/leportella/datascience-pizza/blob/master/inteligencia-artificial.md)
+      * [Repostagens relevantes](https://github.com/leportella/datascience-pizza/blob/master/awesome-news.md)
+      * [Visualização de dados](https://github.com/leportella/datascience-pizza/blob/master/visualizacao-de-dados.md)
       
  
 --------------------------------------------------
