@@ -128,6 +128,8 @@ Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (
 (logistic regression, linear regression,etc). Esse modelo é obtido pela construção de árvores de decisão, que conforme vão sendo construídas, decidem
 quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
+**Regressão Logística**: A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritimo é comumente usado em problemas de classificação. [Referência](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
+
 # S
 
 # T
