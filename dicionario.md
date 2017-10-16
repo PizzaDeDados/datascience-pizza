@@ -46,15 +46,12 @@ isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado p
 
 # H
 
-**Hipótese nula**: Hipótese inicial a ser testada, normalmente baseada em análises anteriores ou conhecimentos especialiados.
+**Hipótese nula**: Hipótese inicial a ser testada, que é colocada em teste de hipótese. Normalmente baseada em análises anteriores ou conhecimentos especialiados em geral indica uma igualdade a ser contestada.
 [1](https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/null-and-alternative-hypotheses/)
 [2](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul)
 
 **Hipótese**: Trata-se de supostas respostas para um problema em questão. É importante que a proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
 [1](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
-
-
-**Hipótese Nula**: hipótese que é colocada a prova em teste de hipótese. Em geral indica uma igualdade a ser contestada.[1](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul)
 
 **Histograma**: Um gráfico composto por retângulos justapostos em que a base de cada um deles corresponde ao intervalo de classe e a sua área à respectiva frequência. Um histograma é utilizado para representar a distribuição de frequências de variáveis *contínuas*. Os valores observáveis da variável são divididos em classes (faixas de valores) e, então, conta-se a frequência de ocorrência dos valores em cada classe. O histograma é o gráfico que relaciona as classes no eixo X e valores proporcionais à frequência no eixo Y.
 
