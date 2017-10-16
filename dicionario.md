@@ -178,4 +178,6 @@ Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap
 
 Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeiro: Elsevier, 2013.
 
+Staab, Steffen, and Rudi Studer, eds. Handbook on ontologies. Springer Science & Business Media, 2010.
+
 Vineet Chaoji, Rajeev Rastogi, and Gourav Roy. 2016. Machine learning in the real world. Proc. VLDB Endow. 9, 13 (September 2016), 1597-1600. DOI: http://dx.doi.org/10.14778/3007263.3007318
