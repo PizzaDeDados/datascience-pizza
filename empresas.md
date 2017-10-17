@@ -38,7 +38,7 @@
 ## Nordeste
 | Logo  | Empresa  |  Cidade  |  Setor | Contato | Vagas |
 |---|---|---|---|---|---|
-
+| ![logo](https://avatars3.githubusercontent.com/u/13109725?v=4&s=400)  | Intelivix | Recife | Jurimetria, Big Data, IA | | | 
 
 ## Centro-Oeste
 | Logo  | Empresa  |  Cidade  |  Setor | Contato | Vagas |
