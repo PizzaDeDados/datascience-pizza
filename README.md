@@ -88,9 +88,9 @@
 
 
 ### Recomendados
-  - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) - [Robert Tibshirani, Trevor Hastie]
-  - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) - [Trevor Hastie, Robert Tibshirani, Jerome H. Friedman]
-  - Applied Predictive Modeling - [Max Kuhn, Kjell Johnson]
+  - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) - Robert Tibshirani, Trevor Hastie
+  - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) - Trevor Hastie, Robert Tibshirani, Jerome H. Friedman
+  - Applied Predictive Modeling - Max Kuhn, Kjell Johnson
 
 <h2 id="cursos">Cursos</h2>
 
@@ -126,7 +126,7 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
   - [O curso completo de Banco de Dados e SQL, sem mistérios](https://www.udemy.com/bancos-de-dados-relacionais-basico-avancado/)
 
 ### Udacity
-  - [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/)
+  - [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/) [**pt-br**]
   - [Introdução à Análise de Dados](https://br.udacity.com/course/intro-to-data-analysis--ud170/)
   - [Fundamentos da Programação com Python](https://br.udacity.com/course/programming-foundations-with-python--ud036/)
   - [Introdução à Ciência de Dados](https://br.udacity.com/course/intro-to-data-science--ud359/)
@@ -178,8 +178,8 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 - [DataCamp](https://www.datacamp.com/community/blog)
 - [Dataquest](https://www.dataquest.io/blog)
 - [OpenAI](https://blog.openai.com/)
-- [Big Data Business](http://www.bigdatabusiness.com.br) (pt)
-- [Hekima](http://developers.hekima.com) (pt)
+- [Big Data Business](http://www.bigdatabusiness.com.br) [**pt-br**]
+- [Hekima](http://developers.hekima.com) [**pt-br**]
 - [DeepGraph](http://deepgraph.io/blog/)
 
 ### Posts com listas de melhores blogs
@@ -189,10 +189,9 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 
 <h2 id="podcasts">Podcasts</h2>
 
-- Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)) - em inglês
+- Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)) 
 
-- Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch)) - em inglês
-
+- Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch))
 | Number | Name | Platform  | Author | 
 | :---: | :--- | :---: | :---: |
 |01|[DatabaseCast  2: Mineração de dados](http://databasecast.com.br/wp/databasecast-2-mineracao-de-dados/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Ary Bressane` |
@@ -210,7 +209,7 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
-- [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
+- [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/) [**pt-br**]
 
 <h2 id="imagens">Dados em Imagens</h2>
 <a href="https://www.domo.com/blog/data-never-sleeps-2-0/"><img src="https://web-assets.domo.com/blog/wp-content/uploads/2014/04/DataNeverSleeps_sm2.png" alt="infographic" /></a>
