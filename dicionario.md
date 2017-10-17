@@ -129,7 +129,7 @@ quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 # S
 
-**Support Vector Machine**: Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto. De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo àquela do conjunto definido pelas masgens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser extendido para permitir margens mais ou menos severas (hard vs. soft magin), projeções não lineares em espaçoes de dimensão superior (kernel trick), predições probabilisticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).  
+**Support Vector Machine**: Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo àquela do conjunto definido pelas masgens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser extendido para permitir margens mais ou menos severas (hard vs. soft magin), projeções não lineares em espaçoes de dimensão superior (kernel trick), predições probabilisticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).  
 
 # T
 
@@ -184,3 +184,5 @@ Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeir
 Staab, Steffen, and Rudi Studer, eds. Handbook on ontologies. Springer Science & Business Media, 2010.
 
 Vineet Chaoji, Rajeev Rastogi, and Gourav Roy. 2016. Machine learning in the real world. Proc. VLDB Endow. 9, 13 (September 2016), 1597-1600. DOI: http://dx.doi.org/10.14778/3007263.3007318
+
+Gareth James, Daniela Witten, Trevor Hastie e Robert Tibshirani. 2017. An Introduction to Statistical Learning. Spring. disponível em [link](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf). DOI: 10.1007/978-1-4614-7138-7
