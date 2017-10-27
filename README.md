@@ -136,6 +136,8 @@ Por tópicos:
 <h2 id="grupos">Grupos</h2>
 
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
+- [PyData BH - Telegram](https://t.me/pydatabh)
+- [PyData BsB - Telegram](https://t.me/PyDataBSB)
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
