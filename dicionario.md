@@ -116,6 +116,8 @@ Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (
 
 # P
 
+**Perceptron**: é um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algorítimo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
+
 # Q
 
 **Quartil (*Quartile*)**: Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.*  um conjunto que contem os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8.  [Wiki](https://en.wikipedia.org/wiki/Quartile)

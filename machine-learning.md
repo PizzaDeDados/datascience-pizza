@@ -21,18 +21,28 @@
 - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
 
 ## Grupos
+
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 
-
 ## Artigos 
+
+### Gerais
+
  - [Ten Things Everyone Should Know About Machine Learning](https://www.forbes.com/sites/quora/2017/09/06/ten-things-everyone-should-know-about-machine-learning/#1f1ae48a4e9e)
  - [Introdução Visual ao aprendizado de máquina](http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/) [**pt-br**]
 
+### Classes Desbalanceadas
+
+ - [Dealing with Unbalanced Class, SVM, Random Forest and Decision Tree in Python](http://bigdata-madesimple.com/dealing-with-unbalanced-class-svm-random-forest-and-decision-tree-in-python/)
+ - [How to Handle Imbalanced Classes in Machine Learning](https://elitedatascience.com/imbalanced-classes)
+
 ## Livros
+
  - [Understanding Machine Learning From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
  - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 
 ## Tutoriais
+
   - [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
   - [R Tutorial](http://www.cyclismo.org/tutorial/R/)

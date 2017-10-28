@@ -85,6 +85,7 @@
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): disponível em Jupyter notebooks
+  - [Data Science para Negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados](https://books.google.com.br/books?id=c4lAvgAACAAJ&dq=Data+Science+para+Neg%C3%B3cios:+O+que+voc%C3%AA+precisa+saber+sobre+minera%C3%A7%C3%A3o+de+dados+e+pensamento+anal%C3%ADtico+de+dados&hl=pt-BR&sa=X&ved=0ahUKEwiw1u_TgvjWAhVHk5AKHc62D2EQ6AEIJzAA)
 
 
 ### Recomendados
