@@ -110,6 +110,7 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 - [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1)(Columbia University)
 - [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics-harvardx-ph125-1x)(Harvard University)
 - [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)(Massachusetts Institute of Technology)
+- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)(Massachusetts Institute of Technology)
 
 ### DataScience Academy
   - [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
