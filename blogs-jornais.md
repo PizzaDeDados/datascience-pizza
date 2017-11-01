@@ -1,0 +1,21 @@
+# Blogs e Jornais de Relevância
+
+- [KDnuggets](http://www.kdnuggets.com/)
+- [Apple](https://machinelearning.apple.com/)
+- [Google](https://research.googleblog.com/)
+- [Google - unofficial](http://www.unofficialgoogledatascience.com)
+- [Facebook](https://research.fb.com/category/data-science)
+- [Uber](https://eng.uber.com/category/uberdata)
+- [Kaggle](http://blog.kaggle.com)
+- [Airbnb](https://medium.com/airbnb-engineering/data/home)
+- [Netflix](https://medium.com/netflix-techblog/tagged/data-science)
+- [Spotify](https://insights.spotify.com/us/category/inside-music/)
+- [Stack Overflow](https://stackoverflow.blog/tags/data)
+- [Moz](https://moz.com/devblog/category/data-science)
+- [ŷhat](http://blog.yhat.com)
+- [DataCamp](https://www.datacamp.com/community/blog)
+- [Dataquest](https://www.dataquest.io/blog)
+- [OpenAI](https://blog.openai.com/)
+- [Big Data Business](http://www.bigdatabusiness.com.br) [**pt-br**]
+- [Hekima](http://developers.hekima.com) [**pt-br**]
+- [DeepGraph](http://deepgraph.io/blog/)
