@@ -25,6 +25,11 @@
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 
+## Projetos
+
+- [Univariate Linear Regression with Gradient Descent and JS](https://github.com/javascript-machine-learning/univariate-linear-regression-gradient-descent-javascript)
+
+
 ## Artigos 
 
 ### Gerais
