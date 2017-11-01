@@ -67,6 +67,7 @@
   - Julia
   - Computação distribuída com AWS e Google Cloud
   
+--------------------------------------------------
 <h2 id="videos">Vídeos</h2>
 
 ### Estudos
@@ -76,6 +77,7 @@
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
+--------------------------------------------------
 <h2 id="livros">Livros</h2>
 
 ### Iniciantes
@@ -93,6 +95,10 @@
   - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) - Trevor Hastie, Robert Tibshirani, Jerome H. Friedman
   - Applied Predictive Modeling - Max Kuhn, Kjell Johnson
 
+### Lista de Melhores livros
+  - [6 books every Data Scientist should keep nearby](https://www.kdnuggets.com/2017/10/6-books-every-data-scientist-should-keep-nearby.html?utm_content=buffer8e99b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+--------------------------------------------------
 <h2 id="cursos">Cursos</h2>
 
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
