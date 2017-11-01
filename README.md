@@ -20,15 +20,15 @@
   * [Cursos](#cursos)
   * [Datasets](#datasets)
   * [Grupos](#grupos)
-  * [Blogs/Journals](#blogsjournals)
   * [Podcasts](#podcasts)
   * [Meteodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
-  * Tópicos Relevantes:
+  * Tópicos específicos:
 
       * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/machine-learning.md)
       * [Banco de dados](https://github.com/leportella/datascience-pizza/blob/master/banco-de-dados.md)
       * [Big Data](https://github.com/leportella/datascience-pizza/blob/master/big-data.md)
+      * [Blogs e Jornais](https://github.com/leportella/datascience-pizza/blob/master/blogs-jornais.md)
       * [Carreira](https://github.com/leportella/datascience-pizza/blob/master/carreira.md)
       * [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/deep-learning.md)
       * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
@@ -164,28 +164,6 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 - [Dados Abertos - Telegram](https://t.me/dadosabertos)
-
-<h2 id="blogsjournals">Blogs/ Journals</h2>
-
-- [KDnuggets](http://www.kdnuggets.com/)
-- [Apple](https://machinelearning.apple.com/)
-- [Google](https://research.googleblog.com/)
-- [Google - unofficial](http://www.unofficialgoogledatascience.com)
-- [Facebook](https://research.fb.com/category/data-science)
-- [Uber](https://eng.uber.com/category/uberdata)
-- [Kaggle](http://blog.kaggle.com)
-- [Airbnb](https://medium.com/airbnb-engineering/data/home)
-- [Netflix](https://medium.com/netflix-techblog/tagged/data-science)
-- [Spotify](https://insights.spotify.com/us/category/inside-music/)
-- [Stack Overflow](https://stackoverflow.blog/tags/data)
-- [Moz](https://moz.com/devblog/category/data-science)
-- [ŷhat](http://blog.yhat.com)
-- [DataCamp](https://www.datacamp.com/community/blog)
-- [Dataquest](https://www.dataquest.io/blog)
-- [OpenAI](https://blog.openai.com/)
-- [Big Data Business](http://www.bigdatabusiness.com.br) [**pt-br**]
-- [Hekima](http://developers.hekima.com) [**pt-br**]
-- [DeepGraph](http://deepgraph.io/blog/)
 
 ### Posts com listas de melhores blogs
 - [Top 10 blogs for data scientists](https://blog.coursera.org/top-10-blogs-data-scientists/) by Coursera
