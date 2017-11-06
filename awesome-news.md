@@ -5,7 +5,8 @@
  * **PT-BR** [Algoritmos e modelos utilizados pelo governo americano](http://algorithmtips.org/)
 
 <h2 id="carreira">Carreira</h2>
-* [Advice for New and Junior Data Scientists](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b)
+ * [Advice for New and Junior Data Scientists](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b)
+ * [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
 
 
 <h2 id="conceitos">Conceitos</h2>
