@@ -191,6 +191,9 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 |10|[PODEntender #019 Sobre Deep Learning](http://dragoesdegaragem.com/podentender/019-sobre-deep-learning)| [PODEntender](http://dragoesdegaragem.com/podentender) | `Antonio Marinho(Tonho), Carol Lacerda, Fábio Neves(Dalton), Dave Canton` |
 |11|[Data Skeptic - Mini-episódios e entrevistas com profissionais sobre tópicos de ML, DS, Estatística e IA ](https://dataskeptic.com/)| [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg/) | `Kyle Polich` |
 |12|[Data Science e Política na Operação Serenata de Amor – Hipsters #62 ](https://hipsters.tech/data-science-e-politica-na-operacao-serenata-de-amor-hipsters-62/)| [Hipsters Tech](https://hipsters.tech/) | `Paulo Silveira, Mauricio Linhares, Irio Musskopf, Eduardo Cuducos` |
+|13|[Tecnocast 077 - Cientista de Dados](https://tecnoblog.net/227424/tecnocast-077-cientista-de-dados/)| [Tecnoblog](https://tecnoblog.net/) | `Thiago Mobilon, Paulo Higa, Bernardo Santos Aflalo` |
+|14|[Episódio 001: Hello World](http://podcast.datascience.pizza/hello-world/)| [Pizza de dados](http://podcast.datascience.pizza/) | `Jessica Temporal, Leticia Portella e Gustavo Coelho` |
+
 
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
