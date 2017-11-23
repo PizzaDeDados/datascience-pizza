@@ -36,6 +36,7 @@
 
  - [Ten Things Everyone Should Know About Machine Learning](https://www.forbes.com/sites/quora/2017/09/06/ten-things-everyone-should-know-about-machine-learning/#1f1ae48a4e9e)
  - [Introdução Visual ao aprendizado de máquina](http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/) [**pt-br**]
+ - [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 ### Classes Desbalanceadas
 
