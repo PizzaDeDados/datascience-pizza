@@ -35,7 +35,8 @@
       * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/datascience-pizza/blob/master/empresas.md)
       * [Geociências](https://github.com/leportella/datascience-pizza/blob/master/geosciences.md)
       * [Inteligência Artificial](https://github.com/leportella/datascience-pizza/blob/master/inteligencia-artificial.md)
-      * [Repostagens relevantes](https://github.com/leportella/datascience-pizza/blob/master/awesome-news.md)
+      * [Processamento de Linguagem Natural](https://github.com/leportella/datascience-pizza/blob/master/processamento-de-linguagem-natural)
+      * [Reportagens relevantes](https://github.com/leportella/datascience-pizza/blob/master/awesome-news.md)
       * [Visualização de dados](https://github.com/leportella/datascience-pizza/blob/master/visualizacao-de-dados.md)
       
  
