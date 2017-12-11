@@ -33,3 +33,4 @@
 <h2 id="ferramentas">Ferramentas</h2>
  
  * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.4lsldtI)
+ * **PT-BR** [10 dicas para mudar do Matlab pro Python](http://leportella.com/pt-br/2017/05/06/10-dicas-matlab-para-python.html)
