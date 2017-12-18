@@ -132,8 +132,9 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
   - [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/python-coding/)
   - [Statistics for Business Analytics A-Z™](https://www.udemy.com/data-statistics/)
   - [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/r-programming/)
- - [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas/)
+  - [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas/)
   - [O curso completo de Banco de Dados e SQL, sem mistérios](https://www.udemy.com/bancos-de-dados-relacionais-basico-avancado/)
+  - [Data Science Career Guide - Interview Preparation](https://www.udemy.com/data-science-career-guide-interview-preparation/)
 
 ### Udacity
   - [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/) [**pt-br**]
