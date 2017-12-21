@@ -25,27 +25,26 @@ Bem vindo, pequeno padawan :)
       * [Em Python](#empython)
   * [Vídeos](#videos)
   * [Datasets](#datasets)
+  * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
+  * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/datascience-pizza/blob/master/empresas.md)
   * [Grupos](#grupos)
   * [Meteodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
   * Tópicos específicos:
-
-      * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/machine-learning.md)
-      * [Banco de dados](https://github.com/leportella/datascience-pizza/blob/master/banco-de-dados.md)
-      * [Big Data](https://github.com/leportella/datascience-pizza/blob/master/big-data.md)
-      * [Blogs e Jornais](https://github.com/leportella/datascience-pizza/blob/master/blogs-jornais.md)
-      * [Carreira](https://github.com/leportella/datascience-pizza/blob/master/carreira.md)
-      * [Cursos]
-      * [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/deep-learning.md)
-      * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
-      * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/datascience-pizza/blob/master/empresas.md)
-      * [Geociências](https://github.com/leportella/datascience-pizza/blob/master/geosciences.md)
-      * [Inteligência Artificial](https://github.com/leportella/datascience-pizza/blob/master/inteligencia-artificial.md)
-      * [Livros]
-      * [Podcasts]
-      * [Processamento de Linguagem Natural](https://github.com/leportella/datascience-pizza/blob/master/processamento-de-linguagem-natural)
-      * [Reportagens relevantes](https://github.com/leportella/datascience-pizza/blob/master/awesome-news.md)
-      * [Visualização de dados](https://github.com/leportella/datascience-pizza/blob/master/visualizacao-de-dados.md)
+      * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
+      * [Banco de dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/banco-de-dados.md)
+      * [Big Data](https://github.com/leportella/datascience-pizza/blob/master/topicos/big-data.md)
+      * [Blogs e Jornais](https://github.com/leportella/datascience-pizza/blob/master/topicos/blogs-jornais.md)
+      * [Carreira](https://github.com/leportella/datascience-pizza/blob/master/topicos/carreira.md)
+      * [Cursos](https://github.com/leportella/datascience-pizza/blob/master/topicos/cursos.md)
+      * [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/deep-learning.md)
+      * [Geociências](https://github.com/leportella/datascience-pizza/blob/master/topicos/geociencias.md)
+      * [Inteligência Artificial](https://github.com/leportella/datascience-pizza/blob/master/topicos/inteligencia-artificial.md)
+      * [Livros](https://github.com/leportella/datascience-pizza/blob/master/topicos/livros.md)
+      * [Podcasts](https://github.com/leportella/datascience-pizza/blob/master/topicos/podcasts.md)
+      * [Processamento de Linguagem Natural](https://github.com/leportella/datascience-pizza/blob/master/topicos/processamento-de-linguagem-natural.md)
+      * [Reportagens relevantes](https://github.com/leportella/datascience-pizza/blob/master/topicos/noticias-legais.md)
+      * [Visualização de dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
       
  
 --------------------------------------------------
