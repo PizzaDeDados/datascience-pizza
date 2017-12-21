@@ -1,9 +1,8 @@
 # Guia do Cientista de Dados das Galáxias
 
---
-
 ![neil](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
 
+--
 **DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que básico e o que é avançado entre outros temas. 
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
 
@@ -15,7 +14,7 @@ Se possuir material interessante, por favor compartilhe com a comunidade. Estamo
 Dessa iniciativa também nasceu o [Pizza de Dados](http://podcast.datascience.pizza), um podcast brasileiro 
 focado em ciência de dados. Se tiver um tempinho, prestigie esse trabalho 100% brasileiro.
 
-No mais, é isso. Bem vindo, pequeno padawan :)
+No mais, é isso. Bem vindo(a), pequeno(a) padawan :)
 
 
 ## Sumário
