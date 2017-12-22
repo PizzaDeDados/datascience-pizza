@@ -1,9 +1,20 @@
 # Cursos
 
+## Presenciais
+
+| Nome | Cidade | Tipo |
+|[Análise Estratégica e Ciência de Dados](http://www.unisul.br/wps/portal/home/ensino/especializacao-e-mba/analise-estrategica-e-ciencia-de-dados-florianopolis/) | Florianópolis | Pós-Graduação |
+|[Engenharia e Ciência de Dados](http://www.unisul.br/wps/portal/home/ensino/especializacao-e-mba/engenharia-e-ciencia-de-dados-florianopolis/?unidade=28) |  Florianópolis  | Pós-Graduação |
+ 
+
+## Online
+
+### Outras plataformas
+
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
 
-## edx.org
+### edx.org
 Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 
 - [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)(UC San Diego)
@@ -17,7 +28,7 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 - [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)(Massachusetts Institute of Technology)
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)(Massachusetts Institute of Technology)
 
-## DataScience Academy
+### DataScience Academy
   - [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
   - [Big Data Fundamentos](https://www.datascienceacademy.com.br/public-course?courseid=big-data-fundamentos)
   - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/public-course?courseid=python-fundamentos)
@@ -25,7 +36,7 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
   - [Machine Learning](https://www.datascienceacademy.com.br/public-course?courseid=machine-learning-engineer)
   - [Mais ...](https://www.datascienceacademy.com.br/)
 
-## Udemy
+### Udemy
   - [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/datascience/)
   - [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/python-coding/)
   - [Statistics for Business Analytics A-Z™](https://www.udemy.com/data-statistics/)
@@ -34,24 +45,24 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
   - [O curso completo de Banco de Dados e SQL, sem mistérios](https://www.udemy.com/bancos-de-dados-relacionais-basico-avancado/)
   - [Data Science Career Guide - Interview Preparation](https://www.udemy.com/data-science-career-guide-interview-preparation/)
 
-## Udacity
+### Udacity
   - [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/) [**pt-br**]
   - [Introdução à Análise de Dados](https://br.udacity.com/course/intro-to-data-analysis--ud170/)
   - [Fundamentos da Programação com Python](https://br.udacity.com/course/programming-foundations-with-python--ud036/)
   - [Introdução à Ciência de Dados](https://br.udacity.com/course/intro-to-data-science--ud359/)
   - [Intro to Relational Databases](https://br.udacity.com/course/intro-to-relational-databases--ud197/)
 
-## DataCamp
+### DataCamp
   - [Data Scientist with Python - Track](https://www.datacamp.com/tracks/data-scientist-with-python)
   - [Data Analyst with Python - Track](https://www.datacamp.com/tracks/data-analyst-with-python)
   - [Data Scientist with R - Track](https://www.datacamp.com/tracks/data-scientist-with-r)
   - [Data Analyst with R - Track](https://www.datacamp.com/tracks/data-analyst-with-r)
   - [Quantitative Analyst with R - Track](https://www.datacamp.com/tracks/quantitative-analyst-with-r)
 
-## Dataquest.io
+### Dataquest.io
   - [Data Scientist - Path](https://www.dataquest.io/path/data-scientist)
   - [Data Analyst - Path](https://www.dataquest.io/path/data-analyst)
   - [Data Engineer - Path](https://www.dataquest.io/path/data-engineer)
-  
-## Cogntive Class
+
+### Cogntive Class
   - [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science/)
