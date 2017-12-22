@@ -3,6 +3,7 @@
 ## Presenciais
 
 | Nome | Cidade | Tipo |
+| :---: | :---: | :---: |
 |[Análise Estratégica e Ciência de Dados](http://www.unisul.br/wps/portal/home/ensino/especializacao-e-mba/analise-estrategica-e-ciencia-de-dados-florianopolis/) | Florianópolis | Pós-Graduação |
 |[Engenharia e Ciência de Dados](http://www.unisul.br/wps/portal/home/ensino/especializacao-e-mba/engenharia-e-ciencia-de-dados-florianopolis/?unidade=28) |  Florianópolis  | Pós-Graduação |
  
