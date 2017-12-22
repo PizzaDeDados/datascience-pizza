@@ -52,3 +52,6 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
   - [Data Scientist - Path](https://www.dataquest.io/path/data-scientist)
   - [Data Analyst - Path](https://www.dataquest.io/path/data-analyst)
   - [Data Engineer - Path](https://www.dataquest.io/path/data-engineer)
+  
+## Cogntive Class
+  - [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science/)
