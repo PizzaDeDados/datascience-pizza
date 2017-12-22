@@ -3,6 +3,7 @@
 ![neil](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
 
 --
+
 **DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que básico e o que é avançado entre outros temas. 
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
 
@@ -48,7 +49,6 @@ No mais, é isso. Bem vindo(a), pequeno(a) padawan :)
       * [Processamento de Linguagem Natural](https://github.com/leportella/datascience-pizza/blob/master/topicos/processamento-de-linguagem-natural.md)
       * [Reportagens relevantes](https://github.com/leportella/datascience-pizza/blob/master/topicos/noticias-legais.md)
       * [Visualização de dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
-      
  
 --------------------------------------------------
 <h2 id="recomendacoes">Recomendações</h2>
@@ -80,6 +80,7 @@ No mais, é isso. Bem vindo(a), pequeno(a) padawan :)
   - Computação distribuída com AWS e Google Cloud
 
 <h3 id="empython">Em Python</h3>
+
   - Numpy
   - Pandas
   - Scipy 
