@@ -4,6 +4,7 @@
 - [Apple](https://machinelearning.apple.com/)
 - [Google](https://research.googleblog.com/)
 - [Google - unofficial](http://www.unofficialgoogledatascience.com)
+- [EliteDataScience](https://elitedatascience.com/)
 - [Facebook](https://research.fb.com/category/data-science)
 - [Uber](https://eng.uber.com/category/uberdata)
 - [Kaggle](http://blog.kaggle.com)

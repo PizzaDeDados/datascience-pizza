@@ -9,6 +9,7 @@
 ## Cursos
   - [Introduction to Data Visualization](http://paldhous.github.io/ucb/2016/dataviz/)
   - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
+  - [Vizualização de Dados e D3.js](https://br.udacity.com/course/data-visualization-and-d3js--ud507)
 
 ## Tutoriais
   - PT-BR [Desafios e tendências da visualização de dados – DataViz Basics: 1 de 4](http://www.dp6.com.br/desafios-da-visualizacao-de-dados-dataviz-basics-1-de-4/)
@@ -27,3 +28,4 @@
   - PT-BR [We Viz](http://www.weviz.com/)
   - [WTF Visualizations](http://viz.wtf/)
   - [The Python Graph Gallery](https://python-graph-gallery.com/)
+  - [Storytelling with data](http://www.storytellingwithdata.com/)

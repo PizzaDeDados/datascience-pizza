@@ -5,9 +5,13 @@
  * [Algoritmos e modelos utilizados pelo governo americano](http://algorithmtips.org/)
 
 <h2 id="carreira">Carreira</h2>
+
  * [Advice for New and Junior Data Scientists](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b)
  * [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
 
+<h2 id="conceitos">Dados</h2>
+
+* [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 
 <h2 id="conceitos">Conceitos</h2>
 
@@ -29,3 +33,4 @@
 <h2 id="ferramentas">Ferramentas</h2>
  
  * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.4lsldtI)
+ * **PT-BR** [10 dicas para mudar do Matlab pro Python](http://leportella.com/pt-br/2017/05/06/10-dicas-matlab-para-python.html)
