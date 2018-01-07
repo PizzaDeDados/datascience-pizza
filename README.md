@@ -120,6 +120,7 @@ No mais, é isso. Bem vindo(a), pequeno(a) padawan :)
 - [Dados Abertos - Telegram](https://t.me/dadosabertos)
 - [R Brasil Programadores - Facebook](https://www.facebook.com/groups/1410023525939155/)
 - [R Brasil - Telegram](https://t.me/rbrasil)
+- [Data Science Brasil - Facebook](https://www.facebook.com/groups/DataScienceMachineLearningBR/)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
