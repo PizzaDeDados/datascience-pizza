@@ -16,6 +16,7 @@
 <h2 id="conceitos">Conceitos</h2>
 
  * [Data Science and Big Data: Two very Different Beasts](https://www.linkedin.com/pulse/data-science-big-two-very-different-beasts-sean-mcclure-ph-d-?trk=prof-post)
+ * **PT-BR** [A Lei de Benford e a beleza dos números](http://jtemporal.com/benford-law/)
 
 <h2 id="curiosidades">Curiosidades</h2>
 
