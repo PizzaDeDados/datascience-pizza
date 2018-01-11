@@ -12,6 +12,7 @@
 <h2 id="conceitos">Dados</h2>
 
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
+* [Plataforma de compartilhamento de dados: Data World](https://data.world/)
 
 <h2 id="conceitos">Conceitos</h2>
 
