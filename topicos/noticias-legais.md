@@ -12,10 +12,12 @@
 <h2 id="conceitos">Dados</h2>
 
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
+* [Plataforma de compartilhamento de dados: Data World](https://data.world/)
 
 <h2 id="conceitos">Conceitos</h2>
 
  * [Data Science and Big Data: Two very Different Beasts](https://www.linkedin.com/pulse/data-science-big-two-very-different-beasts-sean-mcclure-ph-d-?trk=prof-post)
+ * **PT-BR** [A Lei de Benford e a beleza dos números](http://jtemporal.com/benford-law/)
 
 <h2 id="curiosidades">Curiosidades</h2>
 
