@@ -15,6 +15,7 @@
  * **PT-BR** [A Lei de Benford e a beleza dos números](http://jtemporal.com/benford-law/)
  * [What's the difference between data science, machine learning and artificial intelligence](http://varianceexplained.org/r/ds-ml-ai/)
  * **PT-BR** [Um breve estudo sobre outliers](http://leportella.com/pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html)
+ * [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 <h2 id="curiosidades">Curiosidades</h2>
 
