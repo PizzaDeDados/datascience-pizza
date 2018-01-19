@@ -19,3 +19,6 @@
 ## Notícias
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/)
 - [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
+
+## Posts
+- [Classificando textos com Redes Neurais e TensorFlow](http://deborahmesquita.com/2017-05-07/classificando-textos-com-redes-neurais-e-tensorflow)
