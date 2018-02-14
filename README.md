@@ -55,7 +55,7 @@ No mais, é isso. Bem vindo(a), pequeno(a) padawan :)
 
 <h3 id="iniciante">Iniciante</h3>
 
-  - Python (lib Pandas) ou R
+  - Python (lib [Pandas](https://pandas.pydata.org/)) ou R
   - SQL
   - Jupyter Notebook
   - Estatística Descritiva
@@ -81,13 +81,13 @@ No mais, é isso. Bem vindo(a), pequeno(a) padawan :)
 
 <h3 id="empython">Em Python</h3>
 
-  - Numpy
-  - Pandas
-  - Scipy 
-  - Matplotlib (Visualização)
-  - Seaborn (Visualização)
-  - Bokeh (Visualização)
-  - Sklearn
+  - [Numpy](http://www.numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
+  - [Scipy](https://www.scipy.org/)
+  - [Matplotlib (Visualização)](https://matplotlib.org/)
+  - [Seaborn (Visualização)](https://seaborn.pydata.org/)
+  - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
+  - [Sklearn](http://scikit-learn.org)
   
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
