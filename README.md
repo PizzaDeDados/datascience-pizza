@@ -88,6 +88,7 @@ No mais, é isso. Bem vindo(a), pequeno(a) padawan :)
   - [Seaborn (Visualização)](https://seaborn.pydata.org/)
   - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
   - [Sklearn](http://scikit-learn.org)
+  - [NLTK](http://www.nltk.org/)
   
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
