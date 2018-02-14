@@ -66,7 +66,7 @@ No mais, é isso. Bem vindo(a), pequeno(a) padawan :)
   - Cálculo
   - Álgebra Linear
   - Deep Learning
-  - Linguagem de Processamento Natural
+  - Processamento de Linguagem Natural
 
 <h3 id="grandesprojetos">Grandes projetos (big data)</h3>
 
