@@ -55,7 +55,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="iniciante">Iniciante</h3>
 
-  - Python (lib Pandas) ou R
+  - Python (lib [Pandas](https://pandas.pydata.org/)) ou R
   - SQL
   - Jupyter Notebook
   - Estatística Descritiva
@@ -66,7 +66,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - Cálculo
   - Álgebra Linear
   - Deep Learning
-  - Linguagem de Processamento Natural
+  - Processamento de Linguagem Natural
 
 <h3 id="grandesprojetos">Grandes projetos (big data)</h3>
 
@@ -81,13 +81,14 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="empython">Em Python</h3>
 
-  - Numpy
-  - Pandas
-  - Scipy 
-  - Matplotlib (Visualização)
-  - Seaborn (Visualização)
-  - Bokeh (Visualização)
-  - Sklearn
+  - [Numpy](http://www.numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
+  - [Scipy](https://www.scipy.org/)
+  - [Matplotlib (Visualização)](https://matplotlib.org/)
+  - [Seaborn (Visualização)](https://seaborn.pydata.org/)
+  - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
+  - [Sklearn](http://scikit-learn.org)
+  - [NLTK](http://www.nltk.org/)
   
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
