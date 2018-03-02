@@ -107,6 +107,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
  - [Datasets - Kaggle](https://www.kaggle.com/datasets)
  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
+ - [data.world](https://data.world/)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
