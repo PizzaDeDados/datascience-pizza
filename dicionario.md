@@ -20,8 +20,7 @@ O objetivo é alcançado através da aprendizagem dos dados de entrada e seus re
 
 ## Banco de Dados Não-Relacional
 
-Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e [Gessert et. al. 2016](
-https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
+Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 ## Banco de Dados Relacional
 
@@ -29,8 +28,7 @@ O conceito de bancos de dados relacionais está na forma em que eles são implem
 
 Um banco de dados relacional possui como entidade central tabelas, onde as colunas armazenam os tipos de dados e as linhas um caso específico de dados, sendo chamada de tupla ou registro. Também é importante o conceito de chave, que identifica unicamente um registro.
 O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado Edgar Frank Codd publicou um artigo onde foi definido formalmente o modelo relacional. Em 1985 o mesmo matemático publicou um artigo com as 13 regras que caracterizam um modelo de dados relacional.
-[Portal da Educação - Bancos de Dados Relacionais]
-(https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246)
+[Portal da Educação - Bancos de Dados Relacionais](https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246)
 
 ## Bias
 
@@ -40,12 +38,12 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 ## Coeficiente de Determinação
 
-O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo de regressão. Usualmente R2 é interpretado como o quanto da variância de uma variável independente pode ser capiturada (dado o modelo) a partir das variáveis dependentes [ref](http://stattrek.com/statistics/dictionary.aspx?definition=coefficient_of_determination). Para modelos lineares, R2 é usualente definido como sendo o quadrado do coeficiente de correlação da amostra, sendo, neste caso, uma medida de o quanto a variável independente pode ser explicada a partir de uma combinação linear das variáveis dependentes [wiki](https://en.wikipedia.org/wiki/Coefficient_of_determination).
+O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo de regressão. Usualmente R2 é interpretado como o quanto da variância de uma variável independente pode ser capturada (dado o modelo) a partir das variáveis dependentes [ref](http://stattrek.com/statistics/dictionary.aspx?definition=coefficient_of_determination). Para modelos lineares, R2 é usualmente definido como sendo o quadrado do coeficiente de correlação da amostra, sendo, neste caso, uma medida de o quanto a variável independente pode ser explicada a partir de uma combinação linear das variáveis dependentes [wiki](https://en.wikipedia.org/wiki/Coefficient_of_determination).
 
 
 ## Clustering
 
-É a classificação não supervisionada de padrões (observações, itens de dados ou classes) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais simiilares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
+É a classificação não supervisionada de padrões (observações, itens de dados ou classes) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais similares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
 
 ## Coeficiente
 
@@ -70,7 +68,7 @@ Método de aprendizado que consiste em utilizar a predição de vários algoritm
 
 ## Erro quadrático médio
 
-O erro quadrático médio ou desvio quadrático médio é uma medida do erro cometido ao estimar um observável [MSE](https://en.wikipedia.org/wiki/Mean_squared_error). Sejam ![eq1](http://www.sciweavers.org/tex2img.php?eq=%28x_i%2C%20%5Chat%7Bx%7D_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) o i-ésimo valor observardo e o i-ésimo valor estimado, respectivamente, em um conjunto de N observações,
+O erro quadrático médio ou desvio quadrático médio é uma medida do erro cometido ao estimar um observável [MSE](https://en.wikipedia.org/wiki/Mean_squared_error). Sejam ![eq1](http://www.sciweavers.org/tex2img.php?eq=%28x_i%2C%20%5Chat%7Bx%7D_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) o i-ésimo valor observado e o i-ésimo valor estimado, respectivamente, em um conjunto de N observações,
 isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado por ![eq2](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20%28%5Chat%7Bx%7D_i%20-%20x_i%29%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
 
 # F
@@ -81,13 +79,13 @@ isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado p
 
 ## Hipótese nula
 
-Hipótese inicial a ser testada, que é colocada em teste de hipótese. Normalmente baseada em análises anteriores ou conhecimentos especialiados em geral indica uma igualdade a ser contestada.
+Hipótese inicial a ser testada, que é colocada em teste de hipótese. Normalmente baseada em análises anteriores ou conhecimentos especializados em geral indica uma igualdade a ser contestada.
 [1](https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/null-and-alternative-hypotheses/)
 [2](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul)
 
 ## Hipótese
 
-Trata-se de supostas respostas para um problema em questão. É importante que a proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
+Trata-se de supostas respostas para um problema em questão. É importante que as proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
 [1](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
 
 ## Histograma
@@ -119,7 +117,7 @@ Diferentes amostras podem ser retiradas de uma mesma população, e amostras dif
 ## Matriz
 
 Matriz é uma estrutura de dados utilizada para armazenar dados em mais de uma dimensão. Por exemplo, com duas dimensões, temos linhas e colunas acessadas com dois índices.
-É possível criar matrizes de n dimensões, que serão acessadas com n índices. Dados dois números naturais m e n não-nulos, de-nomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simboliza¬do por a.., em que i indica a linha e j a coluna a que pertence o elemento.
+É possível criar matrizes de n dimensões, que serão acessadas com n índices. Dados dois números naturais m e n não-nulos, de-nomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simbolizado por a.., em que i indica a linha e j a coluna a que pertence o elemento.
 
 Numa matriz quadrada destacam-se
 	•   diagonal principal: au e a22.
@@ -132,8 +130,8 @@ Nesta matriz quadrada de ordem 3, tem-se
 Matrizes especiais
 
 Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (especial).
-	•    Matriz nula é toda matriz que tem todos os ele¬mentos iguais a zero. Representa-se por Om x n.
-  •    Matriz identidade de ordem n ou matriz uni¬dade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a l e os demais, nulos.
+	•    Matriz nula é toda matriz que tem todos os elementos iguais a zero. Representa-se por Om x n.
+  •    Matriz identidade de ordem n ou matriz unidade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a l e os demais, nulos.
 	•    Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
 [1](https://www.resumoescolar.com.br/matematica/matriz-quadrada/) [2](https://en.wikipedia.org/wiki/Matrix_representation)
 
@@ -142,13 +140,13 @@ Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (
 
 A mediana de um grupo de itens é o valor do item central quando todos os itens do grupo estão ordenados de forma crescente ou decrescente. Para um grupo com 3 valores, a mediana é o valor de posição 2, quando os valores estão ordenados. Exemplo: No grupo [5, 10, 15], a mediana é o 10. Já em grupos que a quantidade de valores é par, a mediana é a média dos valores centrais. Exemplo: No grupo [5, 10, 15, 20], a mediana é a média entre 10 e 15 (os valores centrais), no caso, 12,5. (Kazmier, Leonard. 2007).
 
-## Modelatem Preditiva
+## Modelagem Preditiva
 
 É a prática de extrair informações de uma massa de dados, afim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão. [1](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html)
 
 ## Média Móvel
 
-É uma técnica utilizada para analisar dados que cria várias médias de vários intervalos de dados dentro do dataset. A média móvel é calculada da seguinte maneira: dado um tamanho k de subset, o primeiro ponto da média móvel é obtido a partir da média dos k primeiros elementos. Depois, essa "janela" é movida para frente, excluindo o primeiro valor e calculando a média com o pŕoximo dado. Essa é uma técnica amplamente usada para suavizar curvas e descobrir tendências dentro dos dados, muito usada no setor financeiro. [1](https://en.wikipedia.org/wiki/Moving_average)
+É uma técnica utilizada para analisar dados que cria várias médias de vários intervalos de dados dentro do dataset. A média móvel é calculada da seguinte maneira: dado um tamanho k de subset, o primeiro ponto da média móvel é obtido a partir da média dos k primeiros elementos. Depois, essa "janela" é movida para frente, excluindo o primeiro valor e calculando a média com o próximo dado. Essa é uma técnica amplamente usada para suavizar curvas e descobrir tendências dentro dos dados, muito usada no setor financeiro. [1](https://en.wikipedia.org/wiki/Moving_average)
 
 # N
 
@@ -200,13 +198,13 @@ quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 ## Regressão Logística
 
-A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritimo é comumente usado em problemas de classificação. [Referência](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
+A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [Referência](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
 
 # S
 
 ## Support Vector Machine
 
-Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo àquela do conjunto definido pelas masgens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser extendido para permitir margens mais ou menos severas (hard vs. soft magin), projeções não lineares em espaçoes de dimensão superior (kernel trick), predições probabilisticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).  
+Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).  
 
 # T
 
@@ -224,7 +222,7 @@ Em termos estatísticos, a variância determina o quão distante cada valor est�
 
 ## Variáveis Categóricas
 
-Variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a varivel é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
+Variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a variável é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
 
 ## Variáveis Discretas
 
