@@ -117,22 +117,26 @@ Diferentes amostras podem ser retiradas de uma mesma população, e amostras dif
 ## Matriz
 
 Matriz é uma estrutura de dados utilizada para armazenar dados em mais de uma dimensão. Por exemplo, com duas dimensões, temos linhas e colunas acessadas com dois índices.
-É possível criar matrizes de n dimensões, que serão acessadas com n índices. Dados dois números naturais m e n não-nulos, de-nomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simbolizado por a.., em que i indica a linha e j a coluna a que pertence o elemento.
+É possível criar matrizes de n dimensões, que serão acessadas com n índices. Dados dois números naturais m e n não-nulos, denomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simbolizado por `aij`, em que `i` indica a linha e `j` a coluna a que pertence o elemento.
 
-Numa matriz quadrada destacam-se
-	•   diagonal principal: au e a22.
-	•   diagonal secundária: a12 e a21.
+Numa matriz quadrada de ordem 2 destacam-se:
+* diagonal principal: `a11` e `a22`;
+* diagonal secundária: `a12` e `a21`.
 
-Nesta matriz quadrada de ordem 3, tem-se
-	•    diagonal principal: an, a22 e a33;
-	•    diagonal secundária: a,3, a22 e a31.
+Numa matriz quadrada de ordem 3 destacam-se:
+* diagonal principal: `a11`, `a22` e `a33`;
+* diagonal secundária: `a13`, `a22` e `a31`.
 
-Matrizes especiais
+Em suma, para matrizes quadradas de ordem `n`:
+* diagonal principal: elementos `aij`, com `i = j`;
+* diagonal secundária: elementos `aij`, com `i+j = n+1`
 
-Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (especial).
-	•    Matriz nula é toda matriz que tem todos os elementos iguais a zero. Representa-se por Om x n.
-  •    Matriz identidade de ordem n ou matriz unidade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a l e os demais, nulos.
-	•    Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
+Matrizes especiais:
+
+Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (especial):
+* Matriz nula é toda matriz que tem todos os elementos iguais a zero. Representa-se por Om x n.
+* Matriz identidade de ordem n ou matriz unidade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a 1 e os demais, nulos.
+* Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
 [1](https://www.resumoescolar.com.br/matematica/matriz-quadrada/) [2](https://en.wikipedia.org/wiki/Matrix_representation)
 
 
@@ -152,7 +156,7 @@ A mediana de um grupo de itens é o valor do item central quando todos os itens 
 
 ## NoSQL
 
-ver Banco de Dados Não-Relacional.
+Ver [Banco de Dados Não-Relacional](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md#banco-de-dados-n%C3%A3o-relacional).
 
 # O
 
