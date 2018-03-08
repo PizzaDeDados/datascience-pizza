@@ -32,7 +32,7 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 ## Bias
 
-É uma característica de uma técnica estatística ou de seus resultados, pelo que o valor esperado dos resultados difere do parâmetro quantitativo subjacente verdadeiro sendo estimado. [1](https://en.wikipedia.org/wiki/Bias_(statistics))
+É uma característica de uma técnica estatística ou de seus resultados, pelo que o valor esperado dos resultados difere do parâmetro quantitativo subjacente verdadeiro sendo estimado. Em português, viés. [1](https://en.wikipedia.org/wiki/Bias_(statistics), [2](https://pt.wikipedia.org/wiki/Viés_sistemático)
 
 # C
 
