@@ -7,6 +7,10 @@
 
 - [Deep Learning with Neural Networks and TensorFlow](https://www.youtube.com/watch?v=oYbVFhK_olY&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP): playlist do Sentdex - aborda conceitos básicos e avançados usando python
 
+- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+- [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+
 ## Livros
 - [Deep Learning Book - MIT](http://www.deeplearningbook.org/)
 
