@@ -16,6 +16,11 @@
 ## Cursos
 - [Deep Learning Specialization - Coursera by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 
+- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+- [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+
+
 ## Notícias
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/)
 - [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
