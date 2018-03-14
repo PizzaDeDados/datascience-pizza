@@ -6,7 +6,7 @@
 | :---: | :---: | :---: |
 |[Análise Estratégica e Ciência de Dados](http://www.unisul.br/wps/portal/home/ensino/especializacao-e-mba/analise-estrategica-e-ciencia-de-dados-florianopolis/) | Florianópolis | Pós-Graduação |
 |[Engenharia e Ciência de Dados](http://www.unisul.br/wps/portal/home/ensino/especializacao-e-mba/engenharia-e-ciencia-de-dados-florianopolis/?unidade=28) |  Florianópolis  | Pós-Graduação |
- 
+
 
 ## Online
 
@@ -15,6 +15,7 @@
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
   - [Machine Learning Crash Course with TensorFlow APIs (Google)](https://developers.google.com/machine-learning/crash-course/)
+  - [Applied Machine Learning Spring 2018 ministrada por Andreas C. Müller da Columbia University (Em Andamento)](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
 
 ### edx.org
 Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
