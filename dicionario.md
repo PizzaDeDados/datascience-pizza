@@ -71,6 +71,12 @@ Método de aprendizado que consiste em utilizar a predição de vários algoritm
 O erro quadrático médio ou desvio quadrático médio é uma medida do erro cometido ao estimar um observável [MSE](https://en.wikipedia.org/wiki/Mean_squared_error). Sejam ![eq1](http://www.sciweavers.org/tex2img.php?eq=%28x_i%2C%20%5Chat%7Bx%7D_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) o i-ésimo valor observado e o i-ésimo valor estimado, respectivamente, em um conjunto de N observações,
 isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado por ![eq2](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20%28%5Chat%7Bx%7D_i%20-%20x_i%29%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
 
+## Embeddings
+
+Diga-me com quem andas e eu te direi quem és. Esse provérbio resume bem o conceito por trás dessa abordagem de aprendizado que consiste na representação vetorial da relação entre entidades de um determinado conjunto dentro de um espaço multi-dimensional. 
+
+Um dos algoritmos mais famosos a aplicar esse conceito é o word2vec que é capaz de abstrair, através desses vetores de relações, propriedades semânticas e sintáticas das palavras. Isto pode ser exemplificado através da operação Rei - Homem + Mulher = Rainha, que demonstra que o vetor que representa o conceito de feminino pode ser adicionado a uma palavra masculina para obter sua contraparte feminina como resultado.
+
 # F
 
 # G
