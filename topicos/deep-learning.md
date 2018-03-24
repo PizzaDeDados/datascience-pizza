@@ -20,6 +20,8 @@
 
 - [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
 
+- [fast.ai - Curso gratuito de Deep Learning](http://www.fast.ai/)
+
 
 ## Notícias
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/)
