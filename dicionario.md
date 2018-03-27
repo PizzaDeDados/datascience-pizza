@@ -65,6 +65,10 @@ A distribuição normal é simétrica em torno da média o que implica que a mé
 
 Método de aprendizado que consiste em utilizar a predição de vários algoritmos de Aprendizado de Máquina e combinar seus resultados de modo à obter uma predição melhorada. Um exemplo conhecido é o Random Forest, que utiliza diversas Decision Trees para fazer sua predição. [1](https://en.wikipedia.org/wiki/Ensemble_learning)
 
+## Entropia Cruzada
+
+Método usado para calcular a diferença entre duas distribuições probabilísticas e por isso é muito usado em problemas de classificação, pois se quer alcançar uma aproximação da distribuição das classes do referido problema, é dado por: ![ce1](https://latex.codecogs.com/svg.latex?H%28p%2C%20q%29%20%3D%20-%20%5Csum_%7Bx%7D%5E%7B%20%7D%20p%28x%29%20%5Clog%20%28q%28x%29%29),  
+onde ![ce2](https://latex.codecogs.com/svg.latex?p(x)) é a probabilidade do exemplo ser da classe _x_ (1 na classe correspondente e 0 nas restantes) e ![ec2](https://latex.codecogs.com/svg.latex?q(x)) é a probabilidade obtida. Faz-se o somatório do produto para cada classe _x_ e no final teremos o erro entre a distribuição esperada e a obtida. [1](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html) [2](https://en.wikipedia.org/wiki/Cross-entropy_method)
 
 ## Erro quadrático médio
 
@@ -73,7 +77,7 @@ isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado p
 
 ## Embeddings
 
-Diga-me com quem andas e eu te direi quem és. Esse provérbio resume bem o conceito por trás dessa abordagem de aprendizado que consiste na representação vetorial da relação entre entidades de um determinado conjunto dentro de um espaço multi-dimensional. 
+Diga-me com quem andas e eu te direi quem és. Esse provérbio resume bem o conceito por trás dessa abordagem de aprendizado que consiste na representação vetorial da relação entre entidades de um determinado conjunto dentro de um espaço multi-dimensional.
 
 Um dos algoritmos mais famosos a aplicar esse conceito é o word2vec que é capaz de abstrair, através desses vetores de relações, propriedades semânticas e sintáticas das palavras. Isto pode ser exemplificado através da operação Rei - Homem + Mulher = Rainha, que demonstra que o vetor que representa o conceito de feminino pode ser adicionado a uma palavra masculina para obter sua contraparte feminina como resultado.
 
