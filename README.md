@@ -109,6 +109,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [Datasets - Kaggle](https://www.kaggle.com/datasets)
  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
  - [data.world](https://data.world/)
+ - [Amazon Public Datasets](https://aws.amazon.com/pt/public-datasets/)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
