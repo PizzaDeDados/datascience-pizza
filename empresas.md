@@ -15,6 +15,7 @@
 |   | GBI | São Paulo-SP | Tecnologia da informação e serviços, Software, Recursos humanos |   |   |
 |   | Michael Page | São Paulo-SP | Tecnologia da informação e serviços, Software e Serviços financeiros |   |   |
 |   | Kantar IBOPE Media | São Paulo-SP | Pesquisa |   |   |
+|   | DataH | São Paulo-SP | Inteligência artificial |   |   |
 |   | Triad Systems | São Paulo-SP | ecnologia da informação e serviços, Software e Recursos humanos |   |   |
 |   | LexisNexis Risk Solutions | São Paulo-SP | Bancos, Software, Tecnologia da informação e serviços |   |   |
 |   | Moip Pagamentos | São Paulo-SP | Tecnologia da informação e serviços, Software e Internet |   |   |
