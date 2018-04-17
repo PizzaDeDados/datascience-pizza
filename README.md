@@ -110,6 +110,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
  - [data.world](https://data.world/)
  - [Amazon Public Datasets](https://aws.amazon.com/pt/public-datasets/)
+ - [brasil.io](https://brasil.io/datasets)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
