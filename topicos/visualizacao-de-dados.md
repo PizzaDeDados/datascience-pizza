@@ -10,6 +10,7 @@
   - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
   - [Vizualização de Dados e D3.js](https://br.udacity.com/course/data-visualization-and-d3js--ud507)
   - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
+  - [Learn D3.js for free](https://scrimba.com/g/gd3js)
 
 ## Tutoriais
   - PT-BR [Desafios e tendências da visualização de dados – DataViz Basics: 1 de 4](http://www.dp6.com.br/desafios-da-visualizacao-de-dados-dataviz-basics-1-de-4/)
