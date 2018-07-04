@@ -127,6 +127,10 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [R Brasil Programadores - Facebook](https://www.facebook.com/groups/1410023525939155/)
 - [R Brasil - Telegram](https://t.me/rbrasil)
 - [Data Science Brasil - Facebook](https://www.facebook.com/groups/DataScienceMachineLearningBR/)
+- [Data Science São Carlos (SP) Meetup](https://www.meetup.com/pt-BR/Sao-Carlos-Data-Science-Meetup/)
+    * [Fanpage](https://www.facebook.com/DataScienceSanca)
+    * [Palestras - Youtube](https://www.youtube.com/channel/UC9vnxC4PGuQGtnEydfTVquQ/playlists)
+    * [Telegram](https://t.me/DataScienceSanca)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
