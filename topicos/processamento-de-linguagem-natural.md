@@ -5,3 +5,8 @@
 
 * **PT-BR** [Brincando de NLP com spaCY](http://leportella.com/pt-br/2017/11/30/brincando-de-nlp-com-spacy.html)
 * [Why you don't need AI to build a chatbot](https://hackernoon.com/why-you-dont-need-ai-to-build-a-chatbot-fe8577f248f8)
+
+<h2 id="conceitos">Artigos</h2>
+
+* [Lingüística computacional: princípios e aplicações](http://www.inf.pucrs.br/linatural/Recursos/jaia-2001.pdf)
+* [Desafios do Processamento de Línguas Naturais](http://www.inf.pucrs.br/linatural/Recursos/Desafios.pdf)

@@ -15,6 +15,7 @@
   - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) - Robert Tibshirani, Trevor Hastie
   - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) - Trevor Hastie, Robert Tibshirani, Jerome H. Friedman
   - Applied Predictive Modeling - Max Kuhn, Kjell Johnson
+  - [Introduction to Data Mining](http://www.uokufa.edu.iq/staff/ehsanali/Tan.pdf) - PANG.N ING TAN, MICHAEL STEINBACH, VIPIN KUMAR
 
 ## Lista de Melhores livros
   - [6 books every Data Scientist should keep nearby](https://www.kdnuggets.com/2017/10/6-books-every-data-scientist-should-keep-nearby.html?utm_content=buffer8e99b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
