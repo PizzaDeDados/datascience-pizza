@@ -113,6 +113,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [data.world](https://data.world/)
  - [Amazon Public Datasets](https://aws.amazon.com/pt/public-datasets/)
  - [brasil.io](https://brasil.io/datasets)
+ - [Microsoft Research Open Data] (https://msropendata.com/)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
