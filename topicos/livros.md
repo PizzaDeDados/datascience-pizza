@@ -10,6 +10,7 @@
   - [Data Science para Negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados](https://books.google.com.br/books?id=c4lAvgAACAAJ&dq=Data+Science+para+Neg%C3%B3cios:+O+que+voc%C3%AA+precisa+saber+sobre+minera%C3%A7%C3%A3o+de+dados+e+pensamento+anal%C3%ADtico+de+dados&hl=pt-BR&sa=X&ved=0ahUKEwiw1u_TgvjWAhVHk5AKHc62D2EQ6AEIJzAA)
   - [Data Science Live Book](https://livebook.datascienceheroes.com)
   - [Think stats](http://greenteapress.com/wp/think-stats-2e/)
+  - R for Data Science (R4DS): [livro](http://r4ds.had.co.nz/), [livro com notas e soluções dos exercícios do R4DS](https://jrnold.github.io/r4ds-exercise-solutions/) e [grupo de estudo do R4DS no Slack](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82).
 
 ## Recomendados
   - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) - Robert Tibshirani, Trevor Hastie
@@ -19,6 +20,7 @@
   - [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) - Christopher M. Bishop
   - [Learning From Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069) - Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin
   - [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=RN3CT72H97XFD05X16BS) -  Ian Goodfellow, Yoshua Bengio, Aaron Courville, Francis Bach
+  - [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php) -  Wagner Meira Jr. (UFMG) e  Mohammed J. Zaki (Rensselaer Polytechnic Institute - NY - USA)
 
 ## Lista de Melhores livros
   - [6 books every Data Scientist should keep nearby](https://www.kdnuggets.com/2017/10/6-books-every-data-scientist-should-keep-nearby.html?utm_content=buffer8e99b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
