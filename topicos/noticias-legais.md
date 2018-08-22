@@ -14,6 +14,7 @@
  * [Data Science and Big Data: Two very Different Beasts](https://www.linkedin.com/pulse/data-science-big-two-very-different-beasts-sean-mcclure-ph-d-?trk=prof-post)
  * **PT-BR** [A Lei de Benford e a beleza dos números](http://jtemporal.com/benford-law/)
  * [What's the difference between data science, machine learning and artificial intelligence](http://varianceexplained.org/r/ds-ml-ai/)
+ * [What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
  * **PT-BR** [Um breve estudo sobre outliers](http://leportella.com/pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html)
  * [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 

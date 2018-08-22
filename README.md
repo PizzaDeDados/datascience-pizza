@@ -128,6 +128,10 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [R Brasil Programadores - Facebook](https://www.facebook.com/groups/1410023525939155/)
 - [R Brasil - Telegram](https://t.me/rbrasil)
 - [Data Science Brasil - Facebook](https://www.facebook.com/groups/DataScienceMachineLearningBR/)
+- [Data Science São Carlos (SP) Meetup](https://www.meetup.com/pt-BR/Sao-Carlos-Data-Science-Meetup/)
+    * [Fanpage](https://www.facebook.com/DataScienceSanca)
+    * [Palestras - Youtube](https://www.youtube.com/channel/UC9vnxC4PGuQGtnEydfTVquQ/playlists)
+    * [Telegram](https://t.me/DataScienceSanca)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
@@ -137,4 +141,4 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 --------------------------------------------------
 <h2 id="imagens">Dados em Imagens</h2>
 
-<a href="https://www.domo.com/blog/data-never-sleeps-2-0/"><img src="https://web-assets.domo.com/blog/wp-content/uploads/2014/04/DataNeverSleeps_sm2.png" alt="infographic" /></a>
+<a href="https://www.domo.com/blog/data-never-sleeps-5/"><img src="https://web-assets.domo.com/blog/wp-content/uploads/2017/07/17-blog-featured-data-never-sleeps-675x400-1.jpg" alt="infographic" /></a>
