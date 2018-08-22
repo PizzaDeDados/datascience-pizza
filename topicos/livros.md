@@ -17,6 +17,9 @@
   - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) - Trevor Hastie, Robert Tibshirani, Jerome H. Friedman
   - Applied Predictive Modeling - Max Kuhn, Kjell Johnson
   - [Introduction to Data Mining](http://www.uokufa.edu.iq/staff/ehsanali/Tan.pdf) - PANG.N ING TAN, MICHAEL STEINBACH, VIPIN KUMAR
+  - [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) - Christopher M. Bishop
+  - [Learning From Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069) - Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin
+  - [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=RN3CT72H97XFD05X16BS) -  Ian Goodfellow, Yoshua Bengio, Aaron Courville, Francis Bach
   - [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php) -  Wagner Meira Jr. (UFMG) e  Mohammed J. Zaki (Rensselaer Polytechnic Institute - NY - USA)
 
 ## Lista de Melhores livros
