@@ -29,6 +29,10 @@
 
 - [Univariate Linear Regression with Gradient Descent and JS](https://github.com/javascript-machine-learning/univariate-linear-regression-gradient-descent-javascript)
 
+## Dicas
+
+- [Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229.html)
+
 
 ## Artigos
 
