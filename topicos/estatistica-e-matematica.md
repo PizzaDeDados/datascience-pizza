@@ -1,6 +1,6 @@
 # Estatística
 
-![](https://media.giphy.com/media/il98kgSrXh66I/giphy.gif)
+![](https://media.giphy.com/media/PEf0FKazthTUI/giphy.gif)
 
 ## Cursos
 
