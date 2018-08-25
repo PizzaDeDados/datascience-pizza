@@ -55,6 +55,9 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 --------------------------------------------------
 <h2 id="recomendacoes">Recomendações</h2>
 
+![](https://media.giphy.com/media/Lq3ueCSWjnQPu/giphy.gif)
+
+
 <h3 id="iniciante">Iniciante</h3>
 
   - Python (lib [Pandas](https://pandas.pydata.org/)) ou R
