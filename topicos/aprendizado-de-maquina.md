@@ -1,5 +1,6 @@
 # Machine Learning /  Aprendizado de Máquina
 
+![](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
 
 ## Vídeos
 
