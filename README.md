@@ -131,6 +131,8 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
     * [Fanpage](https://www.facebook.com/DataScienceSanca)
     * [Palestras - Youtube](https://www.youtube.com/channel/UC9vnxC4PGuQGtnEydfTVquQ/playlists)
     * [Telegram](https://t.me/DataScienceSanca)
+- [IA Brasil - Telegram](https://t.me/iaBrasil)
+- [Open Data Science](https://t.me/opendatascience)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
