@@ -1,5 +1,7 @@
 # Estatística
 
+![](https://media.giphy.com/media/il98kgSrXh66I/giphy.gif)
+
 ## Cursos
 
 * [Probability & Statistics](http://oli.cmu.edu/courses/all-oli-courses/statistics-course-details/), da Open Learning Initiative (OLI) da Carnegie Mellon University. (o mesmo curso, com o mesmo conteúdo, é oferecido na plataforma Open edX de Stanford, em https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about).
