@@ -164,6 +164,10 @@ A mediana de um grupo de itens é o valor do item central quando todos os itens 
 
 # N
 
+## Naive Bayes
+
+É um classificador probabilístico que se baseia no Teorema de Bayes, ele assume uma independência forte ou fraca entre atributos. Esse tipo de classificador é muito utilizado em Data Science pois ele é simples de aplicar e utilizar. A chave do algoritmo está na probabilidade em que um evento pode ser ajustado conforme novos dados forem entrando no algoritmo.
+
 ## NoSQL
 
 Ver [Banco de Dados Não-Relacional](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md#banco-de-dados-n%C3%A3o-relacional).
