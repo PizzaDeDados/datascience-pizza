@@ -136,6 +136,10 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
     * [Telegram](https://t.me/DataScienceSanca)
 - [IA Brasil - Telegram](https://t.me/iaBrasil)
 - [Open Data Science](https://t.me/opendatascience)
+- [Big Data BR](https://t.me/bigdatabr)
+- [nlpbr(Processamento de Linguagem Natural)](https://t.me/nlpbr)
+- [Python Brasil](https://t.me/pythonbr)
+- [Estatística e Probabilidade](https://t.me/joinchat/B5CoWUaMdg-IZGMJFJOaaA)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
