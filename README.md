@@ -95,6 +95,14 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Sklearn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
   
+<h3 id="emr">Em R</h3>
+
+  - [h2o (Machine Learning)](http://docs.h2o.ai/)
+  - [mlr(Machine Learning)](https://www.rdocumentation.org/packages/mlr/versions/2.13)
+  - [xgboost(Machine Learning)](https://www.rdocumentation.org/packages/xgboost/versions/0.4-4/topics/xgboost)
+  - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
+  - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
+  
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
 
