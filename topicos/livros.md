@@ -21,6 +21,7 @@
   - [Learning From Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069) - Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin
   - [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=RN3CT72H97XFD05X16BS) -  Ian Goodfellow, Yoshua Bengio, Aaron Courville, Francis Bach
   - [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php) -  Wagner Meira Jr. (UFMG) e  Mohammed J. Zaki (Rensselaer Polytechnic Institute - NY - USA)
+  - [Hands–On Machine Learning with Scikit–Learn and TensorFlow](https://www.amazon.com.br/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning&qid=1538424766&sr=8-6&ref=sr_1_6) -  Aurelien Geron - Oreilly
 
 ## Lista de Melhores livros
   - [6 books every Data Scientist should keep nearby](https://www.kdnuggets.com/2017/10/6-books-every-data-scientist-should-keep-nearby.html?utm_content=buffer8e99b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
