@@ -17,6 +17,10 @@
   - [Machine Learning Crash Course with TensorFlow APIs (Google)](https://developers.google.com/machine-learning/crash-course/)
   - [Applied Machine Learning Spring 2018 ministrada por Andreas C. Müller da Columbia University (Em Andamento)](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
 
+### Coursera.org
+
+[Cursos de Data Science no Coursera](https://www.coursera.org/browse/data-science)
+
 ### edx.org
 Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 
