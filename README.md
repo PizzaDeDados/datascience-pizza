@@ -101,10 +101,14 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Estudos
  
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
+  - [Playlist de Treinamento](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX) by Edureka!
 
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
+### Tutoriais de Python
+  - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
+  - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
 
