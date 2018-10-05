@@ -95,6 +95,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
   - [Sklearn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
+  - [PyTorch](https://pytorch.org/)
   
 <h3 id="emr">Em R</h3>
 
