@@ -112,6 +112,10 @@ Diferentes amostras podem ser retiradas de uma mesma população, e amostras dif
 
 # J
 
+## Julia (Linguagem)
+
+Julia é uma linguagem de propósito geral desenhada para alta-performance com características como a tipagem dinâmica, polimorfismo, e Entrada e saída asíncronos de forma nativa, permitindo computação paralela e distribuída. Uma das principais características da linguagem é a utilização de multimétodos como um paradigma. [Referência](https://julialang.org/)
+
 ## Jupyter
 
 O [Project Jupyter](http://jupyter.org/) é um projeto de código aberto, sem fins lucrativos, nascido do [Projeto IPython](https://ipython.org/) em 2014, que evoluiu para dar suporte à ciência de dados interativa e computação científica em todas as linguagens de programação. Jupyter é, e sempre será, 100% de software de código aberto, livre para todos usarem e liberados sob os termos liberais da [licença BSD modificada](https://opensource.org/licenses/BSD-3-Clause).
