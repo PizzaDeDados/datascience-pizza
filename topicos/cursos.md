@@ -12,10 +12,14 @@
 
 ### Outras plataformas
 
+  - [Programa profissional da Microsoft para trilha de ciência de dados](https://academy.microsoft.com/en-us/tracks/data-science/)
+  - [Programa profissional da Microsoft para trilha de big data](https://academy.microsoft.com/en-us/tracks/big-data/)
+  - [Programa profissional da Microsoft para trilha de inteligência artificial](https://academy.microsoft.com/en-us/tracks/artificial-intelligence/)
   - [Statistical Learning ministrada por professores da Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [Fluxo de cursos à distância de Data Science pela Open Source Society](https://github.com/open-source-society/data-science)
   - [Machine Learning Crash Course with TensorFlow APIs (Google)](https://developers.google.com/machine-learning/crash-course/)
   - [Applied Machine Learning Spring 2018 ministrada por Andreas C. Müller da Columbia University (Em Andamento)](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
+  - [Álgebra Linear (MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
 ### Coursera.org
 
