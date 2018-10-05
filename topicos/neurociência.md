@@ -2,7 +2,8 @@
 
 # Datasets 
 
-https://openneuro.org/
+[open neuro](https://openneuro.org/)
 
 # Libs
-http://nipy.org/
+[nipy](http://nipy.org/)
+
