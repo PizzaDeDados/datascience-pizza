@@ -224,19 +224,19 @@ A regressão logística é uma técnica estatística que tem como objetivo produ
 
 # S
 
-## Support Vector Machine
-
-Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).  
-
 ## Sistemas de Recomendação
 
 Um sistema de recomendação combina técnicas de Recuperação de Informação e Aprendizagem de Máquina para selecionar itens personalizados com base nos interesses dos usuários e conforme o contexto no qual estão inseridos, é utilizado em diversas áreas como: filmes, músicas, livros, pesquisas, sites de comércios eletrônicos, etc. Através dessas técnicas, é gerado uma filtragem da informação para o usuário e assim retornando uma lista de recomendação, as filtragens mais comuns são: 
 
-* **Filtragem colaborativa**: considera a experiência de todos os usuários
-* **Filtragem baseada em conteúdo**: Considera a experiência do usuário alvo
-* **Filtragem Híbrida**: utiliza-se os dois  tipos para gerar uma recomendação mais personalizada.
+- **Filtragem colaborativa**: considera a experiência de todos os usuários
+- **Filtragem baseada em conteúdo**: Considera a experiência do usuário alvo
+- **Filtragem Híbrida**: utiliza-se os dois  tipos para gerar uma recomendação mais personalizada.
 
 Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
+
+## Support Vector Machine
+
+Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).  
 
 # T
 
