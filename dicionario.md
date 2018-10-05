@@ -51,6 +51,11 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 
 # D
 
+## Dataset
+São conjuntos de dados tabulados, onde para cada individuo são denotadas diversas características. Cada coluna corresponde a uma varíavel, e cada linha é o conjunto de caracteristicas do individuo. Os valores(itens) dessa tabela são chamados dados.
+[wiki](https://pt.wikipedia.org/wiki/Conjunto_de_dados)
+
+
 ## Desvio padrão
 
 É definido como a raiz quadrada positiva da variância (Bussab et al, 2010). Em probabilidade, o desvio padrão ou desvio padrão populacional é uma medida de dispersão em torno da média populacional de uma variável aleatória. Em estatística, desvio padrão amostral indica uma medida de dispersão dos dados em torno de média amostral [1](https://pt.wikipedia.org/wiki/Desvio_padr%C3%A3o).
