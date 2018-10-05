@@ -188,6 +188,15 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algoritmo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
 
+## Precisão
+
+Uma métrica para modelos de classificação. A precisão identifica a frequência com que um modelo estava correto ao prever a classe positiva. Isso é:
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?\text{Precisao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Positivos}}">
+</p>
+
+[1](https://developers.google.com/machine-learning/glossary/#precision)
+
 # Q
 
 ## Quartil (*Quartile*)
