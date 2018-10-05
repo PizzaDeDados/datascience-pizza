@@ -130,6 +130,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [Amazon Public Datasets](https://aws.amazon.com/pt/public-datasets/)
  - [brasil.io](https://brasil.io/datasets)
  - [Microsoft Research Open Data](https://msropendata.com/)
+ - [Datasets for Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
