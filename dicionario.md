@@ -112,6 +112,10 @@ Diferentes amostras podem ser retiradas de uma mesma população, e amostras dif
 
 # J
 
+## Julia (Linguagem)
+Julia é uma linguagem de propósito geral desenhada para alta-performance com características como a tipagem dinâmica, polimorfismo, e Entrada e saída asíncronos de forma nativa, permitindo computação paralela e distribuída. Uma das principais características da linguagem é a utilização de multimétodos como um paradigma. [Referência](https://julialang.org/)
+
+
 # K
 
 ## K-means clustering
