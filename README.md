@@ -27,6 +27,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
       * [Intermediário](#intermediario)
       * [Grandes projetos (big data)](#grandesprojetos)
       * [Em Python](#empython)
+      * [Em R](#emr)
   * [Vídeos](#videos)
   * [Datasets](#datasets)
   * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
@@ -95,27 +96,39 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Sklearn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
   
+<h3 id="emr">Em R</h3>
+
+  - [h2o (Machine Learning)](http://docs.h2o.ai/)
+  - [mlr(Machine Learning)](https://www.rdocumentation.org/packages/mlr/versions/2.13)
+  - [xgboost(Machine Learning)](https://www.rdocumentation.org/packages/xgboost/versions/0.4-4/topics/xgboost)
+  - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
+  - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
+  
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
 
 ### Estudos
  
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
+  - [Playlist de Treinamento](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX) by Edureka!
 
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
+### Tutoriais de Python
+  - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
+  - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
 
  - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)
  - [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
- - [Data repositories](http://www.kdnuggets.com/datasets/index.html) by KDnuggets
  - [Datasets - Kaggle](https://www.kaggle.com/datasets)
  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
  - [data.world](https://data.world/)
  - [Amazon Public Datasets](https://aws.amazon.com/pt/public-datasets/)
  - [brasil.io](https://brasil.io/datasets)
+ - [Microsoft Research Open Data](https://msropendata.com/)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>

@@ -16,3 +16,7 @@
 
 <h2 id="conceitos">Artigos Científicos</h2>
 * [Natural language processing - Gobinda G. Chowdhury, 2003](https://onlinelibrary.wiley.com/doi/abs/10.1002/aris.1440370103)
+
+<h2 id="palestras">Palestras</h2>
+
+* [Chatbots e NLP - Diego Dorgam - Rocketchat - 2º Meetup PyData Brasília](https://www.youtube.com/watch?v=Op36eWLVhwk) - Duração: 1h34min
