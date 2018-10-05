@@ -222,7 +222,9 @@ quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [Referência](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
 
-# S
+# Sckit-Learn
+
+A scikit-learn (originalmente scikits.learn e também conhecida como sklearn) é uma biblioteca de aprendizado de máquina de código aberto para a linguagem de programação Python. Ela inclui vários algoritmos de classificação, regressão e agrupamento incluindo máquinas de vetores de suporte, florestas aleatórias, gradient boosting, k-means e DBSCAN, e é projetada para interagir com as bibliotecas Python numéricas e científicas NumPy e SciPy. Além disso, a biblioteca contêm várias técnicas de pré-processamento dos dados, como normalização, escalonamento, seleção de atributos e divisão de bases de dados. [Referência](http://scikit-learn.org/stable/).
 
 ## Support Vector Machine
 
