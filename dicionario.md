@@ -67,7 +67,7 @@ Método de aprendizado que consiste em utilizar a predição de vários algoritm
 
 ## Entropia Cruzada
 
-Método usado para calcular a diferença entre duas distribuições probabilísticas e por isso é muito usado em problemas de classificação, pois se quer alcançar uma aproximação da distribuição das classes do referido problema, é dado por: ![ce1](https://latex.codecogs.com/svg.latex?H%28p%2C%20q%29%20%3D%20-%20%5Csum_%7Bx%7D%5E%7B%20%7D%20p%28x%29%20%5Clog%20%28q%28x%29%29),  
+Método usado para calcular a diferença entre duas distribuições probabilísticas e por isso é muito usado em problemas de classificação, pois se quer alcançar uma aproximação da distribuição das classes do referido problema, é dado por: ![ce1](https://latex.codecogs.com/svg.latex?H%28p%2C%20q%29%20%3D%20-%20%5Csum_%7Bx%7D%5E%7B%20%7D%20p%28x%29%20%5Clog%20%28q%28x%29%29),
 onde ![ce2](https://latex.codecogs.com/svg.latex?p(x)) é a probabilidade do exemplo ser da classe _x_ (1 na classe correspondente e 0 nas restantes) e ![ec2](https://latex.codecogs.com/svg.latex?q(x)) é a probabilidade obtida. Faz-se o somatório do produto para cada classe _x_ e no final teremos o erro entre a distribuição esperada e a obtida. [1](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html) [2](https://en.wikipedia.org/wiki/Cross-entropy_method)
 
 ## Erro quadrático médio
@@ -95,7 +95,7 @@ Hipótese inicial a ser testada, que é colocada em teste de hipótese. Normalme
 
 ## Hipótese
 
-Trata-se de supostas respostas para um problema em questão. É importante que as proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
+Trata-se de supostas respostas para um problema em questão. É importante que as proposições possam ser testadas de maneira empírica, a fim de determinar sua validade.
 [1](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
 
 ## Histograma
@@ -156,7 +156,7 @@ A mediana de um grupo de itens é o valor do item central quando todos os itens 
 
 ## Modelagem Preditiva
 
-É a prática de extrair informações de uma massa de dados, afim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão. [1](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html)
+É a prática de extrair informações de uma massa de dados, a fim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão. [1](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html)
 
 ## Média Móvel
 
@@ -186,19 +186,19 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 ## Perceptron
 
-É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algorítimo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
+É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algoritmo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
 
 # Q
 
 ## Quartil (*Quartile*)
 
-Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.*  um conjunto que contem os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8.  [Wiki](https://en.wikipedia.org/wiki/Quartile)
+Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.* um conjunto que contém os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8. [Wiki](https://en.wikipedia.org/wiki/Quartile)
 
 # R
 
 ## Regressão Linear
 
-Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a a função linear resultante e os dados. [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
+Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a função linear resultante e os dados. [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
 
 ## Redes Neurais
 
@@ -206,9 +206,9 @@ São sistemas físicos que podem adquirir, armazenar e utilizar conhecimentos ex
 
 ## Random Forest
 
-Método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algorítimos conhecidos
+Método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algoritmos conhecidos
 (logistic regression, linear regression,etc). Esse modelo é obtido pela construção de árvores de decisão, que conforme vão sendo construídas, decidem
-quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
+quais algoritmos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 ## Regressão Logística
 
@@ -218,7 +218,7 @@ A regressão logística é uma técnica estatística que tem como objetivo produ
 
 ## Support Vector Machine
 
-Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).  
+Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).
 
 # T
 

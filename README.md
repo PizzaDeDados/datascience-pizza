@@ -33,7 +33,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
   * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/datascience-pizza/blob/master/empresas.md)
   * [Grupos](#grupos)
-  * [Meteodologias Ágeis](#metodologiasageis)
+  * [Metodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
   * Tópicos específicos:
       * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
