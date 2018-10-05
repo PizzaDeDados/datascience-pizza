@@ -196,6 +196,11 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algorítimo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
 
+#PyTorch
+
+É um ecossistema de Machine Learning, escrito em Python, de código aberto, com diversas bibliotecas para utilização em Processamento de Linguagem Natural, e visão computacional. Baseado em Torch, um framework escrito em Lua, é uma poderosa ferramenta. [1][Wiki](https://en.wikipedia.org/wiki/PyTorch) 
+[2][PyTorch](https://pytorch.org/)
+
 # Q
 
 ## Quartil (*Quartile*)
