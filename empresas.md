@@ -29,6 +29,7 @@
 |   | Cetax | São Paulo - SP | Consultoria de BI | contato@cetax.com.br | https://cetaxconsultoria.compleo.com.br/ |
 |  ![logo](https://i.imgur.com/JJF0M1u.png) | [99](https://www.99taxis.com/) | São Paulo-SP   | Ride-hailing  |   |  https://jobs.kenoby.com/99 |
 |  ![logo](https://pbs.twimg.com/profile_images/745010054835798016/Z1hvZQpp.jpg)| IcaroTech | Campinas-SP | Tecnologia da informação | https://www.icarotech.com/ | https://www.icarotech.com/trabalhe-conosco/ |
+|   | Duratex S.A. | São Paulo-SP | Indústria | http://www.duratex.com.br/  |   |
 
 ## Sul 
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
