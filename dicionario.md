@@ -205,6 +205,15 @@ Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto e
 
 # R
 
+## Revocação (*Recall*)
+
+Uma métrica para modelos de classificação que responde à seguinte pergunta: de todos os possíveis rótulos positivos, quantos o modelo identificou corretamente? Isso é:
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?\text{Revocacao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Negativos}}">
+</p>
+
+[1](https://developers.google.com/machine-learning/glossary/#recall)
+
 ## Regressão Linear
 
 Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a função linear resultante e os dados. [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
