@@ -97,6 +97,8 @@ Um dos algoritmos mais famosos a aplicar esse conceito é o word2vec que é capa
 # G
 
 # H
+## Hadoop
+O Apache Hadoop é uma coleção de utilitários de software de código aberto que facilitam o uso de uma rede de vários computadores para resolver problemas envolvendo grandes quantidades de dados e cálculos. Ele fornece uma estrutura de software para armazenamento distribuído e processamento de big data usando o modelo de programação MapReduce. [1](https://en.wikipedia.org/wiki/Apache_Hadoop)
 
 ## Hipótese nula
 
