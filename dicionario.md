@@ -64,6 +64,10 @@ Assim, podemos ver que o sinal da covariância mostra a tendência na relação 
 
 # D
 
+## Dataset
+
+São conjuntos de dados tabulados, onde para cada individuo são denotadas diversas características. Cada coluna corresponde a uma varíavel, e cada linha é o conjunto de caracteristicas do individuo. Os valores(itens) dessa tabela são chamados dados. [wiki](https://pt.wikipedia.org/wiki/Conjunto_de_dados)
+
 ## Data Storytelling
 
 o processo de tradução de dados em termos de leigos para influenciar uma decisão ou ação de negócios [1](http://farolbi.com.br/data-storytelling-conte-uma-historia-com-os-dados/)
