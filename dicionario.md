@@ -49,6 +49,11 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 
 É o fator multiplicativo de um termo em uma expressão, sendo geralmente um número, e que não se confunde com as variáveis da expressão.[1](https://pt.wikipedia.org/wiki/Coeficiente)
 
+## Covariância
+
+Em probabilidade, a covariância de duas variáveis X e Y é uma medida da variabilidade conjunta destas variáveis aleatórias. Se as variáveis tem covariância positiva tendem a mostrar um comportamento semelhante, ou seja, os menores (maiores) valores da variável X corresponde aos menores (maiores) da variável Y . Se a covariância é negativa então as variáveis tendem a mostrar um comportamento oposto, ou seja, os menores (maiores) valores da variável X corresponde aos maiores (menores) da variável Y.
+Assim, podemos ver que o sinal da covariância mostra a tendência na relação linear entre as variáveis. [1](http://www.portalaction.com.br/probabilidades/42-covariancia-e-coeficiente-de-correlacao)
+
 # D
 
 ## Desvio padrão
