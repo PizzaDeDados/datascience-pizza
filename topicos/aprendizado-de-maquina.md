@@ -18,6 +18,8 @@
 - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/)
 - [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
 - [A Course in Machine Learning](http://ciml.info/)
+- [Curso Machine Learning gratuito UFPR](http://cursos.leg.ufpr.br/ML4all/1parte/)
+
 
 ## Datasets
 
