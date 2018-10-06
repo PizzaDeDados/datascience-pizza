@@ -235,6 +235,10 @@ Máquina de vetores de suporte (do inglês SVM: support vector machine) é um m�
 
 # T
 
+## TensorFlow
+
+O TensorFlow™ é uma biblioteca de software de código aberto para computação numérica que usa gráficos de fluxo de dados. Os nodes no gráfico representam operações matemáticas, e as arestas representam as matrizes ou tensores de dados multidimensionais que se comunicam com os nodes. A arquitetura flexível permite que você implante aplicações de computação a uma ou mais CPUs ou GPUs em um computador, servidor ou dispositivo móvel usando uma única API. O TensorFlow foi desenvolvido por pesquisadores e engenheiros da Google Brain Team no departamento de pesquisas de inteligência de máquina do Google com a finalidade de realizar pesquisas sobre redes neurais profundas e aprendizado de máquina. No entanto, devido à característica abrangente do sistema, ele também pode ser aplicado a vários outros domínios. [Referência](https://www.tensorflow.org)
+
 # U
 
 ## Underfitting
