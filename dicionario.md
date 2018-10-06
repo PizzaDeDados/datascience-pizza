@@ -189,6 +189,10 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 # P
 
+## Pandas
+
+Pandas é um biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
+
 ## Perceptron
 
 É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algorítimo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
