@@ -192,6 +192,11 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 # P
 
+## Pytorch 
+
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) 
+[2] [Pytorch](https://pytorch.org/)
+
 ## Perceptron
 
 É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algorítimo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
