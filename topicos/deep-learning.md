@@ -9,6 +9,8 @@
 
 ## Livros
 - [Deep Learning Book - MIT](http://www.deeplearningbook.org/)
+- [Fundamentals of Deep Learning - Nikhil Buduma e Nicholas Locascio](https://www.amazon.com.br/Fundamentals-Deep-Learning-Nikhil-Buduma/dp/1491925612?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning&qid=1538425179&sr=8-5&ref=sr_1_5)
+- [Deep Learning: A Practioner's Approach - Josh Patterson e Adam Gibson](https://www.amazon.com.br/Deep-Learning-Practitioners-Josh-Patterson-ebook/dp/B074D5YF1D?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning&qid=1538425300&s=STRING%28br-books-storename%29&sr=1-4&ref=sr_1_4)
 
 ## Grupos
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
