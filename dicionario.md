@@ -70,6 +70,10 @@ o processo de tradução de dados em termos de leigos para influenciar uma decis
 
 A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[1](http://leg.ufpr.br/~silvia/CE055/node44.html)
 
+## Dropout
+
+Dropout é uma técnica de regularização de redes neurais em que, a cada iteração do treinamento, uma seleção aleatória de neurônios é desligada. A quantidade de neurônios desligados é controlada por um hiper-parâmetro, sendo que, quanto mais neurônios são desligados, mais forte é a regularização. É importante que o dropout seja aplicado apenas durante o treinamento e nunca para fazer predições. (Srivastava, 2014)
+
 # E
 
 ## Ensemble Learning
@@ -339,6 +343,8 @@ Jain, A.K.; Murty, M.N.; Flynn, P.J.; Data Clustering: A review. ACM Computing S
 Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap. 3.4, pág. 52.
 
 Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeiro: Elsevier, 2013.
+
+Srivastava N., Hinton G., Krizhevsky A., Sutskever I., and Salakhutdinov R. Dropout: a simple way to prevent neural networks from overfitting. Journal of Machine Learning Research. 15, 1 (January 2014), 1929-1958.
 
 Staab, Steffen, and Rudi Studer, eds. Handbook on ontologies. Springer Science & Business Media, 2010.
 
