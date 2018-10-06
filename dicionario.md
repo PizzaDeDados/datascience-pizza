@@ -290,6 +290,10 @@ Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
 ## scikit-learn
 Uma biblioteca de código-aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Possui implementação de diversos algoritmos tradicionais, tais como K-vizinhos mais próximos, regressão linear, regressão logística e árvores de decisão. [1](http://www.scikit-learn.org).
 
+## Scala
+
+Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
+
 ## Support Vector Machine
 
 Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).
