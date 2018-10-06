@@ -78,6 +78,17 @@ Correlação é a medida estatística que descreve a associação entre variáve
 Em probabilidade, a covariância de duas variáveis X e Y é uma medida da variabilidade conjunta destas variáveis aleatórias. Se as variáveis tem covariância positiva tendem a mostrar um comportamento semelhante, ou seja, os menores (maiores) valores da variável X corresponde aos menores (maiores) da variável Y . Se a covariância é negativa então as variáveis tendem a mostrar um comportamento oposto, ou seja, os menores (maiores) valores da variável X corresponde aos maiores (menores) da variável Y.
 Assim, podemos ver que o sinal da covariância mostra a tendência na relação linear entre as variáveis. [1](http://www.portalaction.com.br/probabilidades/42-covariancia-e-coeficiente-de-correlacao).
 
+## Cross-validation (Validação cruzada)
+Na abordagem básica, chamada k-fold Cross-validation, o conjunto de treinamento é particionado em k subconjuntos. Dentre esses k subconjuntos teremos:
+* 1 subconjunto de validação
+* k-1 subconjuntos de treinamento
+
+Quando um valor específico para k é escolhido, ele pode ser usado no lugar de k, como por exemplo k = 10, tornando-se uma 10-fold Cross-validation. Nesse caso, o processo então será repetido 10 vezes, onde cada uma das 10 subamostras será usada como dados de validação [scikit learn cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html).
+
+Abaixo temos uma animação exemplificando as iterações.
+
+![cross_validation](https://imada.sdu.dk/~marco/Teaching/AY2010-2011/DM825/animation.gif)
+
 # D
 
 ## Data Storytelling
@@ -236,9 +247,9 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 Pandas é um biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 
-## Pytorch 
+## Pytorch
 
-É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) 
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch)
 [2] [Pytorch](https://pytorch.org/)
 
 ## Perceptron
@@ -295,7 +306,7 @@ A scikit-learn (originalmente scikits.learn e também conhecida como sklearn) é
 
 ## Sistemas de Recomendação
 
-Um sistema de recomendação combina técnicas de Recuperação de Informação e Aprendizagem de Máquina para selecionar itens personalizados com base nos interesses dos usuários e conforme o contexto no qual estão inseridos, é utilizado em diversas áreas como: filmes, músicas, livros, pesquisas, sites de comércios eletrônicos, etc. Através dessas técnicas, é gerado uma filtragem da informação para o usuário e assim retornando uma lista de recomendação, as filtragens mais comuns são: 
+Um sistema de recomendação combina técnicas de Recuperação de Informação e Aprendizagem de Máquina para selecionar itens personalizados com base nos interesses dos usuários e conforme o contexto no qual estão inseridos, é utilizado em diversas áreas como: filmes, músicas, livros, pesquisas, sites de comércios eletrônicos, etc. Através dessas técnicas, é gerado uma filtragem da informação para o usuário e assim retornando uma lista de recomendação, as filtragens mais comuns são:
 
 - **Filtragem colaborativa**: considera a experiência de todos os usuários
 - **Filtragem baseada em conteúdo**: Considera a experiência do usuário alvo
