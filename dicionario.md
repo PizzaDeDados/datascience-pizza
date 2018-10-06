@@ -83,7 +83,7 @@ Na abordagem básica, chamada k-fold Cross-validation, o conjunto de treinamento
 * 1 subconjunto de validação
 * k-1 subconjuntos de treinamento
 
-Quando um valor específico para k é escolhido, ele pode ser usado no lugar de k, como por exemplo k = 10, tornando-se uma 10-fold Cross-validation. Nesse caso, o processo então será repetido 10 vezes, onde cada uma das 10 subamostras será usada como dados de validação [scikit learn cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html).
+Quando um valor específico para k é escolhido, ele pode ser usado no lugar de k, ou seja, para k = 10 teremos uma 10-fold Cross-validation. Nesse caso, o processo será repetido 10 vezes, onde cada uma das 10 subamostras será usada como dados de validação [scikit learn cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html).
 
 Abaixo temos uma animação exemplificando as iterações.
 
