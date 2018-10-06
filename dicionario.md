@@ -49,7 +49,24 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 
 É o fator multiplicativo de um termo em uma expressão, sendo geralmente um número, e que não se confunde com as variáveis da expressão.[1](https://pt.wikipedia.org/wiki/Coeficiente)
 
+## Conda
+
+É um gerenciado de pacotes, dependências e ambientes para qualquer idioma - Python, R, Ruby, Lua, Scala, Java, JavaScript, C / C ++, FORTRAN. [ref](https://conda.io/docs/)
+
+## Conda-Forge
+
+É uma organização no github contendo repositórios de receitas conda. Graças a alguns incríveis provedores de integração contínua (AppVeyor, CircleCI e TravisCI), cada repositório, também conhecido como feedstock, constrói automaticamente sua própria receita de forma limpa e repetitiva no Windows, Linux e OSX. [ref](https://conda-forge.org/)
+
+## Covariância
+
+Em probabilidade, a covariância de duas variáveis X e Y é uma medida da variabilidade conjunta destas variáveis aleatórias. Se as variáveis tem covariância positiva tendem a mostrar um comportamento semelhante, ou seja, os menores (maiores) valores da variável X corresponde aos menores (maiores) da variável Y . Se a covariância é negativa então as variáveis tendem a mostrar um comportamento oposto, ou seja, os menores (maiores) valores da variável X corresponde aos maiores (menores) da variável Y.
+Assim, podemos ver que o sinal da covariância mostra a tendência na relação linear entre as variáveis. [1](http://www.portalaction.com.br/probabilidades/42-covariancia-e-coeficiente-de-correlacao).
+
 # D
+
+## Data Storytelling
+
+o processo de tradução de dados em termos de leigos para influenciar uma decisão ou ação de negócios [1](http://farolbi.com.br/data-storytelling-conte-uma-historia-com-os-dados/)
 
 ## Desvio padrão
 
@@ -59,6 +76,10 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 
 A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[1](http://leg.ufpr.br/~silvia/CE055/node44.html)
 
+## Dropout
+
+Dropout é uma técnica de regularização de redes neurais em que, a cada iteração do treinamento, uma seleção aleatória de neurônios é desligada. A quantidade de neurônios desligados é controlada por um hiper-parâmetro, sendo que, quanto mais neurônios são desligados, mais forte é a regularização. É importante que o dropout seja aplicado apenas durante o treinamento e nunca para fazer predições. (Srivastava, 2014)
+
 # E
 
 ## Ensemble Learning
@@ -67,7 +88,7 @@ Método de aprendizado que consiste em utilizar a predição de vários algoritm
 
 ## Entropia Cruzada
 
-Método usado para calcular a diferença entre duas distribuições probabilísticas e por isso é muito usado em problemas de classificação, pois se quer alcançar uma aproximação da distribuição das classes do referido problema, é dado por: ![ce1](https://latex.codecogs.com/svg.latex?H%28p%2C%20q%29%20%3D%20-%20%5Csum_%7Bx%7D%5E%7B%20%7D%20p%28x%29%20%5Clog%20%28q%28x%29%29),  
+Método usado para calcular a diferença entre duas distribuições probabilísticas e por isso é muito usado em problemas de classificação, pois se quer alcançar uma aproximação da distribuição das classes do referido problema, é dado por: ![ce1](https://latex.codecogs.com/svg.latex?H%28p%2C%20q%29%20%3D%20-%20%5Csum_%7Bx%7D%5E%7B%20%7D%20p%28x%29%20%5Clog%20%28q%28x%29%29),
 onde ![ce2](https://latex.codecogs.com/svg.latex?p(x)) é a probabilidade do exemplo ser da classe _x_ (1 na classe correspondente e 0 nas restantes) e ![ec2](https://latex.codecogs.com/svg.latex?q(x)) é a probabilidade obtida. Faz-se o somatório do produto para cada classe _x_ e no final teremos o erro entre a distribuição esperada e a obtida. [1](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html) [2](https://en.wikipedia.org/wiki/Cross-entropy_method)
 
 ## Erro quadrático médio
@@ -86,6 +107,8 @@ Um dos algoritmos mais famosos a aplicar esse conceito é o word2vec que é capa
 # G
 
 # H
+## Hadoop
+O Apache Hadoop é uma coleção de utilitários de software de código aberto que facilitam o uso de uma rede de vários computadores para resolver problemas envolvendo grandes quantidades de dados e cálculos. Ele fornece uma estrutura de software para armazenamento distribuído e processamento de big data usando o modelo de programação MapReduce. [1](https://en.wikipedia.org/wiki/Apache_Hadoop)
 
 ## Hipótese nula
 
@@ -95,7 +118,7 @@ Hipótese inicial a ser testada, que é colocada em teste de hipótese. Normalme
 
 ## Hipótese
 
-Trata-se de supostas respostas para um problema em questão. É importante que as proposições possam ser testadas de maneira empírica, afim de determinar sua validade.
+Trata-se de supostas respostas para um problema em questão. É importante que as proposições possam ser testadas de maneira empírica, a fim de determinar sua validade.
 [1](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
 
 ## Histograma
@@ -164,7 +187,7 @@ A mediana de um grupo de itens é o valor do item central quando todos os itens 
 
 ## Modelagem Preditiva
 
-É a prática de extrair informações de uma massa de dados, afim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão. [1](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html)
+É a prática de extrair informações de uma massa de dados, a fim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão. [1](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html)
 
 ## Média Móvel
 
@@ -192,21 +215,49 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 # P
 
+
+## Pandas
+
+Pandas é um biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
+
+## Pytorch 
+
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) 
+[2] [Pytorch](https://pytorch.org/)
+
 ## Perceptron
 
-É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algorítimo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
+É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algoritmo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
+
+## Precisão
+
+Uma métrica para modelos de classificação. A precisão identifica a frequência com que um modelo estava correto ao prever a classe positiva. Isso é:
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?\text{Precisao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Positivos}}">
+</p>
+
+[1](https://developers.google.com/machine-learning/glossary/#precision)
 
 # Q
 
 ## Quartil (*Quartile*)
 
-Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.*  um conjunto que contem os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8.  [Wiki](https://en.wikipedia.org/wiki/Quartile)
+Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.* um conjunto que contém os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8. [Wiki](https://en.wikipedia.org/wiki/Quartile)
 
 # R
 
+## Revocação (*Recall*)
+
+Uma métrica para modelos de classificação que responde à seguinte pergunta: de todos os possíveis rótulos positivos, quantos o modelo identificou corretamente? Isso é:
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?\text{Revocacao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Negativos}}">
+</p>
+
+[1](https://developers.google.com/machine-learning/glossary/#recall)
+
 ## Regressão Linear
 
-Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a a função linear resultante e os dados. [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
+Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a função linear resultante e os dados. [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
 
 ## Redes Neurais
 
@@ -214,21 +265,44 @@ São sistemas físicos que podem adquirir, armazenar e utilizar conhecimentos ex
 
 ## Random Forest
 
-Método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algorítimos conhecidos
+Método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algoritmos conhecidos
 (logistic regression, linear regression,etc). Esse modelo é obtido pela construção de árvores de decisão, que conforme vão sendo construídas, decidem
-quais algorítimos juntos levam ao melhor modelo. (Hastie et. al. 2008).
+quais algoritmos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 ## Regressão Logística
 
 A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [Referência](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
 
-# S
+## Sckit-Learn
+
+A scikit-learn (originalmente scikits.learn e também conhecida como sklearn) é uma biblioteca de aprendizado de máquina de código aberto para a linguagem de programação Python. Ela inclui vários algoritmos de classificação, regressão e agrupamento incluindo máquinas de vetores de suporte, florestas aleatórias, gradient boosting, k-means e DBSCAN, e é projetada para interagir com as bibliotecas Python numéricas e científicas NumPy e SciPy. Além disso, a biblioteca contêm várias técnicas de pré-processamento dos dados, como normalização, escalonamento, seleção de atributos e divisão de bases de dados. [Referência](http://scikit-learn.org/stable/).
+
+## Sistemas de Recomendação
+
+Um sistema de recomendação combina técnicas de Recuperação de Informação e Aprendizagem de Máquina para selecionar itens personalizados com base nos interesses dos usuários e conforme o contexto no qual estão inseridos, é utilizado em diversas áreas como: filmes, músicas, livros, pesquisas, sites de comércios eletrônicos, etc. Através dessas técnicas, é gerado uma filtragem da informação para o usuário e assim retornando uma lista de recomendação, as filtragens mais comuns são: 
+
+- **Filtragem colaborativa**: considera a experiência de todos os usuários
+- **Filtragem baseada em conteúdo**: Considera a experiência do usuário alvo
+- **Filtragem Híbrida**: utiliza-se os dois  tipos para gerar uma recomendação mais personalizada.
+
+Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
+
+## scikit-learn
+Uma biblioteca de código-aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Possui implementação de diversos algoritmos tradicionais, tais como K-vizinhos mais próximos, regressão linear, regressão logística e árvores de decisão. [1](http://www.scikit-learn.org).
+
+## Scala
+
+Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
 
 ## Support Vector Machine
 
-Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).  
+Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [wiki](https://en.wikipedia.org/wiki/Support_vector_machine).
 
 # T
+
+## TensorFlow
+
+O TensorFlow™ é uma biblioteca de software de código aberto para computação numérica que usa gráficos de fluxo de dados. Os nodes no gráfico representam operações matemáticas, e as arestas representam as matrizes ou tensores de dados multidimensionais que se comunicam com os nodes. A arquitetura flexível permite que você implante aplicações de computação a uma ou mais CPUs ou GPUs em um computador, servidor ou dispositivo móvel usando uma única API. O TensorFlow foi desenvolvido por pesquisadores e engenheiros da Google Brain Team no departamento de pesquisas de inteligência de máquina do Google com a finalidade de realizar pesquisas sobre redes neurais profundas e aprendizado de máquina. No entanto, devido à característica abrangente do sistema, ele também pode ser aplicado a vários outros domínios. [Referência](https://www.tensorflow.org)
 
 # U
 
@@ -287,6 +361,8 @@ Jain, A.K.; Murty, M.N.; Flynn, P.J.; Data Clustering: A review. ACM Computing S
 Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap. 3.4, pág. 52.
 
 Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeiro: Elsevier, 2013.
+
+Srivastava N., Hinton G., Krizhevsky A., Sutskever I., and Salakhutdinov R. Dropout: a simple way to prevent neural networks from overfitting. Journal of Machine Learning Research. 15, 1 (January 2014), 1929-1958.
 
 Staab, Steffen, and Rudi Studer, eds. Handbook on ontologies. Springer Science & Business Media, 2010.
 
