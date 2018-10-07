@@ -16,6 +16,17 @@ São conjuntos de passos finitos e organizados que, quando executados, realizam 
 
 O objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares (Alpaydin, 2010).
 
+## Árvore de Decisão
+Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão  fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
+
+Na imagem abaixo temos o exemplo da representação de uma ávore de decisão para decidir se um cliente deve aguardar por uma mesa no restaurante.
+
+![decision_tree](https://image.ibb.co/cMaWgz/Screenshot_from_2018_10_06_01_10_53.png)
+
+Abaixo temos algumas possíveis entradas para a árvore de decisão, representada acima, e seus respectivos resultados.
+
+![decision_tree_inputs_outputs](https://image.ibb.co/koz2oe/Screenshot_from_2018_10_06_01_15_57.png)
+
 # B
 
 ## Banco de Dados Não-Relacional
