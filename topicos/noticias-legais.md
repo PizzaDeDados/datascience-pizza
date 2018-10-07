@@ -12,17 +12,17 @@
 <h2 id="conceitos">Conceitos</h2>
 
  * [Data Science and Big Data: Two very Different Beasts](https://www.linkedin.com/pulse/data-science-big-two-very-different-beasts-sean-mcclure-ph-d-?trk=prof-post)
- * **PT-BR** [A Lei de Benford e a beleza dos números](http://jtemporal.com/benford-law/)
+ * [A Lei de Benford e a beleza dos números](http://jtemporal.com/benford-law/) | [**pt-br**]
  * [What's the difference between data science, machine learning and artificial intelligence](http://varianceexplained.org/r/ds-ml-ai/)
  * [What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
- * **PT-BR** [Um breve estudo sobre outliers](http://leportella.com/pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html)
+ * [Um breve estudo sobre outliers](http://leportella.com/pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html) | [**pt-br**]
  * [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 <h2 id="curiosidades">Curiosidades</h2>
 
  * [15 Insane Things That Correlate With Each Other](http://www.tylervigen.com/spurious-correlations)
  * [Researches perfectly reconstruct faces by reading brainwaves](https://singularityhub.com/2017/06/14/forget-police-sketches-researchers-perfectly-reconstruct-faces-by-reading-brainwaves/)
- * **PT-BR** [Inteligência Artificial pos a prova psicografia de Chico Xavier](https://super.abril.com.br/historia/inteligencia-artificial-pos-a-prova-psicografia-de-chico-xavier/)
+ * [Inteligência Artificial pos a prova psicografia de Chico Xavier](https://super.abril.com.br/historia/inteligencia-artificial-pos-a-prova-psicografia-de-chico-xavier/) | [**pt-br**]
 
 <h2 id="dados-na-vida-real">Dados na vida real</h2>
  
@@ -34,6 +34,6 @@
 <h2 id="ferramentas">Ferramentas</h2>
  
  * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.4lsldtI)
- * **PT-BR** [10 dicas para mudar do Matlab pro Python](http://leportella.com/pt-br/2017/05/06/10-dicas-matlab-para-python.html)
+ * [10 dicas para mudar do Matlab pro Python](http://leportella.com/pt-br/2017/05/06/10-dicas-matlab-para-python.html) | [**pt-br**]
 
 

@@ -15,10 +15,10 @@
 - [Data Science and Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/)
-- [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/)
+- [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/) | [**pt-br**]
 - [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
 - [A Course in Machine Learning](http://ciml.info/)
-- [Curso Machine Learning gratuito UFPR](http://cursos.leg.ufpr.br/ML4all/1parte/)
+- [Curso Machine Learning gratuito UFPR](http://cursos.leg.ufpr.br/ML4all/1parte/) | [**pt-br**]
 
 
 ## Datasets
@@ -27,9 +27,12 @@
 
 ## Grupos
 
-- [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
-- [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
-- [School of AI Capítulo SP - Facebook] (https://www.facebook.com/groups/spschoolofai/) 
+- [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/) | [**pt-br**]
+
+- [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr) | [**pt-br**]
+
+- [School of AI Capítulo SP - Facebook](https://www.facebook.com/groups/spschoolofai/) | [**pt-br**]
+ 
 
 ## Projetos
 
@@ -45,7 +48,7 @@
 ### Gerais
 
  - [Ten Things Everyone Should Know About Machine Learning](https://www.forbes.com/sites/quora/2017/09/06/ten-things-everyone-should-know-about-machine-learning/#1f1ae48a4e9e)
- - [Introdução Visual ao aprendizado de máquina](http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/) [**pt-br**]
+ - [Introdução Visual ao aprendizado de máquina](http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/) | [**pt-br**]
  - [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
  - [I thought I was ready to start coding Neural Networks. Boy, was I wrong.](https://www.linkedin.com/pulse/i-thought-ready-start-coding-neural-networks-boy-wrong-tim-g%C3%BClke/?trackingId=U8FeIMV3JkhPqefE8iU2gQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUD4Qv5VUShmFJpTbtzvOfA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object)
  - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)

@@ -1,13 +1,13 @@
 # Livros
 
 ## Iniciantes
-  - [Data Science do Zero. Primeiras Regras com o Python](https://books.google.com.br/books/about/DATA_SCIENCE_DO_ZERO.html?id=EWJCvgAACAAJ&redir_esc=y)
+  - [Data Science do Zero. Primeiras Regras com o Python](https://books.google.com.br/books/about/DATA_SCIENCE_DO_ZERO.html?id=EWJCvgAACAAJ&redir_esc=y) | [**pt-br**]
   - [Bad Data Handbook](https://books.google.com.br/books?id=J6jTaDSg3sYC&printsec=frontcover&dq=Bad+Data&hl=pt-BR&sa=X&ved=0ahUKEwjqgfX0-5PVAhUBF5AKHd0vDDMQ6AEIJjAA#v=onepage&q=Bad%20Data&f=false)
   - [Julia for Data Science](https://books.google.com.br/books?id=Bn9cDgAAQBAJ&printsec=frontcover&dq=Julia+for+data+science&hl=pt-BR&sa=X&ved=0ahUKEwjVybvF_ZPVAhUKOZAKHQd_BIkQ6AEIJjAA#v=onepage&q=Julia%20for%20data%20science&f=false)
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): disponível em Jupyter notebooks
-  - [Data Science para Negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados](https://books.google.com.br/books?id=c4lAvgAACAAJ&dq=Data+Science+para+Neg%C3%B3cios:+O+que+voc%C3%AA+precisa+saber+sobre+minera%C3%A7%C3%A3o+de+dados+e+pensamento+anal%C3%ADtico+de+dados&hl=pt-BR&sa=X&ved=0ahUKEwiw1u_TgvjWAhVHk5AKHc62D2EQ6AEIJzAA)
+  - [Data Science para Negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados](https://books.google.com.br/books?id=c4lAvgAACAAJ&dq=Data+Science+para+Neg%C3%B3cios:+O+que+voc%C3%AA+precisa+saber+sobre+minera%C3%A7%C3%A3o+de+dados+e+pensamento+anal%C3%ADtico+de+dados&hl=pt-BR&sa=X&ved=0ahUKEwiw1u_TgvjWAhVHk5AKHc62D2EQ6AEIJzAA) | [**pt-br**]
   - [Data Science Live Book](https://livebook.datascienceheroes.com)
   - [Think stats](http://greenteapress.com/wp/think-stats-2e/)
   - R for Data Science (R4DS): [livro](http://r4ds.had.co.nz/), [livro com notas e soluções dos exercícios do R4DS](https://jrnold.github.io/r4ds-exercise-solutions/) e [grupo de estudo do R4DS no Slack](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82).
