@@ -26,7 +26,7 @@ de direitos autorais não serão aceitos.
 
 2. Materiais só serão aceitos com referências bibliográficas devidamente indicadas.
 
-3. Materiais em português devem conter a tag `[pt-br]` (e.g: `Curso de data science [pt-br]`).
+3. Materiais em português devem conter a tag **[pt-br]** (e.g: Curso de data science **[pt-br]**).
 
 
 ## Dicionário
