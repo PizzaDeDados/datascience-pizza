@@ -3,9 +3,30 @@
 Ficamos felizes que você queira contribuir. Vamos aos que precisamos:
 
 
+## Fluxo de contribuição
+
+1. Escolha um tema para contribuir: adicionar um novo termo ao dicionário, adicionar materiais específicos ou
+sugerir modificações em materiais já existentes.
+
+2. Leia as regras de contribuição (abaixo) e certifique-se de que você não fuja delas, PRs que não respeitem
+as regras não serão aceitos.
+
+3. Faça sua contribuição: edite os arquivos necessários para incluir o que você acha relevante.
+
+4. Inclua referências bibliográficas e tags necessárias.
+
+5. Coloque seu nick em `CONTRIBUIDORES.md`
+
+6. Crie um PR com nome curto e objetivo.
+
+
 ## Regras
 1. Certifique-se de que todos os materiais adicionados são originais (gratuitos ou pagos), materiais pirata ou que infrinjam regras
 de direitos autorais não serão aceitos.
+
+2. Materiais só serão aceitos com referências bibliográficas devidamente indicadas.
+
+3. Materiais em português devem conter a tag `[pt-br]` (e.g: `Curso de data science [pt-br]`).
 
 
 ## Dicionário
