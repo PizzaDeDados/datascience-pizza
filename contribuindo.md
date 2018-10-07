@@ -16,3 +16,10 @@ datascience-pizza um material sobre machine learning, coloque-o no documento esp
 material em outro lugar, as coisas vão ficar confusas, ok?
 
 * Se você está contribuindo pela primeira vez, sem problemas! Se precisar de uma ajuda, estamos aqui!
+
+## Não esqueça algumas padrões
+
+* O nome do Pull Request deve ser descritivo ao que você fez, ok?!
+
+* Todo novo termo ao ser adicionado em `dicionario.md`, deve estar acompanhado de uma referência bibliografica, ou um link. 
+
