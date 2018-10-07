@@ -78,17 +78,6 @@ Correlação é a medida estatística que descreve a associação entre variáve
 Em probabilidade, a covariância de duas variáveis X e Y é uma medida da variabilidade conjunta destas variáveis aleatórias. Se as variáveis tem covariância positiva tendem a mostrar um comportamento semelhante, ou seja, os menores (maiores) valores da variável X corresponde aos menores (maiores) da variável Y . Se a covariância é negativa então as variáveis tendem a mostrar um comportamento oposto, ou seja, os menores (maiores) valores da variável X corresponde aos maiores (menores) da variável Y.
 Assim, podemos ver que o sinal da covariância mostra a tendência na relação linear entre as variáveis. [1](http://www.portalaction.com.br/probabilidades/42-covariancia-e-coeficiente-de-correlacao).
 
-## Cross-validation (Validação cruzada)
-Na abordagem básica, chamada k-fold Cross-validation, o conjunto de treinamento é particionado em k subconjuntos. Dentre esses k subconjuntos teremos:
-* 1 subconjunto de validação
-* k-1 subconjuntos de treinamento
-
-Quando um valor específico para k é escolhido, ele pode ser usado no lugar de k, ou seja, para k = 10 teremos uma 10-fold Cross-validation. Nesse caso, o processo será repetido 10 vezes, onde cada uma das 10 subamostras será usada como dados de validação [scikit learn cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html).
-
-Abaixo temos uma animação exemplificando as iterações.
-
-![cross_validation](https://imada.sdu.dk/~marco/Teaching/AY2010-2011/DM825/animation.gif)
-
 # D
 
 ## Data Storytelling
@@ -338,6 +327,17 @@ O TensorFlow™ é uma biblioteca de software de código aberto para computaçã
 É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias. [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/)
 
 # V
+
+## Validação cruzada (Cross-validation)
+Na abordagem básica, chamada método k-fold, o conjunto de treinamento é particionado em k subconjuntos. Dentre esses k subconjuntos teremos:
+* 1 subconjunto de validação
+* k-1 subconjuntos de treinamento
+
+Quando um valor específico para k é escolhido, por exemplo k = 10, teremos uma Validação cruzada 10-fold. Neste caso o processo de validação será repetido 10 vezes, onde cada uma das 10 subamostras serão usadas como dados de validação [scikit learn cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html).
+
+Abaixo temos uma animação exemplificando as iterações.
+
+![cross_validation](https://imada.sdu.dk/~marco/Teaching/AY2010-2011/DM825/animation.gif)
 
 ## Variância
 
