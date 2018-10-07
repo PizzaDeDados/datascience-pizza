@@ -68,6 +68,11 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 
 É uma organização no github contendo repositórios de receitas conda. Graças a alguns incríveis provedores de integração contínua (AppVeyor, CircleCI e TravisCI), cada repositório, também conhecido como feedstock, constrói automaticamente sua própria receita de forma limpa e repetitiva no Windows, Linux e OSX. [ref](https://conda-forge.org/)
 
+## Correlação
+
+Correlação é a medida estatística que descreve a associação entre variáveis randômicas. Frequentemente,  correlação é o primeiro passo para entender relacionamentos e consequentemente construir melhores modelos estatísticos. [Referência](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
+
+
 ## Covariância
 
 Em probabilidade, a covariância de duas variáveis X e Y é uma medida da variabilidade conjunta destas variáveis aleatórias. Se as variáveis tem covariância positiva tendem a mostrar um comportamento semelhante, ou seja, os menores (maiores) valores da variável X corresponde aos menores (maiores) da variável Y . Se a covariância é negativa então as variáveis tendem a mostrar um comportamento oposto, ou seja, os menores (maiores) valores da variável X corresponde aos maiores (menores) da variável Y.
