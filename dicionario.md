@@ -27,6 +27,10 @@ Abaixo temos algumas possíveis entradas para a árvore de decisão, representad
 
 ![decision_tree_inputs_outputs](https://image.ibb.co/koz2oe/Screenshot_from_2018_10_06_01_15_57.png)
 
+## Aprendizagem por Reforço
+É um ramo estudado em estatística, psicologia, neurociência e ciência da computação que está diretamente ligado a aprendizado de máquina e inteligência artificial. É um método de programação de agentes que devem aprender a se comportar em um ambiente dinâmico através de interações de “tentativa e erro”, conhecidas também como premiações e punições, sem a necessidade de especificar como uma tarefa deve ser realizada. A abordagem que é utilizada nesse trabalho é feita usando técnicas de estatísticas e métodos de programação dinâmica, buscando estimar qual a vantagem em se tomar determinadas ações em diferentes estados do ambiente dado um objetivo. [1](https://www.maxwell.vrac.puc-rio.br/19637/19637_4.PDF), [2](https://en.wikipedia.org/wiki/Reinforcement_learning).
+
+
 # B
 
 ## Banco de Dados Não-Relacional
