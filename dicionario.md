@@ -345,6 +345,9 @@ Variável que possui valor quantitativo, ou seja, que pode ser contado. Em outra
 
 Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo. [1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure)
 
+## Viés
+
+Também conhecido como erro sistemático, é a distorção sistemática entre a medida de uma variável estatística e o valor real da grandeza a ser estimada. [1](https://pt.wikipedia.org/wiki/Vi%C3%A9s_sistem%C3%A1tico)
 
 # X
 
