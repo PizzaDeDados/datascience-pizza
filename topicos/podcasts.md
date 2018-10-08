@@ -28,7 +28,7 @@
 |11|Data Skeptic | | [Mini-episódios e entrevistas com profissionais sobre tópicos de ML, DS, Estatística e IA ](https://dataskeptic.com/)| [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg/) | `Kyle Polich` |
 |12| Hipsters | #62 |[Data Science e Política na Operação Serenata de Amor](https://hipsters.tech/data-science-e-politica-na-operacao-serenata-de-amor-hipsters-62/)| [Hipsters Tech](https://hipsters.tech/) | `Paulo Silveira, Mauricio Linhares, Irio Musskopf, Eduardo Cuducos` |
 |13|Tecnocast |#77 | [Cientista de Dados](https://tecnoblog.net/227424/tecnocast-077-cientista-de-dados/)| [Tecnoblog](https://tecnoblog.net/) | `Thiago Mobilon, Paulo Higa, Bernardo Santos Aflalo` |
-|14|Test And Code | |[Testing in Data Science](http://testandcode.com/33)| | | 
-|15|Talk Python to me |#139 |[Paths into a data science career](https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career)| | Hugo Bowne-Anderson  |
-|16|Talk Python to me |#131 | [Top 10 machine learning libraries](https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries)| | Pete Garcin | 
-|17|Talk Python to me |#134 | [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science)| | Damien Irving |
+|14|Test And Code |#33 |[Testing in Data Science](http://testandcode.com/33)| | `Brian, Katharine Jarmul` | 
+|15|Talk Python to me |#139 |[Paths into a data science career](https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career)| | `Hugo Bowne-Anderson`  |
+|16|Talk Python to me |#131 | [Top 10 machine learning libraries](https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries)| | `Pete Garcin` | 
+|17|Talk Python to me |#134 | [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science)| | `Damien Irving` |
