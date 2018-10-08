@@ -47,4 +47,5 @@
 |15|Talk Python to me |#139 |[Paths into a data science career](https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career)| | Hugo Bowne-Anderson  |
 |16|Talk Python to me |#131 | [Top 10 machine learning libraries](https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries)| | Pete Garcin |
 |17|Talk Python to me |#134 | [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science)| | Damien Irving |
-|18|Learn to Code With Me |S04E9 | How to Become a Data Scientist Without a Degree with Fernando Hidalgo | [Learn to Code With Me]() | Laurence Bradford |
+|18|Learn to Code With Me |S04E9 | [How to Become a Data Scientist Without a Degree with Fernando Hidalgo](https://learntocodewith.me/podcast/become-a-data-scientist-with-fernando-hidalgo/) | [Learn to Code With Me]() | Laurence Bradford |
+
