@@ -45,6 +45,20 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 É uma característica de uma técnica estatística ou de seus resultados, pelo que o valor esperado dos resultados difere do parâmetro quantitativo subjacente verdadeiro sendo estimado. Em português, viés. [1](https://en.wikipedia.org/wiki/Bias_(statistics)), [2](https://pt.wikipedia.org/wiki/Viés_sistemático)
 
+## Big Data
+É um termo que descreve o grande volume de dados - estruturados e não estruturados - que sobrecarrega as empresas diariamente. Pode ser usado para obter insights que levam a decisões melhores e ações estratégicas de negócio. Normalmente tem a definição separada em 3 V's:
+
+  - Volume: A quantidade de dado importa. Com big data você deve que processar grandes quantidades de dados para obter resultados concretos, o tamanho exato varia de empresa para empresa, podendo ser terabytes ou zetabytes.
+  
+  - Velocidade: Todos os dados devem ser transmitidos em grandes velocidades e tratados em um tempo baixo. Normalmente a velocidade está diretamente ligada a memória e escrita em disco.
+  
+  - Variedade: Os dados são gerados em inúmeros formatos, desde dados estruturados (bancos de dados normais) a não estruturados (textos, e-mails, som, vídeo, fotos, tweets e etc...)
+
+Também são considerados dois V's adicionais:
+  - Veracidade: É a garantia da qualidade do dado, ou seja, garantir que as informações sejam verdadeiras para a análise.
+  
+  - Valor: Tudo o que for feito com o big data tem que gerar um valor no final, não adianta ler uma quantidade massiva de dados sem gerar algum valor no fim. [1](https://www.oracle.com/big-data/guide/what-is-big-data.html) [2](https://www.bbva.com/en/five-vs-big-data/) [3](https://canaltech.com.br/big-data/Big-Data-os-cinco-Vs-que-todo-mundo-deveria-saber/)
+
 # C
 
 ## Coeficiente de Determinação
