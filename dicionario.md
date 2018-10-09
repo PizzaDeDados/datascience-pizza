@@ -84,6 +84,10 @@ Assim, podemos ver que o sinal da covariância mostra a tendência na relação 
 
 o processo de tradução de dados em termos de leigos para influenciar uma decisão ou ação de negócios [1](http://farolbi.com.br/data-storytelling-conte-uma-historia-com-os-dados/)
 
+## Data Wrangling
+
+É o processo de coletar, avaliar (estrutura e qualidade) e limpar os dados que serão utilizados em análises, visualizações ou na construção de modelos preditivos.
+
 ## Desvio padrão
 
 É definido como a raiz quadrada positiva da variância (Bussab et al, 2010). Em probabilidade, o desvio padrão ou desvio padrão populacional é uma medida de dispersão em torno da média populacional de uma variável aleatória. Em estatística, desvio padrão amostral indica uma medida de dispersão dos dados em torno de média amostral [1](https://pt.wikipedia.org/wiki/Desvio_padr%C3%A3o).
