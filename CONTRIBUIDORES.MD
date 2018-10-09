@@ -30,3 +30,4 @@
 * @lucianosb
 * @magusd
 * @ltkills
+* José Ferraz Neto (@zeneto)
