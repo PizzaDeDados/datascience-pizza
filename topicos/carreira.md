@@ -1,5 +1,6 @@
 # Carreira
 
+[![Become a machine learning expert in nine steps](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/07/13.png)](https://www.analyticsvidhya.com/blog/2018/07/mystory-became-a-machine-learning-expert-10-months/)
 
 ## Vídeos
   - [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
