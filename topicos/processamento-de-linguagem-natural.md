@@ -5,6 +5,7 @@
 
 * [Brincando de NLP com spaCY](http://leportella.com/pt-br/2017/11/30/brincando-de-nlp-com-spacy.html) | [**pt-br**]
 * [Why you don't need AI to build a chatbot](https://hackernoon.com/why-you-dont-need-ai-to-build-a-chatbot-fe8577f248f8)
+* [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)
 
 <h2 id="conceitos">Artigos</h2>
 
