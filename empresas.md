@@ -46,6 +46,9 @@
 | Logo  | Empresa  |  Cidade  |  Setor | Contato | Vagas |
 |---|---|---|---|---|---|
 | ![logo](https://avatars3.githubusercontent.com/u/13109725?v=4&s=75)  | Intelivix | Recife | Jurimetria, Big Data, IA | http://intelivix.com/#contato | | 
+| ![logo](https://avatars0.githubusercontent.com/u/15989976?s=65&v=4) | Instituto Atlântico | Fortaleza - CE | Data Science e Desenvolvimento de Software | http://www.atlantico.com.br/?page_id=155 | http://www.atlantico.com.br/vagas/ |
+|  | Laboratório de Sistemas e Banco de dados | Fortaleza - CE | Pesquisa | contato@lsbd.ufc.br | http://www.lsbd.ufc.br/job-opportunities/ |
+| ![logo](https://avatars3.githubusercontent.com/u/29547270?s=65&v=4) | Insight Data Science Lab | Fortaleza - CE | Pesquisa | insightlab@dc.ufc.br | 
 
 ## Centro-Oeste
 | Logo  | Empresa  |  Cidade  |  Setor | Contato | Vagas |
