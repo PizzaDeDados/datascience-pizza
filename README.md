@@ -96,6 +96,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Sklearn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
+  - [Ray](https://github.com/ray-project/ray)
   
 <h3 id="emr">Em R</h3>
 
@@ -131,7 +132,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [brasil.io](https://brasil.io/datasets)
  - [Microsoft Research Open Data](https://msropendata.com/)
  - [Datasets for Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
-
+ - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
 
