@@ -16,6 +16,10 @@ São conjuntos de passos finitos e organizados que, quando executados, realizam 
 
 O objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares (Alpaydin, 2010).
 
+## Aprendizado por Reforço
+
+O aprendizado por reforço é uma área do aprendizado de máquina que lida com a maneira como os agentes de software devem executar ações em um ambiente de modo a maximizar alguma noção de recompensa cumulativa (https://en.wikipedia.org/wiki/Reinforcement_learning).
+
 ## Árvore de Decisão
 Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão  fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
 
