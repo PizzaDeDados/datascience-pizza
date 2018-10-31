@@ -51,6 +51,9 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo de regressão. Usualmente R2 é interpretado como o quanto da variância de uma variável independente pode ser capturada (dado o modelo) a partir das variáveis dependentes [ref](http://stattrek.com/statistics/dictionary.aspx?definition=coefficient_of_determination). Para modelos lineares, R2 é usualmente definido como sendo o quadrado do coeficiente de correlação da amostra, sendo, neste caso, uma medida de o quanto a variável independente pode ser explicada a partir de uma combinação linear das variáveis dependentes [wiki](https://en.wikipedia.org/wiki/Coefficient_of_determination).
 
+## Classificação
+
+É o tipo de tarefa de aprendizado de máquina em que as entradas são mapeadas em saídas baseadas nos pares examplos de entrada-saída. O desafio enfrentado pelo algoritmo classificador é ajustar uma função que possa separar os exemplos de entrada de forma a maximizar a quantidade de saídas corretas (https://en.wikipedia.org/wiki/Supervised_learning). Uma abstração seria ter como entrada um conjunto de informações a respeito do tecido da mama extraídos da mamografia. A saída neste caso poderia ser tecido normal, tumor maligno ou tumor benigno (podem existir mais categorias). O algoritmo de classificação deve inferir a cerca dos dados de forma a reconhecer o padrão de dados de entrada de forma a determinar a saída que mais se aproxime do parão identificado.
 
 ## Clustering
 
@@ -62,7 +65,7 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 
 ## Conda
 
-É um gerenciado de pacotes, dependências e ambientes para qualquer idioma - Python, R, Ruby, Lua, Scala, Java, JavaScript, C / C ++, FORTRAN. [ref](https://conda.io/docs/)
+É um gerenciador de pacotes, dependências e ambientes para qualquer idioma - Python, R, Ruby, Lua, Scala, Java, JavaScript, C / C ++, FORTRAN. [ref](https://conda.io/docs/)
 
 ## Conda-Forge
 
