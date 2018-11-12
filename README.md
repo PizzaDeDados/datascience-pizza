@@ -4,15 +4,16 @@
 
 --
 
-**DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que básico e o que é avançado entre outros temas. 
+
+**DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas. 
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
 
-O intuito é  agregar o conhecimento que se espalha em diversos grupos e iniciativas. Muitas vezes esse conhecimento fica espalhado em drives, pockets e outros meios... 
-Dessa forma, esse repositório visa ajudar os iniciantes e servir como referência para os experientes. 
+O intuito é  agregar o conhecimento que se espalha em diversos grupos e iniciativas. Muitas vezes esse conhecimento fica espalhado em drives, pockets e outros meios...
+Dessa forma, esse repositório visa ajudar os iniciantes e servir como referência para os experientes.
 
 Se possuir material interessante, por favor compartilhe com a comunidade. Estamos aqui para crescermos juntos.
 
-Dessa iniciativa também nasceu o [Pizza de Dados](http://pizzadedados.com/), um podcast brasileiro 
+Dessa iniciativa também nasceu o [Pizza de Dados](http://pizzadedados.com/), um podcast brasileiro
 focado em ciência de dados. Se tiver um tempinho, prestigie esse trabalho 100% brasileiro.
 
 No mais, é isso. Bem vinda(o), pequena(o) padawan :)
@@ -50,9 +51,10 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
       * [Notícias Legais](https://github.com/leportella/datascience-pizza/blob/master/topicos/noticias-legais.md)
       * [Podcasts](https://github.com/leportella/datascience-pizza/blob/master/topicos/podcasts.md)
       * [Processamento de Linguagem Natural](https://github.com/leportella/datascience-pizza/blob/master/topicos/processamento-de-linguagem-natural.md)
+      * [Raspagem de Dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/raspagem-de-dados.md)
       * [Reportagens relevantes](https://github.com/leportella/datascience-pizza/blob/master/topicos/noticias-legais.md)
       * [Visualização de dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
- 
+
 --------------------------------------------------
 <h2 id="recomendacoes">Recomendações</h2>
 
@@ -81,7 +83,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - Spark
   - Estatística Bayesiana
   - Hive
-  - Hadoop 
+  - Hadoop
   - Julia
   - Computação distribuída com AWS e Google Cloud
 
@@ -93,10 +95,10 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Matplotlib (Visualização)](https://matplotlib.org/)
   - [Seaborn (Visualização)](https://seaborn.pydata.org/)
   - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
-  - [Sklearn](http://scikit-learn.org)
+  - [Scikit-learn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
-  
+
 <h3 id="emr">Em R</h3>
 
   - [h2o (Machine Learning)](http://docs.h2o.ai/)
@@ -104,12 +106,12 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [xgboost(Machine Learning)](https://www.rdocumentation.org/packages/xgboost/versions/0.4-4/topics/xgboost)
   - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
   - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
-  
+
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
 
 ### Estudos
- 
+
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
   - [Playlist de Treinamento](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX) by Edureka!
 
@@ -131,6 +133,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [brasil.io](https://brasil.io/datasets)
  - [Microsoft Research Open Data](https://msropendata.com/)
  - [Datasets for Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
+ - [Information is beautiful](https://informationisbeautiful.net/data/)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
@@ -143,7 +146,8 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 - [Dados Abertos - Telegram](https://t.me/dadosabertos)
 - [R Brasil Programadores - Facebook](https://www.facebook.com/groups/1410023525939155/)
-- [R Brasil - Telegram](https://t.me/rbrasil)
+- [R Brasil - Telegram](https://docs.google.com/forms/d/1YELWpXtxuoTe65k7Z6yA0KzPsnqW5rjIJRWcPACHW9o)
+- [R-Ladies - Telegram](https://docs.google.com/forms/d/1YELWpXtxuoTe65k7Z6yA0KzPsnqW5rjIJRWcPACHW9o)
 - [Data Science Brasil - Facebook](https://www.facebook.com/groups/DataScienceMachineLearningBR/)
 - [Data Science São Carlos (SP) Meetup](https://www.meetup.com/pt-BR/Sao-Carlos-Data-Science-Meetup/)
     * [Fanpage](https://www.facebook.com/DataScienceSanca)
