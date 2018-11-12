@@ -33,7 +33,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
   * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/datascience-pizza/blob/master/empresas.md)
   * [Grupos](#grupos)
-  * [Meteodologias Ágeis](#metodologiasageis)
+  * [Metodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
   * Tópicos específicos:
       * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
@@ -93,7 +93,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Matplotlib (Visualização)](https://matplotlib.org/)
   - [Seaborn (Visualização)](https://seaborn.pydata.org/)
   - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
-  - [Sklearn](http://scikit-learn.org)
+  - [Scikit-learn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
   
@@ -130,6 +130,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [Amazon Public Datasets](https://aws.amazon.com/pt/public-datasets/)
  - [brasil.io](https://brasil.io/datasets)
  - [Microsoft Research Open Data](https://msropendata.com/)
+ - [Datasets for Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>

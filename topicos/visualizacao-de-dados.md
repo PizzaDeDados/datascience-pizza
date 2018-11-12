@@ -13,7 +13,7 @@
   - [Learn D3.js for free](https://scrimba.com/g/gd3js)
 
 ## Tutoriais
-  - PT-BR [Desafios e tendências da visualização de dados – DataViz Basics: 1 de 4](http://www.dp6.com.br/desafios-da-visualizacao-de-dados-dataviz-basics-1-de-4/)
+  - [Desafios e tendências da visualização de dados – DataViz Basics: 1 de 4](http://www.dp6.com.br/desafios-da-visualizacao-de-dados-dataviz-basics-1-de-4/) | [**pt-br**]
   - [Create High-Impact Data Visualizations: Nine Effective Strategies](https://www.kaushik.net/avinash/create-high-impact-effective-data-visualizations/)
   - [Emery's Essentials](http://annkemery.com/essentials/)
   - [The Data Visualisation Catalogue](http://datavizcatalogue.com/)
@@ -29,7 +29,7 @@
   - [dataviz.love](http://dataviz.love/)
   - [Questions in Dataviz](https://questionsindataviz.wordpress.com/)
   - [Visualising Data](http://www.visualisingdata.com/)
-  - PT-BR [We Viz](http://www.weviz.com/)
+  - [We Viz](http://www.weviz.com/) | [**pt-br**]
   - [WTF Visualizations](http://viz.wtf/)
   - [The Python Graph Gallery](https://python-graph-gallery.com/)
   - [Storytelling with data](http://www.storytellingwithdata.com/)
