@@ -236,9 +236,9 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 Pandas é um biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 
-## Pytorch 
+## Pytorch
 
-É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) 
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch)
 [2] [Pytorch](https://pytorch.org/)
 
 ## Perceptron
@@ -301,7 +301,7 @@ A scikit-learn é uma biblioteca de código aberto muito popular para realizar a
 
 ## Sistemas de Recomendação
 
-Um sistema de recomendação combina técnicas de Recuperação de Informação e Aprendizagem de Máquina para selecionar itens personalizados com base nos interesses dos usuários e conforme o contexto no qual estão inseridos, é utilizado em diversas áreas como: filmes, músicas, livros, pesquisas, sites de comércios eletrônicos, etc. Através dessas técnicas, é gerado uma filtragem da informação para o usuário e assim retornando uma lista de recomendação, as filtragens mais comuns são: 
+Um sistema de recomendação combina técnicas de Recuperação de Informação e Aprendizagem de Máquina para selecionar itens personalizados com base nos interesses dos usuários e conforme o contexto no qual estão inseridos, é utilizado em diversas áreas como: filmes, músicas, livros, pesquisas, sites de comércios eletrônicos, etc. Através dessas técnicas, é gerado uma filtragem da informação para o usuário e assim retornando uma lista de recomendação, as filtragens mais comuns são:
 
 - **Filtragem colaborativa**: considera a experiência de todos os usuários
 - **Filtragem baseada em conteúdo**: Considera a experiência do usuário alvo
@@ -326,6 +326,17 @@ O TensorFlow™ é uma biblioteca de software de código aberto para computaçã
 É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias. [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/)
 
 # V
+
+## Validação cruzada (Cross-validation)
+Na abordagem básica, chamada método k-fold, o conjunto de treinamento é particionado em k subconjuntos. Dentre esses k subconjuntos teremos:
+* 1 subconjunto de validação
+* k-1 subconjuntos de treinamento
+
+Quando um valor específico para k é escolhido, por exemplo k = 10, teremos uma Validação cruzada 10-fold. Neste caso o processo de validação será repetido 10 vezes, onde cada uma das 10 subamostras serão usadas como dados de validação [scikit learn cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html).
+
+Abaixo temos uma animação exemplificando as iterações.
+
+![cross_validation](https://imada.sdu.dk/~marco/Teaching/AY2010-2011/DM825/animation.gif)
 
 ## Variância
 
