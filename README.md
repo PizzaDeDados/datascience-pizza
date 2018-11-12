@@ -133,6 +133,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [brasil.io](https://brasil.io/datasets)
  - [Microsoft Research Open Data](https://msropendata.com/)
  - [Datasets for Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
+ - [Information is beautiful](https://informationisbeautiful.net/data/)
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
