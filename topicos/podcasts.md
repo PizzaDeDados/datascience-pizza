@@ -35,7 +35,7 @@
 |03|DatabaseCast | #67 | [Data science na prática](http://databasecast.com.br/wp/databasecast-67-data-science-na-pratica/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Diego Nogare, Tantravahi Aditya` |
 |04| DatabaseCast | #72 | [Ecossistema Hadoop](http://databasecast.com.br/wp/databasecast-72-ecossistema-hadoop/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Felipe Gasparini` |
 |05|DatabaseCast | #74 | [Estatísticas](http://databasecast.com.br/wp/databasecast-74-estatisticas/)| [DatabaseCast](http://databasecast.com.br/wp/sample-page/) | `Mauro Pichiliani, Wagner Crivelini, Ricardo Rezende, Fabiano Amorim` |
-|06|Dev na estrada | #56 | - Data Science](http://devnaestrada.com.br/2016/06/03/data-science.html)| [DNE](http://devnaestrada.com.br/) |`Fellipe Azambuja, Igor Leroy, Ramon Sanches, Raony Guimaraes` |
+|06|Dev na estrada | #56 | [Data Science](http://devnaestrada.com.br/2016/06/03/data-science.html)| [DNE](http://devnaestrada.com.br/) |`Fellipe Azambuja, Igor Leroy, Ramon Sanches, Raony Guimaraes` |
 |07|Dragões de Garagem | #43 |[Estatística](http://dragoesdegaragem.com/podcast/dragoes-de-garagem-43-estatistica/)| [Dragões de Garagem](http://dragoesdegaragem.com/sobre/) | `Luciano Queiroz, Lucas Camargos, Bruno Spacek, Rafael Calsaverini` |
 |08|Dragões de Garagem| #92 |[Inteligência artificial](http://dragoesdegaragem.com/podcast/dragoes-de-garagem-92-inteligencia-artificial/)| [Dragões de Garagem](http://dragoesdegaragem.com/sobre/) | `Lucas Camargos, Victor Caparica, Camila Laranjeira, Kherian Gracher, Antonio Nazaré, Igor Bastos` |
 |09|Nerd Tech |#5 |[Machine Learning](https://jovemnerd.com.br/nerdcast/nerdtech/machine-learning/)| [NerdTech](https://jovemnerd.com.br/playlist/nerdtech/) | `Caio Gomes, Guilherme Silveira, Paulo Silveira` |
@@ -48,4 +48,3 @@
 |16|Talk Python to me |#131 | [Top 10 machine learning libraries](https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries)| | Pete Garcin |
 |17|Talk Python to me |#134 | [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science)| | Damien Irving |
 |18|Learn to Code With Me |S04E9 | [How to Become a Data Scientist Without a Degree with Fernando Hidalgo](https://learntocodewith.me/podcast/become-a-data-scientist-with-fernando-hidalgo/) | [Learn to Code With Me]() | Laurence Bradford |
-
