@@ -31,3 +31,5 @@
 * @magusd
 * @ltkills
 * Gabriel César (@gabrielczar)
+* @tramontini
+* José Ferraz Neto (@zeneto)

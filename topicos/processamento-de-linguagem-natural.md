@@ -13,9 +13,11 @@
 * [Desafios do Processamento de Línguas Naturais](http://www.inf.pucrs.br/linatural/Recursos/Desafios.pdf) | [**pt-br**]
 
 <h2 id="conceitos">Livros</h2>
+
 * [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit - Steven Bird, Ewan Klein e Edward Loper](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495)
 
 <h2 id="conceitos">Artigos Científicos</h2>
+
 * [Natural language processing - Gobinda G. Chowdhury, 2003](https://onlinelibrary.wiley.com/doi/abs/10.1002/aris.1440370103)
 
 <h2 id="palestras">Palestras</h2>
