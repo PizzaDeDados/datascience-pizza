@@ -7,8 +7,8 @@
 - [Machine Learning Lectures](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLJ_CMbwA6bT-n1W0mgOlYwccZ-j6gBXqE): aulas do Andrew NG na Stanford University
 - [Machine Learning com Python e scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A): curso da Data School com vários códigos de exemplo, disponíveis em Jupyter Notebook
 - [Machine Learning](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw): playlist do Alexander Ihler: mais profundo, mas didática boa
-- [Learn Machine Learning in 3 Months (with curriculum)] (https://www.youtube.com/watch?v=Cr6VqTRO1v0): vídeo do Siraj Raval (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) com dica de currículo para formação intensiva em machine learning a ser feita em 3 meses.
-- [School of AI] (https://www.youtube.com/watch?v=ARy91XqIWpk&list=PL2-dafEMk2A4kRa2qZWxSTAXE7Q0k4qjF): playlist do Siraj Raval (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) com 15 vídeos sobre a iniciativa de aulas abertas em IA denomida School of AI.
+- [Learn Machine Learning in 3 Months (with curriculum)](https://www.youtube.com/watch?v=Cr6VqTRO1v0): vídeo do [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) com dica de currículo para formação intensiva em machine learning a ser feita em 3 meses.
+- [School of AI](https://www.youtube.com/watch?v=ARy91XqIWpk&list=PL2-dafEMk2A4kRa2qZWxSTAXE7Q0k4qjF): playlist do [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) com 15 vídeos sobre a iniciativa de aulas abertas em IA denomida School of AI.
 
 ## Cursos
 

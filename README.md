@@ -4,7 +4,8 @@
 
 --
 
-**DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que básico e o que é avançado entre outros temas.
+
+**DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas. 
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
 
 O intuito é  agregar o conhecimento que se espalha em diversos grupos e iniciativas. Muitas vezes esse conhecimento fica espalhado em drives, pockets e outros meios...
@@ -94,7 +95,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Matplotlib (Visualização)](https://matplotlib.org/)
   - [Seaborn (Visualização)](https://seaborn.pydata.org/)
   - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
-  - [Sklearn](http://scikit-learn.org)
+  - [Scikit-learn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
 
@@ -144,7 +145,8 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
 - [Dados Abertos - Telegram](https://t.me/dadosabertos)
 - [R Brasil Programadores - Facebook](https://www.facebook.com/groups/1410023525939155/)
-- [R Brasil - Telegram](https://t.me/rbrasil)
+- [R Brasil - Telegram](https://docs.google.com/forms/d/1YELWpXtxuoTe65k7Z6yA0KzPsnqW5rjIJRWcPACHW9o)
+- [R-Ladies - Telegram](https://docs.google.com/forms/d/1YELWpXtxuoTe65k7Z6yA0KzPsnqW5rjIJRWcPACHW9o)
 - [Data Science Brasil - Facebook](https://www.facebook.com/groups/DataScienceMachineLearningBR/)
 - [Data Science São Carlos (SP) Meetup](https://www.meetup.com/pt-BR/Sao-Carlos-Data-Science-Meetup/)
     * [Fanpage](https://www.facebook.com/DataScienceSanca)
