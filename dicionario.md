@@ -53,6 +53,10 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo de regressão. Usualmente R2 é interpretado como o quanto da variância de uma variável independente pode ser capturada (dado o modelo) a partir das variáveis dependentes [1](http://stattrek.com/statistics/dictionary.aspx?definition=coefficient_of_determination). Para modelos lineares, R2 é usualmente definido como sendo o quadrado do coeficiente de correlação da amostra, sendo, neste caso, uma medida de o quanto a variável independente pode ser explicada a partir de uma combinação linear das variáveis dependentes [2](https://en.wikipedia.org/wiki/Coefficient_of_determination).
 
 
+## Classificação (Aprendizado de Máquina)
+
+Um problema de identificação a qual grupo uma nova entrada pertence[2], baseando-se nos dados dos conjuntos de treinamento, onde a categorização é conhecida. Dentro de aprendizado de máquina, diz-se que classificação é uma instancia de aprendizado supervisionado[1]. Tarefas como reconhecimento de padrões ou de expressões são exemplos de tarefas de classificação. [1](http://www.deeplearningbook.org/), [2](https://en.wikipedia.org/wiki/Statistical_classification)
+
 ## Clustering
 
 É a classificação não supervisionada de padrões (observações, itens de dados ou classes) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais similares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
@@ -72,7 +76,6 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 ## Correlação
 
 Correlação é a medida estatística que descreve a associação entre variáveis randômicas. Frequentemente,  correlação é o primeiro passo para entender relacionamentos e consequentemente construir melhores modelos estatísticos. [1](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
-
 
 ## Covariância
 
