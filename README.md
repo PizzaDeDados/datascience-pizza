@@ -98,7 +98,8 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Scikit-learn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
-
+  - [Ray](https://github.com/ray-project/ray)
+  
 <h3 id="emr">Em R</h3>
 
   - [h2o (Machine Learning)](http://docs.h2o.ai/)
@@ -121,6 +122,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Tutoriais de Python
   - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
   - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
+  
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
 
@@ -133,7 +135,9 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [brasil.io](https://brasil.io/datasets)
  - [Microsoft Research Open Data](https://msropendata.com/)
  - [Datasets for Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
+ - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
  - [Information is beautiful](https://informationisbeautiful.net/data/)
+
 
 --------------------------------------------------
 <h2 id="grupos">Grupos</h2>
