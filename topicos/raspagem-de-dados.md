@@ -1,5 +1,9 @@
 # Raspagem de Dados
 
+<h2 id="repositorios">Repositórios</h2>
+
+- [Raspagem de dados para iniciantes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) | **pt-br**
+
 <h2 id="podcasts">Podcast</h2>
 
 - [Pizza de Dados, Episódio 009: Sobre Crawlers e Scrapers](http://pizzadedados.com/episodio-009/) | **pt-br**
