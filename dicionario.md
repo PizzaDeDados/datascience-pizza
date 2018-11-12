@@ -264,8 +264,8 @@ Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise
 
 ## Pytorch
 
-
-É um ecossistema de ferramentas e bibliotecas de Machine Learning,para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) [2] [Pytorch](https://pytorch.org/)
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1](https://en.wikipedia.org/wiki/PyTorch) 
+[2](https://pytorch.org/)
 
 ## Perceptron
 
@@ -287,6 +287,15 @@ Uma métrica para modelos de classificação. A precisão identifica a frequênc
 Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.* um conjunto que contém os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8. [1](https://en.wikipedia.org/wiki/Quartile)
 
 # R
+
+## ReLU
+
+Função não-linear de ativação de neurônios numa rede neural artificial[1](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). É definida pela função e forma:
+
+![ReLU](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d25c25758581789c97cdf80d52bf82bbfd0f237)
+![ReLU-plot](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rectifier_and_softplus_functions.svg/495px-Rectifier_and_softplus_functions.svg.png)
+
+Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2](https://en.wikipedia.org/wiki/Logistic_function).
 
 ## Revocação (*Recall*)
 
@@ -314,6 +323,9 @@ quais algoritmos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 ## Regressão Logística
 
 A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [1](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
+
+# S
+
 
 # S
 
