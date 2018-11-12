@@ -93,7 +93,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Matplotlib (Visualização)](https://matplotlib.org/)
   - [Seaborn (Visualização)](https://seaborn.pydata.org/)
   - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
-  - [Sklearn](http://scikit-learn.org)
+  - [Scikit-learn](http://scikit-learn.org)
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
   
