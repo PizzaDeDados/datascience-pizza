@@ -288,6 +288,15 @@ Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto e
 
 # R
 
+## ReLU
+
+Função não-linear de ativação de neurônios numa rede neural artificial[1](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). É definida pela função e forma:
+
+![ReLU](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d25c25758581789c97cdf80d52bf82bbfd0f237)
+![ReLU-plot](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rectifier_and_softplus_functions.svg/495px-Rectifier_and_softplus_functions.svg.png)
+
+Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2](https://en.wikipedia.org/wiki/Logistic_function).
+
 ## Revocação (*Recall*)
 
 Uma métrica para modelos de classificação que responde à seguinte pergunta: de todos os possíveis rótulos positivos, quantos o modelo identificou corretamente? Isso é:
@@ -314,6 +323,9 @@ quais algoritmos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 ## Regressão Logística
 
 A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [1](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
+
+# S
+
 
 # S
 
