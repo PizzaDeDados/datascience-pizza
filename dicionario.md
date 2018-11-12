@@ -161,7 +161,7 @@ O [Project Jupyter](http://jupyter.org/) é um projeto de código aberto, sem fi
 
 # K
 
-## K-means clustering
+## K-means
 
 É um algoritmo de agrupamento (clustering) que utiliza distância euclidiana para dividir/organizar/separar os N valores de uma amostra em K subconjuntos. K é definido previamente e o algoritmo faz o trabalho de calcular a distribuição da amostra nos subconjuntos mais próximos. Os pontos de onde mede-se a distância euclidiana, que são os centros dos subconjuntos (K0,K1,K2,Kn) são definidos aleatoriamente na primeira iteração e a cada iteração posterior são movimentados afim de distribuir a amostra em subconjuntos de tamanhos iguais.
 ![k-means](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
@@ -289,9 +289,15 @@ quais algoritmos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [Referência](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
 
-## Sckit-Learn
+# S
 
-A scikit-learn (originalmente scikits.learn e também conhecida como sklearn) é uma biblioteca de aprendizado de máquina de código aberto para a linguagem de programação Python. Ela inclui vários algoritmos de classificação, regressão e agrupamento incluindo máquinas de vetores de suporte, florestas aleatórias, gradient boosting, k-means e DBSCAN, e é projetada para interagir com as bibliotecas Python numéricas e científicas NumPy e SciPy. Além disso, a biblioteca contêm várias técnicas de pré-processamento dos dados, como normalização, escalonamento, seleção de atributos e divisão de bases de dados. [Referência](http://scikit-learn.org/stable/).
+## Scala
+
+Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
+
+## Scikit-learn
+
+A scikit-learn é uma biblioteca de código aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Ela inclui diversos algoritmos de classificação, regressão e agrupamento, tais como [máquinas de vetores de suporte](#support-vector-machine), [florestas aleatórias](#random-forest), gradient boosting, [k-means](#k-means), DBSCAN e muitos outros. Além disso, a biblioteca também oferece técnicas de pré-processamento, seleção de atributos, seleção de modelos, métricas e outros utilitários. [1](http://scikit-learn.org/) [2](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html) [3](http://scikit-learn.org/stable/faq.html#what-is-the-project-name-a-lot-of-people-get-it-wrong)
 
 ## Sistemas de Recomendação
 
@@ -302,13 +308,6 @@ Um sistema de recomendação combina técnicas de Recuperação de Informação 
 - **Filtragem Híbrida**: utiliza-se os dois  tipos para gerar uma recomendação mais personalizada.
 
 Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
-
-## scikit-learn
-Uma biblioteca de código-aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Possui implementação de diversos algoritmos tradicionais, tais como K-vizinhos mais próximos, regressão linear, regressão logística e árvores de decisão. [1](http://www.scikit-learn.org).
-
-## Scala
-
-Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
 
 ## Support Vector Machine
 
