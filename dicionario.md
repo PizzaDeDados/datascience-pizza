@@ -264,8 +264,8 @@ Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise
 
 ## Pytorch
 
-
-É um ecossistema de ferramentas e bibliotecas de Machine Learning,para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) [2] [Pytorch](https://pytorch.org/)
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1](https://en.wikipedia.org/wiki/PyTorch) 
+[2](https://pytorch.org/)
 
 ## Perceptron
 
