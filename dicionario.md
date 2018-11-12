@@ -6,15 +6,15 @@ São conjuntos de passos finitos e organizados que, quando executados, realizam 
 
 ## Análise Exploratória de Dados
 
-É uma tradição estatística que provê ferramentas conceituais e computacionais para descobrir padrões para o desenvolvimento e refinamento de hipóteses (Behrens, 1997)
+É uma tradição estatística que provê ferramentas conceituais e computacionais para descobrir padrões para o desenvolvimento e refinamento de hipóteses. 1.(Behrens, 1997)
 
 ## Análise Não-Supervisionada
 
-É a capacidade do sistema em aprender padrões com dados de entrada, mesmo não sendo fornecido um retorno evidente. Tem como tarefa mais recorrente, o reconhecimento de grupos com os dados de entrada potencialmente úteis. (Russel e Norvig, 2013).
+É a capacidade do sistema em aprender padrões com dados de entrada, mesmo não sendo fornecido um retorno evidente. Tem como tarefa mais recorrente, o reconhecimento de grupos com os dados de entrada potencialmente úteis. 1.(Russel e Norvig, 2013).
 
 ## Análise Supervisionada
 
-O objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares (Alpaydin, 2010).
+O objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares. 1.(Alpaydin, 2010).
 
 ## Árvore de Decisão
 Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão  fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
@@ -31,19 +31,18 @@ Abaixo temos algumas possíveis entradas para a árvore de decisão, representad
 
 ## Banco de Dados Não-Relacional
 
-Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
+Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: 1. [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e 2. [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 ## Banco de Dados Relacional
 
 O conceito de bancos de dados relacionais está na forma em que eles são implementados, que estabelece uma relação lógica entre os dados, para que a repetição de dados (redundância) seja a menor possível, economizando espaço em disco e aumentando a velocidade de consulta dos dados.
 
 Um banco de dados relacional possui como entidade central tabelas, onde as colunas armazenam os tipos de dados e as linhas um caso específico de dados, sendo chamada de tupla ou registro. Também é importante o conceito de chave, que identifica unicamente um registro.
-O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado Edgar Frank Codd publicou um artigo onde foi definido formalmente o modelo relacional. Em 1985 o mesmo matemático publicou um artigo com as 13 regras que caracterizam um modelo de dados relacional.
-[Portal da Educação - Bancos de Dados Relacionais](https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246)
+O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado Edgar Frank Codd publicou um artigo onde foi definido formalmente o modelo relacional. Em 1985 o mesmo matemático publicou um artigo com as 13 regras que caracterizam um modelo de dados relacional. 1. [Portal da Educação - Bancos de Dados Relacionais](https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246)
 
 ## Bias
 
-É uma característica de uma técnica estatística ou de seus resultados, pelo que o valor esperado dos resultados difere do parâmetro quantitativo subjacente verdadeiro sendo estimado. Em português, viés. [1](https://en.wikipedia.org/wiki/Bias_(statistics)), [2](https://pt.wikipedia.org/wiki/Viés_sistemático)
+É uma característica de uma técnica estatística ou de seus resultados, pelo que o valor esperado dos resultados difere do parâmetro quantitativo subjacente verdadeiro sendo estimado. Em português, viés. 1. [Bias](https://en.wikipedia.org/wiki/Bias_(statistics)), 2. [Viés](https://pt.wikipedia.org/wiki/Viés_sistemático)
 
 # C
 
@@ -79,6 +78,10 @@ Em probabilidade, a covariância de duas variáveis X e Y é uma medida da varia
 Assim, podemos ver que o sinal da covariância mostra a tendência na relação linear entre as variáveis. [1](http://www.portalaction.com.br/probabilidades/42-covariancia-e-coeficiente-de-correlacao).
 
 # D
+
+## Dataset
+
+São conjuntos de dados tabulados, onde para cada individuo são denotadas diversas características. Cada coluna corresponde a uma varíavel, e cada linha é o conjunto de caracteristicas do individuo. Os valores(itens) dessa tabela são chamados dados. [wiki](https://pt.wikipedia.org/wiki/Conjunto_de_dados)
 
 ## Data Storytelling
 
@@ -238,8 +241,8 @@ Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise
 
 ## Pytorch
 
-É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch)
-[2] [Pytorch](https://pytorch.org/)
+
+É um ecossistema de ferramentas e bibliotecas de Machine Learning,para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) [2] [Pytorch](https://pytorch.org/)
 
 ## Perceptron
 
