@@ -3,8 +3,8 @@
 
 ## Específicos
 
-- **PT-BR** [Pizza de Dados](https://pizzadedados.com) 
-- Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)) 
+- [Pizza de Dados](https://pizzadedados.com) | [**pt-br**]
+- Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast))
 - Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch))
 - [Super data science podcast](https://www.superdatascience.com/podcast/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)

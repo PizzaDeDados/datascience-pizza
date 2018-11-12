@@ -15,4 +15,4 @@
   - [Python for Geo-people - 2017](https://geo-python.github.io/2017/)
   - [Introduction to Quantitative Geology](https://introqg.github.io/2017/)
   - [Automating GIS processes - 2017](https://automating-gis-processes.github.io/2017/)
-  - **PT-BR** [Colocando pontos num mapa com Folium](http://jtemporal.com/folium/)
+  - [Colocando pontos num mapa com Folium](http://jtemporal.com/folium/) | [**pt-br**]

@@ -16,6 +16,17 @@ São conjuntos de passos finitos e organizados que, quando executados, realizam 
 
 O objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares. 1.(Alpaydin, 2010).
 
+## Árvore de Decisão
+Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão  fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
+
+Na imagem abaixo temos o exemplo da representação de uma ávore de decisão para decidir se um cliente deve aguardar por uma mesa no restaurante.
+
+![decision_tree](https://image.ibb.co/cMaWgz/Screenshot_from_2018_10_06_01_10_53.png)
+
+Abaixo temos algumas possíveis entradas para a árvore de decisão, representada acima, e seus respectivos resultados.
+
+![decision_tree_inputs_outputs](https://image.ibb.co/koz2oe/Screenshot_from_2018_10_06_01_15_57.png)
+
 # B
 
 ## Banco de Dados Não-Relacional
@@ -55,6 +66,11 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 ## Conda-Forge
 
 É uma organização no github contendo repositórios de receitas conda. Graças a alguns incríveis provedores de integração contínua (AppVeyor, CircleCI e TravisCI), cada repositório, também conhecido como feedstock, constrói automaticamente sua própria receita de forma limpa e repetitiva no Windows, Linux e OSX. [ref](https://conda-forge.org/)
+
+## Correlação
+
+Correlação é a medida estatística que descreve a associação entre variáveis randômicas. Frequentemente,  correlação é o primeiro passo para entender relacionamentos e consequentemente construir melhores modelos estatísticos. [Referência](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
+
 
 ## Covariância
 
@@ -148,7 +164,7 @@ O [Project Jupyter](http://jupyter.org/) é um projeto de código aberto, sem fi
 
 # K
 
-## K-means clustering
+## K-means
 
 É um algoritmo de agrupamento (clustering) que utiliza distância euclidiana para dividir/organizar/separar os N valores de uma amostra em K subconjuntos. K é definido previamente e o algoritmo faz o trabalho de calcular a distribuição da amostra nos subconjuntos mais próximos. Os pontos de onde mede-se a distância euclidiana, que são os centros dos subconjuntos (K0,K1,K2,Kn) são definidos aleatoriamente na primeira iteração e a cada iteração posterior são movimentados afim de distribuir a amostra em subconjuntos de tamanhos iguais.
 ![k-means](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
@@ -221,12 +237,12 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 ## Pandas
 
-Pandas é um biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
+Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a principal e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 
-## Pytorch 
+## Pytorch
 
-É um ecossistema de ferramentas e bibliotecas de Machine Learning,para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) 
-[2] [Pytorch](https://pytorch.org/)
+
+É um ecossistema de ferramentas e bibliotecas de Machine Learning,para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1][wiki](https://en.wikipedia.org/wiki/PyTorch) [2] [Pytorch](https://pytorch.org/)
 
 ## Perceptron
 
@@ -276,26 +292,25 @@ quais algoritmos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [Referência](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
 
-## Sckit-Learn
+# S
 
-A scikit-learn (originalmente scikits.learn e também conhecida como sklearn) é uma biblioteca de aprendizado de máquina de código aberto para a linguagem de programação Python. Ela inclui vários algoritmos de classificação, regressão e agrupamento incluindo máquinas de vetores de suporte, florestas aleatórias, gradient boosting, k-means e DBSCAN, e é projetada para interagir com as bibliotecas Python numéricas e científicas NumPy e SciPy. Além disso, a biblioteca contêm várias técnicas de pré-processamento dos dados, como normalização, escalonamento, seleção de atributos e divisão de bases de dados. [Referência](http://scikit-learn.org/stable/).
+## Scala
+
+Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
+
+## Scikit-learn
+
+A scikit-learn é uma biblioteca de código aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Ela inclui diversos algoritmos de classificação, regressão e agrupamento, tais como [máquinas de vetores de suporte](#support-vector-machine), [florestas aleatórias](#random-forest), gradient boosting, [k-means](#k-means), DBSCAN e muitos outros. Além disso, a biblioteca também oferece técnicas de pré-processamento, seleção de atributos, seleção de modelos, métricas e outros utilitários. [1](http://scikit-learn.org/) [2](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html) [3](http://scikit-learn.org/stable/faq.html#what-is-the-project-name-a-lot-of-people-get-it-wrong)
 
 ## Sistemas de Recomendação
 
-Um sistema de recomendação combina técnicas de Recuperação de Informação e Aprendizagem de Máquina para selecionar itens personalizados com base nos interesses dos usuários e conforme o contexto no qual estão inseridos, é utilizado em diversas áreas como: filmes, músicas, livros, pesquisas, sites de comércios eletrônicos, etc. Através dessas técnicas, é gerado uma filtragem da informação para o usuário e assim retornando uma lista de recomendação, as filtragens mais comuns são: 
+Um sistema de recomendação combina técnicas de Recuperação de Informação e Aprendizagem de Máquina para selecionar itens personalizados com base nos interesses dos usuários e conforme o contexto no qual estão inseridos, é utilizado em diversas áreas como: filmes, músicas, livros, pesquisas, sites de comércios eletrônicos, etc. Através dessas técnicas, é gerado uma filtragem da informação para o usuário e assim retornando uma lista de recomendação, as filtragens mais comuns são:
 
 - **Filtragem colaborativa**: considera a experiência de todos os usuários
 - **Filtragem baseada em conteúdo**: Considera a experiência do usuário alvo
 - **Filtragem Híbrida**: utiliza-se os dois  tipos para gerar uma recomendação mais personalizada.
 
 Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
-
-## scikit-learn
-Uma biblioteca de código-aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Possui implementação de diversos algoritmos tradicionais, tais como K-vizinhos mais próximos, regressão linear, regressão logística e árvores de decisão. [1](http://www.scikit-learn.org).
-
-## Scala
-
-Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
 
 ## Support Vector Machine
 
@@ -314,6 +329,17 @@ O TensorFlow™ é uma biblioteca de software de código aberto para computaçã
 É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias. [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/)
 
 # V
+
+## Validação cruzada (Cross-validation)
+Na abordagem básica, chamada método k-fold, o conjunto de treinamento é particionado em k subconjuntos. Dentre esses k subconjuntos teremos:
+* 1 subconjunto de validação
+* k-1 subconjuntos de treinamento
+
+Quando um valor específico para k é escolhido, por exemplo k = 10, teremos uma Validação cruzada 10-fold. Neste caso o processo de validação será repetido 10 vezes, onde cada uma das 10 subamostras serão usadas como dados de validação [scikit learn cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html).
+
+Abaixo temos uma animação exemplificando as iterações.
+
+![cross_validation](https://imada.sdu.dk/~marco/Teaching/AY2010-2011/DM825/animation.gif)
 
 ## Variância
 
