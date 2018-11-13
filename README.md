@@ -29,6 +29,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
       * [Grandes projetos (big data)](#grandesprojetos)
       * [Em Python](#empython)
       * [Em R](#emr)
+      * [Em Julia](#emjulia)
   * [Vídeos](#videos)
   * [Datasets](#datasets)
   * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
@@ -107,6 +108,9 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [xgboost(Machine Learning)](https://www.rdocumentation.org/packages/xgboost/versions/0.4-4/topics/xgboost)
   - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
   - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
+  
+<h3 id="emjulia">Em Julia</h3>
+  - [Julia Cheat Sheet](https://github.com/JuliaDocs/Julia-Cheat-Sheet/)
 
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
