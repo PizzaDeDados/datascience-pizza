@@ -41,6 +41,7 @@
 ## Dicas
 
 - [Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229.html)
+- [Outlier detection with SVM](https://machinelearningphd.com/outlier-detection-svm/)
 
 
 ## Artigos
