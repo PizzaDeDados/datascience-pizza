@@ -100,6 +100,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
   - [Ray](https://github.com/ray-project/ray)
+  - [Python para Ciência de Dados em 5 passos](https://imasters.com.br/data/python-para-ciencia-de-dados-em-5-passos)
   
 <h3 id="emr">Em R</h3>
 
