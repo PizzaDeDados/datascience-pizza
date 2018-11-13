@@ -30,6 +30,10 @@
 
 * [Think Bayes -- Bayesian Statistics Made Simple](http://greenteapress.com/wp/think-bayes/), by Allen B. Downey
 
+## Posts
+
+- [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
+
 # Matemática
 
 ## Cursos
