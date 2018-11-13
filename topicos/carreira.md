@@ -20,3 +20,7 @@
 - [Advice for New and Junior Data Scientists](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b)
 - [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
 
+
+## Entrevistas
+
+- [Microsoft Data Science/AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/microsoft-ai-interview-questions-acing-the-ai-interview-be6972f790ea)
