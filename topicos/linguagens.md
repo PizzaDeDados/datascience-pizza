@@ -4,7 +4,7 @@
 
 
 # R 
-
+ - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
 # Julia
 
