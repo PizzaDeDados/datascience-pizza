@@ -42,6 +42,7 @@
 
 - [Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229.html)
 - [Outlier detection with SVM](https://machinelearningphd.com/outlier-detection-svm/)
+- [Feature Engineering as a Core of Machine Learning Business Value](https://indatalabs.com/blog/data-science/feature-engineering-machine-learning-value#Tmcyp1TsPOMhGCBq.99)
 
 
 ## Artigos
