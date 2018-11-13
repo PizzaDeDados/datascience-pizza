@@ -11,3 +11,8 @@
   - [NoSQL Essencial](https://novatec.com.br/livros/nosql-essencial/) | [**pt-br**]
   - [NoSQL: Como armazenar os dados de uma aplicação moderna](https://www.casadocodigo.com.br/products/livro-nosql) | [**pt-br**]
   
+### Tutorials
+  - [SQL Tutorial](http://sqlzoo.net/)
+  
+### Cheatsheet
+  - [Quick SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
