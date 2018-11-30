@@ -33,3 +33,4 @@
 * Gabriel César (@gabrielczar)
 * @tramontini
 * José Ferraz Neto (@zeneto)
+* Felipe Iasi (@ficosta)
