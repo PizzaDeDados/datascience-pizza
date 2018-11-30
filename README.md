@@ -76,6 +76,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - Cálculo
   - Álgebra Linear
   - [Deep Learning](https://www.kaggle.com/learn/deep-learning)
+  - [Visualização de Dados](https://www.kaggle.com/learn/data-visualisation)
   - Processamento de Linguagem Natural
 
 <h3 id="grandesprojetos">Grandes projetos (big data)</h3>
