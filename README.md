@@ -75,7 +75,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Machine Learning](https://www.kaggle.com/learn/machine-learning)
   - Cálculo
   - Álgebra Linear
-  - Deep Learning
+  - [Deep Learning](https://www.kaggle.com/learn/deep-learning)
   - Processamento de Linguagem Natural
 
 <h3 id="grandesprojetos">Grandes projetos (big data)</h3>
