@@ -72,7 +72,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="intermediario">Intermediário</h3>
 
-  - Machine Learning
+  - [Machine Learning](https://www.kaggle.com/learn/machine-learning)
   - Cálculo
   - Álgebra Linear
   - Deep Learning
