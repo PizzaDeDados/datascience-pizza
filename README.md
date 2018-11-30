@@ -129,7 +129,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Tutoriais de Python
   - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
   - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
-  - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) by Fernando Masanori 
+  - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) by Fernando Masanori
 
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
@@ -202,7 +202,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [nlpbr(Processamento de Linguagem Natural)](https://t.me/nlpbr)
 - [Python Brasil](https://t.me/pythonbr)
 - [Estatística e Probabilidade](https://t.me/joinchat/B5CoWUaMdg-IZGMJFJOaaA)
-
+- [Estatística e Data Science](https://t.me/joinchat/DNrFfw6G2vh-mrbmBNq2Cw)
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
