@@ -129,6 +129,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Tutoriais de Python
   - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
   - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
+  - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) by Fernando Masanori 
 
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
