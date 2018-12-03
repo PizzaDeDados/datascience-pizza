@@ -179,6 +179,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 <h2 id="grupos">Grupos</h2>
 
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
+- [Data Science com R - Telegram](https://t.me/DataSciencecomR)
 - [PyData BH - Telegram](https://t.me/pydatabh)
 - [PyData BsB - Telegram](https://t.me/PyDataBSB)
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
