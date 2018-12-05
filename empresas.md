@@ -31,6 +31,8 @@
 |  ![logo](https://pbs.twimg.com/profile_images/745010054835798016/Z1hvZQpp.jpg)| IcaroTech | Campinas-SP | Tecnologia da informação | https://www.icarotech.com/ | https://www.icarotech.com/trabalhe-conosco/ |
 |   | Duratex S.A. | São Paulo-SP | Indústria | http://www.duratex.com.br/  |   |
 | ![logo-spacetime](https://static1.squarespace.com/static/57d4124203596e4e5be3f7b9/t/57d5b9ace3df286e27f93d54/favicon.ico) | SpaceTime Labs | São Paulo-SP e São José dos Campos-SP | Água, energia e biomassa | https://www.spacetimelabs.ai/ | |
+|  ![logo](https://www.itforum365.com.br/wp-content/uploads/2018/01/SEMANTIX-LOGO.jpg)| Semantix | São Paulo-SP | Consultoria de Big Data | http://www.semantix.com.br/ | http://www.semantix.com.br/blog/trabalhe-conosco/ |
+|  ![logo](https://logodownload.org/wp-content/uploads/2017/11/next.png)| Next | São Paulo-SP | Banco Fintech | https://next.me/ | |
 
 ## Sul 
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
