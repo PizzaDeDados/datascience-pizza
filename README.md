@@ -111,8 +111,29 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
   - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
   
-<h3 id="emjulia">Em Julia</h3>
- 
+<h3 id="emjulia">Em [Julia][https://github.com/JuliaLang/julia]</h3>
+  - Gráficos
+    - [JuliaPlots][https://github.com/JuliaPlots]
+    - [JuliaGraphics][https://github.com/JuliaGraphics]
+    - [Gadfly][https://github.com/GiovineItalia/Gadfly.jl]
+    - [Plotly.jl][https://github.com/plotly/Plotly.jl]
+
+  - Manipulação de dados
+    - [JuliaData][https://github.com/JuliaData]
+    - [Ijulia.jl][https://github.com/JuliaLang/IJulia.jl]
+
+  - Machine Learning
+    - [JuliaML][https://github.com/JuliaML]
+    - [Flux.jl][https://github.com/FluxML/Flux.jl]
+    - [Tensorflow.jl][https://github.com/malmaud/TensorFlow.jl]
+    - [MXNet.jl][https://github.com/dmlc/MXNet.jl]
+
+  - Big Data
+    - [Hadoop][https://github.com/JuliaParallel/Elly.jl]
+    - [Spark.jl][https://github.com/dfdx/Spark.jl]
+    - [Hive.jl][https://github.com/JuliaDatabases/Hive.jl]
+    - [Kafka.jl][https://github.com/dfdx/Kafka.jl]
+    
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
 
@@ -127,7 +148,12 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Tutoriais de Python
   - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
   - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
-  
+
+### Tutoriais de Julia
+  - [Curso do Alexandre Gomiero de Oliveira no youtube][https://www.youtube.com/playlist?list=PLya-DXLnU1p7_iMNN4386qkiD4ywL9hxm]
+  - [Coursera: Julia Scientific Programming][https://www.coursera.org/learn/julia-programming]
+  - [Canal do youtube][https://www.youtube.com/user/JuliaLanguage]
+
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
 
