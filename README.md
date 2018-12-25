@@ -111,29 +111,61 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
   - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
   
-<h3 id="emjulia">Em [Julia][https://github.com/JuliaLang/julia]</h3>
+<h3 id="emjulia">Em [Julia](https://github.com/JuliaLang/julia)</h3>
   - Gráficos
-    - [JuliaPlots][https://github.com/JuliaPlots]
-    - [JuliaGraphics][https://github.com/JuliaGraphics]
-    - [Gadfly][https://github.com/GiovineItalia/Gadfly.jl]
-    - [Plotly.jl][https://github.com/plotly/Plotly.jl]
+    - [JuliaPlots](https://github.com/JuliaPlots)
+    - [JuliaGraphics](https://github.com/JuliaGraphics)
+    - [Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl)
+    - [Plotly](https://github.com/plotly/Plotly.jl)
 
-  - Manipulação de dados
-    - [JuliaData][https://github.com/JuliaData]
-    - [Ijulia.jl][https://github.com/JuliaLang/IJulia.jl]
+
+  - Acesso e manipulação de dados
+    - [Ijulia](https://github.com/JuliaLang/IJulia.jl)
+    - [JuliaData](https://github.com/JuliaData)
+		  - [CSV](https://github.com/JuliaData/CSV.jl)
+		  - [DataFrames](https://github.com/JuliaData/DataFrames.jl)
+		  - [Tables](https://github.com/JuliaData/Tables.jl)
+		  - [SplitApplyCombine.jl](https://github.com/JuliaData/SplitApplyCombine.jl)
+		  - [Feather](https://github.com/JuliaData/Feather.jl)
+    - [JuliaDatabases](https://github.com/JuliaDatabases)
+		  - [ODBC](https://github.com/JuliaDatabases/ODBC.jl)
+		  - [JDBC](https://github.com/JuliaDatabases/JDBC.jl)
+		  - [SQLite.](https://github.com/JuliaDatabases/SQLite.jl)
+		  - [MySQL](https://github.com/JuliaDatabases/MySQL.jl)
+		  - [PostgreSQL](https://github.com/invenia/LibPQ.jl)
+   	  - [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl)
+	  - [JuliaIO](https://github.com/JuliaIO)
+  		- [JSON](https://github.com/JuliaIO/JSON.jl)
+	  	- [LibXML](https://github.com/JuliaIO/LightXML.jl)
+		  - [LibExpat](https://github.com/JuliaIO/LibExpat.jl)
+
+
+  - Estatística
+    - [JuliaStats](https://github.com/JuliaStats)
+      - [Estatística básica](https://github.com/JuliaStats/StatsBase.jl)
+      - [Análise Multivariada](https://github.com/JuliaStats/MultivariateStats.jl)
+      - [Modelos Lineares](https://github.com/JuliaStats/GLM.jl)
+      - [Distâncias](https://github.com/JuliaStats/Distances.jl)
+      - [Distribuições](https://github.com/JuliaStats/Distributions.jl)
+      - [Séries temporais](https://github.com/JuliaStats/TimeSeries.jl)
+      - [Clustering](https://github.com/JuliaStats/TimeSeries.jl)
+
 
   - Machine Learning
-    - [JuliaML][https://github.com/JuliaML]
-    - [Flux.jl][https://github.com/FluxML/Flux.jl]
-    - [Tensorflow.jl][https://github.com/malmaud/TensorFlow.jl]
-    - [MXNet.jl][https://github.com/dmlc/MXNet.jl]
+    - [JuliaML](https://github.com/JuliaML)
+    - [Flux.jl](https://github.com/FluxML/Flux.jl)
+    - [Tensorflow](https://github.com/malmaud/TensorFlow.jl)
+    - [MXNet](https://github.com/dmlc/MXNet.jl)
+    - [XGBoost](https://github.com/dmlc/XGBoost.jl)
+
 
   - Big Data
-    - [Hadoop][https://github.com/JuliaParallel/Elly.jl]
-    - [Spark.jl][https://github.com/dfdx/Spark.jl]
-    - [Hive.jl][https://github.com/JuliaDatabases/Hive.jl]
-    - [Kafka.jl][https://github.com/dfdx/Kafka.jl]
+    - [Hadoop](https://github.com/JuliaParallel/Elly.jl)
+    - [Spark](https://github.com/dfdx/Spark.jl)
+    - [Hive](https://github.com/JuliaDatabases/Hive.jl)
+    - [Kafka](https://github.com/dfdx/Kafka.jl)
     
+
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
 
@@ -150,9 +182,9 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
 
 ### Tutoriais de Julia
-  - [Curso do Alexandre Gomiero de Oliveira no youtube][https://www.youtube.com/playlist?list=PLya-DXLnU1p7_iMNN4386qkiD4ywL9hxm]
-  - [Coursera: Julia Scientific Programming][https://www.coursera.org/learn/julia-programming]
-  - [Canal do youtube][https://www.youtube.com/user/JuliaLanguage]
+  - [Curso do Alexandre Gomiero de Oliveira no youtube](https://www.youtube.com/playlist?list=PLya-DXLnU1p7_iMNN4386qkiD4ywL9hxm)
+  - [Canal oficial do youtube](https://www.youtube.com/user/JuliaLanguage)
+  - [Coursera: Julia Scientific Programming](https://www.coursera.org/learn/julia-programming)
 
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
