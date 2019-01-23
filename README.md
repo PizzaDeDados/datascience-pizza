@@ -34,7 +34,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   * [Datasets](#datasets)
   * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
   * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/datascience-pizza/blob/master/empresas.md)
-  * [Grupos](#grupos)
+  * [Grupos](https://github.com/leportella/datascience-pizza/blob/master/topicos/grupos.md)
   * [Metodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
   * Tópicos específicos:
@@ -153,38 +153,6 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
  - [Datahub](http://datahub.io/dataset)
  - [TeraData](teradata.com/Portuguese/Banco_de_Dados_da_Teradata)
  - [Oracle Exadata](oracle.com/exadata)
-
---------------------------------------------------
-<h2 id="grupos">Grupos</h2>
-
-- [Data Science & Python - Telegram](https://t.me/datasciencepython)
-- [Data Science com R - Telegram](https://t.me/DataSciencecomR)
-- [PyData BH - Telegram](https://t.me/pydatabh)
-- [PyData BsB - Telegram](https://t.me/PyDataBSB)
-- [PyTche - Telegram](https://t.me/pytche)
-- [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
-- [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
-- [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
-- [Dados Abertos - Telegram](https://t.me/dadosabertos)
-- [R Brasil Programadores - Facebook](https://www.facebook.com/groups/1410023525939155/)
-- [R Brasil - Telegram](https://docs.google.com/forms/d/1YELWpXtxuoTe65k7Z6yA0KzPsnqW5rjIJRWcPACHW9o)
-- [R-Ladies - Telegram](https://docs.google.com/forms/d/1YELWpXtxuoTe65k7Z6yA0KzPsnqW5rjIJRWcPACHW9o)
-- [Data Science Brasil - Facebook](https://www.facebook.com/groups/DataScienceMachineLearningBR/)
-- [Data Science São Carlos (SP) Meetup](https://www.meetup.com/pt-BR/Sao-Carlos-Data-Science-Meetup/)
-    * [Fanpage](https://www.facebook.com/DataScienceSanca)
-    * [Palestras - Youtube](https://www.youtube.com/channel/UC9vnxC4PGuQGtnEydfTVquQ/playlists)
-    * [Telegram](https://t.me/DataScienceSanca)
-- [Machine Learning Porto Alegre (RS) Meetup](https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/)
-    * [Fanpage 0 Facebook](https://pt-br.facebook.com/machinelearningpoa/)
-    * [Palestras - YouTube]https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A
-- [IA Brasil - Telegram](https://t.me/iaBrasil)
-- [Open Data Science](https://t.me/opendatascience)
-- [Big Data BR](https://t.me/bigdatabr)
-- [nlpbr(Processamento de Linguagem Natural)](https://t.me/nlpbr)
-- [Python Brasil](https://t.me/pythonbr)
-- [Estatística e Probabilidade](https://t.me/joinchat/B5CoWUaMdg-IZGMJFJOaaA)
-- [Estatística e Data Science](https://t.me/joinchat/DNrFfw6G2vh-mrbmBNq2Cw)
-- [A Liga dos Programadores - Maior grupo de desenvolvedores brasileiros & portugueses do Discord](https://discord.gg/xwKMcum)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
