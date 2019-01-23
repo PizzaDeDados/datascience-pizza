@@ -12,6 +12,15 @@
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
   - [Ray](https://github.com/ray-project/ray)
+  
+## Vídeo sobre Python
+
+  - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) by Fernando Masanori | [**pt-br**]
+  - [Live de Python por Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) | [**pt-br**]
+  - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
+  - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
+  - [Aulas de Python Básico, Intermediário, Flask e Django](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) by Corey Schafer
+
 
 # R 
  - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
