@@ -129,6 +129,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Tutoriais de Python
   - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
   - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
+  - [Aulas de Python Básico, Intermediário, Flask e Django](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) by Corey Schafer
   - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) by Fernando Masanori
 
 --------------------------------------------------
@@ -185,6 +186,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [Data Science com R - Telegram](https://t.me/DataSciencecomR)
 - [PyData BH - Telegram](https://t.me/pydatabh)
 - [PyData BsB - Telegram](https://t.me/PyDataBSB)
+- [PyTche - Telegram](https://t.me/pytche)
 - [Python Brasil Programadores - Facebook](https://www.facebook.com/groups/python.brasil/)
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
 - [Machine Learning & Data Science no Garoa - Telegram](https://t.me/dsmlbr)
@@ -197,6 +199,9 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
     * [Fanpage](https://www.facebook.com/DataScienceSanca)
     * [Palestras - Youtube](https://www.youtube.com/channel/UC9vnxC4PGuQGtnEydfTVquQ/playlists)
     * [Telegram](https://t.me/DataScienceSanca)
+- [Machine Learning Porto Alegre (RS) Meetup](https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/)
+    * [Fanpage 0 Facebook](https://pt-br.facebook.com/machinelearningpoa/)
+    * [Palestras - YouTube]https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A
 - [IA Brasil - Telegram](https://t.me/iaBrasil)
 - [Open Data Science](https://t.me/opendatascience)
 - [Big Data BR](https://t.me/bigdatabr)
