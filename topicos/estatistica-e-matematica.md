@@ -17,6 +17,8 @@
 
 ## Livros
 
+* **PT-BR** [Como mentir com estatítisca](https://www.amazon.com.br/Como-Mentir-Estat%C3%ADstica-Darrell-Huff/dp/858057952X)
+
 * [Introduction to Probability, 2nd Edition](https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X), by Dimitri P. Bertsekas and John N. Tsitsiklis, livro texto do curso do MIT citado acima.
 
 * [Introduction to Probability](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573) (Chapman & Hall/CRC Texts in Statistical Science), 1st Edition, by Joseph K. Blitzstein  and Jessica Hwang, livro texto do curso de Harvard citado acima.
@@ -52,13 +54,3 @@
 * [Introduction to Linear Algebra, Fifth Edition](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775), by Gilbert Strang, livro texto do curso do MIT de Álgebra Linear citado acima.
 
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf), de Eric Lehman (Google), F Thomson Leighton (MIT) e Albert R Meyer (MIT), livro-texto gratuito do curso do MIT citado acima.
-
-* **PT-BR** [Como mentir com estatítisca](https://www.amazon.com.br/Como-Mentir-Estat%C3%ADstica-Darrell-Huff/dp/858057952X)
-
-
-
-
-
-
-
-  
