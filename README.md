@@ -69,15 +69,16 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [SQL](https://pt.khanacademy.org/computing/computer-programming/sql#sql-basics)
   - [Jupyter Notebook](http://jupyter.org/)
   - [Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
+  - [Ferramentas básicas de desenvolvimento](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8) | [**pt-br**]
 
 <h3 id="intermediario">Intermediário</h3>
 
-  - [Machine Learning](https://www.kaggle.com/learn/machine-learning)
   - Cálculo
   - Álgebra Linear
-  - [Deep Learning](https://www.kaggle.com/learn/deep-learning)
-  - [Visualização de Dados](https://www.kaggle.com/learn/data-visualisation)
-  - Processamento de Linguagem Natural
+  - [Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
+  - [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/deep-learning.md)
+  - [Visualização de Dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
+  - [Processamento de Linguagem Natural](https://github.com/leportella/datascience-pizza/blob/master/topicos/processamento-de-linguagem-natural.md)
 
 <h3 id="grandesprojetos">Grandes projetos (big data)</h3>
 
@@ -114,14 +115,14 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="emjulia">Em Julia</h3>
 
+
+
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
 
 ### Estudos
-
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
   - [Playlist de Treinamento](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX) by Edureka!
-  - [Curso Estatística](https://www.youtube.com/playlist?list=PLjdDBZW3EmXedXYzH-whV58rML91kbwFC) by Thiago Marques!
 
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
