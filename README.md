@@ -203,6 +203,8 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [Python Brasil](https://t.me/pythonbr)
 - [Estatística e Probabilidade](https://t.me/joinchat/B5CoWUaMdg-IZGMJFJOaaA)
 - [Estatística e Data Science](https://t.me/joinchat/DNrFfw6G2vh-mrbmBNq2Cw)
+- [A Liga dos Programadores - Maior grupo de desenvolvedores brasileiros & portugueses do Discord](https://discord.gg/xwKMcum)
+
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
