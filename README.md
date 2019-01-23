@@ -5,7 +5,7 @@
 --
 
 
-**DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas. 
+**DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas.
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
 
 O intuito é  agregar o conhecimento que se espalha em diversos grupos e iniciativas. Muitas vezes esse conhecimento fica espalhado em drives, pockets e outros meios...
@@ -65,17 +65,18 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="iniciante">Iniciante</h3>
 
-  - Python (lib [Pandas](https://pandas.pydata.org/)) ou R
-  - SQL
-  - Jupyter Notebook
-  - Estatística Descritiva
+  - [Python](https://www.python.org/) (lib [Pandas](https://pandas.pydata.org/)) ou [R](https://cloud.r-project.org/) | [R Studio](https://www.rstudio.com/products/rstudio/download/#download). [Qual aprender? Dicas Udacity](https://br.udacity.com/blog/post/aprender-python-r)
+  - [SQL](https://pt.khanacademy.org/computing/computer-programming/sql#sql-basics)
+  - [Jupyter Notebook](http://jupyter.org/)
+  - [Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
 <h3 id="intermediario">Intermediário</h3>
 
-  - Machine Learning
+  - [Machine Learning](https://www.kaggle.com/learn/machine-learning)
   - Cálculo
   - Álgebra Linear
-  - Deep Learning
+  - [Deep Learning](https://www.kaggle.com/learn/deep-learning)
+  - [Visualização de Dados](https://www.kaggle.com/learn/data-visualisation)
   - Processamento de Linguagem Natural
 
 <h3 id="grandesprojetos">Grandes projetos (big data)</h3>
@@ -101,8 +102,8 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [NLTK](http://www.nltk.org/)
   - [PyTorch](https://pytorch.org/)
   - [Ray](https://github.com/ray-project/ray)
-  
-  
+
+
 <h3 id="emr">Em R</h3>
 
   - [h2o (Machine Learning)](http://docs.h2o.ai/)
@@ -110,9 +111,9 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [xgboost(Machine Learning)](https://www.rdocumentation.org/packages/xgboost/versions/0.4-4/topics/xgboost)
   - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
   - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
-  
+
 <h3 id="emjulia">Em Julia</h3>
- 
+
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
 
@@ -120,6 +121,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
   - [Playlist de Treinamento](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX) by Edureka!
+  - [Curso Estatística](https://www.youtube.com/playlist?list=PLjdDBZW3EmXedXYzH-whV58rML91kbwFC) by Thiago Marques!
 
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
@@ -128,6 +130,8 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
   - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
   - [Aulas de Python Básico, Intermediário, Flask e Django](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) by Corey Schafer
+  - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) by Fernando Masanori
+
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
 
@@ -147,7 +151,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [Banco Central do Brasil](https://www3.bcb.gov.br)
  - [Dados do Governo dos Estados Unidos](http://data.gov)
  - [Dados sobre as cidades dos EUA](http://datasf.org)
- - [Dados do Governo do Canadá (em inglês e francês)](http://open.canada.ca) 
+ - [Dados do Governo do Canadá (em inglês e francês)](http://open.canada.ca)
  - [Dados do Governo do Reino Unido](https://data.gov.uk)
  - [Dados da União Europeia](http://open-data.europa.eu/en/data)
  - [Dados do Censo dos EUA (dados da população americana e mundial)](http://www.census.gov)
@@ -179,6 +183,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 <h2 id="grupos">Grupos</h2>
 
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
+- [Data Science com R - Telegram](https://t.me/DataSciencecomR)
 - [PyData BH - Telegram](https://t.me/pydatabh)
 - [PyData BsB - Telegram](https://t.me/PyDataBSB)
 - [PyTche - Telegram](https://t.me/pytche)
@@ -203,6 +208,8 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [nlpbr(Processamento de Linguagem Natural)](https://t.me/nlpbr)
 - [Python Brasil](https://t.me/pythonbr)
 - [Estatística e Probabilidade](https://t.me/joinchat/B5CoWUaMdg-IZGMJFJOaaA)
+- [Estatística e Data Science](https://t.me/joinchat/DNrFfw6G2vh-mrbmBNq2Cw)
+- [A Liga dos Programadores - Maior grupo de desenvolvedores brasileiros & portugueses do Discord](https://discord.gg/xwKMcum)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
