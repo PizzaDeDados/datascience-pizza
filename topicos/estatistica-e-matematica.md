@@ -2,6 +2,11 @@
 
 ![](https://media.giphy.com/media/AXorq76Tg3Vte/giphy.gif)
 
+
+## Posts
+
+- [Frequência](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8) | [**pt-br**]
+
 ## Cursos
 
 * **Pt-br** [Curso Estatística](https://www.youtube.com/playlist?list=PLjdDBZW3EmXedXYzH-whV58rML91kbwFC) by Thiago Marques!
