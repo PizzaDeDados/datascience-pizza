@@ -9,4 +9,4 @@
 - [Big Data: Técnicas e tecnologias para extração de valor dos dados](https://www.casadocodigo.com.br/products/livro-big-data) | [**pt-br**]
 - [The Big Data-Driven Business: How to Use Big Data to Win Customers, Beat Competitors, and Boost Profits](https://www.amazon.com/Big-Data-Driven-Business-Customers-Competitors/dp/1118889800)
 - [Think Bigger: Developing a Successful Big Data Strategy for Your Business](https://www.amazon.com/Think-Bigger-Developing-Successful-Strategy-ebook/dp/B00HSUWM7Y)
-- [Data Smart: Using Data Science to Transform Information into Insight](https://www.amazon.com/Dat a-Smart-Science-Transform-Information)
+- [Data Smart: Using Data Science to Transform Information into Insight](https://www.amazon.com/Data-Smart-Science-Transform-Information-ebook/dp/B00F0WRXI0/)
