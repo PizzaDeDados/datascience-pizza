@@ -4,6 +4,7 @@
 
 ## Cursos
 
+* **Pt-br** [Curso Estatística](https://www.youtube.com/playlist?list=PLjdDBZW3EmXedXYzH-whV58rML91kbwFC) by Thiago Marques!
 * [Probability & Statistics](http://oli.cmu.edu/courses/all-oli-courses/statistics-course-details/), da Open Learning Initiative (OLI) da Carnegie Mellon University. (o mesmo curso, com o mesmo conteúdo, é oferecido na plataforma Open edX de Stanford, em https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about).
 
 * [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/), do MIT OpenCourseWare (versão Scholar). Esse mesmo curso já foi oferecido em formato MOOC no edX: https://www.edx.org/course/introduction-probability-part-1-mitx-6-041-1x.
@@ -51,6 +52,8 @@
 * [Introduction to Linear Algebra, Fifth Edition](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775), by Gilbert Strang, livro texto do curso do MIT de Álgebra Linear citado acima.
 
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf), de Eric Lehman (Google), F Thomson Leighton (MIT) e Albert R Meyer (MIT), livro-texto gratuito do curso do MIT citado acima.
+
+* **PT-BR** [Como mentir com estatítisca](https://www.amazon.com.br/Como-Mentir-Estat%C3%ADstica-Darrell-Huff/dp/858057952X)
 
 
 
