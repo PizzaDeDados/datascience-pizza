@@ -45,6 +45,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
       * [Carreira](https://github.com/leportella/datascience-pizza/blob/master/topicos/carreira.md)
       * [Cursos](https://github.com/leportella/datascience-pizza/blob/master/topicos/cursos.md)
       * [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/deep-learning.md)
+      * [Estatística e Matemática](https://github.com/leportella/datascience-pizza/blob/master/topicos/estatistica-e-matematica.md)
       * [Geociências](https://github.com/leportella/datascience-pizza/blob/master/topicos/geociencias.md)
       * [Inteligência Artificial](https://github.com/leportella/datascience-pizza/blob/master/topicos/inteligencia-artificial.md)
       * [Linguagens](https://github.com/leportella/datascience-pizza/blob/master/topicos/linguagens.md)
@@ -91,31 +92,9 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - Julia
   - Computação distribuída com AWS e Google Cloud
 
-<h3 id="empython">Em Python</h3>
+### O que estudar em cada linguagem - dicas e tutoriais
 
-  - [Numpy](http://www.numpy.org/)
-  - [Pandas](https://pandas.pydata.org/)
-  - [Scipy](https://www.scipy.org/)
-  - [Matplotlib (Visualização)](https://matplotlib.org/)
-  - [Seaborn (Visualização)](https://seaborn.pydata.org/)
-  - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
-  - [Scikit-learn](http://scikit-learn.org)
-  - [NLTK](http://www.nltk.org/)
-  - [PyTorch](https://pytorch.org/)
-  - [Ray](https://github.com/ray-project/ray)
-
-
-<h3 id="emr">Em R</h3>
-
-  - [h2o (Machine Learning)](http://docs.h2o.ai/)
-  - [mlr(Machine Learning)](https://www.rdocumentation.org/packages/mlr/versions/2.13)
-  - [xgboost(Machine Learning)](https://www.rdocumentation.org/packages/xgboost/versions/0.4-4/topics/xgboost)
-  - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
-  - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
-
-<h3 id="emjulia">Em Julia</h3>
-
-
+Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topicos/linguagens.md)
 
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
@@ -127,11 +106,6 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
-### Tutoriais de Python
-  - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
-  - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
-  - [Aulas de Python Básico, Intermediário, Flask e Django](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) by Corey Schafer
-  - [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) by Fernando Masanori
 
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
