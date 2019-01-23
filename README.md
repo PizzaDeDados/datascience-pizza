@@ -199,6 +199,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [nlpbr(Processamento de Linguagem Natural)](https://t.me/nlpbr)
 - [Python Brasil](https://t.me/pythonbr)
 - [Estatística e Probabilidade](https://t.me/joinchat/B5CoWUaMdg-IZGMJFJOaaA)
+- [A Liga dos Programadores - Maior grupo de desenvolvedores brasileiros & portugueses do Discord](https://discord.gg/xwKMcum)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
