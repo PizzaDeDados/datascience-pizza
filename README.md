@@ -13,8 +13,10 @@ Dessa forma, esse repositório visa ajudar os iniciantes e servir como referênc
 
 Se possuir material interessante, por favor compartilhe com a comunidade. Estamos aqui para crescermos juntos.
 
-Dessa iniciativa também nasceu o [Pizza de Dados](http://pizzadedados.com/), um podcast brasileiro
+Dessa iniciativa também nasceu o [Pizza de Dados](https://pizzadedados.com/), um podcast brasileiro
 focado em ciência de dados. Se tiver um tempinho, prestigie esse trabalho 100% brasileiro.
+
+Se você gosta desse repositório e quer ajuda, considere [apoiar o Pizza de Dados](https://apoia.se/pizzadedados) com qualquer quantia :)
 
 No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
