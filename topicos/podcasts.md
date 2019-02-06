@@ -9,7 +9,6 @@
 - Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast))
 - Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch))
 - [Super data science podcast](https://www.superdatascience.com/podcast/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Skeptic](https://dataskeptic.com/)
@@ -17,13 +16,21 @@
 - [DataFramed](https://www.datacamp.com/community/podcast)
 - [Learning Machines 101](https://www.learningmachines101.com/)
 - [Linear Digressions](http://lineardigressions.com/)
-- [Machine Learning Guide](http://ocdevel.com/mlg)
 - [Not So Standard Deviations](http://nssdeviations.com/)
-- [Partially Derivative](http://partiallyderivative.com/)
 - [Plumbers of Data Science](https://open.spotify.com/show/529Q58D0db7bI8p6NKaRjU)
 - [Storytelling with data](http://www.storytellingwithdata.com/podcast/)
 - [The Week in Machine Learning and AI](https://twimlai.com/)
+- [Talking Machines](https://www.thetalkingmachines.com/)
+- [Data Science at Home](https://datascienceathome.com/)
+- [Artificial Intelligence in Industry](https://techemergence.libsyn.com/)
 
+### Arquivados
+
+Esses são podcasts que não têm mais episódios novos, mas que mesmo assim contêm informações úteis e pode valer a pena ouvir.
+
+- [Partially Derivative](http://partiallyderivative.com/)
+- [Machine Learning Guide](http://ocdevel.com/mlg)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 
 ## Episódios esporádicos 
 
