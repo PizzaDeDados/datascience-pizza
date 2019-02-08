@@ -14,6 +14,7 @@
 
 ## Sugestões
 
+- [Advice for graduates applying for data science jobs](https://mpopov.com/blog/advice-for-grads-entering-industry-datasci)
 - [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
 - [How to become a data scientist without a degree](https://www.codementor.io/npostolovski/how-to-become-a-data-scientist-without-a-degree-fb8xzu3o9)
 - [Advice for New and Junior Data Scientists](https://medium.com/@rchang/advice-for-new-and-junior-data-scientists-2ab02396cf5b)
