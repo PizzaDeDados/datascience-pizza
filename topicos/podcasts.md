@@ -9,7 +9,6 @@
 - Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast))
 - Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch))
 - [Super data science podcast](https://www.superdatascience.com/podcast/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Skeptic](https://dataskeptic.com/)
@@ -17,13 +16,21 @@
 - [DataFramed](https://www.datacamp.com/community/podcast)
 - [Learning Machines 101](https://www.learningmachines101.com/)
 - [Linear Digressions](http://lineardigressions.com/)
-- [Machine Learning Guide](http://ocdevel.com/mlg)
 - [Not So Standard Deviations](http://nssdeviations.com/)
-- [Partially Derivative](http://partiallyderivative.com/)
 - [Plumbers of Data Science](https://open.spotify.com/show/529Q58D0db7bI8p6NKaRjU)
 - [Storytelling with data](http://www.storytellingwithdata.com/podcast/)
 - [The Week in Machine Learning and AI](https://twimlai.com/)
+- [Talking Machines](https://www.thetalkingmachines.com/)
+- [Data Science at Home](https://datascienceathome.com/)
+- [Artificial Intelligence in Industry](https://techemergence.libsyn.com/)
 
+### Arquivados
+
+Esses são podcasts que não têm mais episódios novos, mas que mesmo assim contêm informações úteis e pode valer a pena ouvir.
+
+- [Partially Derivative](http://partiallyderivative.com/)
+- [Machine Learning Guide](http://ocdevel.com/mlg)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 
 ## Episódios esporádicos 
 
@@ -42,10 +49,11 @@
 |10|PODEntender |#019 |[Sobre Deep Learning](http://dragoesdegaragem.com/podentender/019-sobre-deep-learning)| [PODEntender](http://dragoesdegaragem.com/podentender) | `Antonio Marinho(Tonho), Carol Lacerda, Fábio Neves(Dalton), Dave Canton` |
 |11|Data Skeptic | | [Mini-episódios e entrevistas com profissionais sobre tópicos de ML, DS, Estatística e IA ](https://dataskeptic.com/)| [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg/) | `Kyle Polich` |
 |12| Hipsters | #62 |[Data Science e Política na Operação Serenata de Amor](https://hipsters.tech/data-science-e-politica-na-operacao-serenata-de-amor-hipsters-62/)| [Hipsters Tech](https://hipsters.tech/) | `Paulo Silveira, Mauricio Linhares, Irio Musskopf, Eduardo Cuducos` |
-|13| Hipsters | #106 |[Casos bacanas de Data Science](https://hipsters.tech/casos-bacanas-de-data-science-hipsters-106/)| [Hipsters Tech](https://hipsters.tech/) | `Paulo Silveira, Mauricio Linhares, Daniel Severo, Larissa Lautert, Roberta Arcoverde` |
-|14|Tecnocast |#77 | [Cientista de Dados](https://tecnoblog.net/227424/tecnocast-077-cientista-de-dados/)| [Tecnoblog](https://tecnoblog.net/) | `Thiago Mobilon, Paulo Higa, Bernardo Santos Aflalo` |
-|15|Test And Code | |[Testing in Data Science](http://testandcode.com/33)| | |
-|16|Talk Python to me |#139 |[Paths into a data science career](https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career)| | Hugo Bowne-Anderson  |
-|17|Talk Python to me |#131 | [Top 10 machine learning libraries](https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries)| | Pete Garcin |
-|18|Talk Python to me |#134 | [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science)| | Damien Irving |
-|19|Learn to Code With Me |S04E9 | [How to Become a Data Scientist Without a Degree with Fernando Hidalgo](https://learntocodewith.me/podcast/become-a-data-scientist-with-fernando-hidalgo/) | [Learn to Code With Me]() | Laurence Bradford |
+|13|Tecnocast |#77 | [Cientista de Dados](https://tecnoblog.net/227424/tecnocast-077-cientista-de-dados/)| [Tecnoblog](https://tecnoblog.net/) | `Thiago Mobilon, Paulo Higa, Bernardo Santos Aflalo` |
+|14|Test And Code | |[Testing in Data Science](http://testandcode.com/33)| | |
+|15|Talk Python to me |#139 |[Paths into a data science career](https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career)| | Hugo Bowne-Anderson  |
+|16|Talk Python to me |#131 | [Top 10 machine learning libraries](https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries)| | Pete Garcin |
+|17|Talk Python to me |#134 | [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science)| | Damien Irving |
+|18|Learn to Code With Me |S04E9 | [How to Become a Data Scientist Without a Degree with Fernando Hidalgo](https://learntocodewith.me/podcast/become-a-data-scientist-with-fernando-hidalgo/) | [Learn to Code With Me]() | Laurence Bradford |
+|19| Hipsters | #106 |[Casos bacanas de Data Science](https://hipsters.tech/casos-bacanas-de-data-science-hipsters-106/)| [Hipsters Tech](https://hipsters.tech/) | `Paulo Silveira, Mauricio Linhares, Daniel Severo, Larissa Lautert, Roberta Arcoverde` |
+
