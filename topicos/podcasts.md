@@ -55,3 +55,5 @@ Esses são podcasts que não têm mais episódios novos, mas que mesmo assim con
 |16|Talk Python to me |#131 | [Top 10 machine learning libraries](https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries)| | Pete Garcin |
 |17|Talk Python to me |#134 | [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science)| | Damien Irving |
 |18|Learn to Code With Me |S04E9 | [How to Become a Data Scientist Without a Degree with Fernando Hidalgo](https://learntocodewith.me/podcast/become-a-data-scientist-with-fernando-hidalgo/) | [Learn to Code With Me]() | Laurence Bradford |
+|19| Hipsters | #106 |[Casos bacanas de Data Science](https://hipsters.tech/casos-bacanas-de-data-science-hipsters-106/)| [Hipsters Tech](https://hipsters.tech/) | `Paulo Silveira, Mauricio Linhares, Daniel Severo, Larissa Lautert, Roberta Arcoverde` |
+
