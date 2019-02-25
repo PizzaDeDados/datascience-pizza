@@ -3,10 +3,6 @@
 ![](https://media.giphy.com/media/AXorq76Tg3Vte/giphy.gif)
 
 
-## Posts
-
-- [Frequência](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8) | [**pt-br**]
-
 ## Cursos
 
 * **Pt-br** [Curso Estatística](https://www.youtube.com/playlist?list=PLjdDBZW3EmXedXYzH-whV58rML91kbwFC) by Thiago Marques!
@@ -40,7 +36,14 @@
 
 ## Posts
 
+- [Frequência: a arte de contar observações](https://medium.com/pizzadedados/frequencia-o-que-e-e-como-calcular-f8b74e5d978a) | [**pt-br**]
 - [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
+- [Visualizing Bayes Theorem](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
+- [Explaining p-values with puppies](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0)
+
+## Outros
+
+- [Bayesian Inference](https://seeing-theory.brown.edu/bayesian-inference/index.html)
 
 # Matemática
 
