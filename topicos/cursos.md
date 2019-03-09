@@ -41,6 +41,7 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 - [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)(Massachusetts Institute of Technology)
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)(Massachusetts Institute of Technology)
 - [Deep Learning with Python and PyTorch](https://www.edx.org/course/deep-learning-with-python-and-pytorch)(IBM)
+- [Deep Learning Fundamentals with Keras](https://www.edx.org/course/deep-learning-fundamentals-with-keras)(IBM)
 
 
 ### DataScience Academy | [**pt-br**]
@@ -61,6 +62,9 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
   - [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas/)
   - [O curso completo de Banco de Dados e SQL, sem mistérios](https://www.udemy.com/bancos-de-dados-relacionais-basico-avancado/)
   - [Data Science Career Guide - Interview Preparation](https://www.udemy.com/data-science-career-guide-interview-preparation/)
+  - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) 
+  - [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
+  - [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/)
 
 ### Udacity
   - [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/) [**pt-br**]

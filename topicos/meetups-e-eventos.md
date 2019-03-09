@@ -7,10 +7,6 @@
 * 26/04 - **São Paulo, SP** -- [Data Science aplicado ao negócio (PyData São Paulo)](https://www.meetup.com/pt-BR/PyData-Sao-Paulo/events/249621000/)
 * 28/04 - **Rio de Janeiro, RJ** -- [PythOnRio - Abril/2018 [Edição Especial Data Science]](https://www.meetup.com/pt-BR/pythonrio/events/249433444/)
 
-### Outubro
-
-*20/10 - **Recife,PE** -- [Cerveja com Dados - Recife](https://www.meetup.com/pt-BR/Cerveja-com-Dados/events/255094578/)
-
 ### Meetups
 [AI Brasil - São Paulo](https://www.meetup.com/pt-BR/ai-brasil/)
 [Machine Learning, Big Data e Engenharia - São Paulo](https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/)
