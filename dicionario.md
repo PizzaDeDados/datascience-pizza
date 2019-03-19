@@ -16,6 +16,10 @@ São conjuntos de passos finitos e organizados que, quando executados, realizam 
 
 O objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares. 1.(Alpaydin, 2010).
 
+## Aprendizado por Reforço
+
+O aprendizado por reforço é uma área do aprendizado de máquina que lida com a maneira como os agentes de software devem executar ações em um ambiente de modo a maximizar alguma noção de recompensa cumulativa [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning).
+
 ## Árvore de Decisão
 Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão  fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
 
@@ -70,10 +74,9 @@ Também são considerados dois V's adicionais:
 
 O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo de regressão. Usualmente R2 é interpretado como o quanto da variância de uma variável independente pode ser capturada (dado o modelo) a partir das variáveis dependentes [1](http://stattrek.com/statistics/dictionary.aspx?definition=coefficient_of_determination). Para modelos lineares, R2 é usualmente definido como sendo o quadrado do coeficiente de correlação da amostra, sendo, neste caso, uma medida de o quanto a variável independente pode ser explicada a partir de uma combinação linear das variáveis dependentes [2](https://en.wikipedia.org/wiki/Coefficient_of_determination).
 
-
 ## Classificação (Aprendizado de Máquina)
 
-Um problema de identificação a qual grupo uma nova entrada pertence[2], baseando-se nos dados dos conjuntos de treinamento, onde a categorização é conhecida. Dentro de aprendizado de máquina, diz-se que classificação é uma instancia de aprendizado supervisionado[1]. Tarefas como reconhecimento de padrões ou de expressões são exemplos de tarefas de classificação. [1](http://www.deeplearningbook.org/), [2](https://en.wikipedia.org/wiki/Statistical_classification)
+É o tipo de tarefa de aprendizado de máquina em que as entradas são mapeadas em saídas baseadas nos pares examplos de entrada-saída. O desafio enfrentado pelo algoritmo classificador é ajustar uma função que possa separar os exemplos de entrada de forma a maximizar a quantidade de saídas corretas [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning). Uma abstração seria ter como entrada um conjunto de informações a respeito do tecido da mama extraídos da mamografia. A saída neste caso poderia ser tecido normal, tumor maligno ou tumor benigno (podem existir mais categorias). O algoritmo de classificação deve inferir a cerca dos dados de forma a reconhecer o padrão de dados de entrada de forma a determinar a saída que mais se aproxime do parão identificado.
 
 ## Clustering
 
@@ -85,7 +88,7 @@ Um problema de identificação a qual grupo uma nova entrada pertence[2], basean
 
 ## Conda
 
-É um gerenciado de pacotes, dependências e ambientes para qualquer idioma - Python, R, Ruby, Lua, Scala, Java, JavaScript, C / C ++, FORTRAN. [1](https://conda.io/docs/)
+É um gerenciador de pacotes, dependências e ambientes para qualquer idioma - Python, R, Ruby, Lua, Scala, Java, JavaScript, C / C ++, FORTRAN. [ref](https://conda.io/docs/)
 
 ## Conda-Forge
 
