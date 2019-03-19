@@ -30,3 +30,9 @@
 * @lucianosb
 * @magusd
 * @ltkills
+* Gabriel César (@gabrielczar)
+* @tramontini
+* José Ferraz Neto (@zeneto)
+* Luiz Nonenmacher (@luiznonenmacher)
+* Felipe Iasi (@ficosta)
+* @brunopizzio

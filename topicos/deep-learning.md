@@ -31,3 +31,7 @@
 
 ## Posts
 - [Classificando textos com Redes Neurais e TensorFlow](http://deborahmesquita.com/2017-05-07/classificando-textos-com-redes-neurais-e-tensorflow) | [**pt-br**]
+
+## Outros
+
+- [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
