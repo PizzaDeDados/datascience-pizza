@@ -111,7 +111,8 @@ São conjuntos de dados tabulados, onde para cada individuo são denotadas diver
 
 ## Data Storytelling
 
-o processo de tradução de dados em termos de leigos para influenciar uma decisão ou ação de negócios [1](http://farolbi.com.br/data-storytelling-conte-uma-historia-com-os-dados/)
+O processo de tradução de dados em termos leigos para influenciar uma decisão ou ação de negócios. [1](http://farolbi.com.br/data-storytelling-conte-uma-historia-com-os-dados/)
+Para que o Data Storytelling seja bem-sucedido, a pessoa deve ter boas habilidades em comunicação, para que seja possível a transferência de informações sobre o que foi feito, como foi feito e por quê foi feito, apresentando motivos bem estruturados e se possível, figuras ou mapas que demonstrem toda a informação. (https://paulovasconcellos.com.br/o-que-%C3%A9-data-storytelling-ac5a924dcdaf)
 
 ## Desvio padrão
 
