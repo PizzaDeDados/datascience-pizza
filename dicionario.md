@@ -97,6 +97,7 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 ## Correlação
 
 Correlação é a medida estatística que descreve a associação entre variáveis randômicas. Frequentemente,  correlação é o primeiro passo para entender relacionamentos e consequentemente construir melhores modelos estatísticos. [1](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
+Para interpretar o coeficiente é preciso saber que 1 significa que a correlação entre as variáveis é perfeita positiva e -1 significa que é perfeita negativa. Se o coeficiente for igual a 0 significa que as variáveis não dependem uma da outra. (https://www.significados.com.br/correlacao/)
 
 ## Covariância
 
