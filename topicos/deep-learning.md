@@ -9,9 +9,11 @@
 
 ## Livros
 - [Deep Learning Book - MIT](http://www.deeplearningbook.org/)
+- [Fundamentals of Deep Learning - Nikhil Buduma e Nicholas Locascio](https://www.amazon.com.br/Fundamentals-Deep-Learning-Nikhil-Buduma/dp/1491925612?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning&qid=1538425179&sr=8-5&ref=sr_1_5)
+- [Deep Learning: A Practioner's Approach - Josh Patterson e Adam Gibson](https://www.amazon.com.br/Deep-Learning-Practitioners-Josh-Patterson-ebook/dp/B074D5YF1D?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning&qid=1538425300&s=STRING%28br-books-storename%29&sr=1-4&ref=sr_1_4)
 
 ## Grupos
-- [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/)
+- [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/) | [**pt-br**]
 
 ## Cursos
 - [Deep Learning Specialization - Coursera by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
@@ -28,4 +30,8 @@
 - [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
 
 ## Posts
-- [Classificando textos com Redes Neurais e TensorFlow](http://deborahmesquita.com/2017-05-07/classificando-textos-com-redes-neurais-e-tensorflow)
+- [Classificando textos com Redes Neurais e TensorFlow](http://deborahmesquita.com/2017-05-07/classificando-textos-com-redes-neurais-e-tensorflow) | [**pt-br**]
+
+## Outros
+
+- [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning)

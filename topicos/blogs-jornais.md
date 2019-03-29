@@ -17,10 +17,10 @@
 - [DataCamp](https://www.datacamp.com/community/blog)
 - [Dataquest](https://www.dataquest.io/blog)
 - [OpenAI](https://blog.openai.com/)
-- [Big Data Business](http://www.bigdatabusiness.com.br) [**pt-br**]
-- [Hekima](http://developers.hekima.com) [**pt-br**]
+- [Big Data Business](http://www.bigdatabusiness.com.br) | [**pt-br**]
+- [Hekima](http://developers.hekima.com) | [**pt-br**]
 - [DeepGraph](http://deepgraph.io/blog/)
-
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 
 ### Posts com listas de melhores blogs
 - [Top 10 blogs for data scientists](https://blog.coursera.org/top-10-blogs-data-scientists/) by Coursera
