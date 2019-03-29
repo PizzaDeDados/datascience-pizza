@@ -104,6 +104,7 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
 ### Estudos
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
   - [Playlist de Treinamento](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX) by Edureka!
+  - [Curso de análise de dados em Python para iniciantes](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) by LabHacker Câmara dos Deputados [**pt-br**]
 
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
