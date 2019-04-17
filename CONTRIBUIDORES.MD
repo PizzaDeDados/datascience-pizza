@@ -1,7 +1,7 @@
 
 * Leticia Portella (@leportella)
 * @llautert
-* @eliezerfb
+* Eliézer Bourchardt (@eliezerfb)
 * @Guilhermeslucas
 * @giovanisleite
 * @mvinoba
