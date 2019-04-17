@@ -14,7 +14,6 @@
 - [Stack Overflow](https://stackoverflow.blog/tags/data)
 - [Moz](https://moz.com/devblog/category/data-science)
 - [ŷhat](http://blog.yhat.com)
-- [DataCamp](https://www.datacamp.com/community/blog)
 - [Dataquest](https://www.dataquest.io/blog)
 - [OpenAI](https://blog.openai.com/)
 - [Big Data Business](http://www.bigdatabusiness.com.br) | [**pt-br**]
