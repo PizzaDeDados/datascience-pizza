@@ -13,7 +13,6 @@
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Skeptic](https://dataskeptic.com/)
 - [Data Stories](http://datastori.es/)
-- [DataFramed](https://www.datacamp.com/community/podcast)
 - [Learning Machines 101](https://www.learningmachines101.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Not So Standard Deviations](http://nssdeviations.com/)

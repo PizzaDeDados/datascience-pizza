@@ -67,13 +67,6 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
   - [Introdução à Ciência de Dados](https://br.udacity.com/course/intro-to-data-science--ud359/)
   - [Intro to Relational Databases](https://br.udacity.com/course/intro-to-relational-databases--ud197/)
 
-### DataCamp
-  - [Data Scientist with Python - Track](https://www.datacamp.com/tracks/data-scientist-with-python)
-  - [Data Analyst with Python - Track](https://www.datacamp.com/tracks/data-analyst-with-python)
-  - [Data Scientist with R - Track](https://www.datacamp.com/tracks/data-scientist-with-r)
-  - [Data Analyst with R - Track](https://www.datacamp.com/tracks/data-analyst-with-r)
-  - [Quantitative Analyst with R - Track](https://www.datacamp.com/tracks/quantitative-analyst-with-r)
-
 ### Dataquest.io
   - [Data Scientist - Path](https://www.dataquest.io/path/data-scientist)
   - [Data Analyst - Path](https://www.dataquest.io/path/data-analyst)

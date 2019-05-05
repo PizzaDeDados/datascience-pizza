@@ -36,3 +36,4 @@
 * Luiz Nonenmacher (@luiznonenmacher)
 * Felipe Iasi (@ficosta)
 * @brunopizzio
+* Rodolfo Ghiggi (@rodolfoghi)
