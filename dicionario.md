@@ -368,6 +368,11 @@ O TensorFlow™ é uma biblioteca de software de código aberto para computaçã
 
 É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias. [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/)
 
+## Undersampling 
+
+Equivalente ao Oversampling é um conjunto de técnicas utilizadas para ajustar a distribuição do conjunto de dados de uma amostragem e é principalmente utilizado quando a amostragem de dados é insuficiente porém faz o oposto do que é feito no Oversampling.
+Consiste da remoção de dados dos conjuntos com maiores quantidades de amostras, a fim de que os conjuntos de amostras tenham uma quantidade de dados balanceada.
+Prinipalmente utilizado para amostragem estatistica e aprendizado de máquina.
 # V
 
 ## Validação cruzada (Cross-validation)
