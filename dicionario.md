@@ -260,6 +260,11 @@ Ver [Banco de Dados Não-Relacional](https://github.com/leportella/datascience-p
 
 Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existências". Para Ciência da Computação, ontologias são um meio para modelar formalmente a estrutura de um sistema, ou seja, as entidades e relações relevantes que emergem da observação, e que são úteis para um determinado propósito (STAAB, Steffen; STUDER, Rudi (Ed.). Handbook on ontologies. Springer Science & Business Media, 2010).
 
+## Oversampling 
+
+É um conjunto de técnicas utilizadas para ajustar a distribuição do conjunto de dados de uma amostragem, é principalmente utilizado quando a amostragem de dados é insuficiente. Consiste da copia de dados dos conjuntos com menos amostras, a fim de que os conjuntos de amostras tenham uma quantidade de dados equivalentes.
+Prinipalmente utilizado para amostragem estatistica, aprendizado de máquina e metodologias de pesquisa.
+
 # P
 
 
