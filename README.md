@@ -213,6 +213,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Tutoriais de Julia
   - [Curso do Alexandre Gomiero de Oliveira no youtube](https://www.youtube.com/playlist?list=PLya-DXLnU1p7_iMNN4386qkiD4ywL9hxm)
   - [Canal oficial do youtube](https://www.youtube.com/user/JuliaLanguage)
+  - [Curso Prof. João Marcello Pereira](https://github.com/JuliaLangPt/tutorial_PT_BR)
   - [Coursera: Julia Scientific Programming](https://www.coursera.org/learn/julia-programming)
   - [Livro "Think Julia"](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
   - [Palestra "Julia para pythonistas"](https://www.youtube.com/watch?v=Vhfkl97Zlfg)
