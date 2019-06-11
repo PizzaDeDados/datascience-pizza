@@ -109,6 +109,20 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
+<<<<<<< HEAD
+=======
+### Tutoriais de Python
+  - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
+  - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
+
+### Tutoriais de Julia
+  - [Curso do Alexandre Gomiero de Oliveira no youtube](https://www.youtube.com/playlist?list=PLya-DXLnU1p7_iMNN4386qkiD4ywL9hxm)
+  - [Canal oficial do youtube](https://www.youtube.com/user/JuliaLanguage)
+  - [Curso Prof. João Marcello Pereira](https://github.com/JuliaLangPt/tutorial_PT_BR)
+  - [Coursera: Julia Scientific Programming](https://www.coursera.org/learn/julia-programming)
+  - [Livro "Think Julia"](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+  - [Palestra "Julia para pythonistas"](https://www.youtube.com/watch?v=Vhfkl97Zlfg)
+>>>>>>> Adiciona o curso do Prof. João Marcello Pereira.
 
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
