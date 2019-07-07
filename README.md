@@ -68,7 +68,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="iniciante">Iniciante</h3>
 
-  - [Python](https://www.python.org/) (lib [Pandas](https://pandas.pydata.org/)) ou [R](https://cloud.r-project.org/) | [R Studio](https://www.rstudio.com/products/rstudio/download/#download). [Qual aprender? Dicas Udacity](https://br.udacity.com/blog/post/aprender-python-r)
+  - [Python](https://www.python.org/) (lib [Pandas](https://pandas.pydata.org/)) ou [R](https://cloud.r-project.org/) | [R Studio](https://www.rstudio.com/products/rstudio/download/#download). [Qual aprender? Dicas Udacity](https://blog.udacity.com/2015/01/python-vs-r-learn-first.html)
   - [SQL](https://pt.khanacademy.org/computing/computer-programming/sql#sql-basics)
   - [Jupyter Notebook](http://jupyter.org/)
   - [Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
