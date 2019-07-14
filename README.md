@@ -29,9 +29,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
       * [Iniciante](#iniciante)
       * [Intermediário](#intermediario)
       * [Grandes projetos (big data)](#grandesprojetos)
-      * [Em Python](#empython)
-      * [Em R](#emr)
-      * [Em Julia](#emjulia)
+      * [Tópicos específicos sobre linguagens](#linguagens)
   * [Vídeos](#videos)
   * [Datasets](#datasets)
   * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
@@ -68,23 +66,19 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="iniciante">Iniciante</h3>
 
-<<<<<<< HEAD
-  - [Python](https://www.python.org/) (lib [Pandas](https://pandas.pydata.org/)) ou [R](https://cloud.r-project.org/) | [R Studio](https://www.rstudio.com/products/rstudio/download/#download). [Qual aprender? Dicas Udacity](https://blog.udacity.com/2015/01/python-vs-r-learn-first.html)
+[Qual aprender? Dicas Udacity](https://blog.udacity.com/2015/01/python-vs-r-learn-first.html)
+
+  - [Python](https://www.python.org/) e (lib [Pandas](https://pandas.pydata.org/)) 
+  - [R](https://cloud.r-project.org/) e  [R Studio](https://www.rstudio.com/products/rstudio/download/#download)
   - [SQL](https://pt.khanacademy.org/computing/computer-programming/sql#sql-basics)
   - [Jupyter Notebook](http://jupyter.org/)
   - [Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
   - [Ferramentas básicas de desenvolvimento](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8) | [**pt-br**]
-=======
-  - Python (lib [Pandas](https://pandas.pydata.org/)) ou R ou Julia
-  - SQL
-  - Jupyter Notebook
-  - Estatística Descritiva
->>>>>>> 0619cdcc8b1a70a3b8843430597340cef06c7dae
 
 <h3 id="intermediario">Intermediário</h3>
 
-  - Cálculo
-  - Álgebra Linear
+  - [Cálculo](https://pt.khanacademy.org/math/calculus-home)
+  - [Álgebra Linear](https://pt.khanacademy.org/math/linear-algebra)
   - [Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
   - [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/deep-learning.md)
   - [Visualização de Dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
@@ -101,117 +95,16 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - JuliaDB
   - Computação distribuída com AWS e Google Cloud
 
-<<<<<<< HEAD
-### O que estudar em cada linguagem - dicas e tutoriais
+<h2 id="linguagens">O que estudar em cada linguagem - dicas e tutoriais</h2>
 
-Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topicos/linguagens.md)
-=======
-<h3 id="empython">Em Python</h3>
+[Em Python](topicos/linguagens/python.md)
 
-  - [Numpy](http://www.numpy.org/)
-  - [Pandas](https://pandas.pydata.org/)
-  - [Scipy](https://www.scipy.org/)
-  - [Matplotlib (Visualização)](https://matplotlib.org/)
-  - [Seaborn (Visualização)](https://seaborn.pydata.org/)
-  - [Bokeh (Visualização)](https://bokeh.pydata.org/en/latest/)
-  - [Scikit-learn](http://scikit-learn.org)
-  - [NLTK](http://www.nltk.org/)
-  - [PyTorch](https://pytorch.org/)
-  - [Ray](https://github.com/ray-project/ray)
+[Em R](topicos/linguagens/r.md)
+
+[Em Julia](topicos/linguagens/julia.md)
+
+[Usando mais de uma linguagem](topicos/linguagens.md)
   
-  
-<h3 id="emr">Em R</h3>
-
-  - [h2o (Machine Learning)](http://docs.h2o.ai/)
-  - [mlr(Machine Learning)](https://www.rdocumentation.org/packages/mlr/versions/2.13)
-  - [xgboost(Machine Learning)](https://www.rdocumentation.org/packages/xgboost/versions/0.4-4/topics/xgboost)
-  - [dplyr(Manipulação de Dados)](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0)
-  - [ggplot2 (Visualização)](https://www.rdocumentation.org/packages/ggplot2/versions/3.0.0)
-
-  
-<h3 id="emjulia">Em Julia</h3>
-<h3>Gráficos</h3>
-
-  - [JuliaPlots](https://github.com/JuliaPlots)
-  - [JuliaGraphics](https://github.com/JuliaGraphics)
-  - [Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl)
-  - [Plotly](https://github.com/plotly/Plotly.jl)
-
-
- <h3>Formatos de arquivo e manipulação de dados</h3>
-
-  - [Ijulia (kernel do jypter notebook)](https://github.com/JuliaLang/IJulia.jl)
-  - [XLSX (arquivos excel)](https://github.com/felipenoris/XLSX.jl)
-
-  - [Grupo JuliaData](https://github.com/JuliaData)
-    - [CSV](https://github.com/JuliaData/CSV.jl)
-    - [DataFrames](https://github.com/JuliaData/DataFrames.jl)
-    - [Tables](https://github.com/JuliaData/Tables.jl)
-    - [Feather (formato multi-linguagem de dataframes)](https://github.com/JuliaData/Feather.jl)
-    - [Rdata (arquivos nativos de R)](https://github.com/JuliaData/RData.jl)
-    - [SplitApplyCombine.jl (estruturas aninhadas)](https://github.com/JuliaData/SplitApplyCombine.jl)
-    - [Missings (valores nulos)](https://github.com/JuliaData/Missings.jl)
-
-  - [Grupo JuliaIO](https://github.com/JuliaIO)
-    - [JSON](https://github.com/JuliaIO/JSON.jl)
-    - [LibXML](https://github.com/JuliaIO/LightXML.jl)
-    - [LibExpat (XML)](https://github.com/JuliaIO/LibExpat.jl)
-    - [HDF5](https://github.com/JuliaIO/HDF5.jl)
-
-  - [Grupo JuliaGeo](https://github.com/JuliaGeo)
-    - [NetCDF](https://github.com/JuliaGeo/NetCDF.jl)
-    - [Shapefile](https://github.com/JuliaGeo/Shapefile.jl)
-    - [GeoJSON](https://github.com/JuliaGeo/GeoJSON.jl)
-
-
-<h3>Bancos de dados</h3>
-
-  - [Grupo JuliaDatabases](https://github.com/JuliaDatabases)
-    - [ODBC](https://github.com/JuliaDatabases/ODBC.jl)
-    - [JDBC](https://github.com/JuliaDatabases/JDBC.jl)
-    - [SQLite.](https://github.com/JuliaDatabases/SQLite.jl)
-    - [MySQL](https://github.com/JuliaDatabases/MySQL.jl)
-    - [PostgreSQL](https://github.com/invenia/LibPQ.jl)
-    - [DBI (abstração de banco de dados SQL)](https://github.com/JuliaDatabases/DBI.jl)
-    - [JuliaDB (banco de dados paralelo e disribuído 100% julia)](https://github.com/JuliaComputing/JuliaDB.jl)
-  - [Oracle](https://github.com/felipenoris/Oracle.jl)
-  - [Mongodb](https://github.com/felipenoris/Mongoc.jl)
-  - [Redis](https://github.com/jkaye2012/Redis.jl)
-
-
-<h3>Estatística</h3>
-
-  - [Grupo JuliaStats](https://github.com/JuliaStats)
-    - [Meta-pacote da iblioteca padrão de estatística](https://github.com/JuliaStats/StatsKit.jl)
-    - [Estatística básica](https://github.com/JuliaStats/StatsBase.jl)
-    - [Análise Multivariada](https://github.com/JuliaStats/MultivariateStats.jl)
-    - [Modelos Lineares](https://github.com/JuliaStats/GLM.jl)
-    - [Distâncias](https://github.com/JuliaStats/Distances.jl)
-    - [Distribuições](https://github.com/JuliaStats/Distributions.jl)
-    - [Séries temporais](https://github.com/JuliaStats/TimeSeries.jl)
-    - [Agrupamentos](https://github.com/JuliaStats/Clustering.jl)
-    - [Testes de hipóteses](https://github.com/JuliaStats/HypothesisTests.jl)
-    - [Funções úteis de ML](https://github.com/JuliaStats/MLBase.jl)
-    - [Densidade de kernel](https://github.com/JuliaStats/KernelDensity.jl)
-
-
-<h3>Machine/Deep Learning</h3>
-
-  - [Grupo JuliaML](https://github.com/JuliaML)
-  - [Flux.jl](https://github.com/FluxML/Flux.jl)
-  - [Tensorflow](https://github.com/malmaud/TensorFlow.jl)
-  - [MXNet](https://github.com/dmlc/MXNet.jl)
-  - [XGBoost](https://github.com/dmlc/XGBoost.jl)
-  - [ScikitLearn.jl (sklearn reescrito em Julia)](https://github.com/cstjean/ScikitLearn.jl)
-
-<h3>Big Data</h3>
-
-  - [Hadoop](https://github.com/JuliaParallel/Elly.jl)
-  - [Spark](https://github.com/dfdx/Spark.jl)
-  - [Hive](https://github.com/JuliaDatabases/Hive.jl)
-  - [Kafka](https://github.com/dfdx/Kafka.jl)
-
->>>>>>> 0619cdcc8b1a70a3b8843430597340cef06c7dae
 
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
@@ -224,23 +117,6 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
 
-<<<<<<< HEAD
-=======
-### Tutoriais de Python
-  - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
-  - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
-
-### Tutoriais de Julia
-  - [Curso do Alexandre Gomiero de Oliveira no youtube](https://www.youtube.com/playlist?list=PLya-DXLnU1p7_iMNN4386qkiD4ywL9hxm)
-  - [Canal oficial do youtube](https://www.youtube.com/user/JuliaLanguage)
-  - [Curso Prof. João Marcello Pereira](https://github.com/JuliaLangPt/tutorial_PT_BR)
-  - [Coursera: Julia Scientific Programming](https://www.coursera.org/learn/julia-programming)
-  - [Livro "Think Julia"](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-  - [Palestra "Julia para pythonistas"](https://www.youtube.com/watch?v=Vhfkl97Zlfg)
-<<<<<<< HEAD
->>>>>>> Adiciona o curso do Prof. João Marcello Pereira.
-=======
->>>>>>> 0619cdcc8b1a70a3b8843430597340cef06c7dae
 
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
