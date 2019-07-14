@@ -166,8 +166,6 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  - [Oracle Exadata](oracle.com/exadata)
 
 --------------------------------------------------
-<<<<<<< HEAD
-=======
 <h2 id="grupos">Grupos</h2>
 
 - [Data Science & Python - Telegram](https://t.me/datasciencepython)
@@ -194,7 +192,6 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 - [Julia Brasil - Telegram](https://t.me/juliabrasil)
 
 --------------------------------------------------
->>>>>>> 0619cdcc8b1a70a3b8843430597340cef06c7dae
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
 - [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/) [**pt-br**]
