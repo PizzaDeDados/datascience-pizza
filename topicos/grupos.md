@@ -27,6 +27,7 @@
 - [Python Brasil](https://t.me/pythonbr)
 - [Estatística e Probabilidade](https://t.me/joinchat/B5CoWUaMdg-IZGMJFJOaaA)
 - [Estatística e Data Science](https://t.me/joinchat/DNrFfw6G2vh-mrbmBNq2Cw)
+- [Julia Brasil - Telegram](https://t.me/juliabrasil)
 
 
 ## Outros
