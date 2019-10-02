@@ -69,7 +69,7 @@ Também são considerados dois V's adicionais:
   - Valor: Tudo o que for feito com o big data tem que gerar um valor no final, não adianta ler uma quantidade massiva de dados sem gerar algum valor no fim. [1](https://www.oracle.com/big-data/guide/what-is-big-data.html) [2](https://www.bbva.com/en/five-vs-big-data/) [3](https://canaltech.com.br/big-data/Big-Data-os-cinco-Vs-que-todo-mundo-deveria-saber/)
 
 ## Box plot
-Um gráfico que tem a finalidade de mostrar a distribuição de dados numéricos através de quartis. A caixa ( que justifica o nome box) mostra o Intervalo Interquartil (IC). A linha que passa por dentro da caixa indica a mediana, enquanto a superior indica o primeiro quartil (Q1) e a inferior mostra o 3o quartil (Q3). Acima da caixa, é mostrado o limite superior, calculado por 1,5 * Q3, e o limite inferior, calculado como 1,5 * Q1. [1](https://en.wikipedia.org/wiki/Box_plot)
+Um gráfico que tem a finalidade de mostrar a distribuição de dados numéricos através de quartis. A caixa ( que justifica o nome box) mostra o Intervalo Interquartil (IC). A linha que passa por dentro da caixa indica a mediana, enquanto a superior indica o primeiro quartil (Q1) e a inferior mostra o 3o quartil (Q3). Acima da caixa, é mostrado o limite superior, calculado por 1,5 * Q3, e o limite inferior, cuja fórmula é 1,5 * Q1. [1](https://en.wikipedia.org/wiki/Box_plot)
 
 O box plot ainda traz os valores que estão acima do limite superior ou abaixo do limite inferior (os outliers), geralmente exibidos como pontos em formato de astericos.
 
