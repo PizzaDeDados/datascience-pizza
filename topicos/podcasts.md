@@ -6,6 +6,7 @@
 - [Pizza de Dados](https://pizzadedados.com) | [**pt-br**]
 - [Data Hackers](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82ZDFlZTM0L3BvZGNhc3QvcnNz) | [**pt-br**]
 - [DSA Podcast](http://feeds.soundcloud.com/users/soundcloud:users:511680597/sounds.rss) | [**pt-br**]
+- [Coluna 7](http://colaboradados.com.br/podcast.html) | [**pt-br**]
 - Lista de podcasts de Data Science oeferecidos pela O'Reilly ([SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast))
 - Podcast: Data Science from scratch (in Python) ([SoundCloud](https://soundcloud.com/talkpython/56-data-science-from-scratch))
 - [Super data science podcast](https://www.superdatascience.com/podcast/)
