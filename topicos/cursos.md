@@ -74,3 +74,7 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
 
 ### Cogntive Class
   - [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science/)
+
+### Data Camp
+  - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+  - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
