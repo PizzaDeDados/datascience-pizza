@@ -140,7 +140,7 @@ Dropout é uma técnica de regularização de redes neurais em que, a cada itera
 
 ## Engenharia de Features
 
-Refere-se ao processo de seleção e transformação de variáveis envolvidos na criação de modelos preditivos usando machine learning ou modelagem estatística. O processo envolve a combinação de análise de dados, prática/experiência e julgamento. Pode às vezes se referir ao pré-processamento, mas esse termo pode ter um significado mais generalista. (https://www.displayr.com/what-is-feature-engineering/)
+Refere-se ao processo de seleção e transformação de variáveis envolvidos na criação de modelos preditivos usando machine learning ou modelagem estatística. O processo envolve a combinação de análise de dados, prática/experiência e julgamento. Pode às vezes se referir ao pré-processamento, mas esse termo pode ter um significado mais generalista. [1](https://www.displayr.com/what-is-feature-engineering/)
 
 ## Ensemble Learning
 
