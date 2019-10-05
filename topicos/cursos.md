@@ -22,6 +22,7 @@
   - [Machine Learning Crash Course with TensorFlow APIs (Google)](https://developers.google.com/machine-learning/crash-course/)
   - [Applied Machine Learning Spring 2018 ministrada por Andreas C. Müller da Columbia University (Em Andamento)](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
   - [Álgebra Linear (MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+  - [Trilha de ciência de dados na AWS](https://aws.amazon.com/pt/training/learning-paths/machine-learning/data-scientist/)
 
 ### Coursera.org
 
