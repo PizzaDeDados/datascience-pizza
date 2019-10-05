@@ -160,7 +160,7 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
-- [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/) [**pt-br**]
+- [CRISP-DM](https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining) [**pt-br**]
 
 --------------------------------------------------
 <h2 id="imagens">Dados em Imagens</h2>
