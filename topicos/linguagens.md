@@ -34,6 +34,7 @@
 # Julia
 - [Tutorial Julia Alexandre Gomieiro](https://www.youtube.com/watch?v=ZPtyQem6hso&list=PLya-DXLnU1p7_iMNN4386qkiD4ywL9hxm)
 - [Julia Cheat Sheet](https://github.com/JuliaDocs/Julia-Cheat-Sheet/)
+- [Julia Academy](https://juliaacademy.com/)
 
 
 # Misturinhas 
