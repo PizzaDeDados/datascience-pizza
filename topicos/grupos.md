@@ -20,7 +20,7 @@
     * [Telegram](https://t.me/DataScienceSanca)
 - [Machine Learning Porto Alegre (RS) Meetup](https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/)
     * [Fanpage 0 Facebook](https://pt-br.facebook.com/machinelearningpoa/)
-    * [Palestras - YouTube]https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A
+    * [Palestras - YouTube](https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A)
 - [IA Brasil - Telegram](https://t.me/iaBrasil)
 - [Open Data Science](https://t.me/opendatascience)
 - [Big Data BR](https://t.me/bigdatabr)
