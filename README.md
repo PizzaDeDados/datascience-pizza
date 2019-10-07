@@ -2,7 +2,7 @@
 
 ![neil](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
 
---
+----
 
 
 **DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas.
@@ -18,7 +18,7 @@ focado em ciência de dados. Se tiver um tempinho, prestigie esse trabalho 100% 
 
 Se você gosta desse repositório e quer ajuda, considere [apoiar o Pizza de Dados](https://apoia.se/pizzadedados) com qualquer quantia :)
 
-No mais, é isso. Bem vinda(o), pequena(o) padawan :)
+No mais, é isso. Bem-vinda(o), pequena(o) padawan :)
 
 
 ## Sumário
