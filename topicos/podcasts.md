@@ -32,3 +32,4 @@
 |15|Talk Python to me |#139 |[Paths into a data science career](https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career)| | Hugo Bowne-Anderson  |
 |16|Talk Python to me |#131 | [Top 10 machine learning libraries](https://talkpython.fm/episodes/show/131/top-10-machine-learning-libraries)| | Pete Garcin | 
 |17|Talk Python to me |#134 | [Python in Climate Science](https://talkpython.fm/episodes/show/134/python-in-climate-science)| | Damien Irving |
+|1*|NerdCast |#690 | [O futuro (des)esperado das I.A.s](https://jovemnerd.com.br/nerdcast/o-futuro-desesperado-das-i-a-s/)| | `Alexandre Otoni, Deive Pazos, Caio Gomes, Mila, Vivi, Yasodara Córdova` |
