@@ -269,6 +269,11 @@ Ver [Banco de Dados Não-Relacional](https://github.com/leportella/datascience-p
 
 Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existências". Para Ciência da Computação, ontologias são um meio para modelar formalmente a estrutura de um sistema, ou seja, as entidades e relações relevantes que emergem da observação, e que são úteis para um determinado propósito (STAAB, Steffen; STUDER, Rudi (Ed.). Handbook on ontologies. Springer Science & Business Media, 2010).
 
+## Oversampling 
+
+É um conjunto de técnicas utilizadas para ajustar a distribuição do conjunto de dados de uma amostragem, é principalmente utilizado quando a amostragem de dados é insuficiente. Consiste da copia de dados dos conjuntos com menos amostras, a fim de que os conjuntos de amostras tenham uma quantidade de dados equivalentes.
+Prinipalmente utilizado para amostragem estatistica, aprendizado de máquina e metodologias de pesquisa.[1](https://en.wikipedia.org/wiki/Oversampling), [2](https://pdfs.semanticscholar.org/9908/404807bf6b63e05e5345f02bcb23cc739ebd.pdf)
+
 # P
 
 
@@ -383,6 +388,13 @@ O TensorFlow™ é uma biblioteca de software de código aberto para computaçã
 
 É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias. [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/)
 
+## Undersampling 
+
+Equivalente ao Oversampling é um conjunto de técnicas utilizadas para ajustar a distribuição do conjunto de dados de uma amostragem e é principalmente utilizado quando a amostragem de dados é insuficiente porém faz o oposto do que é feito no Oversampling.
+Consiste da remoção de dados dos conjuntos com maiores quantidades de amostras, a fim de que os conjuntos de amostras tenham uma quantidade de dados balanceada.
+Prinipalmente utilizado para amostragem estatistica e aprendizado de máquina.
+[1](https://en.wikipedia.org/wiki/Undersampling), [2](https://pdfs.semanticscholar.org/9908/404807bf6b63e05e5345f02bcb23cc739ebd.pdf)
+
 # V
 
 ## Validação cruzada (Cross-validation)
@@ -456,3 +468,5 @@ Staab, Steffen, and Rudi Studer, eds. Handbook on ontologies. Springer Science &
 Vineet Chaoji, Rajeev Rastogi, and Gourav Roy. 2016. Machine learning in the real world. Proc. VLDB Endow. 9, 13 (September 2016), 1597-1600. DOI: http://dx.doi.org/10.14778/3007263.3007318
 
 Gareth James, Daniela Witten, Trevor Hastie e Robert Tibshirani. 2017. An Introduction to Statistical Learning. Spring. disponível em [link](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf). DOI: 10.1007/978-1-4614-7138-7
+
+Gary M. Weiss, Kate McCarthy, and Bibi Zabar. Cost-Sensitive Learning vs. Sampling: Which is Best for Handling Unbalanced Classes with Unequal Error Costs?. Fordham University. em [link](https://pdfs.semanticscholar.org/9908/404807bf6b63e05e5345f02bcb23cc739ebd.pdf).
