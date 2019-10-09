@@ -31,6 +31,10 @@
 |  ![logo](https://pbs.twimg.com/profile_images/745010054835798016/Z1hvZQpp.jpg)| IcaroTech | Campinas-SP | Tecnologia da informação | https://www.icarotech.com/ | https://www.icarotech.com/trabalhe-conosco/ |
 |   | Duratex S.A. | São Paulo-SP | Indústria | http://www.duratex.com.br/  |   |
 | ![logo-spacetime](https://static1.squarespace.com/static/57d4124203596e4e5be3f7b9/t/57d5b9ace3df286e27f93d54/favicon.ico) | SpaceTime Labs | São Paulo-SP e São José dos Campos-SP | Água, energia e biomassa | https://www.spacetimelabs.ai/ | |
+|  ![logo](https://www.sympla.com.br/images/logo-sympla-color.svg) | [Sympla](https://sympla.com.br) | Belo Horizonte - MG   | Internet  |   |  https://jobs.kenoby.com/sympla |
+|  ![logo](https://static.maxmilhas.com.br/img/logo-mm-grey.svg) | [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte - MG   | Internet  |   |  https://maxmilhas.gupy.io/ |
+|  ![logo](https://www.hotmart.com/hotmart-index/javax.faces.resource/images/hotmart-logo-footer.svg.xhtml) | [Hotmart](https://www.hotmart.com/pt) | Belo Horizonte - MG   | Internet  |   |  https://www.hotmart.com/jobs/pt/ |
+| ![Semantix](https://www.itforum365.com.br/wp-content/uploads/2018/01/SEMANTIX-LOGO.jpg) | Semantix | São Paulo-SP | Empresa de Big Data e Data Science | http://www.semantix.com.br/ | http://www.semantix.com.br/blog/trabalhe-conosco/| |
 
 ## Sul 
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
@@ -46,6 +50,9 @@
 | Logo  | Empresa  |  Cidade  |  Setor | Contato | Vagas |
 |---|---|---|---|---|---|
 | ![logo](https://avatars3.githubusercontent.com/u/13109725?v=4&s=75)  | Intelivix | Recife | Jurimetria, Big Data, IA | http://intelivix.com/#contato | | 
+| ![logo](https://avatars0.githubusercontent.com/u/15989976?s=65&v=4) | Instituto Atlântico | Fortaleza - CE | Data Science e Desenvolvimento de Software | http://www.atlantico.com.br/?page_id=155 | http://www.atlantico.com.br/vagas/ |
+|  | Laboratório de Sistemas e Banco de dados | Fortaleza - CE | Pesquisa | contato@lsbd.ufc.br | http://www.lsbd.ufc.br/job-opportunities/ |
+| ![logo](https://avatars3.githubusercontent.com/u/29547270?s=65&v=4) | Insight Data Science Lab | Fortaleza - CE | Pesquisa | insightlab@dc.ufc.br | 
 
 ## Centro-Oeste
 | Logo  | Empresa  |  Cidade  |  Setor | Contato | Vagas |

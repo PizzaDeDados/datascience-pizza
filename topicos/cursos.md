@@ -22,6 +22,7 @@
   - [Machine Learning Crash Course with TensorFlow APIs (Google)](https://developers.google.com/machine-learning/crash-course/)
   - [Applied Machine Learning Spring 2018 ministrada por Andreas C. Müller da Columbia University (Em Andamento)](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
   - [Álgebra Linear (MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+  - [Trilha de ciência de dados na AWS](https://aws.amazon.com/pt/training/learning-paths/machine-learning/data-scientist/)
 
 ### Coursera.org
 
@@ -66,13 +67,6 @@ Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
   - [Fundamentos da Programação com Python](https://br.udacity.com/course/programming-foundations-with-python--ud036/)
   - [Introdução à Ciência de Dados](https://br.udacity.com/course/intro-to-data-science--ud359/)
   - [Intro to Relational Databases](https://br.udacity.com/course/intro-to-relational-databases--ud197/)
-
-### DataCamp
-  - [Data Scientist with Python - Track](https://www.datacamp.com/tracks/data-scientist-with-python)
-  - [Data Analyst with Python - Track](https://www.datacamp.com/tracks/data-analyst-with-python)
-  - [Data Scientist with R - Track](https://www.datacamp.com/tracks/data-scientist-with-r)
-  - [Data Analyst with R - Track](https://www.datacamp.com/tracks/data-analyst-with-r)
-  - [Quantitative Analyst with R - Track](https://www.datacamp.com/tracks/quantitative-analyst-with-r)
 
 ### Dataquest.io
   - [Data Scientist - Path](https://www.dataquest.io/path/data-scientist)

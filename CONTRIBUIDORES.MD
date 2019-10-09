@@ -1,7 +1,7 @@
 
 * Leticia Portella (@leportella)
 * @llautert
-* @eliezerfb
+* Eliézer Bourchardt (@eliezerfb)
 * @Guilhermeslucas
 * @giovanisleite
 * @mvinoba
@@ -30,3 +30,10 @@
 * @lucianosb
 * @magusd
 * @ltkills
+* Gabriel César (@gabrielczar)
+* @tramontini
+* José Ferraz Neto (@zeneto)
+* Luiz Nonenmacher (@luiznonenmacher)
+* Felipe Iasi (@ficosta)
+* @brunopizzio
+* Rodolfo Ghiggi (@rodolfoghi)
