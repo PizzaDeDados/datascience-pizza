@@ -119,7 +119,7 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
  - [Datasets - Kaggle](https://www.kaggle.com/datasets)
  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
  - [data.world](https://data.world/)
- - [Amazon Public Datasets](https://aws.amazon.com/pt/public-datasets/)
+ - [Registry of Open Data on AWS](https://registry.opendata.aws)
  - [brasil.io](https://brasil.io/datasets)
  - [Microsoft Research Open Data](https://msropendata.com/)
  - [Datasets for Recommender Systems](https://github.com/caserec/Datasets-for-Recommneder-Systems)
@@ -163,7 +163,7 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
 
-- [CRISP-DM](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/) [**pt-br**]
+- [CRISP-DM](https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining) [**pt-br**]
 
 --------------------------------------------------
 <h2 id="imagens">Dados em Imagens</h2>
