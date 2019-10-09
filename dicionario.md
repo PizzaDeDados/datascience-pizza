@@ -276,7 +276,12 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a principal e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 
+## PCA 
+
+É um procedimento matemático que utiliza uma transformação ortogonal (ortogonalização de vetores) para converter um conjunto de observações de variáveis possivelmente correlacionadas em um conjunto de valores de variáveis linearmente não correlacionadas chamadas de componentes principais [1](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_componentes_principais).
+
 ## Pytorch
+
 
 É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1](https://en.wikipedia.org/wiki/PyTorch) 
 [2](https://pytorch.org/)
@@ -293,6 +298,7 @@ Uma métrica para modelos de classificação. A precisão identifica a frequênc
 </p>
 
 [1](https://developers.google.com/machine-learning/glossary/#precision)
+
 
 # Q
 
