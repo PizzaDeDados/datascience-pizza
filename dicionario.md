@@ -58,14 +58,14 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 É um termo que descreve o grande volume de dados - estruturados e não estruturados - que sobrecarrega as empresas diariamente. Pode ser usado para obter insights que levam a decisões melhores e ações estratégicas de negócio. Normalmente tem a definição separada em 3 V's:
 
   - Volume: A quantidade de dado importa. Com big data você deve que processar grandes quantidades de dados para obter resultados concretos, o tamanho exato varia de empresa para empresa, podendo ser terabytes ou zetabytes.
-  
+
   - Velocidade: Todos os dados devem ser transmitidos em grandes velocidades e tratados em um tempo baixo. Normalmente a velocidade está diretamente ligada a memória e escrita em disco.
-  
+
   - Variedade: Os dados são gerados em inúmeros formatos, desde dados estruturados (bancos de dados normais) a não estruturados (textos, e-mails, som, vídeo, fotos, tweets e etc...)
 
 Também são considerados dois V's adicionais:
   - Veracidade: É a garantia da qualidade do dado, ou seja, garantir que as informações sejam verdadeiras para a análise.
-  
+
   - Valor: Tudo o que for feito com o big data tem que gerar um valor no final, não adianta ler uma quantidade massiva de dados sem gerar algum valor no fim. [1](https://www.oracle.com/big-data/guide/what-is-big-data.html) [2](https://www.bbva.com/en/five-vs-big-data/) [3](https://canaltech.com.br/big-data/Big-Data-os-cinco-Vs-que-todo-mundo-deveria-saber/)
 
 ## Box plot
@@ -206,6 +206,10 @@ O [Project Jupyter](http://jupyter.org/) é um projeto de código aberto, sem fi
 É um algoritmo de agrupamento (clustering) que utiliza distância euclidiana para dividir/organizar/separar os N valores de uma amostra em K subconjuntos. K é definido previamente e o algoritmo faz o trabalho de calcular a distribuição da amostra nos subconjuntos mais próximos. Os pontos de onde mede-se a distância euclidiana, que são os centros dos subconjuntos (K0,K1,K2,Kn) são definidos aleatoriamente na primeira iteração e a cada iteração posterior são movimentados afim de distribuir a amostra em subconjuntos de tamanhos iguais.
 ![k-means](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
 
+## Keras
+
+Keras é uma biblioteca de rede neural de código aberto e de alto nível escrita em Python, e é  capaz de rodar sobre TensorFlow, CNTK ou Theano. Foi desenvolvido com o objetivo de permitir experimentação rápida. Ser capaz de passar da ideia para o resultado com o menor atraso possível é essencial para fazer uma boa pesquisa. Essa biblioteca se concentra em ser fácil de usar, modular e extensível. Foi desenvolvida como parte do esforço de pesquisa do projeto ONEIROS e seu principal autor e mantedor é François Chollet.
+
 
 # L
 
@@ -269,7 +273,7 @@ Ver [Banco de Dados Não-Relacional](https://github.com/leportella/datascience-p
 
 Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existências". Para Ciência da Computação, ontologias são um meio para modelar formalmente a estrutura de um sistema, ou seja, as entidades e relações relevantes que emergem da observação, e que são úteis para um determinado propósito (STAAB, Steffen; STUDER, Rudi (Ed.). Handbook on ontologies. Springer Science & Business Media, 2010).
 
-## Oversampling 
+## Oversampling
 
 É um conjunto de técnicas utilizadas para ajustar a distribuição do conjunto de dados de uma amostragem, é principalmente utilizado quando a amostragem de dados é insuficiente. Consiste da copia de dados dos conjuntos com menos amostras, a fim de que os conjuntos de amostras tenham uma quantidade de dados equivalentes.
 Prinipalmente utilizado para amostragem estatistica, aprendizado de máquina e metodologias de pesquisa.[1](https://en.wikipedia.org/wiki/Oversampling), [2](https://pdfs.semanticscholar.org/9908/404807bf6b63e05e5345f02bcb23cc739ebd.pdf)
@@ -281,14 +285,14 @@ Prinipalmente utilizado para amostragem estatistica, aprendizado de máquina e m
 
 Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a principal e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 
-## PCA 
+## PCA
 
 É um procedimento matemático que utiliza uma transformação ortogonal (ortogonalização de vetores) para converter um conjunto de observações de variáveis possivelmente correlacionadas em um conjunto de valores de variáveis linearmente não correlacionadas chamadas de componentes principais [1](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_componentes_principais).
 
 ## Pytorch
 
 
-É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1](https://en.wikipedia.org/wiki/PyTorch) 
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1](https://en.wikipedia.org/wiki/PyTorch)
 [2](https://pytorch.org/)
 
 ## Perceptron
@@ -388,7 +392,7 @@ O TensorFlow™ é uma biblioteca de software de código aberto para computaçã
 
 É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias. [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/)
 
-## Undersampling 
+## Undersampling
 
 Equivalente ao Oversampling é um conjunto de técnicas utilizadas para ajustar a distribuição do conjunto de dados de uma amostragem e é principalmente utilizado quando a amostragem de dados é insuficiente porém faz o oposto do que é feito no Oversampling.
 Consiste da remoção de dados dos conjuntos com maiores quantidades de amostras, a fim de que os conjuntos de amostras tenham uma quantidade de dados balanceada.
@@ -470,3 +474,5 @@ Vineet Chaoji, Rajeev Rastogi, and Gourav Roy. 2016. Machine learning in the rea
 Gareth James, Daniela Witten, Trevor Hastie e Robert Tibshirani. 2017. An Introduction to Statistical Learning. Spring. disponível em [link](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf). DOI: 10.1007/978-1-4614-7138-7
 
 Gary M. Weiss, Kate McCarthy, and Bibi Zabar. Cost-Sensitive Learning vs. Sampling: Which is Best for Handling Unbalanced Classes with Unequal Error Costs?. Fordham University. em [link](https://pdfs.semanticscholar.org/9908/404807bf6b63e05e5345f02bcb23cc739ebd.pdf).
+
+https://github.com/keras-team/keras/tree/master/docs
