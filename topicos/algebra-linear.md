@@ -3,14 +3,14 @@
  ## Vídeos
  
  - Khan Academy - [versão original em inglês](https://www.khanacademy.org/math/linear-algebra) / [versão em português](https://pt.khanacademy.org/math/linear-algebra)
- - [Álgebra Linear - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)(áudio em inglês)
- - [Essence of Linear Algebra Series - YouTube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown (áudio em inglês)
+ - [Álgebra Linear](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - MIT (áudio em inglês)
+ - [Essence of Linear Algebra Series](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown (áudio em inglês)
  - [Álgebra Linear 1](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) - USP (áudio em português)
  
  
  ## Cursos
  
- - [Eigenvectors and Eigenvalues (autovetores e autovalores)](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104) - Udacity
+ - [Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104) - Udacity
  - [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) - Udacity
  - [Mathematics for Machine Learning - Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) - Coursera
  
