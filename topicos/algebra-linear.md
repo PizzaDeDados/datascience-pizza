@@ -2,10 +2,10 @@
  
  ## Vídeos
  
- - Khan Academy - [versão original em inglês](https://www.khanacademy.org/math/linear-algebra) / [versão em português](https://pt.khanacademy.org/math/linear-algebra)
- - [Álgebra Linear](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - MIT (áudio em inglês)
- - [Essence of Linear Algebra Series](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown (áudio em inglês)
- - [Álgebra Linear 1](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) - USP (áudio em português)
+ - Khan Academy - [versão original em inglês](https://www.khanacademy.org/math/linear-algebra) / [versão em português **[pt-br]**](https://pt.khanacademy.org/math/linear-algebra)
+ - [Álgebra Linear](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - MIT
+ - [Essence of Linear Algebra Series](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
+ - [Álgebra Linear 1](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) - USP **[pt-br]**
  
  
  ## Cursos
