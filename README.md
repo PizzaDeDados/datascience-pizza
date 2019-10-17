@@ -76,7 +76,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="intermediario">Intermediário</h3>
 
-  - Cálculo
+  - [Cálculo](https://github.com/leportella/datascience-pizza/blob/master/topicos/calculo.md)
   - Álgebra Linear
   - [Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
   - [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/deep-learning.md)
