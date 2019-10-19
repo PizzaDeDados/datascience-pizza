@@ -200,18 +200,6 @@ Trata-se de supostas respostas para um problema em questão. É importante que a
 [1](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
 
 ## Histograma
-Especificidade 
-
-Uma métrica para modelos de classificação que responde à seguinte pergunta: de todos os possíveis rótulos negativos, quantos o modelo identificou corretamente? Isso é:
-
-
-<p align="center">
-  <img src="https://latex.codecogs.com/gif.latex?\text{Especificidade}&space;=&space;\frac{\text{Verdadeiros&space;Negativos}}&space;{\text{Verdadeiros&space;Negativos}&space;&plus;&space;\text{Falsos&space;Positivos}}">
-</p>
-
-A especificidade também é chamada de seletivedade. 
-
-A especificidade está para a condição negativa assim como a revocação está para a condição positiva.
 Um gráfico composto por retângulos justapostos em que a base de cada um deles corresponde ao intervalo de classe e a sua área à respectiva frequência. Um histograma é utilizado para representar a distribuição de frequências de variáveis *contínuas*. Os valores observáveis da variável são divididos em classes (faixas de valores) e, então, conta-se a frequência de ocorrência dos valores em cada classe. O histograma é o gráfico que relaciona as classes no eixo X e valores proporcionais à frequência no eixo Y.
 
 ![histograma](https://upload.wikimedia.org/wikipedia/commons/d/dd/Histograma_wiki1.png "Histograma da coleta de HDL de um grupo de 18 pacientes. Seis classes definidas em intervalos de 5 mg/dL.")
