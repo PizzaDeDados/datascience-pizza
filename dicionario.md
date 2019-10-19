@@ -393,7 +393,9 @@ Se o modelo tiver alta variância:
 - Tente fazer regularização
 - Altere o modelo para se adequar melhor aos seus dados
 
-Para ilustrar melhor: ![tradeoff](https://github.com/bseewald/datascience-pizza/blob/master/img/bias_variance_small.png?raw=true)
+Para ilustrar melhor: 
+
+![tradeoff](https://github.com/bseewald/datascience-pizza/blob/master/img/bias_variance_small.png?raw=true)
 
 
 ## TensorFlow
