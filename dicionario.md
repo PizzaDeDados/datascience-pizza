@@ -393,6 +393,10 @@ Um sistema de recomendação combina técnicas de Recuperação de Informação 
 
 Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
 
+## Seletividade
+
+Ver [Especificidade](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md#especificidade).
+
 ## Support Vector Machine
 
 Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [1](https://en.wikipedia.org/wiki/Support_vector_machine).
