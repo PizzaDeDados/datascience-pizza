@@ -378,6 +378,24 @@ Máquina de vetores de suporte (do inglês SVM: support vector machine) é um m�
 
 # T
 
+## Tradeoff viés/variância
+
+Viés e variância são conceitos essenciais em machine learning (ML). Ao trabalhar com modelos em ML, o melhor é sempre equilibrar viés e variância. Para entender melhor o tradeoff entre os dois, podemos usar os conceitos de Underfitting e Overfitting. No primeiro (Underfitting), há uma alta taxa de erro durante o treinamento pois o modelo não se ajuda bem aos dados, logo temos um alto viés. No segundo (Overfitting), a taxa de erro durante o treinamento é muito menor que a taxa de erro durante a validação/teste, logo este é um caso de alta variância nos dados. [1](https://deep-ufmg.github.io/)
+
+Se o modelo tiver alto viés:
+- Altere o modelo para se adequar melhor aos seus dados
+- Tente uma rede neural maior
+- Tente aumentar o tempo de treinamento
+- Tente outros algoritmos de otimização
+
+Se o modelo tiver alta variância:
+- Obtenha mais dados
+- Tente fazer regularização
+- Altere o modelo para se adequar melhor aos seus dados
+
+Para ilustrar melhor: ![tradeoff](https://github.com/bseewald/datascience-pizza/blob/master/img/bias_variance_small.png?raw=true)
+
+
 ## TensorFlow
 
 O TensorFlow™ é uma biblioteca de software de código aberto para computação numérica que usa gráficos de fluxo de dados. Os nodes no gráfico representam operações matemáticas, e as arestas representam as matrizes ou tensores de dados multidimensionais que se comunicam com os nodes. A arquitetura flexível permite que você implante aplicações de computação a uma ou mais CPUs ou GPUs em um computador, servidor ou dispositivo móvel usando uma única API. O TensorFlow foi desenvolvido por pesquisadores e engenheiros da Google Brain Team no departamento de pesquisas de inteligência de máquina do Google com a finalidade de realizar pesquisas sobre redes neurais profundas e aprendizado de máquina. No entanto, devido à característica abrangente do sistema, ele também pode ser aplicado a vários outros domínios. [1](https://www.tensorflow.org)
