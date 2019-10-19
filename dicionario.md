@@ -380,7 +380,7 @@ Máquina de vetores de suporte (do inglês SVM: support vector machine) é um m�
 
 ## Tradeoff viés/variância
 
-Viés e variância são conceitos essenciais em machine learning (ML). Ao trabalhar com modelos em ML, o melhor é sempre equilibrar viés e variância. Para entender melhor o tradeoff entre os dois, podemos usar os conceitos de Underfitting e Overfitting. No primeiro (Underfitting), há uma alta taxa de erro durante o treinamento pois o modelo não se ajuda bem aos dados, logo temos um alto viés. No segundo (Overfitting), a taxa de erro durante o treinamento é muito menor que a taxa de erro durante a validação/teste, logo este é um caso de alta variância nos dados. [1](https://deep-ufmg.github.io/)
+Viés e variância são conceitos essenciais em machine learning (ML). Ao trabalhar com modelos em ML, o melhor é sempre equilibrar viés e variância. Para entender melhor o tradeoff entre os dois, podemos usar os conceitos de Underfitting e Overfitting. No primeiro (Underfitting), há uma alta taxa de erro durante o treinamento pois o modelo não se ajuda bem aos dados, logo temos um alto viés. No segundo (Overfitting), a taxa de erro durante o treinamento é muito menor que a taxa de erro durante a validação/teste, logo este é um caso de alta variância nos dados. [[1]](https://deep-ufmg.github.io/)
 
 Se o modelo tiver alto viés:
 - Altere o modelo para se adequar melhor aos seus dados
@@ -395,8 +395,9 @@ Se o modelo tiver alta variância:
 
 Para ilustrar melhor: 
 
-![tradeoff](https://github.com/bseewald/datascience-pizza/blob/master/img/bias_variance_small.png?raw=true)
+![tradeoff](https://www.i2tutorials.com/wp-content/uploads/2019/05/Bias-%E2%80%93-Variance-Trade-off-14-i2tutorials.jpg)
 
+Fonte imagem: [i2tutorials](https://www.i2tutorials.com/technology/bias-variance-trade-off/)
 
 ## TensorFlow
 
