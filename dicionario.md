@@ -313,6 +313,28 @@ Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto e
 
 # R
 
+## Regularização
+
+A regularização é um método de reduzir o erro, onde é feito o ajuste de uma função no conjunto de treinamento fornecido evitando que ocorra o ajuste excessivo(overfit).
+
+A regularização pode ser dividida em diferentes métodos, como L1, L2 e a combinação de ambos. Cada método é distinto do outro tendo propriedades e resultados diferentes.
+
+### L1 (Lasso)
+
+A regularização L1, também conhecida como regularização Lasso, adiciona uma penalidade igualmente para a soma dos valores absolutos dos coeficientes. Isso propicia diminuir os recursos menos importantes do modelo ou até mesmo remover alguns, reduzindo seu valor a zero. Para isso é adicionado um valor absoluto de coeficiente como termo de penalidade na função de perda.
+
+### L2 (Ridge Regression)
+
+A regularização L2, também conhecida como regressão de Ridge, força os parametros a se tornarem relativamente menores. Dessa forma, quanto maior a penalização, menor serão os coeficientes. 
+
+A L2 adiciona uma penalidade igual para a soma do valor quadrado do coeficiente da função de perda. Essa técnica de regularização funciona bem para evitar o overfitting, mas se os valores dos pesos forem muito altos pode ocorrer o underfitting.
+
+
+### L1 + L2 (Elastic Net)
+
+Regularização de rede elastica é a combinaçã da regularização L1 e L2.
+
+
 ## ReLU
 
 Função não-linear de ativação de neurônios numa rede neural artificial[1](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). É definida pela função e forma:
@@ -325,6 +347,14 @@ Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2
 ## Revocação (*Recall*)
 
 Uma métrica para modelos de classificação que responde à seguinte pergunta: de todos os possíveis rótulos positivos, quantos o modelo identificou corretamente? Isso é:
+<p align="center">
+
+Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2](https://en.wikipedia.org/wiki/Logistic_function).
+
+## Revocação (*Recall*)
+
+Uma métrica para modelos de classificação que responde à seguinte pergunta: de todos os possíveis rótulos positivos, quantos o modelo identificou corretamente? Isso é:
+<p align="center">
 <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?\text{Revocacao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Negativos}}">
 </p>
@@ -458,14 +488,6 @@ Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistica
 Jain, A.K.; Murty, M.N.; Flynn, P.J.; Data Clustering: A review. ACM Computing Surveys, Vol. 31, No. 3, 1999.
 
 Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap. 3.4, pág. 52.
-
-Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeiro: Elsevier, 2013.
-
-Srivastava N., Hinton G., Krizhevsky A., Sutskever I., and Salakhutdinov R. Dropout: a simple way to prevent neural networks from overfitting. Journal of Machine Learning Research. 15, 1 (January 2014), 1929-1958.
-
-Staab, Steffen, and Rudi Studer, eds. Handbook on ontologies. Springer Science & Business Media, 2010.
-
-Vineet Chaoji, Rajeev Rastogi, and Gourav Roy. 2016. Machine learning in the real world. Proc. VLDB Endow. 9, 13 (September 2016), 1597-1600. DOI: http://dx.doi.org/10.14778/3007263.3007318
 
 Gareth James, Daniela Witten, Trevor Hastie e Robert Tibshirani. 2017. An Introduction to Statistical Learning. Spring. disponível em [link](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf). DOI: 10.1007/978-1-4614-7138-7
 
