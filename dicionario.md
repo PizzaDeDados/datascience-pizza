@@ -2,23 +2,26 @@
 
 ## Algoritmos
 
-São conjuntos de passos finitos e organizados que, quando executados, realizam uma tarefa. [1](https://www.youtube.com/watch?v=8mei6uVttho), [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms).
+São conjuntos de passos finitos e organizados que, quando executados, realizam uma tarefa [1](https://www.youtube.com/watch?v=8mei6uVttho), [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms).
 
 ## Análise Exploratória de Dados
 
-É uma tradição estatística que provê ferramentas conceituais e computacionais para descobrir padrões para o desenvolvimento e refinamento de hipóteses. 1.(Behrens, 1997)
+É uma tradição estatística que provê ferramentas conceituais e computacionais para descobrir padrões para o desenvolvimento e refinamento de hipóteses (Behrens, 1997).
 
 ## Análise Não-Supervisionada
 
-É a capacidade do sistema em aprender padrões com dados de entrada, mesmo não sendo fornecido um retorno evidente. Tem como tarefa mais recorrente, o reconhecimento de grupos com os dados de entrada potencialmente úteis. 1.(Russel e Norvig, 2013).
+É a capacidade do sistema em aprender padrões com dados de entrada, mesmo não sendo fornecido um retorno evidente. Tem como tarefa mais recorrente, o reconhecimento de grupos com os dados de entrada potencialmente úteis (Russel e Norvig, 2013).
 
 ## Análise Supervisionada
 
-O objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares. 1.(Alpaydin, 2010).
+O objetivo é alcançado através da aprendizagem dos dados de entrada e seus respectivos resultados fornecidos por um supervisor. Em linhas gerais, o sistema observa a amostra de dados em pares de entrada e saída e aprende uma função que faz a rota entre estes pares (Alpaydin, 2010).
 
 ## Aprendizado por Reforço
 
 O aprendizado por reforço é uma área do aprendizado de máquina que lida com a maneira como os agentes de software devem executar ações em um ambiente de modo a maximizar alguma noção de recompensa cumulativa [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning).
+
+## Aprendizagem por Reforço
+É um ramo estudado em estatística, psicologia, neurociência e ciência da computação que está diretamente ligado a aprendizado de máquina e inteligência artificial. É um método de programação de agentes que devem aprender a se comportar em um ambiente dinâmico através de interações de “tentativa e erro”, conhecidas também como premiações e punições, sem a necessidade de especificar como uma tarefa deve ser realizada. A abordagem que é utilizada nesse trabalho é feita usando técnicas de estatísticas e métodos de programação dinâmica, buscando estimar qual a vantagem em se tomar determinadas ações em diferentes estados do ambiente dado um objetivo [1](https://www.maxwell.vrac.puc-rio.br/19637/19637_4.PDF), [2](https://en.wikipedia.org/wiki/Reinforcement_learning).
 
 ## Árvore de Decisão
 Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão  fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
@@ -31,15 +34,11 @@ Abaixo temos algumas possíveis entradas para a árvore de decisão, representad
 
 ![decision_tree_inputs_outputs](https://image.ibb.co/koz2oe/Screenshot_from_2018_10_06_01_15_57.png)
 
-## Aprendizagem por Reforço
-É um ramo estudado em estatística, psicologia, neurociência e ciência da computação que está diretamente ligado a aprendizado de máquina e inteligência artificial. É um método de programação de agentes que devem aprender a se comportar em um ambiente dinâmico através de interações de “tentativa e erro”, conhecidas também como premiações e punições, sem a necessidade de especificar como uma tarefa deve ser realizada. A abordagem que é utilizada nesse trabalho é feita usando técnicas de estatísticas e métodos de programação dinâmica, buscando estimar qual a vantagem em se tomar determinadas ações em diferentes estados do ambiente dado um objetivo. [1](https://www.maxwell.vrac.puc-rio.br/19637/19637_4.PDF), [2](https://en.wikipedia.org/wiki/Reinforcement_learning).
-
-
 # B
 
 ## Banco de Dados Não-Relacional
 
-Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: 1. [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e 2. [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
+Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em:  [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf).
 
 ## Banco de Dados Relacional
 
@@ -47,12 +46,12 @@ O conceito de bancos de dados relacionais está na forma em que eles são implem
 
 Um banco de dados relacional possui como entidade central tabelas, onde as colunas armazenam os tipos de dados e as linhas um caso específico de dados, sendo chamada de tupla ou registro. Também é importante o conceito de chave, que identifica unicamente um registro.
 
-O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado Edgar Frank Codd publicou um artigo onde foi definido formalmente o modelo relacional. Em 1985 o mesmo matemático publicou um artigo com as 13 regras que caracterizam um modelo de dados relacional.
-[1](https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246)
+O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado Edgar Frank Codd publicou um artigo onde foi definido formalmente o modelo relacional. Em 1985 o mesmo matemático publicou um artigo com as 13 regras que caracterizam um modelo de dados relacional
+[1](https://www.portaleducacao.com.br/conteudo/artigos/informatica/bancos-de-dados-relacionais/46246).
 
 ## Bias
 
-É uma característica de uma técnica estatística ou de seus resultados, pelo que o valor esperado dos resultados difere do parâmetro quantitativo subjacente verdadeiro sendo estimado. Em português, viés. 1. [Bias](https://en.wikipedia.org/wiki/Bias_(statistics)), 2. [Viés](https://pt.wikipedia.org/wiki/Viés_sistemático)
+Ver [Viés](# viés).
 
 ## Big Data
 É um termo que descreve o grande volume de dados - estruturados e não estruturados - que sobrecarrega as empresas diariamente. Pode ser usado para obter insights que levam a decisões melhores e ações estratégicas de negócio. Normalmente tem a definição separada em 3 V's:
@@ -66,13 +65,9 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 Também são considerados dois V's adicionais:
   - Veracidade: É a garantia da qualidade do dado, ou seja, garantir que as informações sejam verdadeiras para a análise.
   
-  - Valor: Tudo o que for feito com o big data tem que gerar um valor no final, não adianta ler uma quantidade massiva de dados sem gerar algum valor no fim. [1](https://www.oracle.com/big-data/guide/what-is-big-data.html) [2](https://www.bbva.com/en/five-vs-big-data/) [3](https://canaltech.com.br/big-data/Big-Data-os-cinco-Vs-que-todo-mundo-deveria-saber/)
+  - Valor: Tudo o que for feito com o big data tem que gerar um valor no final, não adianta ler uma quantidade massiva de dados sem gerar algum valor no fim [1](https://www.oracle.com/big-data/guide/what-is-big-data.html), [2](https://www.bbva.com/en/five-vs-big-data/), [3](https://canaltech.com.br/big-data/Big-Data-os-cinco-Vs-que-todo-mundo-deveria-saber/).
 
 # C
-
-## Coeficiente de Determinação
-
-O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo de regressão. Usualmente R2 é interpretado como o quanto da variância de uma variável independente pode ser capturada (dado o modelo) a partir das variáveis dependentes [1](http://stattrek.com/statistics/dictionary.aspx?definition=coefficient_of_determination). Para modelos lineares, R2 é usualmente definido como sendo o quadrado do coeficiente de correlação da amostra, sendo, neste caso, uma medida de o quanto a variável independente pode ser explicada a partir de uma combinação linear das variáveis dependentes [2](https://en.wikipedia.org/wiki/Coefficient_of_determination).
 
 ## Classificação (Aprendizado de Máquina)
 
@@ -84,34 +79,38 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 
 ## Coeficiente
 
-É o fator multiplicativo de um termo em uma expressão, sendo geralmente um número, e que não se confunde com as variáveis da expressão.[1](https://pt.wikipedia.org/wiki/Coeficiente)
+É o fator multiplicativo de um termo em uma expressão, sendo geralmente um número, e que não se confunde com as variáveis da expressão [1](https://pt.wikipedia.org/wiki/Coeficiente).
+
+## Coeficiente de Determinação
+
+O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo de regressão. Usualmente R2 é interpretado como o quanto da variância de uma variável independente pode ser capturada (dado o modelo) a partir das variáveis dependentes [1](http://stattrek.com/statistics/dictionary.aspx?definition=coefficient_of_determination). Para modelos lineares, R2 é usualmente definido como sendo o quadrado do coeficiente de correlação da amostra, sendo, neste caso, uma medida de o quanto a variável independente pode ser explicada a partir de uma combinação linear das variáveis dependentes [2](https://en.wikipedia.org/wiki/Coefficient_of_determination).
 
 ## Conda
 
-É um gerenciador de pacotes, dependências e ambientes para qualquer idioma - Python, R, Ruby, Lua, Scala, Java, JavaScript, C / C ++, FORTRAN. [ref](https://conda.io/docs/)
+É um gerenciador de pacotes, dependências e ambientes para qualquer idioma - Python, R, Ruby, Lua, Scala, Java, JavaScript, C / C ++, FORTRAN [1](https://conda.io/docs/).
 
 ## Conda-Forge
 
-É uma organização no github contendo repositórios de receitas conda. Graças a alguns incríveis provedores de integração contínua (AppVeyor, CircleCI e TravisCI), cada repositório, também conhecido como feedstock, constrói automaticamente sua própria receita de forma limpa e repetitiva no Windows, Linux e OSX. [1](https://conda-forge.org/)
+É uma organização no github contendo repositórios de receitas conda. Graças a alguns incríveis provedores de integração contínua (AppVeyor, CircleCI e TravisCI), cada repositório, também conhecido como feedstock, constrói automaticamente sua própria receita de forma limpa e repetitiva no Windows, Linux e OSX [1](https://conda-forge.org/).
 
 ## Correlação
 
-Correlação é a medida estatística que descreve a associação entre variáveis randômicas. Frequentemente,  correlação é o primeiro passo para entender relacionamentos e consequentemente construir melhores modelos estatísticos. [1](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
+Correlação é a medida estatística que descreve a associação entre variáveis randômicas. Frequentemente,  correlação é o primeiro passo para entender relacionamentos e consequentemente construir melhores modelos estatísticos [1](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials).
 
 ## Covariância
 
 Em probabilidade, a covariância de duas variáveis X e Y é uma medida da variabilidade conjunta destas variáveis aleatórias. Se as variáveis tem covariância positiva tendem a mostrar um comportamento semelhante, ou seja, os menores (maiores) valores da variável X corresponde aos menores (maiores) da variável Y . Se a covariância é negativa então as variáveis tendem a mostrar um comportamento oposto, ou seja, os menores (maiores) valores da variável X corresponde aos maiores (menores) da variável Y.
-Assim, podemos ver que o sinal da covariância mostra a tendência na relação linear entre as variáveis. [1](http://www.portalaction.com.br/probabilidades/42-covariancia-e-coeficiente-de-correlacao).
+Assim, podemos ver que o sinal da covariância mostra a tendência na relação linear entre as variáveis [1](http://www.portalaction.com.br/probabilidades/42-covariancia-e-coeficiente-de-correlacao).
 
 # D
 
 ## Dataset
 
-São conjuntos de dados tabulados, onde para cada individuo são denotadas diversas características. Cada coluna corresponde a uma varíavel, e cada linha é o conjunto de caracteristicas do individuo. Os valores(itens) dessa tabela são chamados dados. [wiki](https://pt.wikipedia.org/wiki/Conjunto_de_dados)
+São conjuntos de dados tabulados, onde para cada individuo são denotadas diversas características. Cada coluna corresponde a uma varíavel, e cada linha é o conjunto de caracteristicas do individuo. Os valores(itens) dessa tabela são chamados dados [1](https://pt.wikipedia.org/wiki/Conjunto_de_dados).
 
 ## Data Storytelling
 
-o processo de tradução de dados em termos de leigos para influenciar uma decisão ou ação de negócios [1](http://farolbi.com.br/data-storytelling-conte-uma-historia-com-os-dados/)
+o processo de tradução de dados em termos de leigos para influenciar uma decisão ou ação de negócios [1](http://farolbi.com.br/data-storytelling-conte-uma-historia-com-os-dados/).
 
 ## Desvio padrão
 
@@ -119,17 +118,23 @@ o processo de tradução de dados em termos de leigos para influenciar uma decis
 
 ## Distribuição Normal
 
-A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[1](http://leg.ufpr.br/~silvia/CE055/node44.html)
+A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes [1](http://leg.ufpr.br/~silvia/CE055/node44.html).
 
 ## Dropout
 
-Dropout é uma técnica de regularização de redes neurais em que, a cada iteração do treinamento, uma seleção aleatória de neurônios é desligada. A quantidade de neurônios desligados é controlada por um hiper-parâmetro, sendo que, quanto mais neurônios são desligados, mais forte é a regularização. É importante que o dropout seja aplicado apenas durante o treinamento e nunca para fazer predições. (Srivastava, 2014)
+Dropout é uma técnica de regularização de redes neurais em que, a cada iteração do treinamento, uma seleção aleatória de neurônios é desligada. A quantidade de neurônios desligados é controlada por um hiper-parâmetro, sendo que, quanto mais neurônios são desligados, mais forte é a regularização. É importante que o dropout seja aplicado apenas durante o treinamento e nunca para fazer predições (Srivastava, 2014).
 
 # E
 
+## Embeddings
+
+Diga-me com quem andas e eu te direi quem és. Esse provérbio resume bem o conceito por trás dessa abordagem de aprendizado que consiste na representação vetorial da relação entre entidades de um determinado conjunto dentro de um espaço multi-dimensional.
+
+Um dos algoritmos mais famosos a aplicar esse conceito é o word2vec que é capaz de abstrair, através desses vetores de relações, propriedades semânticas e sintáticas das palavras. Isto pode ser exemplificado através da operação Rei - Homem + Mulher = Rainha, que demonstra que o vetor que representa o conceito de feminino pode ser adicionado a uma palavra masculina para obter sua contraparte feminina como resultado.
+
 ## Ensemble Learning
 
-Método de aprendizado que consiste em utilizar a predição de vários algoritmos de Aprendizado de Máquina e combinar seus resultados de modo à obter uma predição melhorada. Um exemplo conhecido é o Random Forest, que utiliza diversas Decision Trees para fazer sua predição. [1](https://en.wikipedia.org/wiki/Ensemble_learning)
+Método de aprendizado que consiste em utilizar a predição de vários algoritmos de Aprendizado de Máquina e combinar seus resultados de modo à obter uma predição melhorada. Um exemplo conhecido é o Random Forest, que utiliza diversas Decision Trees para fazer sua predição [1](https://en.wikipedia.org/wiki/Ensemble_learning).
 
 ## Entropia Cruzada
 
@@ -141,30 +146,25 @@ onde ![ce2](https://latex.codecogs.com/svg.latex?p(x)) é a probabilidade do exe
 O erro quadrático médio ou desvio quadrático médio é uma medida do erro cometido ao estimar um observável [MSE](https://en.wikipedia.org/wiki/Mean_squared_error). Sejam ![eq1](http://www.sciweavers.org/tex2img.php?eq=%28x_i%2C%20%5Chat%7Bx%7D_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) o i-ésimo valor observado e o i-ésimo valor estimado, respectivamente, em um conjunto de N observações,
 isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado por ![eq2](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20%28%5Chat%7Bx%7D_i%20-%20x_i%29%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
 
-## Embeddings
-
-Diga-me com quem andas e eu te direi quem és. Esse provérbio resume bem o conceito por trás dessa abordagem de aprendizado que consiste na representação vetorial da relação entre entidades de um determinado conjunto dentro de um espaço multi-dimensional.
-
-Um dos algoritmos mais famosos a aplicar esse conceito é o word2vec que é capaz de abstrair, através desses vetores de relações, propriedades semânticas e sintáticas das palavras. Isto pode ser exemplificado através da operação Rei - Homem + Mulher = Rainha, que demonstra que o vetor que representa o conceito de feminino pode ser adicionado a uma palavra masculina para obter sua contraparte feminina como resultado.
-
 # F
 
 # G
 
 # H
+
 ## Hadoop
-O Apache Hadoop é uma coleção de utilitários de software de código aberto que facilitam o uso de uma rede de vários computadores para resolver problemas envolvendo grandes quantidades de dados e cálculos. Ele fornece uma estrutura de software para armazenamento distribuído e processamento de big data usando o modelo de programação MapReduce. [1](https://en.wikipedia.org/wiki/Apache_Hadoop)
-
-## Hipótese nula
-
-Hipótese inicial a ser testada, que é colocada em teste de hipótese. Normalmente baseada em análises anteriores ou conhecimentos especializados em geral indica uma igualdade a ser contestada.
-[1](https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/null-and-alternative-hypotheses/)
-[2](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul)
+O Apache Hadoop é uma coleção de utilitários de software de código aberto que facilitam o uso de uma rede de vários computadores para resolver problemas envolvendo grandes quantidades de dados e cálculos. Ele fornece uma estrutura de software para armazenamento distribuído e processamento de big data usando o modelo de programação MapReduce [1](https://en.wikipedia.org/wiki/Apache_Hadoop).
 
 ## Hipótese
 
-Trata-se de supostas respostas para um problema em questão. É importante que as proposições possam ser testadas de maneira empírica, a fim de determinar sua validade.
-[1](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm)
+Trata-se de supostas respostas para um problema em questão. É importante que as proposições possam ser testadas de maneira empírica, a fim de determinar sua validade
+[1](http://www2.anhembi.br/html/ead01/metodologia_pesq_cientifica_80/lu06/lo2/index.htm).
+
+## Hipótese nula
+
+Hipótese inicial a ser testada, que é colocada em teste de hipótese. Normalmente baseada em análises anteriores ou conhecimentos especializados em geral indica uma igualdade a ser contestada
+[1](https://support.minitab.com/pt-br/minitab/18/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/null-and-alternative-hypotheses/),
+[2](http://www.lee.dante.br/pesquisa/amostragem/glossario.html#hip-nul).
 
 ## Histograma
 
@@ -176,13 +176,13 @@ Um gráfico composto por retângulos justapostos em que a base de cada um deles 
 
 ## Intervalo de Confiança
 
-Diferentes amostras podem ser retiradas de uma mesma população, e amostras diferentes podem resultar em estimativas diferentes. Isto é, um estimador é uma variável aleatória, podendo assumir valores diferentes para cada amostra. Então, ao invés de estimar o parâmetro de interesse por um único valor, é muito mais informativo estimá-lo por um intervalo de valores que considere a variação presente na amostra e que contenha o seu verdadeiro valor com determinada confiança.[1](http://leg.ufpr.br/~silvia/CE055/node56.html)
+Diferentes amostras podem ser retiradas de uma mesma população, e amostras diferentes podem resultar em estimativas diferentes. Isto é, um estimador é uma variável aleatória, podendo assumir valores diferentes para cada amostra. Então, ao invés de estimar o parâmetro de interesse por um único valor, é muito mais informativo estimá-lo por um intervalo de valores que considere a variação presente na amostra e que contenha o seu verdadeiro valor com determinada confiança [1](http://leg.ufpr.br/~silvia/CE055/node56.html).
 
 # J
 
 ## Julia (Linguagem)
 
-Julia é uma linguagem de propósito geral desenhada para alta-performance com características como a tipagem dinâmica, polimorfismo, e Entrada e saída asíncronos de forma nativa, permitindo computação paralela e distribuída. Uma das principais características da linguagem é a utilização de multimétodos como um paradigma. [1](https://julialang.org/)
+Julia é uma linguagem de propósito geral desenhada para alta-performance com características como a tipagem dinâmica, polimorfismo, e Entrada e saída asíncronos de forma nativa, permitindo computação paralela e distribuída. Uma das principais características da linguagem é a utilização de multimétodos como um paradigma [1](https://julialang.org/).
 
 ## Jupyter
 
@@ -195,7 +195,6 @@ O [Project Jupyter](http://jupyter.org/) é um projeto de código aberto, sem fi
 É um algoritmo de agrupamento (clustering) que utiliza distância euclidiana para dividir/organizar/separar os N valores de uma amostra em K subconjuntos. K é definido previamente e o algoritmo faz o trabalho de calcular a distribuição da amostra nos subconjuntos mais próximos. Os pontos de onde mede-se a distância euclidiana, que são os centros dos subconjuntos (K0,K1,K2,Kn) são definidos aleatoriamente na primeira iteração e a cada iteração posterior são movimentados afim de distribuir a amostra em subconjuntos de tamanhos iguais.
 ![k-means](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
 
-
 # L
 
 # M
@@ -203,40 +202,39 @@ O [Project Jupyter](http://jupyter.org/) é um projeto de código aberto, sem fi
 ## Matriz
 
 Matriz é uma estrutura de dados utilizada para armazenar dados em mais de uma dimensão. Por exemplo, com duas dimensões, temos linhas e colunas acessadas com dois índices.
-É possível criar matrizes de n dimensões, que serão acessadas com n índices. Dados dois números naturais m e n não-nulos, denomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simbolizado por `aij`, em que `i` indica a linha e `j` a coluna a que pertence o elemento.
+É possível criar matrizes de n dimensões, que serão acessadas com n índices. Dados dois números naturais m e n não-nulos, denomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simbolizado por *aij*, em que *i* indica a linha e *j* a coluna a que pertence o elemento.
 
 Numa matriz quadrada de ordem 2 destacam-se:
-* diagonal principal: `a11` e `a22`;
-* diagonal secundária: `a12` e `a21`.
+* diagonal principal: *a11* e *a22*;
+* diagonal secundária: *a12* e *a21*.
 
 Numa matriz quadrada de ordem 3 destacam-se:
-* diagonal principal: `a11`, `a22` e `a33`;
-* diagonal secundária: `a13`, `a22` e `a31`.
+* diagonal principal: *a11*, *a22* e *a33*;
+* diagonal secundária: *a13*, *a22* e *a31*.
 
-Em suma, para matrizes quadradas de ordem `n`:
-* diagonal principal: elementos `aij`, com `i = j`;
-* diagonal secundária: elementos `aij`, com `i+j = n+1`
+Em suma, para matrizes quadradas de ordem *n*:
+* diagonal principal: elementos *aij*, com *i = j*;
+* diagonal secundária: elementos *aij*, com *i+j = n+1*
 
 Matrizes especiais:
 
 Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (especial):
 * Matriz nula é toda matriz que tem todos os elementos iguais a zero. Representa-se por Om x n.
 * Matriz identidade de ordem n ou matriz unidade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a 1 e os demais, nulos.
-* Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
-[1](https://www.resumoescolar.com.br/matematica/matriz-quadrada/) [2](https://en.wikipedia.org/wiki/Matrix_representation)
-
-
-## Mediana
-
-A mediana de um grupo de itens é o valor do item central quando todos os itens do grupo estão ordenados de forma crescente ou decrescente. Para um grupo com 3 valores, a mediana é o valor de posição 2, quando os valores estão ordenados. Exemplo: No grupo [5, 10, 15], a mediana é o 10. Já em grupos que a quantidade de valores é par, a mediana é a média dos valores centrais. Exemplo: No grupo [5, 10, 15, 20], a mediana é a média entre 10 e 15 (os valores centrais), no caso, 12,5. (Kazmier, Leonard. 2007).
-
-## Modelagem Preditiva
-
-É a prática de extrair informações de uma massa de dados, a fim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão. [1](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html)
+* Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A
+[1](https://www.resumoescolar.com.br/matematica/matriz-quadrada/) [2](https://en.wikipedia.org/wiki/Matrix_representation).
 
 ## Média Móvel
 
-É uma técnica utilizada para analisar dados que cria várias médias de vários intervalos de dados dentro do dataset. A média móvel é calculada da seguinte maneira: dado um tamanho k de subset, o primeiro ponto da média móvel é obtido a partir da média dos k primeiros elementos. Depois, essa "janela" é movida para frente, excluindo o primeiro valor e calculando a média com o próximo dado. Essa é uma técnica amplamente usada para suavizar curvas e descobrir tendências dentro dos dados, muito usada no setor financeiro. [1](https://en.wikipedia.org/wiki/Moving_average)
+É uma técnica utilizada para analisar dados que cria várias médias de vários intervalos de dados dentro do dataset. A média móvel é calculada da seguinte maneira: dado um tamanho k de subset, o primeiro ponto da média móvel é obtido a partir da média dos k primeiros elementos. Depois, essa "janela" é movida para frente, excluindo o primeiro valor e calculando a média com o próximo dado. Essa é uma técnica amplamente usada para suavizar curvas e descobrir tendências dentro dos dados, muito usada no setor financeiro [1](https://en.wikipedia.org/wiki/Moving_average).
+
+## Mediana
+
+A mediana de um grupo de itens é o valor do item central quando todos os itens do grupo estão ordenados de forma crescente ou decrescente. Para um grupo com 3 valores, a mediana é o valor de posição 2, quando os valores estão ordenados. Exemplo: No grupo [5, 10, 15], a mediana é o 10. Já em grupos que a quantidade de valores é par, a mediana é a média dos valores centrais. Exemplo: No grupo [5, 10, 15, 20], a mediana é a média entre 10 e 15 (os valores centrais), no caso, 12,5 (Kazmier e Leonard, 2007).
+
+## Modelagem Preditiva
+
+É a prática de extrair informações de uma massa de dados, a fim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão [1](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html).
 
 # N
 
@@ -246,33 +244,27 @@ Ver [Banco de Dados Não-Relacional](https://github.com/leportella/datascience-p
 
 # O
 
-## Outlier
-
-É uma instância em uma base de dados que pode ser apenas um ruído que se deseja eliminar em uma etapa de pré-processamento, ou ainda uma instância que possui um padrão nunca analisado antes, a qual possa representar um comportamento extraordinário e, portanto, passível de estudo e atenção especial. [Campos 2015](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-04082015-084412/pt-br.php)
-
-## Overfitting
-
-É um evento que ocorre quando o modelo se encaixa bem nos dados de treinamento, mas não se generaliza para dados não vistos ou testados. Isto é, não produz boas predições para dados desconhecidos. [Chaoji et. al. 2016](http://www.vldb.org/pvldb/vol9/p1597-chaoji.pdf)
-
 ## Ontologia
 
 Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existências". Para Ciência da Computação, ontologias são um meio para modelar formalmente a estrutura de um sistema, ou seja, as entidades e relações relevantes que emergem da observação, e que são úteis para um determinado propósito (STAAB, Steffen; STUDER, Rudi (Ed.). Handbook on ontologies. Springer Science & Business Media, 2010).
 
-# P
+## Outlier
 
+É uma instância em uma base de dados que pode ser apenas um ruído que se deseja eliminar em uma etapa de pré-processamento, ou ainda uma instância que possui um padrão nunca analisado antes, a qual possa representar um comportamento extraordinário e, portanto, passível de estudo e atenção especial [Campos 2015](http://www.teses.usp.br/teses/disponiveis/55/55134/tde-04082015-084412/pt-br.php).
+
+## Overfitting
+
+É um evento que ocorre quando o modelo se encaixa bem nos dados de treinamento, mas não se generaliza para dados não vistos ou testados. Isto é, não produz boas predições para dados desconhecidos [Chaoji et. al. 2016](http://www.vldb.org/pvldb/vol9/p1597-chaoji.pdf).
+
+# P
 
 ## Pandas
 
-Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a principal e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
-
-## Pytorch
-
-É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1](https://en.wikipedia.org/wiki/PyTorch) 
-[2](https://pytorch.org/)
+Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a principal e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1).
 
 ## Perceptron
 
-É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algoritmo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características. [1](https://en.wikipedia.org/wiki/Perceptron)
+É um algorítimo para aprendizado de máquina supervisionado para classificadores binários(funções que determinam se os dados pertencem a uma determinada classe ou não). É um tipo de classificador linear, ou seja, algoritmo de classificação que faz suas predições baseado em uma função de predição linear combinando pesos de um vetor de características [1](https://en.wikipedia.org/wiki/Perceptron).
 
 ## Precisão
 
@@ -281,24 +273,47 @@ Uma métrica para modelos de classificação. A precisão identifica a frequênc
   <img src="https://latex.codecogs.com/gif.latex?\text{Precisao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Positivos}}">
 </p>
 
-[1](https://developers.google.com/machine-learning/glossary/#precision)
+[1](https://developers.google.com/machine-learning/glossary/#precision).
+
+## Pytorch
+
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua [1](https://en.wikipedia.org/wiki/PyTorch), 
+[2](https://pytorch.org/).
 
 # Q
 
 ## Quartil (*Quartile*)
 
-Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.* um conjunto que contém os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8. [1](https://en.wikipedia.org/wiki/Quartile)
+Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.* um conjunto que contém os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8 [1](https://en.wikipedia.org/wiki/Quartile).
 
 # R
 
+## Random Forest
+
+Método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algoritmos conhecidos
+(logistic regression, linear regression,etc). Esse modelo é obtido pela construção de árvores de decisão, que conforme vão sendo construídas, decidem
+quais algoritmos juntos levam ao melhor modelo (Hastie et. al. 2008).
+
+## Redes Neurais
+
+São sistemas físicos que podem adquirir, armazenar e utilizar conhecimentos experimentais, que podem alcançar uma boa performance, devido à sua densa interconexão entre os nós da rede (Lippmann, 1997 apud. Fernandes, 2003).
+
+## Regressão Linear
+
+Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a função linear resultante e os dados [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf).
+
+## Regressão Logística
+
+A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação [1](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
+
 ## ReLU
 
-Função não-linear de ativação de neurônios numa rede neural artificial[1](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). É definida pela função e forma:
+Função não-linear de ativação de neurônios numa rede neural artificial [1](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). É definida pela função e forma:
 
 ![ReLU](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d25c25758581789c97cdf80d52bf82bbfd0f237)
 ![ReLU-plot](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rectifier_and_softplus_functions.svg/495px-Rectifier_and_softplus_functions.svg.png)
 
-Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2](https://en.wikipedia.org/wiki/Logistic_function).
+Surgiu recentemente como uma eficiente substituição para a função Sigmóid [2](https://en.wikipedia.org/wiki/Logistic_function).
 
 ## Revocação (*Recall*)
 
@@ -307,38 +322,19 @@ Uma métrica para modelos de classificação que responde à seguinte pergunta: 
   <img src="https://latex.codecogs.com/gif.latex?\text{Revocacao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Negativos}}">
 </p>
 
-[1](https://developers.google.com/machine-learning/glossary/#recall)
-
-## Regressão Linear
-
-Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a função linear resultante e os dados. [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
-
-## Redes Neurais
-
-São sistemas físicos que podem adquirir, armazenar e utilizar conhecimentos experimentais, que podem alcançar uma boa performance, devido à sua densa interconexão entre os nós da rede. (Lippmann, 1997 apud. Fernandes, 2003)
-
-## Random Forest
-
-Método de aprendizado usado para classificação, regressão e outras aplicações, que se baseia na junção de outros algoritmos conhecidos
-(logistic regression, linear regression,etc). Esse modelo é obtido pela construção de árvores de decisão, que conforme vão sendo construídas, decidem
-quais algoritmos juntos levam ao melhor modelo. (Hastie et. al. 2008).
-
-## Regressão Logística
-
-A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [1](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
+[1](https://developers.google.com/machine-learning/glossary/#recall).
 
 # S
-
 
 # S
 
 # Scala
 
-Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
+Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional [1](https://docs.scala-lang.org/tour/tour-of-scala.html).
 
 ## Scikit-learn
 
-A scikit-learn é uma biblioteca de código aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Ela inclui diversos algoritmos de classificação, regressão e agrupamento, tais como [máquinas de vetores de suporte](#support-vector-machine), [florestas aleatórias](#random-forest), gradient boosting, [k-means](#k-means), DBSCAN e muitos outros. Além disso, a biblioteca também oferece técnicas de pré-processamento, seleção de atributos, seleção de modelos, métricas e outros utilitários. [1](http://scikit-learn.org/) [2](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html) [3](http://scikit-learn.org/stable/faq.html#what-is-the-project-name-a-lot-of-people-get-it-wrong)
+A scikit-learn é uma biblioteca de código aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Ela inclui diversos algoritmos de classificação, regressão e agrupamento, tais como [máquinas de vetores de suporte](#support-vector-machine), [florestas aleatórias](#random-forest), gradient boosting, [k-means](#k-means), DBSCAN e muitos outros. Além disso, a biblioteca também oferece técnicas de pré-processamento, seleção de atributos, seleção de modelos, métricas e outros utilitários [1](http://scikit-learn.org/), [2](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html), [3](http://scikit-learn.org/stable/faq.html#what-is-the-project-name-a-lot-of-people-get-it-wrong).
 
 ## Sistemas de Recomendação
 
@@ -348,7 +344,7 @@ Um sistema de recomendação combina técnicas de Recuperação de Informação 
 - **Filtragem baseada em conteúdo**: Considera a experiência do usuário alvo
 - **Filtragem Híbrida**: utiliza-se os dois  tipos para gerar uma recomendação mais personalizada.
 
-Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
+Veja mais nesse [1](https://en.wikipedia.org/wiki/Recommender_system).
 
 ## Support Vector Machine
 
@@ -358,13 +354,13 @@ Máquina de vetores de suporte (do inglês SVM: support vector machine) é um m�
 
 ## TensorFlow
 
-O TensorFlow™ é uma biblioteca de software de código aberto para computação numérica que usa gráficos de fluxo de dados. Os nodes no gráfico representam operações matemáticas, e as arestas representam as matrizes ou tensores de dados multidimensionais que se comunicam com os nodes. A arquitetura flexível permite que você implante aplicações de computação a uma ou mais CPUs ou GPUs em um computador, servidor ou dispositivo móvel usando uma única API. O TensorFlow foi desenvolvido por pesquisadores e engenheiros da Google Brain Team no departamento de pesquisas de inteligência de máquina do Google com a finalidade de realizar pesquisas sobre redes neurais profundas e aprendizado de máquina. No entanto, devido à característica abrangente do sistema, ele também pode ser aplicado a vários outros domínios. [1](https://www.tensorflow.org)
+O TensorFlow™ é uma biblioteca de software de código aberto para computação numérica que usa gráficos de fluxo de dados. Os nodes no gráfico representam operações matemáticas, e as arestas representam as matrizes ou tensores de dados multidimensionais que se comunicam com os nodes. A arquitetura flexível permite que você implante aplicações de computação a uma ou mais CPUs ou GPUs em um computador, servidor ou dispositivo móvel usando uma única API. O TensorFlow foi desenvolvido por pesquisadores e engenheiros da Google Brain Team no departamento de pesquisas de inteligência de máquina do Google com a finalidade de realizar pesquisas sobre redes neurais profundas e aprendizado de máquina. No entanto, devido à característica abrangente do sistema, ele também pode ser aplicado a vários outros domínios [1](https://www.tensorflow.org).
 
 # U
 
 ## Underfitting
 
-É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias. [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/)
+É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/).
 
 # V
 
@@ -381,7 +377,7 @@ Abaixo temos uma animação exemplificando as iterações.
 
 ## Variância
 
-Em termos estatísticos, a variância determina o quão distante cada valor está do valor médio do conjunto. Quanto maior a variância, mais distante o valor está da média. Quanto menor a variância, mais próximo o valor está da média. [1](http://brasilescola.uol.com.br/matematica/medidas-dispersao-variancia-desvio-padrao.htm)
+Em termos estatísticos, a variância determina o quão distante cada valor está do valor médio do conjunto. Quanto maior a variância, mais distante o valor está da média. Quanto menor a variância, mais próximo o valor está da média [1](http://brasilescola.uol.com.br/matematica/medidas-dispersao-variancia-desvio-padrao.htm).
 
 ## Variáveis Categóricas
 
@@ -389,16 +385,15 @@ Variáveis que possuem valores não-quantitativos. Os diferentes valores de uma 
 
 ## Variáveis Discretas
 
-Variável que possui valor quantitativo, ou seja, que pode ser contado. Em outras palavras, são variáveis com características mensuráveis que podem assumir apenas um número finito ou infinito contável de valores e, assim, somente fazem sentido valores inteiros. Geralmente são o resultado de contagens. Exemplos: número de filhos, número de bactérias por litro de leite. [1](http://leg.ufpr.br/~silvia/CE055/node8.html)
-
+Variável que possui valor quantitativo, ou seja, que pode ser contado. Em outras palavras, são variáveis com características mensuráveis que podem assumir apenas um número finito ou infinito contável de valores e, assim, somente fazem sentido valores inteiros. Geralmente são o resultado de contagens. Exemplos: número de filhos, número de bactérias por litro de leite [1](http://leg.ufpr.br/~silvia/CE055/node8.html).
 
 ## Vetor
 
-Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo. [1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure)
+Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo [1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure).
 
 ## Viés
 
-Também conhecido como erro sistemático, é a distorção sistemática entre a medida de uma variável estatística e o valor real da grandeza a ser estimada. [1](https://pt.wikipedia.org/wiki/Vi%C3%A9s_sistem%C3%A1tico)
+Também conhecido como erro sistemático, é a distorção sistemática entre a medida de uma variável estatística e o valor real da grandeza a ser estimada [1](https://pt.wikipedia.org/wiki/Vi%C3%A9s_sistem%C3%A1tico), [2](https://en.wikipedia.org/wiki/Bias_(statistics)).
 
 # X
 
