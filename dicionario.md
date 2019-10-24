@@ -319,18 +319,18 @@ A regularização é um método de reduzir o erro, onde é feito o ajuste de uma
 
 A regularização pode ser dividida em diferentes métodos, como L1, L2 e a combinação de ambos. Cada método é distinto do outro tendo propriedades e resultados diferentes.
 
-### L1 (Lasso)
+- Regularização L1 (Lasso)
 
 A regularização L1, também conhecida como regularização Lasso, adiciona uma penalidade igualmente para a soma dos valores absolutos dos coeficientes. Isso propicia diminuir os recursos menos importantes do modelo ou até mesmo remover alguns, reduzindo seu valor a zero. Para isso é adicionado um valor absoluto de coeficiente como termo de penalidade na função de perda.
 
-### L2 (Ridge Regression)
+- L2 (Ridge Regression)
 
 A regularização L2, também conhecida como regressão de Ridge, força os parametros a se tornarem relativamente menores. Dessa forma, quanto maior a penalização, menor serão os coeficientes. 
 
 A L2 adiciona uma penalidade igual para a soma do valor quadrado do coeficiente da função de perda. Essa técnica de regularização funciona bem para evitar o overfitting, mas se os valores dos pesos forem muito altos pode ocorrer o underfitting.
 
 
-### L1 + L2 (Elastic Net)
+- L1 + L2 (Elastic Net)
 
 Regularização de rede elastica é a combinaçã da regularização L1 e L2.
 
@@ -492,3 +492,7 @@ Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap
 Gareth James, Daniela Witten, Trevor Hastie e Robert Tibshirani. 2017. An Introduction to Statistical Learning. Spring. disponível em [link](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf). DOI: 10.1007/978-1-4614-7138-7
 
 Gary M. Weiss, Kate McCarthy, and Bibi Zabar. Cost-Sensitive Learning vs. Sampling: Which is Best for Handling Unbalanced Classes with Unequal Error Costs?. Fordham University. em [link](https://pdfs.semanticscholar.org/9908/404807bf6b63e05e5345f02bcb23cc739ebd.pdf).
+
+[Regularization Wiki](https://en.wikipedia.org/wiki/Regularization_(mathematics))
+
+[Regularization Data Science](https://financetrain.com/regularization-data-science-lasso-ridge-elastic-net/)
