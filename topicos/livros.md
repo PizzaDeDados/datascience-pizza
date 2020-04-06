@@ -13,6 +13,7 @@
   - R for Data Science (R4DS): [livro](http://r4ds.had.co.nz/), [livro com notas e soluções dos exercícios do R4DS](https://jrnold.github.io/r4ds-exercise-solutions/) e [grupo de estudo do R4DS no Slack](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82).
   - [	
 Análise de dados com Python e Pandas](https://novatec.com.br/livros/analise-dados-com-python-pandas/) - Daniel Y. Chen. 2018. | [**pt-br**]
+  - [Python para análise de dados](https://novatec.com.br/livros/python-para-analise-de-dados/) [**pt-br**]
   
 ## Recomendados
   - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) - Robert Tibshirani, Trevor Hastie
