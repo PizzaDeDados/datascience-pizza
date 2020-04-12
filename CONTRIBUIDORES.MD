@@ -37,3 +37,4 @@
 * Felipe Iasi (@ficosta)
 * @brunopizzio
 * Rodolfo Ghiggi (@rodolfoghi)
+* @olavomendes
