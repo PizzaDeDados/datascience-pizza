@@ -35,7 +35,7 @@
 |  ![logo](https://static.maxmilhas.com.br/img/logo-mm-grey.svg) | [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte - MG   | Internet  |   |  https://maxmilhas.gupy.io/ |
 |  ![logo](https://www.hotmart.com/hotmart-index/javax.faces.resource/images/hotmart-logo-footer.svg.xhtml) | [Hotmart](https://www.hotmart.com/pt) | Belo Horizonte - MG   | Internet  |   |  https://www.hotmart.com/jobs/pt/ |
 | ![Semantix](https://www.itforum365.com.br/wp-content/uploads/2018/01/SEMANTIX-LOGO.jpg) | Semantix | São Paulo-SP | Empresa de Big Data e Data Science | http://www.semantix.com.br/ | http://www.semantix.com.br/blog/trabalhe-conosco/| |
-![logo](https://sobre.quero.com/wp-content/themes/quero-b2b-institutional/dist/img/logos/quero/quero_institucional_azul_mobo.svg) | [Quero Educação](https://sobre.quero.com/) | São José dos Campos - SP | Tecnologia da informação e serviços, Software e Internet |
+![logo](https://sobre.quero.com/wp-content/themes/quero-b2b-institutional/dist/img/logos/quero/quero_institucional_azul_mobo.svg) | [Quero Educação](https://sobre.quero.com/) | São José dos Campos - SP | Tecnologia da informação e serviços, Software e Internet | atendimento@quero.com | https://carreiras.quero.com/ |
 
 ## Sul
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
