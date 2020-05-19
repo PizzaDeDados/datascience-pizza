@@ -71,6 +71,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
   - [Python](https://www.python.org/) (lib [Pandas](https://pandas.pydata.org/)) ou [R](https://cloud.r-project.org/) | [R Studio](https://www.rstudio.com/products/rstudio/download/#download). [Qual aprender? Dicas Udacity](https://blog.udacity.com/2015/01/python-vs-r-learn-first.html)
   - [SQL](https://pt.khanacademy.org/computing/computer-programming/sql#sql-basics)
   - [Jupyter Notebook](http://jupyter.org/)
+  - [Julia](https://juliaacademy.com/)
   - [Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
   - [Ferramentas básicas de desenvolvimento](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8) | [**pt-br**]
 
@@ -136,6 +137,8 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
  - [Banco de Dados da NASA](https://data.nasa.gov)
  - [Dados do Banco Mundial](http://data.worldbank.org)
  - [Dados sobre a saúde](http://www.healthdata.gov)
+ - [Dados da Agência Nacional de Sáude Suplementar (ANS)](http://www.ans.gov.br/perfil-do-setor/dados-e-indicadores-do-setor)
+ - [Dados públicos da Amazon](http://aws.amazon.com/datasets)
  - [Dados sobre diversos países (incluindo o Brasil)](http://knoema.com)
  - [Dados sobre diversas áreas de negócio e finanças](https://www.quandl.com)
  - [Google Trends](https://www.google.com/trends)
@@ -155,6 +158,7 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
  - [Datahub](http://datahub.io/dataset)
  - [TeraData](teradata.com/Portuguese/Banco_de_Dados_da_Teradata)
  - [Oracle Exadata](oracle.com/exadata)
+ - [MovieLens Datastes](https://grouplens.org/datasets/movielens/)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
