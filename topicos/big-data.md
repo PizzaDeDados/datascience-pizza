@@ -5,6 +5,7 @@
 
 ## Cursos
 - [Spark and Python for Big Data with PySpark](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/)
+- [Big Data Specialization](https://www.coursera.org/specializations/big-data)
 
 ## Livros
 - [Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale - Tom White](https://www.amazon.com.br/Hadoop-Definitive-Storage-Analysis-Internet-ebook/dp/B00V7B1IZC?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=hadoop&qid=1538426989&sr=8-2&ref=sr_1_2)
