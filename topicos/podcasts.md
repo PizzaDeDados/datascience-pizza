@@ -23,6 +23,7 @@
 - [Talking Machines](https://www.thetalkingmachines.com/)
 - [Data Science at Home](https://datascienceathome.com/)
 - [Artificial Intelligence in Industry](https://techemergence.libsyn.com/)
+- [Practical AI](https://changelog.com/practicalai)
 - [Storytelling with Data](http://www.storytellingwithdata.com/podcast)
 - [Dataviz Today](https://dataviztoday.com/)
 
