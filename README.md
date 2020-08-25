@@ -6,7 +6,7 @@
 
 
 **DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas.
-Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
+Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas.*
 
 O intuito é  agregar o conhecimento que se espalha em diversos grupos e iniciativas. Muitas vezes esse conhecimento fica espalhado em drives, pockets e outros meios...
 Dessa forma, esse repositório visa ajudar os iniciantes e servir como referência para os experientes.
@@ -16,7 +16,7 @@ Se possuir material interessante, por favor compartilhe com a comunidade. Estamo
 Dessa iniciativa também nasceu o [Pizza de Dados](https://pizzadedados.com/), um podcast brasileiro
 focado em ciência de dados. Se tiver um tempinho, prestigie esse trabalho 100% brasileiro.
 
-Se você gosta desse repositório e quer ajuda, considere [apoiar o Pizza de Dados](https://apoia.se/pizzadedados) com qualquer quantia :)
+Se você gosta desse repositório e quer ajudar, considere [apoiar o Pizza de Dados](https://apoia.se/pizzadedados) com qualquer quantia :)
 
 No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
@@ -155,6 +155,7 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
  - [Datahub](http://datahub.io/dataset)
  - [TeraData](teradata.com/Portuguese/Banco_de_Dados_da_Teradata)
  - [Oracle Exadata](oracle.com/exadata)
+ - [Food And Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#home)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>

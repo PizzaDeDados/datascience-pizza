@@ -16,6 +16,8 @@
 <h2 id="conceitos">Livros</h2>
 
 * [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit - Steven Bird, Ewan Klein e Edward Loper](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495)
+* [Natural Language Processing in Action: Understanding, analyzing, and generating text with Python](https://www.amazon.com/Natural-Language-Processing-Action-Understanding/dp/1617294632)
+* [Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236)
 
 <h2 id="conceitos">Artigos Científicos</h2>
 
