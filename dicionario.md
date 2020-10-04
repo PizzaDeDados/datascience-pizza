@@ -247,7 +247,7 @@ A mediana de um grupo de itens é o valor do item central quando todos os itens 
 
 ## Modelo Generativo
 
-Pode-se dizer que a modelagem generativa se baseia na probabilidade condicional de uma variável X, dada a probabilidade da variável resposta Y. O modelo pode *gerar* leituras aleatórias e, por isso tem esse nome associado a ele (você pode literalmente gerar dados!). A função da modelagem generativa é entender como os dados surgem e a principal diferença para a modelagem discriminativa é que nela os modelos aprendem o *limite* entre classes e na modelagem generativa, aprendem a distribuição das classes individuais. Os modelos generativos mais famosos são LDA e o Teorema de Bayes [1](http://www.vision.ime.usp.br/~teo/publications/dissertacao/node36.html)[2](https://pt.wikipedia.org/wiki/Teorema_de_Bayes)  
+Pode-se dizer que a modelagem generativa se baseia na probabilidade condicional de uma variável X, dada a probabilidade da variável resposta Y. O modelo pode *gerar* leituras aleatórias e, por isso tem esse nome associado a ele (você pode literalmente gerar dados!). A função da modelagem generativa é entender como os dados surgem e a principal diferença para a modelagem discriminativa é que nela os modelos aprendem o *limite* entre classes e na modelagem generativa, aprendem a distribuição das classes individuais. Os modelos generativos mais famosos são LDA e o Teorema de Bayes. [1](http://www.vision.ime.usp.br/~teo/publications/dissertacao/node36.html) e [2](https://pt.wikipedia.org/wiki/Teorema_de_Bayes)  
 
 ## Média Móvel
 
