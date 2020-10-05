@@ -251,7 +251,7 @@ Ao contrário da modelagem generativa, que estuda a partir da probabilidade conj
 
 <p align="center"><strong>P (x, y)P (Y | x)XyX P (Y | x)yX</strong></p>
 
-E são uma classe de modelos usados especialmente em Machine Learning para modelar a dependência de uma variável y com uma variável x. Como esses modelos tentam calcular probabilidades condicionais, isto é, **P (y | x)** são frequentemente utilizados em aprendizagem supervisionada. Exemplos incluem regressão logística, SVMs e Redes Neuronais. [1](https://pt.qwe.wiki/wiki/Discriminative_model)
+E são uma classe de modelos usados especialmente em Machine Learning para modelar a dependência de uma variável y com uma variável x. Como esses modelos tentam calcular probabilidades condicionais, isto é, **P (y | x)** são frequentemente utilizados em aprendizagem supervisionada. Exemplos incluem regressão logística, SVMs e Redes Neuronais. [1](https://en.wikipedia.org/wiki/Discriminative_model)
 
 ## Média Móvel
 
