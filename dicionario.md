@@ -253,6 +253,10 @@ Ao contrário da modelagem generativa, que estuda a partir da probabilidade conj
 
 E são uma classe de modelos usados especialmente em Machine Learning para modelar a dependência de uma variável y com uma variável x. Como esses modelos tentam calcular probabilidades condicionais, isto é, **P (y | x)** são frequentemente utilizados em aprendizagem supervisionada. Exemplos incluem regressão logística, SVMs e Redes Neuronais. [1](https://en.wikipedia.org/wiki/Discriminative_model)
 
+## Modelo Generativo
+
+Pode-se dizer que a modelagem generativa se baseia na probabilidade condicional de uma variável X, dada a probabilidade da variável resposta Y. O modelo pode *gerar* leituras aleatórias e, por isso tem esse nome associado a ele (você pode literalmente gerar dados!). A função da modelagem generativa é entender como os dados surgem e a principal diferença para a modelagem discriminativa é que nela os modelos aprendem o *limite* entre classes e na modelagem generativa, aprendem a distribuição das classes individuais. Os modelos generativos mais famosos são LDA e o Teorema de Bayes. [1](http://www.vision.ime.usp.br/~teo/publications/dissertacao/node36.html) e [2](https://pt.wikipedia.org/wiki/Teorema_de_Bayes)  
+
 ## Média Móvel
 
 É uma técnica utilizada para analisar dados que cria várias médias de vários intervalos de dados dentro do dataset. A média móvel é calculada da seguinte maneira: dado um tamanho k de subset, o primeiro ponto da média móvel é obtido a partir da média dos k primeiros elementos. Depois, essa "janela" é movida para frente, excluindo o primeiro valor e calculando a média com o próximo dado. Essa é uma técnica amplamente usada para suavizar curvas e descobrir tendências dentro dos dados, muito usada no setor financeiro. [1](https://en.wikipedia.org/wiki/Moving_average)
