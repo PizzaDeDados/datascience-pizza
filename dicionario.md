@@ -245,6 +245,14 @@ A mediana de um grupo de itens é o valor do item central quando todos os itens 
 
 É a prática de extrair informações de uma massa de dados, a fim de determinar padrões e resultados futuros. Utiliza-se de várias técnicas como mineração de dados, modelagem estatística e machine learning para dar suporte na tomada de decisão. [1](https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics1/index.html)
 
+## Modelo Discriminativo
+
+Ao contrário da modelagem generativa, que estuda a partir da probabilidade conjunta , a modelagem discriminativa estuda o ou os mapas diretos a dada variável não observada (alvo) de uma etiqueta de classe dependente das variáveis observados (amostras de treino). No campo prático de reconhecimento de objectos, é provável que seja um vetor (isto é, materias-pixels, características extraídas a partir da imagem ou mais). Dentro de uma estrutura probabilística, isto é feito por modelagem da distribuição de probabilidade condicional, que pode ser usado para prever a partir. Observe que ainda há distinção entre o modelo condicional e modelo discriminativo, embora na maioria das vezes, eles são apenas categorizados como modelo discriminativo. 
+
+<p align="center"><strong>P (x, y)P (Y | x)XyX P (Y | x)yX</strong></p>
+
+E são uma classe de modelos usados especialmente em Machine Learning para modelar a dependência de uma variável y com uma variável x. Como esses modelos tentam calcular probabilidades condicionais, isto é, **P (y | x)** são frequentemente utilizados em aprendizagem supervisionada. Exemplos incluem regressão logística, SVMs e Redes Neuronais. [1](https://en.wikipedia.org/wiki/Discriminative_model)
+
 ## Modelo Generativo
 
 Pode-se dizer que a modelagem generativa se baseia na probabilidade condicional de uma variável X, dada a probabilidade da variável resposta Y. O modelo pode *gerar* leituras aleatórias e, por isso tem esse nome associado a ele (você pode literalmente gerar dados!). A função da modelagem generativa é entender como os dados surgem e a principal diferença para a modelagem discriminativa é que nela os modelos aprendem o *limite* entre classes e na modelagem generativa, aprendem a distribuição das classes individuais. Os modelos generativos mais famosos são LDA e o Teorema de Bayes. [1](http://www.vision.ime.usp.br/~teo/publications/dissertacao/node36.html) e [2](https://pt.wikipedia.org/wiki/Teorema_de_Bayes)  
