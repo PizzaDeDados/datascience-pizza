@@ -141,7 +141,11 @@ Dropout é uma técnica de regularização de redes neurais em que, a cada itera
 
 Diga-me com quem andas e eu te direi quem és. Esse provérbio resume bem o conceito por trás dessa abordagem de aprendizado que consiste na representação vetorial da relação entre entidades de um determinado conjunto dentro de um espaço multi-dimensional.
 
-Um dos algoritmos mais famosos a aplicar esse conceito é o word2vec que é capaz de abstrair, através desses vetores de relações, propriedades semânticas e sintáticas das palavras. Isto pode ser exemplificado através da operação Rei - Homem + Mulher = Rainha, que demonstra que o vetor que representa o conceito de feminino pode ser adicionado a uma palavra masculina para obter sua contraparte feminina como resultado.
+Um dos algoritmos mais famosos a aplicar esse conceito é o word2vec [1](https://en.wikipedia.org/wiki/Word2vec) que é capaz de abstrair, através desses vetores de relações, propriedades semânticas e sintáticas das palavras. Isto pode ser exemplificado através da operação Rei - Homem + Mulher = Rainha, que demonstra que o vetor que representa o conceito de feminino pode ser adicionado a uma palavra masculina para obter sua contraparte feminina como resultado.
+
+## Engenharia de Features
+
+Refere-se ao processo de seleção e transformação de variáveis envolvidos na criação de modelos preditivos usando machine learning ou modelagem estatística. O processo envolve a combinação de análise de dados, prática/experiência e julgamento. Pode às vezes se referir ao pré-processamento, mas esse termo pode ter um significado mais generalista. [1](https://www.displayr.com/what-is-feature-engineering/)
 
 ## Ensemble Learning
 
@@ -164,6 +168,7 @@ isto é, i = 1, 2, ..., N. O erro quadrático médio desse experimento é dado p
 # H
 
 ## Hadoop
+
 O Apache Hadoop é uma coleção de utilitários de software de código aberto que facilitam o uso de uma rede de vários computadores para resolver problemas envolvendo grandes quantidades de dados e cálculos. Ele fornece uma estrutura de software para armazenamento distribuído e processamento de big data usando o modelo de programação MapReduce. [1](https://en.wikipedia.org/wiki/Apache_Hadoop)
 
 ## Hipótese
@@ -255,7 +260,11 @@ Ao contrário da modelagem generativa, que estuda a partir da probabilidade conj
 
 <p align="center"><strong>P (x, y)P (Y | x)XyX P (Y | x)yX</strong></p>
 
-E são uma classe de modelos usados especialmente em Machine Learning para modelar a dependência de uma variável y com uma variável x. Como esses modelos tentam calcular probabilidades condicionais, isto é, **P (y | x)** são frequentemente utilizados em aprendizagem supervisionada. Exemplos incluem regressão logística, SVMs e Redes Neuronais. [1](https://pt.qwe.wiki/wiki/Discriminative_model)
+E são uma classe de modelos usados especialmente em Machine Learning para modelar a dependência de uma variável y com uma variável x. Como esses modelos tentam calcular probabilidades condicionais, isto é, **P (y | x)** são frequentemente utilizados em aprendizagem supervisionada. Exemplos incluem regressão logística, SVMs e Redes Neuronais. [1](https://en.wikipedia.org/wiki/Discriminative_model)
+
+## Modelo Generativo
+
+Pode-se dizer que a modelagem generativa se baseia na probabilidade condicional de uma variável X, dada a probabilidade da variável resposta Y. O modelo pode *gerar* leituras aleatórias e, por isso tem esse nome associado a ele (você pode literalmente gerar dados!). A função da modelagem generativa é entender como os dados surgem e a principal diferença para a modelagem discriminativa é que nela os modelos aprendem o *limite* entre classes e na modelagem generativa, aprendem a distribuição das classes individuais. Os modelos generativos mais famosos são LDA e o Teorema de Bayes. [1](http://www.vision.ime.usp.br/~teo/publications/dissertacao/node36.html) e [2](https://pt.wikipedia.org/wiki/Teorema_de_Bayes)  
 
 # N
 
@@ -360,10 +369,7 @@ Uma métrica para modelos de classificação que responde à seguinte pergunta: 
 
 # S
 
-
-# S
-
-# Scala
+## Scala
 
 Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
 
