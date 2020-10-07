@@ -6,7 +6,7 @@
 
 
 **DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas.
-Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas aqui.*
+Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas.*
 
 O intuito é  agregar o conhecimento que se espalha em diversos grupos e iniciativas. Muitas vezes esse conhecimento fica espalhado em drives, pockets e outros meios...
 Dessa forma, esse repositório visa ajudar os iniciantes e servir como referência para os experientes.
@@ -16,7 +16,7 @@ Se possuir material interessante, por favor compartilhe com a comunidade. Estamo
 Dessa iniciativa também nasceu o [Pizza de Dados](https://pizzadedados.com/), um podcast brasileiro
 focado em ciência de dados. Se tiver um tempinho, prestigie esse trabalho 100% brasileiro.
 
-Se você gosta desse repositório e quer ajuda, considere [apoiar o Pizza de Dados](https://apoia.se/pizzadedados) com qualquer quantia :)
+Se você gosta desse repositório e quer ajudar, considere [apoiar o Pizza de Dados](https://apoia.se/pizzadedados) com qualquer quantia :)
 
 No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
@@ -34,31 +34,31 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
       * [Em Julia](#emjulia)
   * [Vídeos](#videos)
   * [Datasets](#datasets)
-  * [Dicionário de termos em português](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
-  * [Empresas no Brasil que trabalham com DS](https://github.com/leportella/datascience-pizza/blob/master/empresas.md)
-  * [Grupos](https://github.com/leportella/datascience-pizza/blob/master/topicos/grupos.md)
+  * [Dicionário de termos em português](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md)
+  * [Empresas no Brasil que trabalham com DS](https://github.com/PizzaDeDados/datascience-pizza/blob/master/empresas.md)
+  * [Grupos](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/grupos.md)
   * [Metodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
   * Tópicos específicos:
-      * [Aprendizado de Máquina/Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
-      * [Banco de dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/banco-de-dados.md)
-      * [Big Data](https://github.com/leportella/datascience-pizza/blob/master/topicos/big-data.md)
-      * [Blogs e Jornais](https://github.com/leportella/datascience-pizza/blob/master/topicos/blogs-jornais.md)
-      * [Carreira](https://github.com/leportella/datascience-pizza/blob/master/topicos/carreira.md)
-      * [Cursos](https://github.com/leportella/datascience-pizza/blob/master/topicos/cursos.md)
-      * [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/deep-learning.md)
-      * [Estatística e Matemática](https://github.com/leportella/datascience-pizza/blob/master/topicos/estatistica-e-matematica.md)
-      * [Geociências](https://github.com/leportella/datascience-pizza/blob/master/topicos/geociencias.md)
-      * [Inteligência Artificial](https://github.com/leportella/datascience-pizza/blob/master/topicos/inteligencia-artificial.md)
-      * [Linguagens](https://github.com/leportella/datascience-pizza/blob/master/topicos/linguagens.md)
-      * [Livros](https://github.com/leportella/datascience-pizza/blob/master/topicos/livros.md)
-      * [Meetups e Eventos](https://github.com/leportella/datascience-pizza/blob/master/topicos/meetups-e-eventos.md)
-      * [Notícias Legais](https://github.com/leportella/datascience-pizza/blob/master/topicos/noticias-legais.md)
-      * [Podcasts](https://github.com/leportella/datascience-pizza/blob/master/topicos/podcasts.md)
-      * [Processamento de Linguagem Natural](https://github.com/leportella/datascience-pizza/blob/master/topicos/processamento-de-linguagem-natural.md)
-      * [Raspagem de Dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/raspagem-de-dados.md)
-      * [Reportagens relevantes](https://github.com/leportella/datascience-pizza/blob/master/topicos/noticias-legais.md)
-      * [Visualização de dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
+      * [Aprendizado de Máquina/Machine Learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
+      * [Banco de dados](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/banco-de-dados.md)
+      * [Big Data](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/big-data.md)
+      * [Blogs e Jornais](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/blogs-jornais.md)
+      * [Carreira](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/carreira.md)
+      * [Cursos](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/cursos.md)
+      * [Deep Learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/deep-learning.md)
+      * [Estatística e Matemática](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/estatistica-e-matematica.md)
+      * [Geociências](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/geociencias.md)
+      * [Inteligência Artificial](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/inteligencia-artificial.md)
+      * [Linguagens](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/linguagens.md)
+      * [Livros](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/livros.md)
+      * [Meetups e Eventos](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/meetups-e-eventos.md)
+      * [Notícias Legais](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/noticias-legais.md)
+      * [Podcasts](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/podcasts.md)
+      * [Processamento de Linguagem Natural](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/processamento-de-linguagem-natural.md)
+      * [Raspagem de Dados](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/raspagem-de-dados.md)
+      * [Reportagens relevantes](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/noticias-legais.md)
+      * [Visualização de dados](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
 
 --------------------------------------------------
 <h2 id="recomendacoes">Recomendações</h2>
@@ -77,11 +77,11 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 <h3 id="intermediario">Intermediário</h3>
 
   - Cálculo
-  - [Álgebra Linear](https://github.com/leportella/datascience-pizza/blob/master/topicos/algebra-linear.md)
-  - [Machine Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
-  - [Deep Learning](https://github.com/leportella/datascience-pizza/blob/master/topicos/deep-learning.md)
-  - [Visualização de Dados](https://github.com/leportella/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
-  - [Processamento de Linguagem Natural](https://github.com/leportella/datascience-pizza/blob/master/topicos/processamento-de-linguagem-natural.md)
+  - [Álgebra Linear](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/algebra-linear.md)
+  - [Machine Learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
+  - [Deep Learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/deep-learning.md)
+  - [Visualização de Dados](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
+  - [Processamento de Linguagem Natural](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/processamento-de-linguagem-natural.md)
 
 <h3 id="grandesprojetos">Grandes projetos (big data)</h3>
 
@@ -96,7 +96,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 ### O que estudar em cada linguagem - dicas e tutoriais
 
-Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topicos/linguagens.md)
+Ver [este link](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/linguagens.md)
 
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
@@ -155,6 +155,7 @@ Ver [este link](https://github.com/leportella/datascience-pizza/blob/master/topi
  - [Datahub](http://datahub.io/dataset)
  - [TeraData](teradata.com/Portuguese/Banco_de_Dados_da_Teradata)
  - [Oracle Exadata](oracle.com/exadata)
+ - [Food And Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#home)
 
 --------------------------------------------------
 <h2 id="metodologiasageis">Metodologias ágeis</h2>
