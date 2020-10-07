@@ -367,10 +367,7 @@ A regressão logística é uma técnica estatística que tem como objetivo produ
 
 # S
 
-
-# S
-
-# Scala
+## Scala
 
 Scala é uma linguagem de programação desenvolvida para expressar padrões de programação comuns de forma elegante e com tipagem segura através da integração de características de linguagens orientadas a objetos e funcional. [Referência](https://docs.scala-lang.org/tour/tour-of-scala.html)
 
