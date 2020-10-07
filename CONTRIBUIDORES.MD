@@ -38,3 +38,4 @@
 * @brunopizzio
 * Rodolfo Ghiggi (@rodolfoghi)
 * Luan Fernandes (@lgabs)
+* Júlia Tessler (@juliatessler)
