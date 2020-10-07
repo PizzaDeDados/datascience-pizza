@@ -20,7 +20,7 @@ O objetivo é alcançado através da aprendizagem dos dados de entrada e seus re
 
 O aprendizado por reforço é uma área do aprendizado de máquina que lida com a maneira como os agentes de software devem executar ações em um ambiente de modo a maximizar alguma noção de recompensa cumulativa [1](https://en.wikipedia.org/wiki/Reinforcement_learning). É estudado em estatística, psicologia, neurociência e ciência da computação que está diretamente ligado a aprendizado de máquina e inteligência artificial. É um método de programação de agentes que devem aprender a se comportar em um ambiente dinâmico através de interações de “tentativa e erro”, conhecidas também como premiações e punições, sem a necessidade de especificar como uma tarefa deve ser realizada. A abordagem que é utilizada nesse trabalho é feita usando técnicas de estatísticas e métodos de programação dinâmica, buscando estimar qual a vantagem em se tomar determinadas ações em diferentes estados do ambiente dado um objetivo. [2](https://www.maxwell.vrac.puc-rio.br/19637/19637_4.PDF), [3](https://en.wikipedia.org/wiki/Reinforcement_learning).
 
-## Árvore de Decisão
+## Árvore de Decisão (_Decision Tree_)
 Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão  fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
 
 Na imagem abaixo temos o exemplo da representação de uma ávore de decisão para decidir se um cliente deve aguardar por uma mesa no restaurante.
@@ -122,6 +122,9 @@ Para que o Data Storytelling seja bem-sucedido, a pessoa deve ter boas habilidad
 ## Dataset
 
 São conjuntos de dados tabulados, onde para cada individuo são denotadas diversas características. Cada coluna corresponde a uma varíavel, e cada linha é o conjunto de caracteristicas do individuo. Os valores(itens) dessa tabela são chamados dados. [wiki](https://pt.wikipedia.org/wiki/Conjunto_de_dados)
+
+## Decision Tree
+ver [Árvore de Decisão](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#%C3%A1rvore-de-decis%C3%A3o-decision-tree).
 
 ## Desvio padrão
 
