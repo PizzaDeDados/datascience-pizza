@@ -71,3 +71,4 @@
 ## Tutoriais
 
   - [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
+  - [Machine Learning Mastery: Making Developers Awesome at Machine Learning](https://machinelearningmastery.com/start-here/)
