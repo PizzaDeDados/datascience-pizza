@@ -125,7 +125,7 @@ O processo de tradução de dados em termos leigos para influenciar uma decisão
 Para que o Data Storytelling seja bem-sucedido, a pessoa deve ter boas habilidades em comunicação, para que seja possível a transferência de informações sobre o que foi feito, como foi feito e por quê foi feito, apresentando motivos bem estruturados e se possível, figuras ou mapas que demonstrem toda a informação.[1] (https://paulovasconcellos.com.br/o-que-%C3%A9-data-storytelling-ac5a924dcdaf)
 
 ## Decision Tree
-ver [Árvore de Decisão](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#%C3%A1rvore-de-decis%C3%A3o).
+ver [Árvore de Decisão](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#%C3%A1rvore-de-decis%C3%A3o-decision-tree).
 
 ## Desvio padrão
 
