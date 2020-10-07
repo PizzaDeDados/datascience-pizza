@@ -77,7 +77,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 <h3 id="intermediario">Intermediário</h3>
 
   - Cálculo
-  - Álgebra Linear
+  - [Álgebra Linear](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/algebra-linear.md)
   - [Machine Learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
   - [Deep Learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/deep-learning.md)
   - [Visualização de Dados](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/visualizacao-de-dados.md)
