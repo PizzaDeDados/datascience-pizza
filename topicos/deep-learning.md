@@ -11,6 +11,8 @@
 - [Deep Learning Book - MIT](http://www.deeplearningbook.org/)
 - [Fundamentals of Deep Learning - Nikhil Buduma e Nicholas Locascio](https://www.amazon.com.br/Fundamentals-Deep-Learning-Nikhil-Buduma/dp/1491925612?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning&qid=1538425179&sr=8-5&ref=sr_1_5)
 - [Deep Learning: A Practioner's Approach - Josh Patterson e Adam Gibson](https://www.amazon.com.br/Deep-Learning-Practitioners-Josh-Patterson-ebook/dp/B074D5YF1D?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning&qid=1538425300&s=STRING%28br-books-storename%29&sr=1-4&ref=sr_1_4)
+- [Deep Learning with Python](https://www.amazon.com.br/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning+python&qid=1572315621&sr=8-1)
+- [Deep Learning from Scratch: Building with Python from First Principles](https://www.amazon.com.br/Deep-Learning-Scratch-Building-Principles-ebook/dp/B07XL53Y4C/ref=sr_1_21?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deep+learning+oreilly&qid=1572315425&s=digital-text&sr=1-21)
 
 ## Grupos
 - [Machine & Deep Learning Brasil - Facebook](https://www.facebook.com/groups/machinedeeplearningbrasil/) | [**pt-br**]
