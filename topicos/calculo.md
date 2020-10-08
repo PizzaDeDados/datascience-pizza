@@ -11,7 +11,7 @@
  ## Cursos
  
  - [Calculus: Single Variable Part 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus) - Coursera
-  - [Calculus: Single Variable Part 3 - Integration](https://www.coursera.org/learn/integration-calculus) - Coursera
+ - [Calculus: Single Variable Part 3 - Integration](https://www.coursera.org/learn/integration-calculus) - Coursera
 
  
  ## Livros
