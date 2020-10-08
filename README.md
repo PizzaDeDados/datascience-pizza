@@ -4,7 +4,6 @@
 
 --
 
-
 **DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas.
 Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas.*
 
@@ -20,8 +19,8 @@ Se você gosta desse repositório e quer ajudar, considere [apoiar o Pizza de Da
 
 No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
-
 ## Sumário
+
 > Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
 
 <!-- toc -->
@@ -77,7 +76,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="intermediario">Intermediário</h3>
 
-  - Cálculo
+  - [Cálculo](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/calculo.md)
   - [Álgebra Linear](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/algebra-linear.md)
   - [Machine Learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
   - [Deep Learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/deep-learning.md)

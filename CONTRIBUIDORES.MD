@@ -37,5 +37,6 @@
 * Felipe Iasi (@ficosta)
 * @brunopizzio
 * Rodolfo Ghiggi (@rodolfoghi)
+* @loulix
 * Luan Fernandes (@lgabs)
 * Júlia Tessler (@juliatessler)
