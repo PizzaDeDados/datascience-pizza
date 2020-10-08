@@ -112,6 +112,10 @@ Para interpretar o coeficiente é preciso saber que 1 significa que a correlaç�
 Em probabilidade, a covariância de duas variáveis X e Y é uma medida da variabilidade conjunta destas variáveis aleatórias. Se as variáveis tem covariância positiva tendem a mostrar um comportamento semelhante, ou seja, os menores (maiores) valores da variável X corresponde aos menores (maiores) da variável Y . Se a covariância é negativa então as variáveis tendem a mostrar um comportamento oposto, ou seja, os menores (maiores) valores da variável X corresponde aos maiores (menores) da variável Y.
 Assim, podemos ver que o sinal da covariância mostra a tendência na relação linear entre as variáveis. [1](http://www.portalaction.com.br/probabilidades/42-covariancia-e-coeficiente-de-correlacao).
 
+## Cross-validation
+
+Ver [Validação Cruzada](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#valida%C3%A7%C3%A3o-cruzada-cross-validation).
+
 # D
 
 ## Data Storytelling
