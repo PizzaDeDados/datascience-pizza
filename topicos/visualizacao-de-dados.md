@@ -4,6 +4,7 @@
   - [Storytelling with Data](http://www.storytellingwithdata.com/) EN [Amazon US](https://www.amazon.com/gp/product/1119002257) PT-BR [Amazon BR](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/)
   - [Data + Design](https://infoactive.co/data-design)
   - [Data Visualization for Social Science](http://socviz.co/)
+  - [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
   
 ## Cursos
   - [Introduction to Data Visualization](http://paldhous.github.io/ucb/2016/dataviz/)
@@ -17,9 +18,11 @@
   - [Create High-Impact Data Visualizations: Nine Effective Strategies](https://www.kaushik.net/avinash/create-high-impact-effective-data-visualizations/)
   - [Emery's Essentials](http://annkemery.com/essentials/)
   - [The Data Visualisation Catalogue](http://datavizcatalogue.com/)
+  - [Step-by-step examples how to make quality figures using ggplot2](https://wilkelab.org/practicalgg/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_252)
  
  ## Textos
  - [Ten Simple Rules for Better Figures (Dez regras simples para gráficos melhores)](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+ - [Techniques for Data Visualization on both Mobile & Desktop (Técnicas para visualização de dados em dispositivos móveis e computadores)](https://www.visualcinnamon.com/2019/04/mobile-vs-desktop-dataviz)
  
 ## Sites com exemplos:
   - [Data Viz Project](http://datavizproject.com/)
