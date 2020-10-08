@@ -404,6 +404,10 @@ Máquina de vetores de suporte (do inglês SVM: support vector machine) é um m�
 
 O TensorFlow™ é uma biblioteca de software de código aberto para computação numérica que usa gráficos de fluxo de dados. Os nodes no gráfico representam operações matemáticas, e as arestas representam as matrizes ou tensores de dados multidimensionais que se comunicam com os nodes. A arquitetura flexível permite que você implante aplicações de computação a uma ou mais CPUs ou GPUs em um computador, servidor ou dispositivo móvel usando uma única API. O TensorFlow foi desenvolvido por pesquisadores e engenheiros da Google Brain Team no departamento de pesquisas de inteligência de máquina do Google com a finalidade de realizar pesquisas sobre redes neurais profundas e aprendizado de máquina. No entanto, devido à característica abrangente do sistema, ele também pode ser aplicado a vários outros domínios. [1](https://www.tensorflow.org)
 
+## Teorema do Limite Central
+
+O teorema do limite central afirma que ao extrairmos uma amostra suficientemente grande de uma população, a distribuição amostral da média aproxima-se de uma distribuição normal, não importando de qual população a amostra foi extraída. Isso permite o cálculo de probabilidades mesmo que a amostra não tenha distribuição normal. Para a maioria das populações, se o tamanho da amostra for maior do que 30, o Teorema do Limite Central pode ser aplicado. (Navidi, 2012)
+
 # U
 
 ## Underfitting
@@ -480,6 +484,8 @@ Hastie, Trevor; Tibshirani, Robert; Friedman, Jerome. The Elements of Statistica
 Jain, A.K.; Murty, M.N.; Flynn, P.J.; Data Clustering: A review. ACM Computing Surveys, Vol. 31, No. 3, 1999.
 
 Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap. 3.4, pág. 52.
+
+Navidi, William. Probabilidade e Estatística para Ciências Exatas. AMGH. ISBN 978-85-805-5074-0,  2012.
 
 Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeiro: Elsevier, 2013.
 
