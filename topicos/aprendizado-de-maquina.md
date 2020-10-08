@@ -55,6 +55,7 @@
  - [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
  - [I thought I was ready to start coding Neural Networks. Boy, was I wrong.](https://www.linkedin.com/pulse/i-thought-ready-start-coding-neural-networks-boy-wrong-tim-g%C3%BClke/?trackingId=U8FeIMV3JkhPqefE8iU2gQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUD4Qv5VUShmFJpTbtzvOfA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object)
  - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+ - [Transfer Learning - Machine Learning's Next Frontier](http://ruder.io/transfer-learning/)
 
 ### Classes Desbalanceadas
 
