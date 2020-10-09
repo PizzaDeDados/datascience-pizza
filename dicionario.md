@@ -52,7 +52,7 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 ## Bias
 
-É uma característica de uma técnica estatística ou de seus resultados, pelo que o valor esperado dos resultados difere do parâmetro quantitativo subjacente verdadeiro sendo estimado. Em português, viés. 1. [Bias](https://en.wikipedia.org/wiki/Bias_(statistics)), 2. [Viés](https://pt.wikipedia.org/wiki/Viés_sistemático)
+Ver [Viés]().
 
 ## Big Data
 É um termo que descreve o grande volume de dados - estruturados e não estruturados - que sobrecarrega as empresas diariamente. Pode ser usado para obter insights que levam a decisões melhores e ações estratégicas de negócio. Normalmente tem a definição separada em 3 V's:
@@ -441,7 +441,7 @@ Variável que possui valor quantitativo, ou seja, que pode ser contado. Em outra
 
 Na computação um vetor (arranjo unidimensional) é uma estrutura de dados que armazena um grupo de elementos, identificados por um índice e tipicamente com elementos do mesmo tipo. [1](https://techterms.com/definition/array),[2](https://en.wikipedia.org/wiki/Array_data_structure)
 
-## Viés
+## Viés (_Bias_)
 
 Também conhecido como erro sistemático, é a distorção sistemática entre a medida de uma variável estatística e o valor real da grandeza a ser estimada. [1](https://pt.wikipedia.org/wiki/Vi%C3%A9s_sistem%C3%A1tico)
 
