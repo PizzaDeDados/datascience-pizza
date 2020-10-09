@@ -423,7 +423,7 @@ Prinipalmente utilizado para amostragem estatistica e aprendizado de máquina.
 
 # V
 
-## Validação cruzada (Cross-validation)
+## Validação cruzada (_Cross-validation_)
 Na abordagem básica, chamada método k-fold, o conjunto de treinamento é particionado em k subconjuntos. Dentre esses k subconjuntos teremos:
 * 1 subconjunto de validação
 * k-1 subconjuntos de treinamento
