@@ -87,7 +87,8 @@ A maior vantagem em relação ao histograma é que este gráfico ocupa menos esp
 É a classificação não supervisionada de padrões (observações, itens de dados ou classes) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais similares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
 
 ## Clustering
-Ver Clusterização.
+
+Ver [Clusterização](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#clusteriza%C3%A7%C3%A3o-clustering).
 
 ## Coeficiente
 
