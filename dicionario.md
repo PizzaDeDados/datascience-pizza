@@ -51,7 +51,7 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 
 ## Bias
 
-Ver [Viés](https://github.com/PizzaDeDados/datascience-pizza/blob/fix-%23401/dicionario.md#vi%C3%A9s-bias).
+Ver [Viés](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#vi%C3%A9s-bias).
 
 ## Big Data
 É um termo que descreve o grande volume de dados - estruturados e não estruturados - que sobrecarrega as empresas diariamente. Pode ser usado para obter insights que levam a decisões melhores e ações estratégicas de negócio. Normalmente tem a definição separada em 3 V's:
