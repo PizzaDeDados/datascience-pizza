@@ -310,6 +310,10 @@ Prinipalmente utilizado para amostragem estatistica, aprendizado de máquina e m
 
 Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise de dados e estruturas de dados de alta performance e fáceis de usar. É considerada a principal e mais completa biblioteca para estes objetivos, sendo fundamental para Análise de Dados. [1](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)
 
+## Paradoxo de Simpson
+
+O paradoxo de Simpson é um paradoxo da estatística no qual um conjunto de dados completo aponta em uma direção, mas uma análise de subconjuntos aponta na direção contrária. Este tipo de paradoxo é encontrado frequentemente em análises estatísticas de pesquisas tanto em ciências sociais quanto em ciências médicas e é particularmente problemático quando dados de frequência são interpretados como causais. O paradoxo foi nomeado em memória de Edward Simpson (1922), o primeiro estatístico a popularizá-lo.[Vídeo do Minuto da Física falando sobre o tema](https://www.youtube.com/watch?v=FBsVRJVA0ro) [2](https://pt.wikipedia.org/wiki/Paradoxo_de_Simpson) [3](https://proec.ufabc.edu.br/gec/o-que-que-a-ciencia-tem/paradoxo-de-simpson/)
+
 ## PCA 
 
 É um procedimento matemático que utiliza uma transformação ortogonal (ortogonalização de vetores) para converter um conjunto de observações de variáveis possivelmente correlacionadas em um conjunto de valores de variáveis linearmente não correlacionadas chamadas de componentes principais [1](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_componentes_principais).
@@ -387,6 +391,10 @@ Scala é uma linguagem de programação desenvolvida para expressar padrões de 
 ## Scikit-learn
 
 A scikit-learn é uma biblioteca de código aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Ela inclui diversos algoritmos de classificação, regressão e agrupamento, tais como [máquinas de vetores de suporte](#support-vector-machine), [florestas aleatórias](#random-forest), gradient boosting, [k-means](#k-means), DBSCAN e muitos outros. Além disso, a biblioteca também oferece técnicas de pré-processamento, seleção de atributos, seleção de modelos, métricas e outros utilitários. [1](http://scikit-learn.org/) [2](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html) [3](http://scikit-learn.org/stable/faq.html#what-is-the-project-name-a-lot-of-people-get-it-wrong)
+
+## Simpson's Paradox(Paradoxo de Simpson)
+
+Ver [Paradoxo de Simpson](https://github.com/alefjan/datascience-pizza/blob/master/dicionario.md#paradoxo-de-simpson).
 
 ## Sistemas de Recomendação
 
