@@ -279,11 +279,6 @@ Pode-se dizer que a modelagem generativa se baseia na probabilidade condicional 
 
 # N
 
-## Naive Bayes
-
-O Naive Bayes é um algoritmo classificador probabilístico baseado no [Teorema de Bayes](https://pt.wikipedia.org/wiki/Teorema_de_Bayes). Ele recebe o nome de “naive” (ingênuo) porque desconsidera a correlação entre as variáveis (features). Ou seja, se determinada fruta é rotulada como “Limão”, caso ela também seja descrita como “Verde” e “Redonda”, o algoritmo não vai levar em consideração a correlação entre esses fatores. Isso porque trata cada uma das variáveis de forma independente. é muito utilizado em aprendizado de máquinas. [1](https://www.datageeks.com.br/naive-bayes/) [2](http://www.eletrica.ufpr.br/ufpr2/professor/36/TE808/5-NaiveBayes-AM.pdf) [3](https://pt.wikipedia.org/wiki/Infer%C3%AAncia_bayesiana#Bayes_ing%C3%AAnuo_(BI,_Naive_Bayes))
-
-
 ## NoSQL
 
 Ver [Banco de Dados Não-Relacional](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md#banco-de-dados-n%C3%A3o-relacional).
