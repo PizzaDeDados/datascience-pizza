@@ -396,7 +396,7 @@ A scikit-learn é uma biblioteca de código aberto muito popular para realizar a
 
 ## Simpson's Paradox(Paradoxo de Simpson)
 
-Ver [Paradoxo de Simpson](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#Paradoxo-de-Simpson).
+Ver [Paradoxo de Simpson](https://github.com/alefjan/datascience-pizza/blob/master/dicionario.md#paradoxo-de-simpson).
 
 ## Sistemas de Recomendação
 
