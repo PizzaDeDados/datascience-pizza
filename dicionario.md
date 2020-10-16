@@ -314,8 +314,6 @@ Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise
 
 O paradoxo de Simpson é um paradoxo da estatística no qual um conjunto de dados completo aponta em uma direção, mas uma análise de subconjuntos aponta na direção contrária. Este tipo de paradoxo é encontrado frequentemente em análises estatísticas de pesquisas tanto em ciências sociais quanto em ciências médicas e é particularmente problemático quando dados de frequência são interpretados como causais. O paradoxo foi nomeado em memória de Edward Simpson (1922), o primeiro estatístico a popularizá-lo.[Vídeo do Minuto da Física falando sobre o tema](https://www.youtube.com/watch?v=FBsVRJVA0ro) [2](https://pt.wikipedia.org/wiki/Paradoxo_de_Simpson) [3](https://proec.ufabc.edu.br/gec/o-que-que-a-ciencia-tem/paradoxo-de-simpson/)
 
-
-
 ## PCA 
 
 É um procedimento matemático que utiliza uma transformação ortogonal (ortogonalização de vetores) para converter um conjunto de observações de variáveis possivelmente correlacionadas em um conjunto de valores de variáveis linearmente não correlacionadas chamadas de componentes principais [1](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_componentes_principais).
