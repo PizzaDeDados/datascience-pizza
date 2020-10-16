@@ -222,6 +222,9 @@ O [Project Jupyter](http://jupyter.org/) é um projeto de código aberto, sem fi
 É um algoritmo de agrupamento (clustering) que utiliza distância euclidiana para dividir/organizar/separar os N valores de uma amostra em K subconjuntos. K é definido previamente e o algoritmo faz o trabalho de calcular a distribuição da amostra nos subconjuntos mais próximos. Os pontos de onde mede-se a distância euclidiana, que são os centros dos subconjuntos (K0,K1,K2,Kn) são definidos aleatoriamente na primeira iteração e a cada iteração posterior são movimentados afim de distribuir a amostra em subconjuntos de tamanhos iguais.
 ![k-means](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
 
+## Keras
+
+Keras é uma API de redes neurais de alto nível, escrita em Python e capaz de rodar em cima de TensorFlow, Microsoft Cognitive Toolkit(CNTK), R, Theano, ou PlaidML. Foi desenvolvida com o foco em possibilitar rápida experimentação. De acordo com sua documentação, é uma biblioteca de deep learning para quem precisa de algo fácil e rápido, que suporta tanto redes neurais convolucionais quanto redes neurais recorrentes (como também combinações das duas) e funciona perfeitamente em CPU e GPU. [1](https://keras.io/) [2](https://pt.wikipedia.org/wiki/Keras)
 
 # L
 
