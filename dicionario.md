@@ -381,6 +381,10 @@ Função não-linear de ativação de neurônios numa rede neural artificial[1](
 
 Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2](https://en.wikipedia.org/wiki/Logistic_function).
 
+## Regularização
+
+Regularização é uma técnica para reduzir o problema do [overfit](#overfitting) em modelos de aprendizado de máquina. Existem diferentes formas de regularização e dentre as mais comuns estão a regularização L1 e L2, que adicionam um termo de regularização na função de custo a ser otimizada a fim de reduzir a complexidade do modelo final. A regularização L1 penaliza os pesos do modelo somando os valores absolutos de todos os parâmetros, fazendo features irrelevantes tenderem a um peso 0, enquanto a regularização L2 penaliza pela soma dos quadrados dos parâmetros, evitando que alguma feature tenha um peso muito superior às demais. [Dropout](#dropout) é outro exemplo de técnica de regularização utilizado em redes neurais.
+
 ## Revocação (*Recall*)
 
 Uma métrica para modelos de classificação que responde à seguinte pergunta: de todos os possíveis rótulos positivos, quantos o modelo identificou corretamente? Isso é:
