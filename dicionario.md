@@ -21,7 +21,8 @@ O objetivo é alcançado através da aprendizagem dos dados de entrada e seus re
 O aprendizado por reforço é uma área do aprendizado de máquina que lida com a maneira como os agentes de software devem executar ações em um ambiente de modo a maximizar alguma noção de recompensa cumulativa [1](https://en.wikipedia.org/wiki/Reinforcement_learning). É estudado em estatística, psicologia, neurociência e ciência da computação que está diretamente ligado a aprendizado de máquina e inteligência artificial. É um método de programação de agentes que devem aprender a se comportar em um ambiente dinâmico através de interações de “tentativa e erro”, conhecidas também como premiações e punições, sem a necessidade de especificar como uma tarefa deve ser realizada. A abordagem que é utilizada nesse trabalho é feita usando técnicas de estatísticas e métodos de programação dinâmica, buscando estimar qual a vantagem em se tomar determinadas ações em diferentes estados do ambiente dado um objetivo. [2](https://www.maxwell.vrac.puc-rio.br/19637/19637_4.PDF), [3](https://en.wikipedia.org/wiki/Reinforcement_learning).
 
 ## Árvore de Decisão (_Decision Tree_)
-Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão  fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
+
+Uma árvore de decisão é uma técnica de aprendizado de máquina que é representada por uma árvore que recebe como entrada um vetor de características e retorna uma decisão baseada nesses valores. A decisão fornecida pelo algoritmo é obtido através da execução de uma sequência de testes. Cada nó interno na árvore corresponde a um teste do valor de um dos atributos do vetor de entrada, e os ramos do nó são rotulados com os valores possíveis do atributo. Cada nó da folha na árvore especifica um valor a ser retornado pela Árvore, ou seja, a decisão final (Russel e Norvig, 2013).
 
 Na imagem abaixo temos o exemplo da representação de uma ávore de decisão para decidir se um cliente deve aguardar por uma mesa no restaurante.
 
@@ -31,14 +32,11 @@ Abaixo temos algumas possíveis entradas para a árvore de decisão, representad
 
 ![decision_tree_inputs_outputs](https://image.ibb.co/koz2oe/Screenshot_from_2018_10_06_01_15_57.png)
 
-
-
-
 # B
 
 ## Banco de Dados Não-Relacional
 
-Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: 1. [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e 2. [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
+Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada [neste site](http://nosql-database.org/). Recomenda-se mais estudos em: 1. [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e 2. [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 ## Banco de Dados Relacional
 
@@ -54,21 +52,24 @@ O modelo relacional tem sua origem em 1970 quando um matemático da IBM chamado 
 Ver [Viés](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#vi%C3%A9s-bias).
 
 ## Big Data
+
 É um termo que descreve o grande volume de dados - estruturados e não estruturados - que sobrecarrega as empresas diariamente. Pode ser usado para obter insights que levam a decisões melhores e ações estratégicas de negócio. Normalmente tem a definição separada em 3 V's:
 
-  - Volume: A quantidade de dado importa. Com big data você deve que processar grandes quantidades de dados para obter resultados concretos, o tamanho exato varia de empresa para empresa, podendo ser terabytes ou zetabytes.
-  
-  - Velocidade: Todos os dados devem ser transmitidos em grandes velocidades e tratados em um tempo baixo. Normalmente a velocidade está diretamente ligada a memória e escrita em disco.
-  
-  - Variedade: Os dados são gerados em inúmeros formatos, desde dados estruturados (bancos de dados normais) a não estruturados (textos, e-mails, som, vídeo, fotos, tweets e etc...)
+- Volume: A quantidade de dado importa. Com big data você deve que processar grandes quantidades de dados para obter resultados concretos, o tamanho exato varia de empresa para empresa, podendo ser terabytes ou zetabytes.
+
+- Velocidade: Todos os dados devem ser transmitidos em grandes velocidades e tratados em um tempo baixo. Normalmente a velocidade está diretamente ligada a memória e escrita em disco.
+
+- Variedade: Os dados são gerados em inúmeros formatos, desde dados estruturados (bancos de dados normais) a não estruturados (textos, e-mails, som, vídeo, fotos, tweets e etc...)
 
 Também são considerados dois V's adicionais:
-  - Veracidade: É a garantia da qualidade do dado, ou seja, garantir que as informações sejam verdadeiras para a análise.
-  
-  - Valor: Tudo o que for feito com o big data tem que gerar um valor no final, não adianta ler uma quantidade massiva de dados sem gerar algum valor no fim. [1](https://www.oracle.com/big-data/guide/what-is-big-data.html) [2](https://www.bbva.com/en/five-vs-big-data/) [3](https://canaltech.com.br/big-data/Big-Data-os-cinco-Vs-que-todo-mundo-deveria-saber/)
+
+- Veracidade: É a garantia da qualidade do dado, ou seja, garantir que as informações sejam verdadeiras para a análise.
+
+- Valor: Tudo o que for feito com o big data tem que gerar um valor no final, não adianta ler uma quantidade massiva de dados sem gerar algum valor no fim. [1](https://www.oracle.com/big-data/guide/what-is-big-data.html) [2](https://www.bbva.com/en/five-vs-big-data/) [3](https://canaltech.com.br/big-data/Big-Data-os-cinco-Vs-que-todo-mundo-deveria-saber/)
 
 ## Box plot
-Um gráfico que tem a finalidade de mostrar a distribuição de dados numéricos através de quartis. A caixa ( que justifica o nome box) mostra o Intervalo Interquartil (IC). A linha que passa por dentro da caixa indica a mediana, enquanto a superior indica o primeiro quartil (Q1) e a inferior mostra o 3o quartil (Q3). Acima da caixa, é mostrado o limite superior, calculado por 1,5 * Q3, e o limite inferior, cuja fórmula é 1,5 * Q1. [1](https://en.wikipedia.org/wiki/Box_plot)
+
+Um gráfico que tem a finalidade de mostrar a distribuição de dados numéricos através de quartis. A caixa ( que justifica o nome box) mostra o Intervalo Interquartil (IC). A linha que passa por dentro da caixa indica a mediana, enquanto a superior indica o primeiro quartil (Q1) e a inferior mostra o 3o quartil (Q3). Acima da caixa, é mostrado o limite superior, calculado por 1,5 _ Q3, e o limite inferior, cuja fórmula é 1,5 _ Q1. [1](https://en.wikipedia.org/wiki/Box_plot)
 
 O box plot ainda traz os valores que estão acima do limite superior ou abaixo do limite inferior (os outliers), geralmente exibidos como pontos em formato de astericos.
 
@@ -108,7 +109,7 @@ O coeficiente de determinação (R2) é uma estimativa da qualidade de um modelo
 
 ## Correlação
 
-Correlação é a medida estatística que descreve a associação entre variáveis randômicas. Frequentemente,  correlação é o primeiro passo para entender relacionamentos e consequentemente construir melhores modelos estatísticos. [1](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
+Correlação é a medida estatística que descreve a associação entre variáveis randômicas. Frequentemente, correlação é o primeiro passo para entender relacionamentos e consequentemente construir melhores modelos estatísticos. [1](https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials)
 Para interpretar o coeficiente é preciso saber que 1 significa que a correlação entre as variáveis é perfeita positiva e -1 significa que é perfeita negativa. Se o coeficiente for igual a 0 significa que as variáveis não dependem uma da outra.[1](https://www.significados.com.br/correlacao/)
 
 ## Covariância
@@ -132,6 +133,7 @@ Para que o Data Storytelling seja bem-sucedido, a pessoa deve ter boas habilidad
 São conjuntos de dados tabulados, onde para cada individuo são denotadas diversas características. Cada coluna corresponde a uma varíavel, e cada linha é o conjunto de caracteristicas do individuo. Os valores(itens) dessa tabela são chamados dados. [wiki](https://pt.wikipedia.org/wiki/Conjunto_de_dados)
 
 ## Decision Tree
+
 ver [Árvore de Decisão](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#%C3%A1rvore-de-decis%C3%A3o-decision-tree).
 
 ## Desvio padrão
@@ -165,7 +167,7 @@ Método de aprendizado que consiste em utilizar a predição de vários algoritm
 ## Entropia Cruzada
 
 Método usado para calcular a diferença entre duas distribuições probabilísticas e por isso é muito usado em problemas de classificação, pois se quer alcançar uma aproximação da distribuição das classes do referido problema, é dado por: ![ce1](https://latex.codecogs.com/svg.latex?H%28p%2C%20q%29%20%3D%20-%20%5Csum_%7Bx%7D%5E%7B%20%7D%20p%28x%29%20%5Clog%20%28q%28x%29%29),
-onde ![ce2](https://latex.codecogs.com/svg.latex?p(x)) é a probabilidade do exemplo ser da classe _x_ (1 na classe correspondente e 0 nas restantes) e ![ec2](https://latex.codecogs.com/svg.latex?q(x)) é a probabilidade obtida. Faz-se o somatório do produto para cada classe _x_ e no final teremos o erro entre a distribuição esperada e a obtida. [1](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html) [2](https://en.wikipedia.org/wiki/Cross-entropy_method)
+onde ![ce2](<https://latex.codecogs.com/svg.latex?p(x)>) é a probabilidade do exemplo ser da classe _x_ (1 na classe correspondente e 0 nas restantes) e ![ec2](<https://latex.codecogs.com/svg.latex?q(x)>) é a probabilidade obtida. Faz-se o somatório do produto para cada classe _x_ e no final teremos o erro entre a distribuição esperada e a obtida. [1](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html) [2](https://en.wikipedia.org/wiki/Cross-entropy_method)
 
 ## Erro quadrático médio
 
@@ -195,7 +197,7 @@ Hipótese inicial a ser testada, que é colocada em teste de hipótese. Normalme
 
 ## Histograma
 
-Um gráfico composto por retângulos justapostos em que a base de cada um deles corresponde ao intervalo de classe e a sua área à respectiva frequência. Um histograma é utilizado para representar a distribuição de frequências de variáveis *contínuas*. Os valores observáveis da variável são divididos em classes (faixas de valores) e, então, conta-se a frequência de ocorrência dos valores em cada classe. O histograma é o gráfico que relaciona as classes no eixo X e valores proporcionais à frequência no eixo Y.
+Um gráfico composto por retângulos justapostos em que a base de cada um deles corresponde ao intervalo de classe e a sua área à respectiva frequência. Um histograma é utilizado para representar a distribuição de frequências de variáveis _contínuas_. Os valores observáveis da variável são divididos em classes (faixas de valores) e, então, conta-se a frequência de ocorrência dos valores em cada classe. O histograma é o gráfico que relaciona as classes no eixo X e valores proporcionais à frequência no eixo Y.
 
 ![histograma](https://upload.wikimedia.org/wikipedia/commons/d/dd/Histograma_wiki1.png "Histograma da coleta de HDL de um grupo de 18 pacientes. Seis classes definidas em intervalos de 5 mg/dL.")
 
@@ -236,25 +238,28 @@ Matriz é uma estrutura de dados utilizada para armazenar dados em mais de uma d
 É possível criar matrizes de n dimensões, que serão acessadas com n índices. Dados dois números naturais m e n não-nulos, denomina-se matriz m por n (indica-se m x n) toda tabela formada por (m • n) elementos dispostos em m linhas e n colunas. As matrizes são indicadas por letras maiúsculas do alfabeto latino e representadas utilizando-se parênteses ou colchetes. Um elemento genérico de uma matriz A é simbolizado por `aij`, em que `i` indica a linha e `j` a coluna a que pertence o elemento.
 
 Numa matriz quadrada de ordem 2 destacam-se:
-* diagonal principal: `a11` e `a22`;
-* diagonal secundária: `a12` e `a21`.
+
+- diagonal principal: `a11` e `a22`;
+- diagonal secundária: `a12` e `a21`.
 
 Numa matriz quadrada de ordem 3 destacam-se:
-* diagonal principal: `a11`, `a22` e `a33`;
-* diagonal secundária: `a13`, `a22` e `a31`.
+
+- diagonal principal: `a11`, `a22` e `a33`;
+- diagonal secundária: `a13`, `a22` e `a31`.
 
 Em suma, para matrizes quadradas de ordem `n`:
-* diagonal principal: elementos `aij`, com `i = j`;
-* diagonal secundária: elementos `aij`, com `i+j = n+1`
+
+- diagonal principal: elementos `aij`, com `i = j`;
+- diagonal secundária: elementos `aij`, com `i+j = n+1`
 
 Matrizes especiais:
 
 Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (especial):
-* Matriz nula é toda matriz que tem todos os elementos iguais a zero. Representa-se por Om x n.
-* Matriz identidade de ordem n ou matriz unidade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a 1 e os demais, nulos.
-* Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
-[1](https://www.resumoescolar.com.br/matematica/matriz-quadrada/) [2](https://en.wikipedia.org/wiki/Matrix_representation)
 
+- Matriz nula é toda matriz que tem todos os elementos iguais a zero. Representa-se por Om x n.
+- Matriz identidade de ordem n ou matriz unidade de ordem n é toda matriz quadrada no qual os elementos de sua diagonal principal são iguais a 1 e os demais, nulos.
+- Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
+  [1](https://www.resumoescolar.com.br/matematica/matriz-quadrada/) [2](https://en.wikipedia.org/wiki/Matrix_representation)
 
 ## Média Móvel
 
@@ -270,7 +275,7 @@ A mediana de um grupo de itens é o valor do item central quando todos os itens 
 
 ## Modelo Discriminativo
 
-Ao contrário da modelagem generativa, que estuda a partir da probabilidade conjunta , a modelagem discriminativa estuda o ou os mapas diretos a dada variável não observada (alvo) de uma etiqueta de classe dependente das variáveis observados (amostras de treino). No campo prático de reconhecimento de objectos, é provável que seja um vetor (isto é, materias-pixels, características extraídas a partir da imagem ou mais). Dentro de uma estrutura probabilística, isto é feito por modelagem da distribuição de probabilidade condicional, que pode ser usado para prever a partir. Observe que ainda há distinção entre o modelo condicional e modelo discriminativo, embora na maioria das vezes, eles são apenas categorizados como modelo discriminativo. 
+Ao contrário da modelagem generativa, que estuda a partir da probabilidade conjunta , a modelagem discriminativa estuda o ou os mapas diretos a dada variável não observada (alvo) de uma etiqueta de classe dependente das variáveis observados (amostras de treino). No campo prático de reconhecimento de objectos, é provável que seja um vetor (isto é, materias-pixels, características extraídas a partir da imagem ou mais). Dentro de uma estrutura probabilística, isto é feito por modelagem da distribuição de probabilidade condicional, que pode ser usado para prever a partir. Observe que ainda há distinção entre o modelo condicional e modelo discriminativo, embora na maioria das vezes, eles são apenas categorizados como modelo discriminativo.
 
 <p align="center"><strong>P (x, y)P (Y | x)XyX P (Y | x)yX</strong></p>
 
@@ -278,14 +283,13 @@ E são uma classe de modelos usados especialmente em Machine Learning para model
 
 ## Modelo Generativo
 
-Pode-se dizer que a modelagem generativa se baseia na probabilidade condicional de uma variável X, dada a probabilidade da variável resposta Y. O modelo pode *gerar* leituras aleatórias e, por isso tem esse nome associado a ele (você pode literalmente gerar dados!). A função da modelagem generativa é entender como os dados surgem e a principal diferença para a modelagem discriminativa é que nela os modelos aprendem o *limite* entre classes e na modelagem generativa, aprendem a distribuição das classes individuais. Os modelos generativos mais famosos são LDA e o Teorema de Bayes. [1](http://www.vision.ime.usp.br/~teo/publications/dissertacao/node36.html) e [2](https://pt.wikipedia.org/wiki/Teorema_de_Bayes)  
+Pode-se dizer que a modelagem generativa se baseia na probabilidade condicional de uma variável X, dada a probabilidade da variável resposta Y. O modelo pode _gerar_ leituras aleatórias e, por isso tem esse nome associado a ele (você pode literalmente gerar dados!). A função da modelagem generativa é entender como os dados surgem e a principal diferença para a modelagem discriminativa é que nela os modelos aprendem o _limite_ entre classes e na modelagem generativa, aprendem a distribuição das classes individuais. Os modelos generativos mais famosos são LDA e o Teorema de Bayes. [1](http://www.vision.ime.usp.br/~teo/publications/dissertacao/node36.html) e [2](https://pt.wikipedia.org/wiki/Teorema_de_Bayes)
 
 # N
 
 ## Naive Bayes
 
-O Naive Bayes é um algoritmo classificador probabilístico baseado no [Teorema de Bayes](https://pt.wikipedia.org/wiki/Teorema_de_Bayes). Ele recebe o nome de “naive” (ingênuo) porque desconsidera a correlação entre as variáveis (features). Ou seja, se determinada fruta é rotulada como “Limão”, caso ela também seja descrita como “Verde” e “Redonda”, o algoritmo não vai levar em consideração a correlação entre esses fatores. Isso porque trata cada uma das variáveis de forma independente. é muito utilizado em aprendizado de máquinas. [1](https://www.datageeks.com.br/naive-bayes/) [2](http://www.eletrica.ufpr.br/ufpr2/professor/36/TE808/5-NaiveBayes-AM.pdf) [3](https://pt.wikipedia.org/wiki/Infer%C3%AAncia_bayesiana#Bayes_ing%C3%AAnuo_(BI,_Naive_Bayes))
-
+O Naive Bayes é um algoritmo classificador probabilístico baseado no [Teorema de Bayes](https://pt.wikipedia.org/wiki/Teorema_de_Bayes). Ele recebe o nome de “naive” (ingênuo) porque desconsidera a correlação entre as variáveis (features). Ou seja, se determinada fruta é rotulada como “Limão”, caso ela também seja descrita como “Verde” e “Redonda”, o algoritmo não vai levar em consideração a correlação entre esses fatores. Isso porque trata cada uma das variáveis de forma independente. é muito utilizado em aprendizado de máquinas. [1](https://www.datageeks.com.br/naive-bayes/) [2](http://www.eletrica.ufpr.br/ufpr2/professor/36/TE808/5-NaiveBayes-AM.pdf) [3](<https://pt.wikipedia.org/wiki/Infer%C3%AAncia_bayesiana#Bayes_ing%C3%AAnuo_(BI,_Naive_Bayes)>)
 
 ## NoSQL
 
@@ -305,14 +309,12 @@ Em filosofia, ontologia é a teoria da "natureza do ser ou dos tipos de existên
 
 É um evento que ocorre quando o modelo se encaixa bem nos dados de treinamento, mas não se generaliza para dados não vistos ou testados. Isto é, não produz boas predições para dados desconhecidos. [Chaoji et. al. 2016](http://www.vldb.org/pvldb/vol9/p1597-chaoji.pdf)
 
-
-## Oversampling 
+## Oversampling
 
 É um conjunto de técnicas utilizadas para ajustar a distribuição do conjunto de dados de uma amostragem, é principalmente utilizado quando a amostragem de dados é insuficiente. Consiste da copia de dados dos conjuntos com menos amostras, a fim de que os conjuntos de amostras tenham uma quantidade de dados equivalentes.
 Prinipalmente utilizado para amostragem estatistica, aprendizado de máquina e metodologias de pesquisa.[1](https://en.wikipedia.org/wiki/Oversampling), [2](https://pdfs.semanticscholar.org/9908/404807bf6b63e05e5345f02bcb23cc739ebd.pdf)
 
 # P
-
 
 ## Pandas
 
@@ -322,7 +324,7 @@ Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise
 
 O paradoxo de Simpson é um paradoxo da estatística no qual um conjunto de dados completo aponta em uma direção, mas uma análise de subconjuntos aponta na direção contrária. Este tipo de paradoxo é encontrado frequentemente em análises estatísticas de pesquisas tanto em ciências sociais quanto em ciências médicas e é particularmente problemático quando dados de frequência são interpretados como causais. O paradoxo foi nomeado em memória de Edward Simpson (1922), o primeiro estatístico a popularizá-lo.[Vídeo do Minuto da Física falando sobre o tema](https://www.youtube.com/watch?v=FBsVRJVA0ro) [2](https://pt.wikipedia.org/wiki/Paradoxo_de_Simpson) [3](https://proec.ufabc.edu.br/gec/o-que-que-a-ciencia-tem/paradoxo-de-simpson/)
 
-## PCA 
+## PCA
 
 É um procedimento matemático que utiliza uma transformação ortogonal (ortogonalização de vetores) para converter um conjunto de observações de variáveis possivelmente correlacionadas em um conjunto de valores de variáveis linearmente não correlacionadas chamadas de componentes principais [1](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_componentes_principais).
 
@@ -333,6 +335,7 @@ O paradoxo de Simpson é um paradoxo da estatística no qual um conjunto de dado
 ## Precisão
 
 Uma métrica para modelos de classificação. A precisão identifica a frequência com que um modelo estava correto ao prever a classe positiva. Isso é:
+
 <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?\text{Precisao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Positivos}}">
 </p>
@@ -341,16 +344,14 @@ Uma métrica para modelos de classificação. A precisão identifica a frequênc
 
 ## Pytorch
 
-
-É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1](https://en.wikipedia.org/wiki/PyTorch) 
+É um ecossistema de ferramentas e bibliotecas de Machine Learning, para uso em Processamento de Linguagem Natural e Visão Computacional. Escrito em Python e de código aberto, é baseado em Torch, um framework escrito em Lua. [1](https://en.wikipedia.org/wiki/PyTorch)
 [2](https://pytorch.org/)
-
 
 # Q
 
-## Quartil (*Quartile*)
+## Quartil (_Quartile_)
 
-Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. *eg.* um conjunto que contém os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8. [1](https://en.wikipedia.org/wiki/Quartile)
+Ao contrário da expectativa, os quartis são 3 pontos que dividem um conjunto em 4 subconjuntos de iguais quantidades. _eg._ um conjunto que contém os números de 1 a 10, os quartis Q1, Q2 e Q3 são, respectivamente: 3, 5.5 e 8. [1](https://en.wikipedia.org/wiki/Quartile)
 
 # R
 
@@ -374,16 +375,17 @@ A regressão logística é uma técnica estatística que tem como objetivo produ
 
 ## ReLU
 
-Função não-linear de ativação de neurônios numa rede neural artificial[1](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). É definida pela função e forma:
+Função não-linear de ativação de neurônios numa rede neural artificial[1](<https://en.wikipedia.org/wiki/Rectifier_(neural_networks)>). É definida pela função e forma:
 
 ![ReLU](https://wikimedia.org/api/rest_v1/media/math/render/svg/1d25c25758581789c97cdf80d52bf82bbfd0f237)
 ![ReLU-plot](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rectifier_and_softplus_functions.svg/495px-Rectifier_and_softplus_functions.svg.png)
 
 Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2](https://en.wikipedia.org/wiki/Logistic_function).
 
-## Revocação (*Recall*)
+## Revocação (_Recall_)
 
 Uma métrica para modelos de classificação que responde à seguinte pergunta: de todos os possíveis rótulos positivos, quantos o modelo identificou corretamente? Isso é:
+
 <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?\text{Revocacao}&space;=&space;\frac{\text{Verdadeiros&space;Positivos}}&space;{\text{Verdadeiros&space;Positivos}&space;&plus;&space;\text{Falsos&space;Negativos}}">
 </p>
@@ -410,7 +412,7 @@ Um sistema de recomendação combina técnicas de Recuperação de Informação 
 
 - **Filtragem colaborativa**: considera a experiência de todos os usuários
 - **Filtragem baseada em conteúdo**: Considera a experiência do usuário alvo
-- **Filtragem Híbrida**: utiliza-se os dois  tipos para gerar uma recomendação mais personalizada.
+- **Filtragem Híbrida**: utiliza-se os dois tipos para gerar uma recomendação mais personalizada.
 
 Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
 
@@ -434,7 +436,7 @@ O teorema do limite central afirma que ao extrairmos uma amostra suficientemente
 
 É um evento que ocorre quando o seu modelo não representa de maneira eficaz o problema que foi proposto, ou seja, o modelo não se ajusta aos dados. Normalmente é possível identificar o underfitting por uma baixa variância e um alto bias. [1](https://chemicalstatistician.wordpress.com/2014/03/19/machine-learning-lesson-of-the-day-overfitting-and-underfitting/)
 
-## Undersampling 
+## Undersampling
 
 Equivalente ao Oversampling é um conjunto de técnicas utilizadas para ajustar a distribuição do conjunto de dados de uma amostragem e é principalmente utilizado quando a amostragem de dados é insuficiente porém faz o oposto do que é feito no Oversampling.
 Consiste da remoção de dados dos conjuntos com maiores quantidades de amostras, a fim de que os conjuntos de amostras tenham uma quantidade de dados balanceada.
@@ -444,9 +446,11 @@ Prinipalmente utilizado para amostragem estatistica e aprendizado de máquina.
 # V
 
 ## Validação cruzada (_Cross-validation_)
+
 Na abordagem básica, chamada método k-fold, o conjunto de treinamento é particionado em k subconjuntos. Dentre esses k subconjuntos teremos:
-* 1 subconjunto de validação
-* k-1 subconjuntos de treinamento
+
+- 1 subconjunto de validação
+- k-1 subconjuntos de treinamento
 
 Quando um valor específico para k é escolhido, por exemplo k = 10, teremos uma Validação cruzada 10-fold. Neste caso o processo de validação será repetido 10 vezes, onde cada uma das 10 subamostras serão usadas como dados de validação [scikit learn cross-validation](http://scikit-learn.org/stable/modules/cross_validation.html).
 
@@ -460,12 +464,11 @@ Em termos estatísticos, a variância determina o quão distante cada valor est�
 
 ## Variáveis Categóricas
 
-Variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (*levels*). Se os valores dos níveis forem nomes arbitrários a variável é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
+Variáveis que possuem valores não-quantitativos. Os diferentes valores de uma variável categórica são normalmente chamados níveis (_levels_). Se os valores dos níveis forem nomes arbitrários a variável é normal (por exemplo, cor do olho). Porém se existirem ao menos 3 níveis (notas de escola como A, B, C) a variável é ordinal.
 
 ## Variáveis Discretas
 
 Variável que possui valor quantitativo, ou seja, que pode ser contado. Em outras palavras, são variáveis com características mensuráveis que podem assumir apenas um número finito ou infinito contável de valores e, assim, somente fazem sentido valores inteiros. Geralmente são o resultado de contagens. Exemplos: número de filhos, número de bactérias por litro de leite. [1](http://leg.ufpr.br/~silvia/CE055/node8.html)
-
 
 ## Vetor
 
@@ -482,7 +485,6 @@ Também conhecido como erro sistemático, é a distorção sistemática entre a 
 # Y
 
 # Z
-
 
 # Referências
 
@@ -505,7 +507,7 @@ Jain, A.K.; Murty, M.N.; Flynn, P.J.; Data Clustering: A review. ACM Computing S
 
 Kazmier, Leonard. 2007. Estatística aplicada à administração e economia. Cap. 3.4, pág. 52.
 
-Navidi, William. Probabilidade e Estatística para Ciências Exatas. AMGH. ISBN 978-85-805-5074-0,  2012.
+Navidi, William. Probabilidade e Estatística para Ciências Exatas. AMGH. ISBN 978-85-805-5074-0, 2012.
 
 Russell, Stuart J.; Norvig, Peter. Inteligência Artificial. 3.ed. Rio de Janeiro: Elsevier, 2013.
 
