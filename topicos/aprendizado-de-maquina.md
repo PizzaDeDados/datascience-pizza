@@ -20,6 +20,7 @@
 - [A Course in Machine Learning](http://ciml.info/)
 - [Curso Machine Learning gratuito UFPR](http://cursos.leg.ufpr.br/ML4all/1parte/) | [**pt-br**]
 - [Learning from Data](https://work.caltech.edu/telecourse.html)
+- [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
 
 
 ## Datasets
