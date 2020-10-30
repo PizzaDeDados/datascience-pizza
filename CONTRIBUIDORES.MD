@@ -41,3 +41,4 @@
 * @silviodc
 * @tramontini
 * @tuliocasagrande
+* Sergio Baldo (@SergioBaldo)

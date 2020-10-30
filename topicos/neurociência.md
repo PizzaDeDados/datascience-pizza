@@ -3,6 +3,7 @@
 # Cursos
 
 [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience) - Coursera
+[Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - Coursera
 
 # Livros
 

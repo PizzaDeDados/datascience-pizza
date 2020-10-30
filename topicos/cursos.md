@@ -29,6 +29,7 @@
 ### Coursera.org
 
 [Cursos de Data Science no Coursera](https://www.coursera.org/browse/data-science)
+[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) (Google)
 
 ### edx.org
 Cursos oferecidos pela plataforma [edx.org](https://www.edx.org/).
