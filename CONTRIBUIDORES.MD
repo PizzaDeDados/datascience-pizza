@@ -40,3 +40,4 @@
 * @loulix
 * Luan Fernandes (@lgabs)
 * Júlia Tessler (@juliatessler)
+* Jéssica Rodrigues (@jessicatcr)
