@@ -1,5 +1,13 @@
 # A
 
+## Álgebra Linear
+
+A álgebra linear é um ramo da matemática, mas a verdade é que a álgebra linear é a matemática dos dados. Matrizes e vetores são a linguagem dos dados.
+
+A álgebra linear trata de combinações lineares. Isto é, usando aritmética em colunas de números chamadas vetores e arranjos de números chamados matrizes, para criar novas colunas e arranjos de números. Álgebra linear é o estudo de linhas e planos, espaços vetoriais e mapeamentos necessários para transformações lineares. [1](https://machinelearningmastery.com/gentle-introduction-linear-algebra/).
+
+Álgebra linear é o estudo de conjuntos lineares de equações e suas propriedades de transformação. A álgebra linear permite a análise de rotações no espaço, ajuste de mínimos quadrados , solução de equações diferenciais acopladas, determinação de um círculo passando por três pontos dados, assim como muitos outros problemas em matemática, física e engenharia. [2](https://mathworld.wolfram.com/LinearAlgebra.html).
+
 ## Algoritmos
 
 São conjuntos de passos finitos e organizados que, quando executados, realizam uma tarefa. [1](https://www.youtube.com/watch?v=8mei6uVttho), [2](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms).
