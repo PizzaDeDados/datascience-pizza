@@ -1,43 +1,43 @@
 
-* Leticia Portella (@leportella)
-* @llautert
-* Eliézer Bourchardt (@eliezerfb)
-* @Guilhermeslucas
-* @giovanisleite
-* @mvinoba
-* @rougeth
-* @DaniMonteiroDBA
-* @lcdez
-* @diogoffmelo
-* @Igorth
-* @silviodc
-* @ficorrea
-* @marcosvafg
-* @cleisonsilfer
-* @mschonfinkel
-* Jessica Temporal (@jtemporal)
-* @beatrizuezu
-* Gustavo Coelho (@gusrabbit)
-* @Lrodlima
-* @rgiovanini
-* @tuliocasagrande
-* @isabelarrsilva
 * @arthurfortes
+* @beatrizuezu
+* @brunopizzio
 * @Caaddss
 * @caiotomazelli
+* @cleisonsilfer
+* @DaniMonteiroDBA
+* @diogoffmelo
+* Eliézer Bourchardt (@eliezerfb)
+* Felipe Iasi (@ficosta)
+* @ficorrea
+* Gabriel César (@gabrielczar)
+* @giovanisleite
+* @Guilhermeslucas
+* Gustavo Coelho (@gusrabbit)
+* @Igorth
+* @isabelarrsilva
+* Jessica Temporal (@jtemporal)
+* Jessica Rodrigues (@jessicatcr)
+* José Ferraz Neto (@zeneto)
+* Júlia Tessler (@juliatessler)
 * @kguidonimartins
+* @lcdez
+* Leticia Portella (@leportella)
+* @llautert
+* @loulix
+* @Lrodlima
+* @ltkills
+* Luan Fernandes (@lgabs)
 * @lucasrcsantana
 * @lucianosb
-* @magusd
-* @ltkills
-* Gabriel César (@gabrielczar)
-* @tramontini
-* José Ferraz Neto (@zeneto)
 * Luiz Nonenmacher (@luiznonenmacher)
-* Felipe Iasi (@ficosta)
-* @brunopizzio
+* @magusd
+* @marcosvafg
+* @mschonfinkel
+* @mvinoba
+* @rgiovanini
 * Rodolfo Ghiggi (@rodolfoghi)
-* @loulix
-* Luan Fernandes (@lgabs)
-* Júlia Tessler (@juliatessler)
-* Jéssica Rodrigues (@jessicatcr)
+* @rougeth
+* @silviodc
+* @tramontini
+* @tuliocasagrande
