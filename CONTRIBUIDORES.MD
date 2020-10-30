@@ -36,8 +36,8 @@
 * @mschonfinkel
 * @mvinoba
 * @rgiovanini
+* Rodolfo Ghiggi (@rodolfoghi)
 * @rougeth
 * @silviodc
 * @tramontini
 * @tuliocasagrande
-* Rodolfo Ghiggi (@rodolfoghi)
