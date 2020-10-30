@@ -38,7 +38,7 @@ Abaixo temos algumas possíveis entradas para a árvore de decisão, representad
 
 ## Banco de Dados Não-Relacional
 
-Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada em: http://nosql-database.org/ Recomenda-se mais estudos em: 1. [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e 2. [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
+Comumente conhecido como NoSQL (Not Only SQL - Não Somente SQL, tradução literal) é um termo genérico para banco de dados não-relacionais, por exemplo, Document Store (MongoDB), Graph Databases (Neo4j), etc. Uma lista desses softwares pode ser encontrada [neste site](http://nosql-database.org/). Recomenda-se mais estudos em: 1. [NoSQL databases overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview) e 2. [Gessert et. al. 2016](https://pdfs.semanticscholar.org/af76/dfc90a8feaf91d5cb8057228897978c0eb77.pdf)
 
 ## Banco de Dados Relacional
 
