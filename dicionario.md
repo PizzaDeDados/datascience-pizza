@@ -160,7 +160,9 @@ ver [Árvore de Decisão](https://github.com/PizzaDeDados/datascience-pizza/blob
 
 ## Distribuição Normal
 
-A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[1](http://leg.ufpr.br/~silvia/CE055/node44.html)
+A distribuição normal é uma das distribuições de probabilidade mais utilizadas para modelar fenômenos naturais devido ao fato de representar o limite de um grande número de distribuições probabilísticas demonstrado pelo [Teorema do Limite Central](#teorema-do-limite-central).
+Em termos simples, a normal emula o comportamento agregado de experiências aleatórias e semelhantes dada uma amostra simples de tamanho grande.[1](https://web.archive.org/web/20170822212659/http://www.fau.usp.br/cursos/graduacao/arq_urbanismo/disciplinas/aut0516/Apostila_2_-_DistribuiCAo_Amostral.pdf) É uma distribuição simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[2](http://leg.ufpr.br/~silvia/CE055/node44.html)
+Sua curva geral pode ser vista em [Curva de Gauss](#curva-de-gauss), e sua curva padronizada pode ser vista na definição de [Curva Normal](#curva-normal).
 
 ## Dropout
 
