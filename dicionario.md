@@ -128,6 +128,11 @@ Assim, podemos ver que o sinal da covariância mostra a tendência na relação 
 
 Ver [Validação Cruzada](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#valida%C3%A7%C3%A3o-cruzada-cross-validation).
 
+## Curva Normal
+
+A Curva Normal Padrão é o caso mais simples de uma [distribuição normal](#distribuição-normal) e também pode ser vista na literatura com o nome de curva normal centrada e reduzida.[1](https://www.springer.com/gp/book/9780792333852) Ela é o caso específico onde a variável aleatória (X) é transformada em uma variável padronizada (Z) que segue a distribuição com valores de média (mu) = 0 e desvio padrão (sigma) = 1.[2](http://leg.ufpr.br/~shimakur/CE701/node36.html)
+Mais detalhes sobre as funções de densidade, distribuição e característica podem ser vistas [aqui](https://pt.wikipedia.org/wiki/Distribui%C3%A7%C3%A3o_normal#Distribui%C3%A7%C3%A3o_normal_padr%C3%A3o).
+
 # D
 
 ## Data Storytelling
