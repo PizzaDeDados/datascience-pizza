@@ -130,7 +130,8 @@ Ver [Validação Cruzada](https://github.com/PizzaDeDados/datascience-pizza/blob
 
 ## Curva Gaussiana
 
-A Curva Gaussiana é uma [distribuição normal](#distribuição-normal), sendo a distribuição mais referenciada quando se fala em distribuições normais. Por isso, muitas vezes existe a confusão entre qual a diferença entre a gaussiana e a [normal](#curva-normal).[1](https://www.quora.com/What-is-the-difference-between-Gaussian-and-normal-distribution#:~:text=A%20gaussian%20and%20normal%20distribution%20is%20the%20same%20in%20statistics%20theory.&text=The%20normal%20distribution%20contains%20the,and%20corresponding%20the%20PDF%20values.) Em termos simples, a gaussiana não sofre padronização Z e pode ser denotada pela equação abaixo:
+A Curva Gaussiana é uma [distribuição normal](#distribuição-normal), sendo a distribuição mais referenciada quando se fala em distribuições normais. Por isso, muitas vezes existe a confusão entre qual a diferença entre a gaussiana e a [normal](#curva-normal).[1](https://www.quora.com/What-is-the-difference-between-Gaussian-and-normal-distribution#:~:text=A%20gaussian%20and%20normal%20distribution%20is%20the%20same%20in%20statistics%20theory.&text=The%20normal%20distribution%20contains%20the,and%20corresponding%20the%20PDF%20values.)
+Em termos simples, a gaussiana não sofre padronização Z e pode ser denotada pela equação abaixo:
 
 ![Equação da curva de densidade de uma gaussiana](https://wikimedia.org/api/rest_v1/media/math/render/svg/362834b765239b64cf7719a3a3a04e172c883e3d)
 
