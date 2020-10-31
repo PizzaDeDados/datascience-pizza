@@ -128,6 +128,12 @@ Assim, podemos ver que o sinal da covariância mostra a tendência na relação 
 
 Ver [Validação Cruzada](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#valida%C3%A7%C3%A3o-cruzada-cross-validation).
 
+## Curva Gaussiana
+
+A Curva Gaussiana é uma [distribuição normal](#distribuição-normal), sendo a distribuição mais referenciada quando se fala em distribuições normais. Por isso, muitas vezes existe a confusão entre qual a diferença entre a gaussiana e a [normal](#curva-normal).[1](https://www.quora.com/What-is-the-difference-between-Gaussian-and-normal-distribution#:~:text=A%20gaussian%20and%20normal%20distribution%20is%20the%20same%20in%20statistics%20theory.&text=The%20normal%20distribution%20contains%20the,and%20corresponding%20the%20PDF%20values.) Em termos simples, a gaussiana não sofre padronização Z e pode ser denotada pela equação abaixo:
+
+![Equação da curva de densidade de uma gaussiana](https://wikimedia.org/api/rest_v1/media/math/render/svg/362834b765239b64cf7719a3a3a04e172c883e3d)
+
 ## Curva Normal
 
 A Curva Normal Padrão é o caso mais simples de uma [distribuição normal](#distribuição-normal) e também pode ser vista na literatura com o nome de curva normal centrada e reduzida.[1](https://www.springer.com/gp/book/9780792333852) Ela é o caso específico onde a variável aleatória (X) é transformada em uma variável padronizada (Z) que segue a distribuição com valores de média (mu) = 0 e desvio padrão (sigma) = 1.[2](http://leg.ufpr.br/~shimakur/CE701/node36.html)
