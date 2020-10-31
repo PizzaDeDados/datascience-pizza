@@ -400,7 +400,7 @@ Uma métrica para modelos de classificação que responde à seguinte pergunta: 
 
 ## ROC (Receiver Operating Characteristics)
 
-ROC é uma curva de probabilidade que denota a razão entre a taxa de verdadeiros positivos e a taxa de falsos positivos e mostra quão bom é o modelo na tarefa de distinguir entre duas saídas. O índice AUC é um valor único que agrega todos os limiares da curva ROC, definindo a área abaixo da curva.[1](https://medium.com/@eam.avelar/o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-2e2c4112033d)
+ROC é uma curva de probabilidade que denota a razão entre a taxa de verdadeiros positivos e a taxa de falsos positivos e mostra quão bom é o modelo na tarefa de distinguir entre duas saídas. O índice [AUC](#auc-area-under-the-curve) é um valor único que agrega todos os limiares da curva ROC, definindo a área abaixo da curva.[1](https://medium.com/@eam.avelar/o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-2e2c4112033d)
 
 # S
 
