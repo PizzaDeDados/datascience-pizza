@@ -39,8 +39,13 @@ Abaixo temos algumas possíveis entradas para a árvore de decisão, representad
 
 ![decision_tree_inputs_outputs](https://image.ibb.co/koz2oe/Screenshot_from_2018_10_06_01_15_57.png)
 
+## AUC (Area Under the Curve)
 
+O índice AUC é um valor único que agrega os limiares da curva [ROC](#roc-receiver-operating-characteristics), definindo a área abaixo da curva.[1](https://medium.com/@eam.avelar/o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-2e2c4112033d)
 
+- Um valor próximo de 1 quer dizer que as distribuições de verdadeiros positivos e verdadeiros negativos quase não se sobrepõe, e o modelo consegue separar bem entre as duas classes;
+- Um valor próximo de 0.5 quer dizer que as distribuições de verdadeiros positivos e verdadeiros negativos se sobrepõe quase totalmente e que o modelo não consegue diferenciar entre as classes;
+- Um valor próximo de 0 quer dizer que as distribuições de verdadeiros positivos e verdadeiros negativos estão totalmente inversas e que o modelo prediz instâncias negativas como positivas e vice-versa.
 
 # B
 
