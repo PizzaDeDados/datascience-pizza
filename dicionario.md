@@ -286,6 +286,13 @@ Existem matrizes que apresentam maior utilidade e possuem um nome diferenciado (
 * Matriz oposta de A é a matriz que se obtém de A, trocando-se o sinal de cada um de seus elementos. Representa-se por -A.
 [1](https://www.resumoescolar.com.br/matematica/matriz-quadrada/) [2](https://en.wikipedia.org/wiki/Matrix_representation)
 
+## Matriz de Confusão
+
+Uma matriz de confusão é uma tabela que te permite visualizar o desempenho de um modelo de classificação por meio de uma comparação dos valores de classificação prevista contra os valores da classificação atual.[1](https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509) Um exemplo de matrix de confusão de um modelo que classifica grávidas e não-grávidas pode ser visto abaixo:
+
+![Matriz de confusão de um modelo que classifica grávidas e não-grávidas](https://miro.medium.com/max/808/1*DYOERtaPlawq2-LDmFK5EA.png)
+
+Com os valores positivos e negativos preditos, e os valores positivos e negativos reais, é possível tirar métricas de avaliação do modelo como [precisão](#precisão) [2](https://en.wikipedia.org/wiki/Precision_and_recall#Precision), [revocação](revocação) [3](https://en.wikipedia.org/wiki/Precision_and_recall#Recall), especificidade [4](https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Specificity), sensitividade [5](https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Sensitivity), acurácia [6](https://en.wikipedia.org/wiki/Accuracy_and_precision), F-score [7](https://en.wikipedia.org/wiki/F-score), dentre outros.
 
 ## Média Móvel
 
