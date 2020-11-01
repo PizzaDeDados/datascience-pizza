@@ -16,6 +16,7 @@
 * Gustavo Coelho (@gusrabbit)
 * @Igorth
 * @isabelarrsilva
+* Izabela Borges (@izabelacborges)
 * Jessica Temporal (@jtemporal)
 * Jessica Rodrigues (@jessicatcr)
 * José Ferraz Neto (@zeneto)

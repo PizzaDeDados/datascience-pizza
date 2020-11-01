@@ -128,6 +128,20 @@ Assim, podemos ver que o sinal da covariância mostra a tendência na relação 
 
 Ver [Validação Cruzada](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#valida%C3%A7%C3%A3o-cruzada-cross-validation).
 
+## Curva de Gauss
+
+A Curva de Gauss, também conhecida como curva de sino, é a representação de uma [distribuição normal](#distribuição-normal), sendo a distribuição mais referenciada quando se fala em distribuições normais. Por isso, muitas vezes existe a confusão entre qual a diferença entre a gaussiana e a [normal](#curva-normal).[1](https://www.quora.com/What-is-the-difference-between-Gaussian-and-normal-distribution#:~:text=A%20gaussian%20and%20normal%20distribution%20is%20the%20same%20in%20statistics%20theory.&text=The%20normal%20distribution%20contains%20the,and%20corresponding%20the%20PDF%20values.)
+
+Em termos simples, a gaussiana não sofre padronização Z e pode ser denotada pela equação abaixo:
+
+![Equação da curva de densidade de uma gaussiana](https://wikimedia.org/api/rest_v1/media/math/render/svg/362834b765239b64cf7719a3a3a04e172c883e3d)
+
+## Curva Normal
+
+A Curva Normal Padrão é o caso mais simples de uma [distribuição normal](#distribuição-normal) e também pode ser vista na literatura com o nome de curva normal centrada e reduzida. Ela é o caso específico onde a variável aleatória (X) é transformada em uma variável padronizada (Z) que segue a distribuição com valores de média (mu) = 0 e desvio padrão (sigma) = 1.[1](http://leg.ufpr.br/~shimakur/CE701/node36.html)
+
+Mais detalhes sobre as funções de densidade, distribuição e característica podem ser vistas [aqui](https://pt.wikipedia.org/wiki/Distribui%C3%A7%C3%A3o_normal#Distribui%C3%A7%C3%A3o_normal_padr%C3%A3o).
+
 # D
 
 ## Data Storytelling
@@ -148,7 +162,11 @@ ver [Árvore de Decisão](https://github.com/PizzaDeDados/datascience-pizza/blob
 
 ## Distribuição Normal
 
-A distribuição normal é simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[1](http://leg.ufpr.br/~silvia/CE055/node44.html)
+A distribuição normal é uma das distribuições de probabilidade mais utilizadas para modelar fenômenos naturais devido ao fato de representar o limite de um grande número de distribuições probabilísticas demonstrado pelo [Teorema do Limite Central](#teorema-do-limite-central).
+
+Em termos simples, a normal emula o comportamento agregado de experiências aleatórias e semelhantes dada uma amostra simples de tamanho grande.[1](https://web.archive.org/web/20170822212659/http://www.fau.usp.br/cursos/graduacao/arq_urbanismo/disciplinas/aut0516/Apostila_2_-_DistribuiCAo_Amostral.pdf) É uma distribuição simétrica em torno da média o que implica que a média, a mediana e a moda são todas coincidentes.[2](http://leg.ufpr.br/~silvia/CE055/node44.html)
+
+Sua curva geral pode ser vista em [Curva de Gauss](#curva-de-gauss), e sua curva padronizada pode ser vista na definição de [Curva Normal](#curva-normal).
 
 ## Dropout
 
