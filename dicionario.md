@@ -402,6 +402,10 @@ quais algoritmos juntos levam ao melhor modelo. (Hastie et. al. 2008).
 
 São sistemas físicos que podem adquirir, armazenar e utilizar conhecimentos experimentais, que podem alcançar uma boa performance, devido à sua densa interconexão entre os nós da rede. (Lippmann, 1997 apud. Fernandes, 2003)
 
+## Regressão
+
+Tarefas de regressão em aprendizado de máquina são aquelas onde o objetivo é atribuir um valor contínuo a uma amostra. Um modelo de regressão é treinado de maneira supervisionada com pares de entradas e saídas, onde a entrada é um vetor de características (ou atributos) e a saída é um ou mais valores contínuos. O modelo final representa uma função que mapeia o conjunto dos dados de entrada em um conjunto de valores reais possíveis de saída. São exemplos de problemas clássicos de regressão: predição do valor de casas com base em suas características (e.g., tamanho do lote, número de quartos, ano de construção) e a predição da produção em um processo químico com base nos compostos (concentração dos reagentes, temperatura, pressão). [Regressão Linear](#regress%C3%A3o-linear) é um exemplo de técnica amplamente utilizada para criar modelos de regressão onde a relação entre os atributos e a saída é linear. Exemplos de métricas de qualidade comuns em modelos de regressão são [MSE](#erro-quadr%C3%A1tico-m%C3%A9dio) e [Coeficiente de Determinação](#coeficiente-de-determina%C3%A7%C3%A3o). (Bishop, 2006)
+
 ## Regressão Linear
 
 Conceitualmente, é uma técnica para analisar dados e encontrar uma formulação matemática linear e explícita que descreva de maneira aproximada o comportamento (a relação) dos dados. Na prática, é encontrar dois coeficientes (linear e angular) que minimizem o erro quadrático entre a função linear resultante e os dados. [1](http://www.mit.edu/~6.s085/notes/lecture3.pdf)
