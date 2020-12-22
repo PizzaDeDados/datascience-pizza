@@ -5,7 +5,7 @@
 --
 
 **DISCLAIMER**: *Este repositório foi feito pela e para a comunidade. Existem opiniões divergentes sobre o que é básico e o que é avançado entre outros temas.
-Caso discorde de alguma coisa que está escrita aqui, fique a vontade para fazer um pull request melhorando as descrições feitas.*
+Caso discorde de alguma coisa que está escrita aqui, fique à vontade para fazer um pull request melhorando as descrições feitas.*
 
 O intuito é  agregar o conhecimento que se espalha em diversos grupos e iniciativas. Muitas vezes esse conhecimento fica espalhado em drives, pockets e outros meios...
 Dessa forma, esse repositório visa ajudar os iniciantes e servir como referência para os experientes.
