@@ -414,6 +414,10 @@ Conceitualmente, é uma técnica para analisar dados e encontrar uma formulaçã
 
 A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [1](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
 
+## Regularização
+
+Regularização é uma técnica para reduzir o problema do [overfit](#overfitting) em modelos de aprendizado de máquina. Existem diferentes formas de regularização e dentre as mais comuns estão a regularização L1 e L2, que adicionam um termo de regularização na função de custo a ser otimizada a fim de reduzir a complexidade do modelo final. A regularização L1 penaliza os pesos do modelo somando os valores absolutos de todos os parâmetros, fazendo features irrelevantes tenderem a um peso 0, enquanto a regularização L2 penaliza pela soma dos quadrados dos parâmetros, evitando que alguma feature tenha um peso muito superior às demais. [Dropout](#dropout) é outro exemplo de técnica de regularização utilizado em redes neurais. (Bishop, 2006)
+
 ## ReLU
 
 Função não-linear de ativação de neurônios numa rede neural artificial[1](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). É definida pela função e forma:
@@ -422,10 +426,6 @@ Função não-linear de ativação de neurônios numa rede neural artificial[1](
 ![ReLU-plot](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rectifier_and_softplus_functions.svg/495px-Rectifier_and_softplus_functions.svg.png)
 
 Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2](https://en.wikipedia.org/wiki/Logistic_function).
-
-## Regularização
-
-Regularização é uma técnica para reduzir o problema do [overfit](#overfitting) em modelos de aprendizado de máquina. Existem diferentes formas de regularização e dentre as mais comuns estão a regularização L1 e L2, que adicionam um termo de regularização na função de custo a ser otimizada a fim de reduzir a complexidade do modelo final. A regularização L1 penaliza os pesos do modelo somando os valores absolutos de todos os parâmetros, fazendo features irrelevantes tenderem a um peso 0, enquanto a regularização L2 penaliza pela soma dos quadrados dos parâmetros, evitando que alguma feature tenha um peso muito superior às demais. [Dropout](#dropout) é outro exemplo de técnica de regularização utilizado em redes neurais. (Bishop, 2006)
 
 ## Revocação (*Recall*)
 
@@ -436,7 +436,7 @@ Uma métrica para modelos de classificação que responde à seguinte pergunta: 
 
 [1](https://developers.google.com/machine-learning/glossary/#recall)
 
-## ROC (Receiver Operating Characteristics)
+## ROC (_Receiver Operating Characteristics_)
 
 ROC é uma curva de probabilidade que denota a razão entre a taxa de verdadeiros positivos e a taxa de falsos positivos e mostra quão bom é o modelo na tarefa de distinguir entre duas saídas. O índice [AUC](#auc-area-under-the-curve) é um valor único que agrega todos os limiares da curva ROC, definindo a área abaixo da curva.[1](https://medium.com/@eam.avelar/o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-2e2c4112033d)
 
