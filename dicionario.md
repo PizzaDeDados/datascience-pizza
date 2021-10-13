@@ -450,7 +450,7 @@ Scala é uma linguagem de programação desenvolvida para expressar padrões de 
 
 A scikit-learn é uma biblioteca de código aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Ela inclui diversos algoritmos de classificação, regressão e agrupamento, tais como [máquinas de vetores de suporte](#support-vector-machine), [florestas aleatórias](#random-forest), gradient boosting, [k-means](#k-means), DBSCAN e muitos outros. Além disso, a biblioteca também oferece técnicas de pré-processamento, seleção de atributos, seleção de modelos, métricas e outros utilitários. [1](http://scikit-learn.org/) [2](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html) [3](http://scikit-learn.org/stable/faq.html#what-is-the-project-name-a-lot-of-people-get-it-wrong)
 
-## Simpson's Paradox(Paradoxo de Simpson)
+## Simpson's Paradox (Paradoxo de Simpson)
 
 Ver [Paradoxo de Simpson](https://github.com/alefjan/datascience-pizza/blob/master/dicionario.md#paradoxo-de-simpson).
 
@@ -464,7 +464,7 @@ Um sistema de recomendação combina técnicas de Recuperação de Informação 
 
 Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
 
-## Support Vector Machine
+## SVM (_Support Vector Machine_)
 
 Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [1](https://en.wikipedia.org/wiki/Support_vector_machine).
 
