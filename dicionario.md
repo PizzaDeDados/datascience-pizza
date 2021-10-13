@@ -95,13 +95,13 @@ A maior vantagem em relação ao histograma é que este gráfico ocupa menos esp
 
 É o tipo de tarefa de aprendizado de máquina em que as entradas são mapeadas em saídas baseadas nos pares examplos de entrada-saída. O desafio enfrentado pelo algoritmo classificador é ajustar uma função que possa separar os exemplos de entrada de forma a maximizar a quantidade de saídas corretas [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning). Uma abstração seria ter como entrada um conjunto de informações a respeito do tecido da mama extraídos da mamografia. A saída neste caso poderia ser tecido normal, tumor maligno ou tumor benigno (podem existir mais categorias). O algoritmo de classificação deve inferir a cerca dos dados de forma a reconhecer o padrão de dados de entrada de forma a determinar a saída que mais se aproxime do parão identificado.
 
-## Clusterização (_Clustering_)
-
-É a classificação não supervisionada de padrões (observações, itens de dados ou classes) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais similares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
-
 ## Clustering
 
 Ver [Clusterização](https://github.com/PizzaDeDados/datascience-pizza/blob/master/dicionario.md#clusteriza%C3%A7%C3%A3o-clustering).
+
+## Clusterização (_Clustering_)
+
+É a classificação não supervisionada de padrões (observações, itens de dados ou classes) em grupos (clusters). Intuitivamente, itens dentro de um cluster válido são mais similares uns aos outros do que itens de outros clusters (Jain et. al, 1999).
 
 ## Coeficiente
 
@@ -360,7 +360,7 @@ Pandas é uma biblioteca Python open source, ela fornece ferramentas de análise
 
 O paradoxo de Simpson é um paradoxo da estatística no qual um conjunto de dados completo aponta em uma direção, mas uma análise de subconjuntos aponta na direção contrária. Este tipo de paradoxo é encontrado frequentemente em análises estatísticas de pesquisas tanto em ciências sociais quanto em ciências médicas e é particularmente problemático quando dados de frequência são interpretados como causais. O paradoxo foi nomeado em memória de Edward Simpson (1922), o primeiro estatístico a popularizá-lo.[Vídeo do Minuto da Física falando sobre o tema](https://www.youtube.com/watch?v=FBsVRJVA0ro) [2](https://pt.wikipedia.org/wiki/Paradoxo_de_Simpson) [3](https://proec.ufabc.edu.br/gec/o-que-que-a-ciencia-tem/paradoxo-de-simpson/)
 
-## PCA 
+## PCA (_Principal Component Analysis_)
 
 É um procedimento matemático que utiliza uma transformação ortogonal (ortogonalização de vetores) para converter um conjunto de observações de variáveis possivelmente correlacionadas em um conjunto de valores de variáveis linearmente não correlacionadas chamadas de componentes principais [1](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_componentes_principais).
 
@@ -414,6 +414,10 @@ Conceitualmente, é uma técnica para analisar dados e encontrar uma formulaçã
 
 A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, a partir de uma série de variáveis explicativas contínuas e/ou binárias. Em comparação com as técnicas conhecidas em regressão, em especial a regressão linear, a regressão logística distingue-se essencialmente pelo facto de a variável resposta ser categórica. Esse algoritmo é comumente usado em problemas de classificação. [1](https://pt.wikipedia.org/wiki/Regress%C3%A3o_log%C3%ADstica).
 
+## Regularização
+
+Regularização é uma técnica para reduzir o problema do [overfit](#overfitting) em modelos de aprendizado de máquina. Existem diferentes formas de regularização e dentre as mais comuns estão a regularização L1 e L2, que adicionam um termo de regularização na função de custo a ser otimizada a fim de reduzir a complexidade do modelo final. A regularização L1 penaliza os pesos do modelo somando os valores absolutos de todos os parâmetros, fazendo features irrelevantes tenderem a um peso 0, enquanto a regularização L2 penaliza pela soma dos quadrados dos parâmetros, evitando que alguma feature tenha um peso muito superior às demais. [Dropout](#dropout) é outro exemplo de técnica de regularização utilizado em redes neurais. (Bishop, 2006)
+
 ## ReLU
 
 Função não-linear de ativação de neurônios numa rede neural artificial[1](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)). É definida pela função e forma:
@@ -422,10 +426,6 @@ Função não-linear de ativação de neurônios numa rede neural artificial[1](
 ![ReLU-plot](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rectifier_and_softplus_functions.svg/495px-Rectifier_and_softplus_functions.svg.png)
 
 Surgiu recentemente como uma eficiente substituição para a função Sigmóid[2](https://en.wikipedia.org/wiki/Logistic_function).
-
-## Regularização
-
-Regularização é uma técnica para reduzir o problema do [overfit](#overfitting) em modelos de aprendizado de máquina. Existem diferentes formas de regularização e dentre as mais comuns estão a regularização L1 e L2, que adicionam um termo de regularização na função de custo a ser otimizada a fim de reduzir a complexidade do modelo final. A regularização L1 penaliza os pesos do modelo somando os valores absolutos de todos os parâmetros, fazendo features irrelevantes tenderem a um peso 0, enquanto a regularização L2 penaliza pela soma dos quadrados dos parâmetros, evitando que alguma feature tenha um peso muito superior às demais. [Dropout](#dropout) é outro exemplo de técnica de regularização utilizado em redes neurais. (Bishop, 2006)
 
 ## Revocação (*Recall*)
 
@@ -436,7 +436,7 @@ Uma métrica para modelos de classificação que responde à seguinte pergunta: 
 
 [1](https://developers.google.com/machine-learning/glossary/#recall)
 
-## ROC (Receiver Operating Characteristics)
+## ROC (_Receiver Operating Characteristics_)
 
 ROC é uma curva de probabilidade que denota a razão entre a taxa de verdadeiros positivos e a taxa de falsos positivos e mostra quão bom é o modelo na tarefa de distinguir entre duas saídas. O índice [AUC](#auc-area-under-the-curve) é um valor único que agrega todos os limiares da curva ROC, definindo a área abaixo da curva.[1](https://medium.com/@eam.avelar/o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-2e2c4112033d)
 
@@ -450,7 +450,7 @@ Scala é uma linguagem de programação desenvolvida para expressar padrões de 
 
 A scikit-learn é uma biblioteca de código aberto muito popular para realizar apredizado de máquina e mineração de dados em Python. Ela inclui diversos algoritmos de classificação, regressão e agrupamento, tais como [máquinas de vetores de suporte](#support-vector-machine), [florestas aleatórias](#random-forest), gradient boosting, [k-means](#k-means), DBSCAN e muitos outros. Além disso, a biblioteca também oferece técnicas de pré-processamento, seleção de atributos, seleção de modelos, métricas e outros utilitários. [1](http://scikit-learn.org/) [2](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html) [3](http://scikit-learn.org/stable/faq.html#what-is-the-project-name-a-lot-of-people-get-it-wrong)
 
-## Simpson's Paradox(Paradoxo de Simpson)
+## Simpson's Paradox (Paradoxo de Simpson)
 
 Ver [Paradoxo de Simpson](https://github.com/alefjan/datascience-pizza/blob/master/dicionario.md#paradoxo-de-simpson).
 
@@ -464,7 +464,7 @@ Um sistema de recomendação combina técnicas de Recuperação de Informação 
 
 Veja mais nesse [link](https://en.wikipedia.org/wiki/Recommender_system).
 
-## Support Vector Machine
+## SVM (_Support Vector Machine_)
 
 Máquina de vetores de suporte (do inglês SVM: support vector machine) é um método de aprendizado supervisionado que, dado um conjunto de treino X, tenta encontrar um hiperplano no espaço vetorial formado pelos exemplos em X que melhor separa os subconjuntos de exemplos definidos pelas classes nesse conjunto (James et. al. 2017). De forma efetiva, o método tenta encontrar uma margem de separação para os exemplos de acordo com as classes informadas. De posse da margem, é possível predizer a classe de um novo exemplo como sendo aquela do conjunto definido pelas margens encontradas durante o treino em que o novo exemplo está inserido. O método pode ser estendido para permitir margens mais ou menos severas (hard vs. soft margin), projeções não lineares em espaços de dimensão superior (kernel trick), predições probabilísticas entre outras [1](https://en.wikipedia.org/wiki/Support_vector_machine).
 
