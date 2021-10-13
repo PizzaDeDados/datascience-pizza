@@ -5,4 +5,4 @@
 <!--- Coisas que você acha que poderiam ser melhores e afins -->
 
 ## Esse código resolve alguma issue?
-<!--- Se sim, indique aqui com `Fix #número-da-issue` ex: `Fix #42` -->
+<!--- Se sim, indique aqui com `Fix #número-da-issue` ou `Close #número-da-issue`. ex: `Fix #42` -->
